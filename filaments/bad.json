@@ -1,0 +1,63 @@
+{
+    "manufacturer": "Polymaker",
+    "filaments": [
+        {
+            "name": "PolySonic™ {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "parameters": {
+                "extruder_temp": 210,
+                "bed_temp": 50
+            },
+            "colors": [
+                {
+                    "name": "White"
+                },
+                {
+                    "name": "Black",
+                    "hex": "#2c3232"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "#a6b3b9"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "#244ba2"
+                },
+                {
+                    "name": "Red",
+                    "hex": "#e3343e"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "#f7dd3c"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "#ef9c50"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "#837ad8"
+                },
+                {
+                    "name": "Teal",
+                    "hex": "#4bc5bc"
+                },
+                {
+                    "name": "Green",
+                    "hex": "#37bc53"
+                }
+            ]
+        }
+    ]
+}
