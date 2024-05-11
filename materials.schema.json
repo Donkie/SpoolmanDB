@@ -1,0 +1,18 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": [
+            "material",
+            "density"
+        ],
+        "properties": {
+            "material": {
+                "type": "string"
+            },
+            "density": {
+                "type": "number"
+            }
+        }
+    }
+}

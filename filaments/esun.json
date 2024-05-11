@@ -1,0 +1,235 @@
+{
+    "manufacturer": "eSun",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA+",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "parameters": {
+                "extruder_temp": 220,
+                "bed_temp": 60
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "#000000"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "#793eb6"
+                },
+                {
+                    "name": "Red",
+                    "hex": "#dc4638"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "#9b9aa2"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "#7cd1f6"
+                },
+                {
+                    "name": "Space Blue",
+                    "hex": "#33aaee"
+                },
+                {
+                    "name": "Very peri",
+                    "hex": "#8683ea"
+                },
+                {
+                    "name": "White",
+                    "hex": "#ffffff"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "#d9aa26"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "#eabca2"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "#1932b3"
+                },
+                {
+                    "name": "Bone White",
+                    "hex": "#e0d7b6"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "#935931"
+                },
+                {
+                    "name": "Cold White",
+                    "hex": "#e2f6f7"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "#232845"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "#952426"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "#f2b01c"
+                },
+                {
+                    "name": "Green",
+                    "hex": "#00101a"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "#606783"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "#169bea"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "#9e744a"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "#e02552"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "#455c40"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "#e47b20"
+                },
+                {
+                    "name": "Peak Green",
+                    "hex": "#46ca43"
+                },
+                {
+                    "name": "Pine Green",
+                    "hex": "#063c22"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "#ef7aa4"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "parameters": {
+                "extruder_temp": 240,
+                "bed_temp": 80
+            },
+            "colors": [
+                {
+                    "name": "Solid Black",
+                    "hex": "#070707"
+                },
+                {
+                    "name": "Solid White",
+                    "hex": "#d4cad2"
+                },
+                {
+                    "name": "Solid Grey",
+                    "hex": "#878696"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "#beb4b5"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "#0d1553"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "#cd9700"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "#c1484f"
+                },
+                {
+                    "name": "Green",
+                    "hex": "#01300e"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "#dc4518"
+                },
+                {
+                    "name": "Solid Red",
+                    "hex": "#d82a33"
+                },
+                {
+                    "name": "Solid Silver",
+                    "hex": "#878286"
+                },
+                {
+                    "name": "Solid Blue",
+                    "hex": "#0f1d5c"
+                },
+                {
+                    "name": "Solid Gold",
+                    "hex": "#e0a000"
+                },
+                {
+                    "name": "Solid Yellow",
+                    "hex": "#e0a000"
+                },
+                {
+                    "name": "Solid Green",
+                    "hex": "#015a44"
+                },
+                {
+                    "name": "Solid Purple",
+                    "hex": "#865d97"
+                },
+                {
+                    "name": "Solid Orange",
+                    "hex": "#ff6924"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "#bd363a"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "#615f6c"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "#3e1750"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "type": "object",
+    "required": [
+        "manufacturer",
+        "filaments"
+    ],
+    "properties": {
+        "manufacturer": {
+            "type": "string"
+        },
+        "filaments": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "material",
+                    "weights",
+                    "diameters",
+                    "colors"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "pattern": "{"
+                    },
+                    "material": {
+                        "type": "string"
+                    },
+                    "density": {
+                        "type": "number"
+                    },
+                    "weights": {
+                        "type": "array",
+                        "minItems": 1,
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "weight"
+                            ],
+                            "properties": {
+                                "weight": {
+                                    "type": "number"
+                                },
+                                "spool_weight": {
+                                    "type": "number"
+                                }
+                            }
+                        }
+                    },
+                    "diameters": {
+                        "type": "array",
+                        "minItems": 1,
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "number"
+                        }
+                    },
+                    "parameters": {
+                        "type": "object",
+                        "required": [],
+                        "properties": {
+                            "extruder_temp": {
+                                "type": "number"
+                            },
+                            "bed_temp": {
+                                "type": "number"
+                            }
+                        }
+                    },
+                    "colors": {
+                        "type": "array",
+                        "minItems": 1,
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "name",
+                                "hex"
+                            ],
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "hex": {
+                                    "type": "string",
+                                    "pattern": "^#[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

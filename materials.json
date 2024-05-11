@@ -1,0 +1,66 @@
+[
+    {
+        "material": "PLA",
+        "density": 1.24
+    },
+    {
+        "material": "ABS",
+        "density": 1.04
+    },
+    {
+        "material": "PETG",
+        "density": 1.27
+    },
+    {
+        "material": "Nylon",
+        "density": 1.52
+    },
+    {
+        "material": "Flexible (TPU)",
+        "density": 1.21
+    },
+    {
+        "material": "Polycarbonate (PC)",
+        "density": 1.3
+    },
+    {
+        "material": "Wood",
+        "density": 1.28
+    },
+    {
+        "material": "Carbon FIber",
+        "density": 1.3
+    },
+    {
+        "material": "PC/ABS",
+        "density": 1.19
+    },
+    {
+        "material": "HIPS",
+        "density": 1.03
+    },
+    {
+        "material": "PVA",
+        "density": 1.23
+    },
+    {
+        "material": "ASA",
+        "density": 1.05
+    },
+    {
+        "material": "Polypropylene (PP)",
+        "density": 0.9
+    },
+    {
+        "material": "Acetal (POM)",
+        "density": 1.4
+    },
+    {
+        "material": "PMMA",
+        "density": 1.18
+    },
+    {
+        "material": "Semi flexible (FPE)",
+        "density": 2.16
+    }
+]
