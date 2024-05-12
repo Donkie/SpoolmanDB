@@ -30,7 +30,8 @@
                         "type": "string"
                     },
                     "density": {
-                        "type": "number"
+                        "type": "number",
+                        "exclusiveMinimum": 0
                     },
                     "weights": {
                         "type": "array",
@@ -43,10 +44,12 @@
                             ],
                             "properties": {
                                 "weight": {
-                                    "type": "number"
+                                    "type": "number",
+                                    "minimum": 0
                                 },
                                 "spool_weight": {
-                                    "type": "number"
+                                    "type": "number",
+                                    "minimum": 0
                                 }
                             }
                         }
@@ -56,14 +59,15 @@
                         "minItems": 1,
                         "uniqueItems": true,
                         "items": {
-                            "type": "number"
+                            "type": "number",
+                            "exclusiveMinimum": 0
                         }
                     },
                     "extruder_temp": {
-                        "type": "number"
+                        "type": "integer"
                     },
                     "bed_temp": {
-                        "type": "number"
+                        "type": "integer"
                     },
                     "colors": {
                         "type": "array",
