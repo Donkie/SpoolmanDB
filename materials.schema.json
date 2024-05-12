@@ -13,6 +13,12 @@
             "density": {
                 "type": "number",
                 "exclusiveMinimum": 0
+            },
+            "extruder_temp": {
+                "type": "integer"
+            },
+            "bed_temp": {
+                "type": "integer"
             }
         }
     }

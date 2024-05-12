@@ -1,7 +1,9 @@
 [
     {
         "material": "PLA",
-        "density": 1.24
+        "density": 1.24,
+        "extruder_temp": 210,
+        "bed_temp": 50
     },
     {
         "material": "ABS",
