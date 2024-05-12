@@ -16,6 +16,7 @@
                 "type": "object",
                 "required": [
                     "name",
+                    "density",
                     "material",
                     "weights",
                     "diameters",
