@@ -14,10 +14,8 @@
             "diameters": [
                 1.75
             ],
-            "parameters": {
-                "extruder_temp": 210,
-                "bed_temp": 50
-            },
+            "extruder_temp": 210,
+            "bed_temp": 50,
             "colors": [
                 {
                     "name": "White",

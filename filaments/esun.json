@@ -15,10 +15,8 @@
                 1.75,
                 2.85
             ],
-            "parameters": {
-                "extruder_temp": 220,
-                "bed_temp": 60
-            },
+            "extruder_temp": 220,
+            "bed_temp": 60,
             "colors": [
                 {
                     "name": "Black",
@@ -144,10 +142,8 @@
                 1.75,
                 2.85
             ],
-            "parameters": {
-                "extruder_temp": 240,
-                "bed_temp": 80
-            },
+            "extruder_temp": 240,
+            "bed_temp": 80,
             "colors": [
                 {
                     "name": "Solid Black",

@@ -59,17 +59,11 @@
                             "type": "number"
                         }
                     },
-                    "parameters": {
-                        "type": "object",
-                        "required": [],
-                        "properties": {
-                            "extruder_temp": {
-                                "type": "number"
-                            },
-                            "bed_temp": {
-                                "type": "number"
-                            }
-                        }
+                    "extruder_temp": {
+                        "type": "number"
+                    },
+                    "bed_temp": {
+                        "type": "number"
                     },
                     "colors": {
                         "type": "array",

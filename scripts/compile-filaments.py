@@ -22,15 +22,16 @@ def expand_filament_data(manufacturer: str, data: dict) -> Iterator[dict]:
     """Expands the given filament data by generating multiple filament objects based on the weights, diameters, and colors."""
     name: str = data["name"]
     material: str = data["material"]
-    density: float = data["density"]
+    density: float = data.get("density", None)
     weights: list[dict] = data["weights"]
     diameters: list[float] = data["diameters"]
-    parameters: dict = data["parameters"]
     colors: list[dict] = data["colors"]
+    extruder_temp: int = data.get("extruder_temp", None)
+    bed_temp: int = data.get("bed_temp", None)
 
     for weight_obj in weights:
         weight = weight_obj["weight"]
-        spool_weight = weight_obj["spool_weight"]
+        spool_weight = weight_obj.get("spool_weight", None)
 
         for diameter in diameters:
             for color_obj in colors:
@@ -51,7 +52,8 @@ def expand_filament_data(manufacturer: str, data: dict) -> Iterator[dict]:
                     "spool_weight": spool_weight,
                     "diameter": diameter,
                     "color_hex": color_hex,
-                    "parameters": parameters,
+                    "extruder_temp": extruder_temp,
+                    "bed_temp": bed_temp,
                 }
 
 
