@@ -19,43 +19,43 @@
             "colors": [
                 {
                     "name": "White",
-                    "hex": "#eaece7"
+                    "hex": "eaece7"
                 },
                 {
                     "name": "Black",
-                    "hex": "#2c3232"
+                    "hex": "2c3232"
                 },
                 {
                     "name": "Grey",
-                    "hex": "#a6b3b9"
+                    "hex": "a6b3b9"
                 },
                 {
                     "name": "Blue",
-                    "hex": "#244ba2"
+                    "hex": "244ba2"
                 },
                 {
                     "name": "Red",
-                    "hex": "#e3343e"
+                    "hex": "e3343e"
                 },
                 {
                     "name": "Yellow",
-                    "hex": "#f7dd3c"
+                    "hex": "f7dd3c"
                 },
                 {
                     "name": "Orange",
-                    "hex": "#ef9c50"
+                    "hex": "ef9c50"
                 },
                 {
                     "name": "Purple",
-                    "hex": "#837ad8"
+                    "hex": "837ad8"
                 },
                 {
                     "name": "Teal",
-                    "hex": "#4bc5bc"
+                    "hex": "4bc5bc"
                 },
                 {
                     "name": "Green",
-                    "hex": "#37bc53"
+                    "hex": "37bc53"
                 }
             ]
         }
