@@ -1,0 +1,139 @@
+{
+    "manufacturer": "Jayo",
+    "filaments": [
+        {
+            "name": "Jayo {color_name}",
+            "material": "PLA+",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1100.0,
+                    "spool_weight": 120.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Green",
+                    "hex": "49FF6E"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F24045"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "E4AB00"
+                },
+                {
+                    "name": "Grey-Blue",
+                    "hex": "5683FD"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FC9036"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "1241CD"
+                },
+                {
+                    "name": "Gras-Green",
+                    "hex": "2DADA2"
+                },
+                {
+                    "name": "Wood",
+                    "hex": "CAAB89"
+                },
+                {
+                    "name": "White Transparent",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gold Silk",
+                    "hex": "FFF63F"
+                },
+                {
+                    "name": "Blue Silk",
+                    "hex": "49CCFF"
+                }
+            ]
+        },
+        {
+            "name": "Jayo {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1100.0,
+                    "spool_weight": 120.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Olive green",
+                    "hex": "6A845B"
+                },
+                {
+                    "name": "Matte Pink",
+                    "hex": "F9C9D1"
+                },
+                {
+                    "name": "Matte Purple",
+                    "hex": "B272C9"
+                },
+                {
+                    "name": "Matte Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Jayo {color_name}",
+            "material": "PETG",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1100.0,
+                    "spool_weight": 120.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "656565"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F2552A"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "manufacturer": "Overture",
+    "filaments": [
+        {
+            "name": "Overture {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Marble",
+                    "hex": "ACA9A6"
+                }
+            ]
+        }
+    ]
+}
