@@ -1,0 +1,63 @@
+{
+    "filaments": [
+        {
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "hex": "000000",
+                    "name": "Black"
+                },
+                {
+                    "hex": "ffffff",
+                    "name": "White"
+                },
+                {
+                    "hex": "5683FD",
+                    "name": "Blue gray"
+                },
+                {
+                    "hex": "464442",
+                    "name": "Gray"
+                },
+                {
+                    "hex": "6A00EE",
+                    "name": "Violet transparent"
+                },
+                {
+                    "hex": "D6BC0D",
+                    "name": "Yellow transparent"
+                },
+                {
+                    "hex": "1241CD",
+                    "name": "Blue"
+                },
+                {
+                    "hex": "49FF6E",
+                    "name": "Green"
+                },
+                {
+                    "hex": "F24045",
+                    "name": "Red"
+                },
+                {
+                    "hex": "FC9036",
+                    "name": "Orange"
+                }
+            ],
+            "density": 1.23,
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "material": "PLA+",
+            "name": "{color_name}",
+            "weights": [
+                {
+                    "spool_weight": 120,
+                    "weight": 1100
+                }
+            ]
+        }
+    ],
+    "manufacturer": "Jayo"
+}
