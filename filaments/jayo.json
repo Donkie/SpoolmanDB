@@ -44,11 +44,11 @@
                     "name": "Orange"
                 }
             ],
-            "density": 1.23,
+            "density": 1.24,
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
             "material": "PLA+",
             "name": "{color_name}",
             "weights": [
