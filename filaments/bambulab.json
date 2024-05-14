@@ -278,6 +278,112 @@
                     "hex": "FF9D5B"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 70,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Nature",
+                    "hex": "F9F7F2"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "9EA2A2"
+                },
+                {
+                    "name": "Blue Gray",
+                    "hex": "688197"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "B28B33"
+                },
+                {
+                    "name": "Red",
+                    "hex": "D6001C"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF671F"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FCE300"
+                },
+                {
+                    "name": "Lime Green",
+                    "hex": "7CD82B"
+                },
+                {
+                    "name": "Green",
+                    "hex": "009639"
+                },
+                {
+                    "name": "Lake Blue",
+                    "hex": "0069B1"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "001489"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "9E007E"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Translucent Gray",
+                    "hex": "8E8E8E"
+                },
+                {
+                    "name": "Translucent Light Blue",
+                    "hex": "61B0FF"
+                },
+                {
+                    "name": "Translucent Olive",
+                    "hex": "748C45"
+                },
+                {
+                    "name": "Translucent Brown",
+                    "hex": "C9A381"
+                },
+                {
+                    "name": "Translucent Teal",
+                    "hex": "77EDD7"
+                },
+                {
+                    "name": "Translucent Orange",
+                    "hex": "FF911A"
+                },
+                {
+                    "name": "Translucent Purple",
+                    "hex": "D6ABFF"
+                },
+                {
+                    "name": "Translucent Pink",
+                    "hex": "F9C1BD"
+                }
+            ]
         }
     ]
 }
