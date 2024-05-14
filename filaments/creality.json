@@ -2,7 +2,7 @@
     "manufacturer": "Creality",
     "filaments": [
         {
-            "name": "{color_name}",
+            "name": "{color_name} Hyper",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -18,11 +18,11 @@
             "bed_temp": 60,
             "colors": [
                 {
-                    "name": "Hyper - White",
+                    "name": "White",
                     "hex": "FFFFFF"
                 },
                 {
-                    "name": "Hyper - Grey",
+                    "name": "Grey",
                     "hex": "AAA9A8"
                 }
             ]
