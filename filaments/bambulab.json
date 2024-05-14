@@ -1,0 +1,168 @@
+{
+    "manufacturer": "Bambu Lab",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Jade White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "F7E6DE"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "E4BD68"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "A6A9AA"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "8E9089"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "847D48"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "9D432C"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C12E1F"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "EC008C"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "F55A74"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF6A13"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F4EE2A"
+                },
+                {
+                    "name": "Bambu Green",
+                    "hex": "00AE42"
+                },
+                {
+                    "name": "Mistletoe Green",
+                    "hex": "3F8E43"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "0086D6"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0A2989"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "5E43B7"
+                },
+                {
+                    "name": "Blue Gray",
+                    "hex": "5B6579"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Latte Brown",
+                    "hex": "D3B7A7"
+                },
+                {
+                    "name": "Desert Tan",
+                    "hex": "E8DBB7"
+                },
+                {
+                    "name": "Ash Gray",
+                    "hex": "9B9EA0"
+                },
+                {
+                    "name": "Lilac Purple",
+                    "hex": "AE96D4"
+                },
+                {
+                    "name": "Sakura Pink",
+                    "hex": "E8AFCF"
+                },
+                {
+                    "name": "Mandarin Orange",
+                    "hex": "F99963"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "F7D959"
+                },
+                {
+                    "name": "Scarlet Red",
+                    "hex": "DE4343"
+                },
+                {
+                    "name": "Dark Red",
+                    "hex": "BB3D43"
+                },
+                {
+                    "name": "Dark Brown",
+                    "hex": "7D6556"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "68724D"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "61C680"
+                },
+                {
+                    "name": "Ice Blue",
+                    "hex": "A3D8E1"
+                },
+                {
+                    "name": "Marine Blue",
+                    "hex": "0078BF"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "042F56"
+                },
+                {
+                    "name": "Charcoal",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
