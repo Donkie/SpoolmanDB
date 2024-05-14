@@ -161,6 +161,122 @@
                 {
                     "name": "Charcoal",
                     "hex": "000000"
+                },
+                {
+                    "name": "Silk White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Silk Silver",
+                    "hex": "EAECEB"
+                },
+                {
+                    "name": "Silk Pink",
+                    "hex": "EEB1C1"
+                },
+                {
+                    "name": "Silk Green",
+                    "hex": "4CE4A0"
+                },
+                {
+                    "name": "Silk Gold",
+                    "hex": "E5B03D"
+                },
+                {
+                    "name": "Silk Blue",
+                    "hex": "147BD1"
+                },
+                {
+                    "name": "Silk Purple",
+                    "hex": "854CE4"
+                },
+                {
+                    "name": "Silk Copper",
+                    "hex": "5E4B3C"
+                },
+                {
+                    "name": "Iridium Gold Metallic",
+                    "hex": "B39B84"
+                },
+                {
+                    "name": "Copper Brown Metallic",
+                    "hex": "AA6443"
+                },
+                {
+                    "name": "Oxide Green Metallic",
+                    "hex": "1D7C6A"
+                },
+                {
+                    "name": "Cobalt Blue Metallic",
+                    "hex": "39699E"
+                },
+                {
+                    "name": "Iron Gray Metallic",
+                    "hex": "43403D"
+                },
+                {
+                    "name": "Brown Galaxy",
+                    "hex": "684A43"
+                },
+                {
+                    "name": "Green Galaxy",
+                    "hex": "3B665E"
+                },
+                {
+                    "name": "Nebulae Galaxy",
+                    "hex": "424379"
+                },
+                {
+                    "name": "Purple Galaxy",
+                    "hex": "594177"
+                },
+                {
+                    "name": "Slate Gray Sparkle",
+                    "hex": "8E9089"
+                },
+                {
+                    "name": "Crimson Red Sparkle",
+                    "hex": "792B36"
+                },
+                {
+                    "name": "Royal Purple Sparkle",
+                    "hex": "483D8B"
+                },
+                {
+                    "name": "Alpine Green Sparkle",
+                    "hex": "3F5443"
+                },
+                {
+                    "name": "Onyx Black Sparkle",
+                    "hex": "2D2B28"
+                },
+                {
+                    "name": "White Marble",
+                    "hex": "F7F3F0"
+                },
+                {
+                    "name": "Red Granite",
+                    "hex": "AD4E38"
+                },
+                {
+                    "name": "Glow Green",
+                    "hex": "A1FFAC"
+                },
+                {
+                    "name": "Glow Yellow",
+                    "hex": "F8FF80"
+                },
+                {
+                    "name": "Glow Pink",
+                    "hex": "F17B8F"
+                },
+                {
+                    "name": "Glow Blue",
+                    "hex": "7AC0E9"
+                },
+                {
+                    "name": "Glow Orange",
+                    "hex": "FF9D5B"
                 }
             ]
         }
