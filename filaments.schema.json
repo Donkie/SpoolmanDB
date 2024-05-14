@@ -70,6 +70,20 @@
                     "bed_temp": {
                         "type": "integer"
                     },
+                    "finish": {
+                        "enum": [
+                            null,
+                            "matte",
+                            "glossy"
+                        ]
+                    },
+                    "multi_color_direction": {
+                        "enum": [
+                            null,
+                            "coaxial",
+                            "longitudinal"
+                        ]
+                    },
                     "colors": {
                         "type": "array",
                         "minItems": 1,
@@ -85,8 +99,21 @@
                                     "type": "string"
                                 },
                                 "hex": {
-                                    "type": "string",
-                                    "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+                                    "anyOf": [
+                                        {
+                                            "type": "string",
+                                            "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+                                        },
+                                        {
+                                            "type": "array",
+                                            "minItems": 2,
+                                            "uniqueItems": true,
+                                            "items": {
+                                                "type": "string",
+                                                "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+                                            }
+                                        }
+                                    ]
                                 }
                             }
                         }

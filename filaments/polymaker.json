@@ -58,6 +58,89 @@
                     "hex": "37bc53"
                 }
             ]
+        },
+        {
+            "name": "PolyLite™ Dual Silk {color_name}",
+            "material": "PLA",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "finish": "glossy",
+            "multi_color_direction": "coaxial",
+            "colors": [
+                {
+                    "name": "Aubergine",
+                    "hex": [
+                        "acda34",
+                        "aa008b"
+                    ]
+                },
+                {
+                    "name": "Beluga",
+                    "hex": [
+                        "b1c1d5",
+                        "2d7ece"
+                    ]
+                },
+                {
+                    "name": "Chameleon",
+                    "hex": [
+                        "f5f034",
+                        "2d7ece"
+                    ]
+                },
+                {
+                    "name": "Caribbean",
+                    "hex": [
+                        "2d7ece",
+                        "31ad85"
+                    ]
+                },
+                {
+                    "name": "Crown",
+                    "hex": [
+                        "f3cd46",
+                        "b2c1d5"
+                    ]
+                },
+                {
+                    "name": "Sovereign",
+                    "hex": [
+                        "f3cd46",
+                        "4b3599"
+                    ]
+                },
+                {
+                    "name": "Banquet",
+                    "hex": [
+                        "f3cd47",
+                        "aa008b"
+                    ]
+                },
+                {
+                    "name": "Jadeite",
+                    "hex": [
+                        "31ae85",
+                        "565f69"
+                    ]
+                },
+                {
+                    "name": "Sunset",
+                    "hex": [
+                        "f3cd46",
+                        "c4000b"
+                    ]
+                }
+            ]
         }
     ]
 }
