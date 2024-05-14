@@ -12,8 +12,7 @@
                 }
             ],
             "diameters": [
-                1.75,
-                2.85
+                1.75
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
