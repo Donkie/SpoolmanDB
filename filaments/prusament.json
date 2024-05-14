@@ -1,0 +1,27 @@
+{
+    "manufacturer": "Prusament",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Anthracite",
+                    "hex": "3F4647"
+                }
+            ]
+        }
+    ]
+}
