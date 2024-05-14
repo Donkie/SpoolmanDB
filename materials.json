@@ -6,6 +6,12 @@
         "bed_temp": 50
     },
     {
+        "material": "PLA+",
+        "density": 1.24,
+        "extruder_temp": 210,
+        "bed_temp": 60
+    },
+    {
         "material": "ABS",
         "density": 1.04
     },
