@@ -70,6 +70,20 @@
                     "bed_temp": {
                         "type": "integer"
                     },
+                    "finish": {
+                        "enum": [
+                            null,
+                            "matte",
+                            "glossy"
+                        ]
+                    },
+                    "multi_color_direction": {
+                        "enum": [
+                            null,
+                            "coaxial",
+                            "longitudinal"
+                        ]
+                    },
                     "colors": {
                         "type": "array",
                         "minItems": 1,
