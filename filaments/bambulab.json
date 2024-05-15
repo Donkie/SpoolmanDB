@@ -415,6 +415,73 @@
         },
         {
             "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 40,
+            "multi_color_direction": "longitudinal",
+            "colors": [
+                {
+                    "name": "Arctic Whisper",
+                    "hex": [ "9CDBD9", "FFFFF" ]
+                },
+                {
+                    "name": "Solar Breeze",
+                    "hex": [ "E94B3C", "FFFFFF" ]
+                },
+                {
+                    "name": "Ocean to Meadow",
+                    "hex": [ "307FE2", "54FF9B" ]
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.32,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 40,
+            "multi_color_direction": "coaxial",
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Midnight Blaze (Blue-Red)",
+                    "hex": [ "0047BB", "7D1B49" ]
+                },
+                {
+                    "name": "Neon City (Blue-Magenta)",
+                    "hex": [ "0047BB", "BB22A3" ]
+                },
+                {
+                    "name": "Gilded Rose (Pink-Gold)",
+                    "hex": [ "FF9425", "FCA2BF" ]
+                },
+                {
+                    "name": "Blue Hawaii (Blue-Green)",
+                    "hex": [ "60A4E8", "4CE4A0" ]
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.25,
             "weights": [
