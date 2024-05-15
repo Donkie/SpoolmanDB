@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "Matte {color_name}",
             "material": "PLA",
             "density": 1.31,
             "weights": [
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "Silk {color_name}",
             "material": "PLA",
             "density": 1.32,
             "weights": [
@@ -200,35 +200,35 @@
             "finish": "glossy",
             "colors": [
                 {
-                    "name": "Silk White",
+                    "name": "White",
                     "hex": "FFFFFF"
                 },
                 {
-                    "name": "Silk Silver",
+                    "name": "Silver",
                     "hex": "EAECEB"
                 },
                 {
-                    "name": "Silk Pink",
+                    "name": "Pink",
                     "hex": "EEB1C1"
                 },
                 {
-                    "name": "Silk Green",
+                    "name": "Green",
                     "hex": "4CE4A0"
                 },
                 {
-                    "name": "Silk Gold",
+                    "name": "Gold",
                     "hex": "E5B03D"
                 },
                 {
-                    "name": "Silk Blue",
+                    "name": "Blue",
                     "hex": "147BD1"
                 },
                 {
-                    "name": "Silk Purple",
+                    "name": "Purple",
                     "hex": "854CE4"
                 },
                 {
-                    "name": "Silk Copper",
+                    "name": "Copper",
                     "hex": "5E4B3C"
                 }
             ]
