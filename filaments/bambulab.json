@@ -92,7 +92,26 @@
                 {
                     "name": "Black",
                     "hex": "000000"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "finish": "matte",
+            "colors": [
                 {
                     "name": "Ivory White",
                     "hex": "FFFFFF"
@@ -160,7 +179,26 @@
                 {
                     "name": "Charcoal",
                     "hex": "000000"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.32,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "finish": "glossy",
+            "colors": [
                 {
                     "name": "Silk White",
                     "hex": "FFFFFF"
@@ -192,7 +230,26 @@
                 {
                     "name": "Silk Copper",
                     "hex": "5E4B3C"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "finish": "glossy",
+            "colors": [
                 {
                     "name": "Iridium Gold Metallic",
                     "hex": "B39B84"
@@ -212,7 +269,25 @@
                 {
                     "name": "Iron Gray Metallic",
                     "hex": "43403D"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
                 {
                     "name": "Brown Galaxy",
                     "hex": "684A43"
@@ -228,7 +303,25 @@
                 {
                     "name": "Purple Galaxy",
                     "hex": "594177"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
                 {
                     "name": "Slate Gray Sparkle",
                     "hex": "8E9089"
@@ -248,7 +341,25 @@
                 {
                     "name": "Onyx Black Sparkle",
                     "hex": "2D2B28"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
                 {
                     "name": "White Marble",
                     "hex": "F7F3F0"
@@ -256,7 +367,25 @@
                 {
                     "name": "Red Granite",
                     "hex": "AD4E38"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
                 {
                     "name": "Glow Green",
                     "hex": "A1FFAC"
