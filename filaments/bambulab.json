@@ -234,7 +234,7 @@
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "{color_name} Metallic",
             "material": "PLA",
             "density": 1.25,
             "weights": [
@@ -251,29 +251,29 @@
             "finish": "glossy",
             "colors": [
                 {
-                    "name": "Iridium Gold Metallic",
+                    "name": "Iridium Gold",
                     "hex": "B39B84"
                 },
                 {
-                    "name": "Copper Brown Metallic",
+                    "name": "Copper Brown",
                     "hex": "AA6443"
                 },
                 {
-                    "name": "Oxide Green Metallic",
+                    "name": "Oxide Green",
                     "hex": "1D7C6A"
                 },
                 {
-                    "name": "Cobalt Blue Metallic",
+                    "name": "Cobalt Blue",
                     "hex": "39699E"
                 },
                 {
-                    "name": "Iron Gray Metallic",
+                    "name": "Iron Gray",
                     "hex": "43403D"
                 }
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "{color_name} Galaxy",
             "material": "PLA",
             "density": 1.19,
             "weights": [
@@ -291,25 +291,25 @@
             "pattern": "sparkle",
             "colors": [
                 {
-                    "name": "Brown Galaxy",
+                    "name": "Brown",
                     "hex": "684A43"
                 },
                 {
-                    "name": "Green Galaxy",
+                    "name": "Green",
                     "hex": "3B665E"
                 },
                 {
-                    "name": "Nebulae Galaxy",
+                    "name": "Nebulae",
                     "hex": "424379"
                 },
                 {
-                    "name": "Purple Galaxy",
+                    "name": "Purple",
                     "hex": "594177"
                 }
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "{color_name} Sparkle",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -326,23 +326,23 @@
             "pattern": "sparkle",
             "colors": [
                 {
-                    "name": "Slate Gray Sparkle",
+                    "name": "Slate Gray",
                     "hex": "8E9089"
                 },
                 {
-                    "name": "Crimson Red Sparkle",
+                    "name": "Crimson Red",
                     "hex": "792B36"
                 },
                 {
-                    "name": "Royal Purple Sparkle",
+                    "name": "Royal Purple",
                     "hex": "483D8B"
                 },
                 {
-                    "name": "Alpine Green Sparkle",
+                    "name": "Alpine Green",
                     "hex": "3F5443"
                 },
                 {
-                    "name": "Onyx Black Sparkle",
+                    "name": "Onyx Black",
                     "hex": "2D2B28"
                 }
             ]
@@ -375,7 +375,7 @@
             ]
         },
         {
-            "name": "{color_name}",
+            "name": "Glow {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -392,23 +392,23 @@
             "glow": true,
             "colors": [
                 {
-                    "name": "Glow Green",
+                    "name": "Green",
                     "hex": "A1FFAC"
                 },
                 {
-                    "name": "Glow Yellow",
+                    "name": "Yellow",
                     "hex": "F8FF80"
                 },
                 {
-                    "name": "Glow Pink",
+                    "name": "Pink",
                     "hex": "F17B8F"
                 },
                 {
-                    "name": "Glow Blue",
+                    "name": "Blue",
                     "hex": "7AC0E9"
                 },
                 {
-                    "name": "Glow Orange",
+                    "name": "Orange",
                     "hex": "FF9D5B"
                 }
             ]
