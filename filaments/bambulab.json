@@ -602,6 +602,10 @@
                 {
                     "name": "Translucent Pink",
                     "hex": "F9C1BD"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF"
                 }
             ]
         }
