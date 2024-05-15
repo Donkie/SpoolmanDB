@@ -51,6 +51,15 @@
                                 "spool_weight": {
                                     "type": "number",
                                     "minimum": 0
+                                },
+                                "spool_type": {
+                                    "$comment": "Material of the spool itself.",
+                                    "enum": [
+                                        null,
+                                        "plastic",
+                                        "cardboard",
+                                        "metal"
+                                    ]
                                 }
                             }
                         }
