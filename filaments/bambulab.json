@@ -287,6 +287,8 @@
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
+            "finish" : "glossy",
+            "pattern": "sparkle",
             "colors": [
                 {
                     "name": "Brown Galaxy",
@@ -321,6 +323,7 @@
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
+            "pattern": "sparkle",
             "colors": [
                 {
                     "name": "Slate Gray Sparkle",
@@ -359,6 +362,7 @@
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
+            "pattern": "marble",
             "colors": [
                 {
                     "name": "White Marble",
@@ -385,6 +389,7 @@
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
+            "glow": true,
             "colors": [
                 {
                     "name": "Glow Green",
@@ -479,7 +484,26 @@
                 {
                     "name": "Black",
                     "hex": "000000"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 70,
+            "translucent": true,
+            "colors": [
                 {
                     "name": "Translucent Gray",
                     "hex": "8E8E8E"
