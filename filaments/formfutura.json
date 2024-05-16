@@ -12,9 +12,9 @@
                     "spool_weight": 130.0
                 },
                 {
-                    "weight": 1000.0,
+                    "weight": 750.0,
                     "spool_type": "cardboard",
-                    "spool_weight": 210.0
+                    "spool_weight": 160.0
                 },
                 {
                     "weight": 2300.0,
