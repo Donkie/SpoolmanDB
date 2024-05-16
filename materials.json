@@ -20,15 +20,15 @@
         "density": 1.27
     },
     {
-        "material": "PA (Nylon)",
+        "material": "Nylon",
         "density": 1.52
     },
     {
-        "material": "TPU (Flexible)",
+        "material": "Flexible (TPU)",
         "density": 1.21
     },
     {
-        "material": "PC (Polycarbonate)",
+        "material": "Polycarbonate (PC)",
         "density": 1.3
     },
     {
@@ -56,11 +56,11 @@
         "density": 1.05
     },
     {
-        "material": "PP (Polypropylene)",
+        "material": "Polypropylene (PP)",
         "density": 0.9
     },
     {
-        "material": "POM (Delrin)",
+        "material": "Acetal (POM)",
         "density": 1.4
     },
     {
@@ -68,7 +68,7 @@
         "density": 1.18
     },
     {
-        "material": "FPE (Semi-flexible)",
+        "material": "Semi flexible (FPE)",
         "density": 2.16
     },
     {
