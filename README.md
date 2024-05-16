@@ -15,12 +15,15 @@ entries or you can split up the filament object into multiple ones.
  * **name** - The product name. Should probably contain the format code `{color_name}` to automatically insert the color name.
  * **material** - The material name, e.g. PLA.
  * **density** - The density of the material in g/cm3.
- * **weights** - An array of objects with `weight` and `spool_weight` fields. Specify multiple here if the manufacturer sells the filament in e.g. 1 kg and 5 kg spools. `spool_weight` is optional but recommended.
+ * **weights** - An array of objects with `weight`, `spool_weight` and `spool_type` fields. Specify multiple here if the manufacturer sells the filament in e.g. 1 kg and 5 kg spools. `spool_weight` is optional but recommended. `spool_type` is optional and can be any of "plastic", "cardboard" or "metal".
  * **diameters** - An array of diameters in mm. Specify multiple here if the manufacturer sells the filament in both e.g. 1.75 and 2.85 mm diameters.
  * **extruder_temp** *(optional)* - Manufacturer recommended extruder temperature in °C.
  * **bed_temp** *(optional)* - Manufacturer recommended bed temperature in °C.
  * **finish** *(optional)* - The finish of the filament, e.g. "matte" or "glossy". Only set this if the filament is designed with this in mind.
  * **multi_color_direction** *(optional)* - The direction of the multi-color filament, e.g. "coaxial" for a split/dual color filament, or "longitudinal" for a filament that changes color along its length.
+ * **pattern** *(optional)* - Textured pattern, either "marble" or "sparkle" is currently supported. Feel free to add additional ones in the schema if necessary.
+ * **translucent** *(optional)* - Boolean true/false if this filament is at least partially see-through.
+ * **glow** *(optional)* - Boolean true/false if this filament has a glow-in-the-dark effect.
  * **colors** - An array of objects with `name` and `hex` fields. Name should be what the manufacturer calls it. Hex should be the hex code of the color, can include an alpha channel if it's a transparent color. Hex can also be an array of hex codes if the filament is a multi-color filament.
 
 ## Materials

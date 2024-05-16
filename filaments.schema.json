@@ -51,6 +51,15 @@
                                 "spool_weight": {
                                     "type": "number",
                                     "minimum": 0
+                                },
+                                "spool_type": {
+                                    "$comment": "Material of the spool itself.",
+                                    "enum": [
+                                        null,
+                                        "plastic",
+                                        "cardboard",
+                                        "metal"
+                                    ]
                                 }
                             }
                         }
@@ -71,6 +80,7 @@
                         "type": "integer"
                     },
                     "finish": {
+                        "$comment": "Surface finish. Don't set if it's not explicitly stated by the manufacturer.",
                         "enum": [
                             null,
                             "matte",
@@ -78,11 +88,28 @@
                         ]
                     },
                     "multi_color_direction": {
+                        "$comment": "Coaxial = the color changes depending on print direction, longitudinal = the color changes along the duration of the print.",
                         "enum": [
                             null,
                             "coaxial",
                             "longitudinal"
                         ]
+                    },
+                    "pattern": {
+                        "$comment": "Surface details",
+                        "enum": [
+                            null,
+                            "marble",
+                            "sparkle"
+                        ]
+                    },
+                    "translucent": {
+                        "$comment": "True if the filament is at least partly see-through",
+                        "type": "boolean"
+                    },
+                    "glow": {
+                        "$comment": "True if the filament has a glow-in-the-dark effect",
+                        "type": "boolean"
                     },
                     "colors": {
                         "type": "array",
@@ -99,6 +126,7 @@
                                     "type": "string"
                                 },
                                 "hex": {
+                                    "$comment": "Either a string or an array of strings",
                                     "anyOf": [
                                         {
                                             "type": "string",
