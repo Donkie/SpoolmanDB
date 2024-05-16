@@ -50,12 +50,104 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Vertigo Grey",
-                    "hex": "5A5964"
+                    "name": "Black",
+                    "hex": "#0f0f0f"
                 },
                 {
-                    "name": "Show White",
-                    "hex": "F3F3F1"
+                    "name": "White",
+                    "hex": "#ffffff"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "#e9eacc"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "#e8e8e8"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "#999999"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "#c49207"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "#a36025"
+                },
+                {
+                    "name": "Celeste Green",
+                    "hex": "#28c973"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "#1936aa"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "#1b6b30"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "#d6c11d"
+                },
+                {
+                    "name": "Lavender",
+                    "hex": "#b17fea"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "#308cc1"
+                },
+                {
+                    "name": "Light Green",
+                    "hex": "#81d742"
+                },
+                {
+                    "name": "Luminous Yellow",
+                    "hex": "#f7ff23"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "#d32189"
+                },
+                {
+                    "name": "Middle Blue",
+                    "hex": "#5482bf"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "#f28900"
+                },
+                {
+                    "name": "Pastel Blue",
+                    "hex": "#15b8d8"
+                },
+                {
+                    "name": "Pastel Green",
+                    "hex": "#a9f2bb"
+                },
+                {
+                    "name": "Pastel Pink",
+                    "hex": "#ff4f89"
+                },
+                {
+                    "name": "Red",
+                    "hex": "#dd3333"
+                },
+                {
+                    "name": "Sapphire Grey",
+                    "hex": "#769cbf"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "#cccccc"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "#f9f922"
                 }
             ]
         },
