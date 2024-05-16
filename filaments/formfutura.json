@@ -2,7 +2,7 @@
     "manufacturer": "Formfutura",
     "filaments": [
         {
-            "name": "EasyFil PLA",
+            "name": "EasyFil PLA {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "name": "EasyFil ePLA",
+            "name": "EasyFil ePLA {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
