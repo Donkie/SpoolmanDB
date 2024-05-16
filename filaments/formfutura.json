@@ -183,3 +183,95 @@
                     "name": "Matt Lemon Cream",
                     "hex": "f2e591"
                 },
+                {
+                    "name": "Beige Brown",
+                    "hex": "a88e5a"
+                },
+                {
+                    "name": "Blue Lilac",
+                    "hex": "9b5bef"
+                },
+                {
+                    "name": "Grey Aluminium",
+                    "hex": "adadad"
+                },
+                {
+                    "name": "Heather Violet",
+                    "hex": "ff28c2"
+                },
+                {
+                    "name": "Khaki Grey",
+                    "hex": "997b5d"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "308cc1"
+                },
+                {
+                    "name": "Light Green",
+                    "hex": "81d742"
+                },
+                {
+                    "name": "Light Ivory",
+                    "hex": "d8c05f"
+                },
+                {
+                    "name": "Luminous Bright Orange",
+                    "hex": "f78300"
+                },
+                {
+                    "name": "Luminous Green",
+                    "hex": "86ff4f"
+                },
+                {
+                    "name": "Luminous Yellow",
+                    "hex": "f7ff23"
+                },
+                {
+                    "name": "Pearl Bronze",
+                    "hex": "d3be69"
+                },
+                {
+                    "name": "Pearl Gold",
+                    "hex": "dda033"
+                },
+                {
+                    "name": "Pure Orange",
+                    "hex": "ff823a"
+                },
+                {
+                    "name": "Signal Yellow",
+                    "hex": "ffd713"
+                },
+                {
+                    "name": "Traffic Green",
+                    "hex": "2d9155"
+                },
+                {
+                    "name": "Traffic Red",
+                    "hex": "e03333"
+                },
+                {
+                    "name": "Traffic Yellow",
+                    "hex": "ffdd23"
+                },
+                {
+                    "name": "Turquoise Blue",
+                    "hex": "1e8fbf"
+                },
+                {
+                    "name": "Ultramarine Blue",
+                    "hex": "001b89"
+                },
+                {
+                    "name": "White Aluminium",
+                    "hex": "efefef"
+                },
+                {
+                    "name": "Yellow Green",
+                    "hex": "a5f221"
+                }
+            ]
+        }
+    ]
+}
