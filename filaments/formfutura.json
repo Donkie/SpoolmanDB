@@ -1,0 +1,185 @@
+{
+    "manufacturer": "Formfutura",
+    "filaments": [
+        {
+            "name": "EasyFil PLA",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 250.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 130.0
+                },
+                {
+                    "weight": 1000.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 210.0
+                },
+                {
+                    "weight": 2300.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 265.0
+                },
+                {
+                    "weight": 2300.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 600.0
+                },
+                {
+                    "weight": 4500.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 330.0
+                },
+                {
+                    "weight": 4500.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 815.0
+                },
+                {
+                    "weight": 8000.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 1040.0
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Vertigo Grey",
+                    "hex": "5A5964"
+                },
+                {
+                    "name": "Show White",
+                    "hex": "F3F3F1"
+                }
+            ]
+        },
+        {
+            "name": "EasyFil ePLA",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 250.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 130.0
+                },
+                {
+                    "weight": 1000.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 210.0
+                },
+                {
+                    "weight": 2300.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 265.0
+                },
+                {
+                    "weight": 2300.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 600.0
+                },
+                {
+                    "weight": 4500.0,
+                    "spool_type": "cardboard",
+                    "spool_weight": 330.0
+                },
+                {
+                    "weight": 4500.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 815.0
+                },
+                {
+                    "weight": 8000.0,
+                    "spool_type": "plastic",
+                    "spool_weight": 1040.0
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Traffic Black",
+                    "hex": "0f0f0f"
+                },
+                {
+                    "name": "Matt Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Matt White",
+                    "hex": "f7f7f7"
+                },
+                {
+                    "name": "Matt Vanilla White",
+                    "hex": "fff8e8"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Matt Light Grey",
+                    "hex": "e2e2e2"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "e9eacc"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "e8e8e8"
+                },
+                {
+                    "name": "Iron Grey",
+                    "hex": "7f7f7f"
+                },
+                {
+                    "name": "Squirrel Grey",
+                    "hex": "6e7c7f"
+                },
+                {
+                    "name": "Anthracite Grey",
+                    "hex": "424242"
+                },
+                {
+                    "name": "Matt Mauve",
+                    "hex": "e7aaff"
+                },
+                {
+                    "name": "Matt Apricot",
+                    "hex": "ffa3a3"
+                },
+                {
+                    "name": "Matt Polar Blue",
+                    "hex": "89c1dd"
+                },
+                {
+                    "name": "Matt Water Blue",
+                    "hex": "16cccc"
+                },
+                {
+                    "name": "Matt Mint Green",
+                    "hex": "80fcd7"
+                },
+                {
+                    "name": "Matt Soft Blue",
+                    "hex": "94a3ef"
+                },
+                {
+                    "name": "Matt Lemon Cream",
+                    "hex": "f2e591"
+                },
