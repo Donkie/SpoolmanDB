@@ -808,6 +808,56 @@
                     "hex": "101820"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PA6-GF",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "EAEAE4"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFCE00"
+                },
+                {
+                    "name": "Lime",
+                    "hex": "C5ED48"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "75AED8"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF4800"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "5B492F"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "353533"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
         }
     ]
 }
