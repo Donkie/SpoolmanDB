@@ -1,29 +1,29 @@
 """This script takes in the directory of filament json files, expands them and writes them to a single output json."""
 
-from enum import Enum
+from enum import StrEnum
 import json
 from pathlib import Path
 from typing import Iterator
 from typing import TypedDict, NotRequired
 
 
-class SpoolType(Enum):
+class SpoolType(StrEnum):
     PLASTIC = "plastic"
     CARDBOARD = "cardboard"
     METAL = "metal"
 
 
-class Finish(Enum):
+class Finish(StrEnum):
     MATTE = "matte"
     GLOSSY = "glossy"
 
 
-class MultiColorDirection(Enum):
+class MultiColorDirection(StrEnum):
     COAXIAL = "coaxial"
     LONGITUDINAL = "longitudinal"
 
 
-class Pattern(Enum):
+class Pattern(StrEnum):
     MARBLE = "marble"
     SPARKLE = "sparkle"
 
@@ -56,15 +56,30 @@ class Filament(TypedDict):
     glow: NotRequired[bool]
 
 
+SPOOL_TYPE_MAP = {
+    None: "n",
+    SpoolType.PLASTIC: "p",
+    SpoolType.CARDBOARD: "c",
+    SpoolType.METAL: "m",
+}
+
+
 def generate_id(
-    manufacturer: str, name: str, material: str, weight: float, diameter: float
+    *,
+    manufacturer: str,
+    name: str,
+    material: str,
+    weight: float,
+    diameter: float,
+    spool_type: SpoolType | None,
 ) -> str:
     """Generates a unique ID for the given filament data."""
     # Remove any non-ascii from name
     name = name.encode("ascii", "ignore").decode()
     weight_s = f"{weight:.0f}"
     diameter_s = f"{diameter:.2f}".replace(".", "")
-    return f"{manufacturer.lower()}_{material.lower()}_{name.lower()}_{weight_s}_{diameter_s}".replace(
+    spooltype_s = SPOOL_TYPE_MAP[spool_type]
+    return f"{manufacturer.lower()}_{material.lower()}_{name.lower()}_{weight_s}_{diameter_s}_{spooltype_s}".replace(
         " ", ""
     )
 
@@ -120,7 +135,12 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
 
                 yield {
                     "id": generate_id(
-                        manufacturer, formatted_name, material, weight, diameter
+                        manufacturer=manufacturer,
+                        name=formatted_name,
+                        material=material,
+                        weight=weight,
+                        diameter=diameter,
+                        spool_type=spool_type,
                     ),
                     "manufacturer": manufacturer,
                     "name": formatted_name,
