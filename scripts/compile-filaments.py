@@ -161,6 +161,17 @@ def compile_filaments():
         print(f"Compiling {file}")
         all_filaments.extend(get_filaments_from_data(load_json(file)))
 
+    # Validate that all ids are unique. Find the non-unique ones and print them.
+    seen_ids = set()
+    duplicates = [
+        f for f in all_filaments if f["id"] in seen_ids or seen_ids.add(f["id"])
+    ]
+    if duplicates:
+        print("ERROR: Non-unique filament IDs found:")
+        for f in duplicates:
+            print(f["id"])
+        raise ValueError("Found non-unique ids")
+
     # Sort the filaments by manufacturer, material, then name
     all_filaments.sort(key=lambda x: (x["manufacturer"], x["material"], x["name"]))
 
