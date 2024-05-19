@@ -36,7 +36,8 @@ class Weight(TypedDict):
 
 class Color(TypedDict):
     name: str
-    hex: str | list[str]
+    hex: NotRequired[str]
+    hexes: NotRequired[list[str]]
 
 
 class Filament(TypedDict):
@@ -92,15 +93,30 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
         for diameter in diameters:
             for color_obj in colors:
                 color_name = color_obj["name"]
-                color_hex = color_obj["hex"]
+                color_hex = color_obj.get("hex", None)
+                color_hexes = color_obj.get("hexes", None)
 
                 formatted_name = name.format(color_name=color_name)
 
-                if isinstance(color_hex, list):
-                    if multi_color_direction is None:
-                        raise ValueError(
-                            f"Filament {formatted_name} by {manufacturer} has multiple colors but no multi_color_direction specified."
-                        )
+                if color_hex is None and color_hexes is None:
+                    raise ValueError(
+                        f"Filament {formatted_name} by {manufacturer} has no hex or hexes specified."
+                    )
+
+                if color_hex is not None and color_hexes is not None:
+                    raise ValueError(
+                        f"Filament {formatted_name} by {manufacturer} has both hex and hexes specified."
+                    )
+
+                if multi_color_direction is not None and color_hexes is None:
+                    raise ValueError(
+                        f"Filament {formatted_name} by {manufacturer} has no hexes specified but multi_color_direction is set."
+                    )
+
+                if multi_color_direction is None and color_hexes is not None:
+                    raise ValueError(
+                        f"Filament {formatted_name} by {manufacturer} has hexes specified but no multi_color_direction is set."
+                    )
 
                 yield {
                     "id": generate_id(
@@ -115,6 +131,7 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "spool_type": spool_type,
                     "diameter": diameter,
                     "color_hex": color_hex,
+                    "color_hexes": color_hexes,
                     "extruder_temp": extruder_temp,
                     "bed_temp": bed_temp,
                     "finish": finish,
