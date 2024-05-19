@@ -79,63 +79,63 @@
             "colors": [
                 {
                     "name": "Aubergine",
-                    "hex": [
+                    "hexes": [
                         "acda34",
                         "aa008b"
                     ]
                 },
                 {
                     "name": "Beluga",
-                    "hex": [
+                    "hexes": [
                         "b1c1d5",
                         "2d7ece"
                     ]
                 },
                 {
                     "name": "Chameleon",
-                    "hex": [
+                    "hexes": [
                         "f5f034",
                         "2d7ece"
                     ]
                 },
                 {
                     "name": "Caribbean",
-                    "hex": [
+                    "hexes": [
                         "2d7ece",
                         "31ad85"
                     ]
                 },
                 {
                     "name": "Crown",
-                    "hex": [
+                    "hexes": [
                         "f3cd46",
                         "b2c1d5"
                     ]
                 },
                 {
                     "name": "Sovereign",
-                    "hex": [
+                    "hexes": [
                         "f3cd46",
                         "4b3599"
                     ]
                 },
                 {
                     "name": "Banquet",
-                    "hex": [
+                    "hexes": [
                         "f3cd47",
                         "aa008b"
                     ]
                 },
                 {
                     "name": "Jadeite",
-                    "hex": [
+                    "hexes": [
                         "31ae85",
                         "565f69"
                     ]
                 },
                 {
                     "name": "Sunset",
-                    "hex": [
+                    "hexes": [
                         "f3cd46",
                         "c4000b"
                     ]

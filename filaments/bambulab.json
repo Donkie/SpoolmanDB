@@ -287,7 +287,7 @@
             ],
             "extruder_temp": 220,
             "bed_temp": 60,
-            "finish" : "glossy",
+            "finish": "glossy",
             "pattern": "sparkle",
             "colors": [
                 {
@@ -432,15 +432,24 @@
             "colors": [
                 {
                     "name": "Arctic Whisper",
-                    "hex": [ "9CDBD9", "FFFFFF" ]
+                    "hexes": [
+                        "9CDBD9",
+                        "FFFFFF"
+                    ]
                 },
                 {
                     "name": "Solar Breeze",
-                    "hex": [ "E94B3C", "FFFFFF" ]
+                    "hexes": [
+                        "E94B3C",
+                        "FFFFFF"
+                    ]
                 },
                 {
                     "name": "Ocean to Meadow",
-                    "hex": [ "307FE2", "54FF9B" ]
+                    "hexes": [
+                        "307FE2",
+                        "54FF9B"
+                    ]
                 }
             ]
         },
@@ -464,19 +473,31 @@
             "colors": [
                 {
                     "name": "Midnight Blaze (Blue-Red)",
-                    "hex": [ "0047BB", "7D1B49" ]
+                    "hexes": [
+                        "0047BB",
+                        "7D1B49"
+                    ]
                 },
                 {
                     "name": "Neon City (Blue-Magenta)",
-                    "hex": [ "0047BB", "BB22A3" ]
+                    "hexes": [
+                        "0047BB",
+                        "BB22A3"
+                    ]
                 },
                 {
                     "name": "Gilded Rose (Pink-Gold)",
-                    "hex": [ "FF9425", "FCA2BF" ]
+                    "hexes": [
+                        "FF9425",
+                        "FCA2BF"
+                    ]
                 },
                 {
                     "name": "Blue Hawaii (Blue-Green)",
-                    "hex": [ "60A4E8", "4CE4A0" ]
+                    "hexes": [
+                        "60A4E8",
+                        "4CE4A0"
+                    ]
                 }
             ]
         },
