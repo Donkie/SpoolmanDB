@@ -70,5 +70,25 @@
     {
         "material": "Semi flexible (FPE)",
         "density": 2.16
+    },
+    {
+        "material": "PVDF",
+        "density": 1.78
+    },
+    {
+        "material": "PEI (Ultem)",
+        "density": 1.27
+    },
+    {
+        "material": "PEKK",
+        "density": 1.28
+    },
+    {
+        "material": "PEEK",
+        "density": 1.32
+    },
+    {
+        "material": "PPSU",
+        "density": 1.37
     }
 ]
