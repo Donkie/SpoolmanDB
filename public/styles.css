@@ -1,0 +1,119 @@
+/* Generic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Page header styling */
+header {
+    background: #343434;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+/* Logo image styling */
+.logo {
+    max-width: 100%;
+    height: auto;
+    /* Ensures the image maintains its aspect ratio */
+}
+
+/* Main content styling */
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Headertype styling */
+h1,
+h2 {
+    color: #343434;
+}
+
+/* Paragraph styling */
+p {
+    margin-bottom: 1rem;
+}
+
+/* Link styling */
+a {
+    color: #dc7734;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* List styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5rem 0;
+}
+
+/* Data files styling */
+.data-files {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex: 1;
+    max-width: 200px;
+    /* Ensures equal width for columns */
+    text-align: center;
+    /* Center-aligns the text in each column */
+}
+
+.column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.column li {
+    margin: 0.5rem 0;
+}
+
+/* Footer styling */
+footer {
+    background: #343434;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Media Queries for mobile responsiveness */
+@media (max-width: 600px) {
+    main {
+        padding: 1rem;
+    }
+
+    .data-files {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .column {
+        max-width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    footer {
+        position: relative;
+        bottom: 0;
+    }
+}
