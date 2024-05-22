@@ -2,7 +2,7 @@
     "manufacturer": "3DXTECH",
     "filaments": [
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "ABS",
             "density": 1.11,
             "weights": [
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "ASA",
             "density": 1.11,
             "weights": [
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "PA12",
             "density": 1.16,
             "weights": [
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "PC",
             "density": 1.36,
             "weights": [
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "PETG",
             "density": 1.34,
             "weights": [
@@ -150,7 +150,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "PLA",
             "density": 1.29,
             "weights": [
@@ -184,7 +184,7 @@
             ]
         },
         {
-            "name": "Obsidian\u2122 Carbon Fiber {color_name}",
+            "name": "Obsidian™ Carbon Fiber {color_name}",
             "material": "PA6",
             "density": 1.2,
             "weights": [
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ Carbon Fiber {color_name}",
             "material": "PA6",
             "density": 1.17,
             "weights": [
@@ -246,7 +246,7 @@
             ]
         },
         {
-            "name": "3DXTECH\u00ae {color_name}",
+            "name": "3DXTECH™ {color_name}",
             "material": "ABS",
             "density": 1.05,
             "weights": [
@@ -335,7 +335,7 @@
             ]
         },
         {
-            "name": "3DXMAX\u00ae {color_name}",
+            "name": "3DXMAX™ {color_name}",
             "material": "ASA",
             "density": 1.07,
             "weights": [
@@ -404,7 +404,7 @@
             ]
         },
         {
-            "name": "ezPC\u2122 {color_name}",
+            "name": "ezPC™ {color_name}",
             "material": "PC",
             "density": 1.2,
             "weights": [
@@ -439,7 +439,7 @@
             ]
         },
         {
-            "name": "3DXMAX\u00ae {color_name}",
+            "name": "3DXMAX™ {color_name}",
             "material": "HIPS",
             "density": 1.04,
             "weights": [
@@ -492,7 +492,7 @@
             ]
         },
         {
-            "name": "3DXMAX\u00ae {color_name}",
+            "name": "3DXMAX™ {color_name}",
             "material": "PC",
             "density": 1.2,
             "weights": [
@@ -528,7 +528,7 @@
             ]
         },
         {
-            "name": "3DXMAX\u00ae {color_name}",
+            "name": "3DXMAX™ {color_name}",
             "material": "PC/ABS",
             "density": 1.14,
             "weights": [
@@ -561,7 +561,7 @@
             ]
         },
         {
-            "name": "CarbonX\u2122 ezPC\u2122 Carbon Fiber {color_name}",
+            "name": "CarbonX™ ezPC™ Carbon Fiber {color_name}",
             "material": "PC",
             "density": 1.36,
             "weights": [
@@ -590,7 +590,7 @@
             ]
         },
         {
-            "name": "Obsidian\u2122 Glass Fiber {color_name}",
+            "name": "Obsidian™ Glass Fiber {color_name}",
             "material": "PA6",
             "density": 1.22,
             "weights": [
