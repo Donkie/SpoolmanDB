@@ -575,6 +575,64 @@
                     "hex": "1a1718"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "d7d5cb"
+                },
+                {
+                    "name": "Bright Orange",
+                    "hex": "ffb200"
+                },
+                {
+                    "name": "Red",
+                    "hex": "ab273c"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "c5c7c4"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "5b686d"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "50533c"
+                },
+                {
+                    "name": "Race Green",
+                    "hex": "3c7460"
+                },
+                {
+                    "name": "Aluminum",
+                    "hex": "9b9b9b"
+                },
+                {
+                    "name": "Dark Brown",
+                    "hex": "4a3526"
+                },
+                {
+                    "name": "Black",
+                    "hex": "2f3234"
+                }
+            ]
         }
     ]
 }
