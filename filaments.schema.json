@@ -150,6 +150,38 @@
                                         "type": "string",
                                         "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
                                     }
+                                },
+                                "finish": {
+                                    "$comment": "Surface finish of this color. Don't set if it's not explicitly stated by the manufacturer.",
+                                    "enum": [
+                                        null,
+                                        "matte",
+                                        "glossy"
+                                    ]
+                                },
+                                "multi_color_direction": {
+                                    "$comment": "Coaxial = the color changes depending on print direction, longitudinal = the color changes along the duration of the print.",
+                                    "enum": [
+                                        null,
+                                        "coaxial",
+                                        "longitudinal"
+                                    ]
+                                },
+                                "pattern": {
+                                    "$comment": "Surface details of this color",
+                                    "enum": [
+                                        null,
+                                        "marble",
+                                        "sparkle"
+                                    ]
+                                },
+                                "translucent": {
+                                    "$comment": "True if this color is at least partly see-through",
+                                    "type": "boolean"
+                                },
+                                "glow": {
+                                    "$comment": "True if this color has a glow-in-the-dark effect",
+                                    "type": "boolean"
                                 }
                             }
                         }
