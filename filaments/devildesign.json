@@ -27,7 +27,7 @@
                 },
                 {
                     "name": "Bright Yellow",
-                    "hex": "ffcc33"
+                    "hex": "faca30"
                 },
                 {
                     "name": "Super Yellow",
@@ -35,147 +35,147 @@
                 },
                 {
                     "name": "Yellow",
-                    "hex": "cc9933"
+                    "hex": "ddaf27"
                 },
                 {
                     "name": "Bright Orange",
-                    "hex": "ff9900"
+                    "hex": "ffb200"
                 },
                 {
                     "name": "Dark Orange",
-                    "hex": "cc3333"
+                    "hex": "bf3922"
                 },
                 {
                     "name": "Bright Pink",
-                    "hex": "cc3366"
+                    "hex": "bc4077"
                 },
                 {
                     "name": "Pink Pearl",
-                    "hex": "cc6699"
+                    "hex": "c4618c"
                 },
                 {
                     "name": "Hot Red",
-                    "hex": "993333"
+                    "hex": "a53a2d"
                 },
                 {
                     "name": "Red",
-                    "hex": "993333"
+                    "hex": "a63437"
                 },
                 {
                     "name": "Super Red",
-                    "hex": "ff3333"
+                    "hex": "ff2d21"
                 },
                 {
                     "name": "Dark Red",
-                    "hex": "993333"
+                    "hex": "9b2321"
                 },
                 {
                     "name": "PC Gray",
-                    "hex": "cccccc"
+                    "hex": "d7d5cb"
                 },
                 {
                     "name": "Light Gray",
-                    "hex": "cccccc"
+                    "hex": "c5c7c4"
                 },
                 {
                     "name": "Gray",
-                    "hex": "999999"
+                    "hex": "8e9291"
                 },
                 {
                     "name": "Dark Gray",
-                    "hex": "666666"
+                    "hex": "4f5250"
                 },
                 {
                     "name": "Blue",
-                    "hex": "0099cc"
+                    "hex": "0089b6"
                 },
                 {
                     "name": "Super Blue",
-                    "hex": "003366"
+                    "hex": "00387b"
                 },
                 {
                     "name": "Ocean Blue",
-                    "hex": "336666"
+                    "hex": "21697c"
                 },
                 {
                     "name": "Navy Blue",
-                    "hex": "333366"
+                    "hex": "1f3855"
                 },
                 {
                     "name": "Dark Violet",
-                    "hex": "663333"
+                    "hex": "651e38"
                 },
                 {
                     "name": "Mint",
-                    "hex": "66cccc"
+                    "hex": "7ebab5"
                 },
                 {
                     "name": "Light Green",
-                    "hex": "009966"
+                    "hex": "008351"
                 },
                 {
                     "name": "Bright Green",
-                    "hex": "669933"
+                    "hex": "61993b"
                 },
                 {
                     "name": "Emerald Green",
-                    "hex": "009999"
+                    "hex": "058b8c"
                 },
                 {
                     "name": "Olive Green",
-                    "hex": "666633"
+                    "hex": "50533c"
                 },
                 {
                     "name": "Green",
-                    "hex": "336633"
+                    "hex": "315442"
                 },
                 {
                     "name": "Race Green",
-                    "hex": "003333"
+                    "hex": "114232"
                 },
                 {
                     "name": "Silver",
-                    "hex": "669999"
+                    "hex": "7f868a"
                 },
                 {
                     "name": "Gold",
-                    "hex": "cc9933"
+                    "hex": "ba8f4c"
                 },
                 {
                     "name": "Aluminum",
-                    "hex": "999999"
+                    "hex": "858583"
                 },
                 {
                     "name": "Graphite",
-                    "hex": "333366"
+                    "hex": "45494e"
                 },
                 {
                     "name": "Copper",
-                    "hex": "666633"
+                    "hex": "794d3e"
                 },
                 {
                     "name": "Dark Copper",
-                    "hex": "663333"
+                    "hex": "7f4031"
                 },
                 {
                     "name": "Beige",
-                    "hex": "cccc99"
+                    "hex": "ddc49a"
                 },
                 {
                     "name": "Light Brown",
-                    "hex": "cc9966"
+                    "hex": "c6846d"
                 },
                 {
                     "name": "Brown",
-                    "hex": "663333"
+                    "hex": "7e4b26"
                 },
                 {
                     "name": "Dark brown",
-                    "hex": "333333"
+                    "hex": "4a3526"
                 },
                 {
                     "name": "Black",
-                    "hex": "330000"
+                    "hex": "1a1718"
                 },
                 {
                     "name": "Light Steel",
@@ -203,15 +203,15 @@
                 },
                 {
                     "name": "Galaxy Black",
-                    "hex": "333333"
+                    "hex": "2a292a"
                 },
                 {
                     "name": "Marble Light",
-                    "hex": "cccccc"
+                    "hex": "c8c8c7"
                 },
                 {
                     "name": "Marble Dark",
-                    "hex": "996666"
+                    "hex": "817b73"
                 },
                 {
                     "name": "Glow In The Dark Blue",
@@ -241,27 +241,27 @@
                 },
                 {
                     "name": "Bright Yellow",
-                    "hex": "ffcc33"
+                    "hex": "faca30"
                 },
                 {
                     "name": "Yellow",
-                    "hex": "cc9933"
+                    "hex": "ddaf27"
                 },
                 {
                     "name": "Bright Orange",
-                    "hex": "ff9900"
+                    "hex": "ffb200"
                 },
                 {
                     "name": "Dark Orange",
-                    "hex": "cc3333"
+                    "hex": "bf3922"
                 },
                 {
                     "name": "Red",
-                    "hex": "993333"
+                    "hex": "a63437"
                 },
                 {
                     "name": "Super Red",
-                    "hex": "ff3333"
+                    "hex": "ff2d21"
                 },
                 {
                     "name": "Bloody Red",
@@ -269,35 +269,35 @@
                 },
                 {
                     "name": "Dark Red",
-                    "hex": "993333"
+                    "hex": "9b2321"
                 },
                 {
                     "name": "PC Gray",
-                    "hex": "cccccc"
+                    "hex": "d7d5cb"
                 },
                 {
                     "name": "Light Gray",
-                    "hex": "cccccc"
+                    "hex": "c5c7c4"
                 },
                 {
                     "name": "Gray",
-                    "hex": "999999"
+                    "hex": "8e9291"
                 },
                 {
                     "name": "Dark Gray",
-                    "hex": "666666"
+                    "hex": "4f5250"
                 },
                 {
                     "name": "Blue",
-                    "hex": "0099cc"
+                    "hex": "0089b6"
                 },
                 {
                     "name": "Super Blue",
-                    "hex": "003366"
+                    "hex": "00387b"
                 },
                 {
                     "name": "Ocean Blue",
-                    "hex": "336666"
+                    "hex": "21697c"
                 },
                 {
                     "name": "Ultra Blue",
@@ -305,7 +305,7 @@
                 },
                 {
                     "name": "Dark Violet",
-                    "hex": "663333"
+                    "hex": "651e38"
                 },
                 {
                     "name": "Ultra Violet",
@@ -313,71 +313,71 @@
                 },
                 {
                     "name": "Mint",
-                    "hex": "66cccc"
+                    "hex": "7ebab5"
                 },
                 {
                     "name": "Light Green",
-                    "hex": "009966"
+                    "hex": "008351"
                 },
                 {
                     "name": "Bright Green",
-                    "hex": "669933"
+                    "hex": "61993b"
                 },
                 {
                     "name": "Emerald Green",
-                    "hex": "009999"
+                    "hex": "058b8c"
                 },
                 {
                     "name": "Olive Green",
-                    "hex": "666633"
+                    "hex": "50533c"
                 },
                 {
                     "name": "Race Green",
-                    "hex": "003333"
+                    "hex": "114232"
                 },
                 {
                     "name": "Silver",
-                    "hex": "669999"
+                    "hex": "7f868a"
                 },
                 {
                     "name": "Gold",
-                    "hex": "cc9933"
+                    "hex": "ba8f4c"
                 },
                 {
                     "name": "Aluminum",
-                    "hex": "999999"
+                    "hex": "858583"
                 },
                 {
                     "name": "Graphite",
-                    "hex": "333366"
+                    "hex": "45494e"
                 },
                 {
                     "name": "Copper",
-                    "hex": "666633"
+                    "hex": "794d3e"
                 },
                 {
                     "name": "Dark Copper",
-                    "hex": "663333"
+                    "hex": "7f4031"
                 },
                 {
                     "name": "Beige",
-                    "hex": "cccc99"
+                    "hex": "ddc49a"
                 },
                 {
                     "name": "Light Brown",
-                    "hex": "cc9966"
+                    "hex": "c6846d"
                 },
                 {
                     "name": "Brown",
-                    "hex": "663333"
+                    "hex": "7e4b26"
                 },
                 {
                     "name": "Dark brown",
-                    "hex": "333333"
+                    "hex": "4a3526"
                 },
                 {
                     "name": "Black",
-                    "hex": "330000"
+                    "hex": "1a1718"
                 },
                 {
                     "name": "Light Steel",
@@ -436,7 +436,7 @@
                 },
                 {
                     "name": "Bright Orange Transparent",
-                    "hex": "ff6633"
+                    "hex": "f67828"
                 },
                 {
                     "name": "Amber Transparent",
@@ -444,15 +444,15 @@
                 },
                 {
                     "name": "Bright Green Transparent",
-                    "hex": "333333"
+                    "hex": "37422f"
                 },
                 {
                     "name": "Green Transparent",
-                    "hex": "666633"
+                    "hex": "587f40"
                 },
                 {
                     "name": "Ruby Red Transparent",
-                    "hex": "993333"
+                    "hex": "9b2423"
                 },
                 {
                     "name": "Blue Transparent",
