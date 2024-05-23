@@ -633,6 +633,28 @@
                     "hex": "2f3234"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "HIPS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "2f3234"
+                }
+            ]
         }
     ]
 }
