@@ -29,7 +29,9 @@
                         "pattern": "{"
                     },
                     "material": {
-                        "type": "string"
+                        "$comment": "Valid materials must be uppercase letters and numbers, optionally separated by + or -. Optionally ends with -CF or -GF followed by a number. Examples: ABS, ABS-CF, PC+ABS, PC+ABS-CF10.",
+                        "type": "string",
+                        "pattern": "^[A-Z0-9]+(?:[+-][A-Z0-9]+)*(?:-(CF|GF)[0-9]*)?$"
                     },
                     "density": {
                         "type": "number",
