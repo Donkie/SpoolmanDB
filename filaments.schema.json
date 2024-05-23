@@ -77,8 +77,35 @@
                     "extruder_temp": {
                         "type": "integer"
                     },
+                    "extruder_temp_range": {
+                        "$comment": "Temperature range for the extruder in degrees Celsius.",
+                        "type": "array",
+                        "minItems": 2,
+                        "maxItems": 2,
+                        "items": {
+                            "type": "integer"
+                        }
+                    },
                     "bed_temp": {
                         "type": "integer"
+                    },
+                    "bed_temp_range": {
+                        "$comment": "Temperature range for the bed in degrees Celsius.",
+                        "type": "array",
+                        "minItems": 2,
+                        "maxItems": 2,
+                        "items": {
+                            "type": "integer"
+                        }
+                    },
+                    "fill": {
+                        "$comment": "Type of fill material.",
+                        "type": "string",
+                        "enum": [
+                            null,
+                            "glass fiber",
+                            "carbon fiber"
+                        ]
                     },
                     "finish": {
                         "$comment": "Surface finish. Don't set if it's not explicitly stated by the manufacturer.",
