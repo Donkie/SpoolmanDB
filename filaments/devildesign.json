@@ -463,6 +463,72 @@
                     "hex": "005387"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "SILK",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "f1f0ea"
+                },
+                {
+                    "name": "Bright orange",
+                    "hex": "eb9c52"
+                },
+                {
+                    "name": "Bright pink",
+                    "hex": "d8a0a6"
+                },
+                {
+                    "name": "Red",
+                    "hex": "cb7375"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "6093ac"
+                },
+                {
+                    "name": "Bright green",
+                    "hex": "b9ceac"
+                },
+                {
+                    "name": "Green",
+                    "hex": "237f52"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "7f868a"
+                },
+                {
+                    "name": "Light gold",
+                    "hex": "e2a300"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "ba8f4c"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "794d3e"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "755847"
+                }
+            ]
         }
     ]
 }
