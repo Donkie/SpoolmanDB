@@ -529,6 +529,52 @@
                     "hex": "755847"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS+",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "f1f0ea"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "858583"
+                },
+                {
+                    "name": "Red",
+                    "hex": "a63437"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "c5c7c4"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "7a7b7a"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "4f5250"
+                },
+                {
+                    "name": "Black",
+                    "hex": "1a1718"
+                }
+            ]
         }
     ]
 }
