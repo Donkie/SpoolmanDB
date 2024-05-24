@@ -102,7 +102,6 @@
                     },
                     "fill": {
                         "$comment": "Type of fill material.",
-                        "type": "string",
                         "enum": [
                             null,
                             "glass fiber",
