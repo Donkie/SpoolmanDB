@@ -24,7 +24,7 @@ entries or you can split up the filament object into multiple ones.
  * **pattern** *(optional)* - Textured pattern, either "marble" or "sparkle" is currently supported. Feel free to add additional ones in the schema if necessary.
  * **translucent** *(optional)* - Boolean true/false if this filament is at least partially see-through.
  * **glow** *(optional)* - Boolean true/false if this filament has a glow-in-the-dark effect.
- * **colors** - An array of objects with `name` and `hex` fields. Name should be what the manufacturer calls it. Hex should be the hex code of the color, can include an alpha channel if it's a transparent color. If it's a multi-color filament, specify `hexes` instead of `hex` and provide a list of hex codes.
+ * **colors** - An array of objects with `name` and `hex` fields. Name should be what the manufacturer calls it. Hex should be the hex code of the color, can include an alpha channel if it's a transparent color. If it's a multi-color filament, specify `hexes` instead of `hex` and provide a list of hex codes. You can also set the `finish`, `multi_color_direction`, `pattern`, `translucent` and `glow` fields here if the specific color is different from the others.
 
 ## Materials
 All materials are found in the `materials.json` file.

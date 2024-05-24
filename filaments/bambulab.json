@@ -714,6 +714,56 @@
         },
         {
             "name": "{color_name}",
+            "material": "ABS-GF",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "C6C6C6"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFE133"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F48438"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E83100"
+                },
+                {
+                    "name": "Green",
+                    "hex": "61BF36"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0C3B95"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "ASA",
             "density": 1.05,
             "weights": [
@@ -751,6 +801,28 @@
                 {
                     "name": "Black",
                     "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 0.99,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White Aero",
+                    "hex": "F5F1DD"
                 }
             ]
         },
@@ -874,6 +946,84 @@
                     "name": "Gray",
                     "hex": "353533"
                 },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PA6-CF",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                },
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PAHT-CF",
+            "density": 1.06,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                },
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PET-CF",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                },
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
                 {
                     "name": "Black",
                     "hex": "000000"
