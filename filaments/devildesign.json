@@ -23,7 +23,7 @@
                 },
                 {
                     "name": "White",
-                    "hex": "ffffff"
+                    "hex": "f1f0ea"
                 },
                 {
                     "name": "Bright Yellow",
@@ -237,7 +237,7 @@
             "colors": [
                 {
                     "name": "White",
-                    "hex": "ffffff"
+                    "hex": "f1f0ea"
                 },
                 {
                     "name": "Bright Yellow",
@@ -653,6 +653,36 @@
                 {
                     "name": "Black",
                     "hex": "2f3234"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "f1f0ea"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "ddc49a"
+                },
+                {
+                    "name": "Black",
+                    "hex": "1a1718"
                 }
             ]
         }
