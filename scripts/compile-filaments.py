@@ -38,6 +38,11 @@ class Color(TypedDict):
     name: str
     hex: NotRequired[str]
     hexes: NotRequired[list[str]]
+    finish: NotRequired[Finish | None]
+    multi_color_direction: NotRequired[MultiColorDirection | None]
+    pattern: NotRequired[Pattern | None]
+    translucent: NotRequired[bool]
+    glow: NotRequired[bool]
 
 
 class Filament(TypedDict):
@@ -110,6 +115,28 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                 color_name = color_obj["name"]
                 color_hex = color_obj.get("hex", None)
                 color_hexes = color_obj.get("hexes", None)
+                color_finish = color_obj.get("finish", None)
+                color_multi_color_direction = color_obj.get(
+                    "multi_color_direction", None
+                )
+                color_pattern = color_obj.get("pattern", None)
+                color_translucent = color_obj.get("translucent", None)
+                color_glow = color_obj.get("glow", None)
+
+                if color_finish is None:
+                    color_finish = finish
+
+                if color_multi_color_direction is None:
+                    color_multi_color_direction = multi_color_direction
+
+                if color_pattern is None:
+                    color_pattern = pattern
+
+                if color_translucent is None:
+                    color_translucent = translucent
+
+                if color_glow is None:
+                    color_glow = glow
 
                 formatted_name = name.format(color_name=color_name)
 
@@ -123,12 +150,12 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                         f"Filament {formatted_name} by {manufacturer} has both hex and hexes specified."
                     )
 
-                if multi_color_direction is not None and color_hexes is None:
+                if color_multi_color_direction is not None and color_hexes is None:
                     raise ValueError(
                         f"Filament {formatted_name} by {manufacturer} has no hexes specified but multi_color_direction is set."
                     )
 
-                if multi_color_direction is None and color_hexes is not None:
+                if color_multi_color_direction is None and color_hexes is not None:
                     raise ValueError(
                         f"Filament {formatted_name} by {manufacturer} has hexes specified but no multi_color_direction is set."
                     )
@@ -154,11 +181,11 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "color_hexes": color_hexes,
                     "extruder_temp": extruder_temp,
                     "bed_temp": bed_temp,
-                    "finish": finish,
-                    "multi_color_direction": multi_color_direction,
-                    "pattern": pattern,
-                    "translucent": translucent,
-                    "glow": glow,
+                    "finish": color_finish,
+                    "multi_color_direction": color_multi_color_direction,
+                    "pattern": color_pattern,
+                    "translucent": color_translucent,
+                    "glow": color_glow,
                 }
 
 

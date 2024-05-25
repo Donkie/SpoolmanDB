@@ -1,0 +1,648 @@
+{
+    "manufacturer": "3DXTECH",
+    "filaments": [
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "ABS",
+            "density": 1.11,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "ASA",
+            "density": 1.11,
+            "weights": [
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "PA12",
+            "density": 1.16,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "PC",
+            "density": 1.36,
+            "weights": [
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 295,
+            "bed_temp": 115,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "PETG",
+            "density": 1.34,
+            "weights": [
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 205,
+            "bed_temp": 41,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Obsidian™ Carbon Fiber {color_name}",
+            "material": "PA6",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ Carbon Fiber {color_name}",
+            "material": "PA6",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 255,
+            "bed_temp": 95,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "3DXTECH™ {color_name}",
+            "material": "ABS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 4000.0,
+                    "spool_weight": 1000.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "A9A9A9"
+                },
+                {
+                    "name": "Glacier Grey",
+                    "hex": "D3D3D3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5DC"
+                },
+                {
+                    "name": "Burgundy",
+                    "hex": "800020"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Metallic Copper",
+                    "hex": "B87333"
+                },
+                {
+                    "name": "Metallic Gold",
+                    "hex": "D4AF37"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Alpine Green",
+                    "hex": "556B2F"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "4B5320"
+                },
+                {
+                    "name": "Reflex Blue",
+                    "hex": "001489"
+                },
+                {
+                    "name": "Ultra Blue",
+                    "hex": "4169E1"
+                }
+            ]
+        },
+        {
+            "name": "3DXMAX™ {color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 4000.0,
+                    "spool_weight": 1000.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "A9A9A9"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "D3D3D3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5DC"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Flat Dark Earth",
+                    "hex": "8B4513"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Reflex Blue",
+                    "hex": "001489"
+                }
+            ]
+        },
+        {
+            "name": "ezPC™ {color_name}",
+            "material": "PC",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 265,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "A9A9A9"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                }
+            ]
+        },
+        {
+            "name": "3DXMAX™ {color_name}",
+            "material": "HIPS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 4000.0,
+                    "spool_weight": 1000.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 227,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5DC"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Reflex Blue",
+                    "hex": "001489"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "00FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "3DXMAX™ {color_name}",
+            "material": "PC",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 295,
+            "bed_temp": 115,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                }
+            ]
+        },
+        {
+            "name": "3DXMAX™ {color_name}",
+            "material": "PC/ABS",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 240.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 280,
+            "bed_temp": 115,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "CarbonX™ ezPC™ Carbon Fiber {color_name}",
+            "material": "PC",
+            "density": 1.36,
+            "weights": [
+                {
+                    "weight": 750.0,
+                    "spool_weight": 310.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 945.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Obsidian™ Glass Fiber {color_name}",
+            "material": "PA6",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 340.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Silver",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Snow",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Flat Dark Earth",
+                    "hex": "8B4513"
+                },
+                {
+                    "name": "Tactical Tan",
+                    "hex": "D2B48C"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "O.D. Green",
+                    "hex": "556B2F"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                }
+            ]
+        }
+    ]
+}

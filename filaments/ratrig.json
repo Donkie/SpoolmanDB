@@ -1,0 +1,113 @@
+{
+    "manufacturer": "RatRig",
+    "filaments": [
+        {
+            "name": "Punkfil {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_material": "plastic",
+                    "spool_weight": 219.2
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Screaming Steel",
+                    "hex": "414142"
+                },
+                {
+                    "name": "Balls Blue",
+                    "hex": "00a9c4"
+                },
+                {
+                    "name": "Gooey Green",
+                    "hex": "bcec00"
+                },
+                {
+                    "name": "Brute Black",
+                    "hex": "131718"
+                }
+            ]
+        },
+        {
+            "name": "Punkfil {color_name}",
+            "material": "PETG-CF10",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_material": "plastic",
+                    "spool_weight": 219.2
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Brute Black",
+                    "hex": "131718"
+                }
+            ]
+        },
+        {
+            "name": "Punkfil {color_name}",
+            "material": "ASA",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_material": "plastic",
+                    "spool_weight": 219.2
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Brute Black",
+                    "hex": "131718"
+                }
+            ]
+        },
+        {
+            "name": "Punkfil {color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_material": "plastic",
+                    "spool_weight": 219.2
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Gooey Green",
+                    "hex": "bcec00"
+                },
+                {
+                    "name": "Brute Black",
+                    "hex": "131718"
+                }
+            ]
+        }
+    ]
+}
