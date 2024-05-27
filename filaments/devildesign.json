@@ -658,7 +658,7 @@
         },
         {
             "name": "{color_name}",
-            "material": "TPU-55D",
+            "material": "TPU",
             "density": 1.23,
             "weights": [
                 {
