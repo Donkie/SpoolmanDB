@@ -465,8 +465,9 @@
             ]
         },
         {
-            "name": "{color_name}",
-            "material": "SILK",
+            "name": "SILK {color_name}",
+            "material": "PLA",
+            "finish": "glossy",
             "density": 1.23,
             "weights": [
                 {
