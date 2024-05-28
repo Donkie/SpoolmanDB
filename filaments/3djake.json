@@ -61,16 +61,20 @@
                     "hex": "ffffff"
                 },{
                     "name": "Red Transparent",
-                    "hex": "c50000"
+                    "hex": "c50000",
+                    "translucent": true
                 },{
                     "name": "Green Transparent",
-                    "hex": "00b01d"
+                    "hex": "00b01d",
+                    "translucent": true
                 },{
                     "name": "Blue Transparent",
-                    "hex": "0039bf"
+                    "hex": "0039bf",
+                    "translucent": true
                 },{
                     "name": "Yellow Transparent",
-                    "hex": "deae00"
+                    "hex": "deae00",
+                    "translucent": true
                 }
             ]
         },
@@ -116,19 +120,24 @@
                     "hex": "d80000"
                 },{
                     "name": "Transparent",
-                    "hex": "ffffff"
+                    "hex": "ffffff",
+                    "translucent": true
                 },{
                     "name": "Transparent Red",
-                    "hex": "c50000"
+                    "hex": "c50000",
+                    "translucent": true
                 },{
                     "name": "Transparent Green",
-                    "hex": "00b01d"
+                    "hex": "00b01d",
+                    "translucent": true
                 },{
                     "name": "Transparent Blue",
-                    "hex": "0039bf"
+                    "hex": "0039bf",
+                    "translucent": true
                 },{
                     "name": "Transparent Yellow",
-                    "hex": "deae00"
+                    "hex": "deae00",
+                    "translucent": true
                 }
             ]
         }
