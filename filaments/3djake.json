@@ -18,59 +18,58 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "Weiß",
+                    "name": "White",
                     "hex": "FFFFFF"
-                },
-                {
-                    "name": "Schwarz",
+                },{
+                    "name": "Black",
                     "hex": "000000"
                 },{
-                    "name": "Dunkelgrau",
+                    "name": "Dark Gray",
                     "hex": "484848"
                 },{
-                    "name": "Silber",
+                    "name": "Silver",
                     "hex": "cecece"
                 },{
                     "name": "Bronze",
                     "hex": "a69059"
                 },{
-                    "name": "Dunkelblau",
+                    "name": "Dark Blue",
                     "hex": "002351"
                 },{
-                    "name": "Hellblau",
+                    "name": "Sky Blue",
                     "hex": "017cff"
                 },{
-                    "name": "Hellgrün",
+                    "name": "Light Green",
                     "hex": "65c525"
-                },{
-                    "name": "Dunkelgrün",
-                    "hex": "258b01"
                 },{
                     "name": "Neon Orange",
                     "hex": "ff6600"
                 },{
-                    "name": "Rot",
+                    "name": "Red",
                     "hex": "d80000"
                 },{
-                    "name": "Pastellpink",
+                    "name": "Neon Yellow",
+                    "hex": "c4ff03"
+                },{
+                    "name": "Pastell pink",
                     "hex": "d89d9d"
                 },{
-                    "name": "Pastellblau",
+                    "name": "Pastel blue",
                     "hex": "7ab4f3"
                 },{
                     "name": "Transparent",
                     "hex": "ffffff"
                 },{
-                    "name": "Transparent Rot",
+                    "name": "Red Transparent",
                     "hex": "c50000"
                 },{
-                    "name": "Transparent Grün",
+                    "name": "Green Transparent",
                     "hex": "00b01d"
                 },{
-                    "name": "Transparent Blau",
+                    "name": "Blue Transparent",
                     "hex": "0039bf"
                 },{
-                    "name": "Transparent Gelb",
+                    "name": "Yellow Transparent",
                     "hex": "deae00"
                 }
             ]
@@ -92,59 +91,43 @@
             "bed_temp": 100,
             "colors": [
                 {
-                    "name": "Weiß",
+                    "name": "White",
                     "hex": "FFFFFF"
-                },
-                {
-                    "name": "Schwarz",
+                },{
+                    "name": "Black",
                     "hex": "000000"
                 },{
-                    "name": "Dunkelgrau",
-                    "hex": "484848"
-                },{
-                    "name": "Silber",
+                    "name": "Silver",
                     "hex": "cecece"
                 },{
-                    "name": "Bronze",
-                    "hex": "a69059"
-                },{
-                    "name": "Dunkelblau",
+                    "name": "Dark Blue",
                     "hex": "002351"
                 },{
-                    "name": "Hellblau",
+                    "name": "Light Blue",
                     "hex": "017cff"
                 },{
-                    "name": "Hellgrün",
+                    "name": "Light Green",
                     "hex": "65c525"
                 },{
-                    "name": "Dunkelgrün",
-                    "hex": "258b01"
+                    "name": "Dark Green",
+                    "hex": "036606"
                 },{
-                    "name": "Neon Orange",
-                    "hex": "ff6600"
-                },{
-                    "name": "Rot",
+                    "name": "Red",
                     "hex": "d80000"
-                },{
-                    "name": "Pastellpink",
-                    "hex": "d89d9d"
-                },{
-                    "name": "Pastellblau",
-                    "hex": "7ab4f3"
                 },{
                     "name": "Transparent",
                     "hex": "ffffff"
                 },{
-                    "name": "Transparent Rot",
+                    "name": "Transparent Red",
                     "hex": "c50000"
                 },{
-                    "name": "Transparent Grün",
+                    "name": "Transparent Green",
                     "hex": "00b01d"
                 },{
-                    "name": "Transparent Blau",
+                    "name": "Transparent Blue",
                     "hex": "0039bf"
                 },{
-                    "name": "Transparent Gelb",
+                    "name": "Transparent Yellow",
                     "hex": "deae00"
                 }
             ]
