@@ -53,7 +53,9 @@ class Filament(TypedDict):
     diameters: list[float]
     colors: list[Color]
     extruder_temp: NotRequired[int]
+    extruder_temp_range: NotRequired[list[int]]
     bed_temp: NotRequired[int]
+    bed_temp_range: NotRequired[list[int]]
     finish: NotRequired[Finish | None]
     multi_color_direction: NotRequired[MultiColorDirection | None]
     pattern: NotRequired[Pattern | None]
@@ -98,7 +100,9 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
     diameters = data["diameters"]
     colors = data["colors"]
     extruder_temp = data.get("extruder_temp", None)
+    extruder_temp_range = data.get("extruder_temp_range", None)
     bed_temp = data.get("bed_temp", None)
+    bed_temp_range = data.get("bed_temp_range", None)
     finish = data.get("finish", None)
     multi_color_direction = data.get("multi_color_direction", None)
     pattern = data.get("pattern", None)
@@ -180,7 +184,9 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "color_hex": color_hex,
                     "color_hexes": color_hexes,
                     "extruder_temp": extruder_temp,
+                    "extruder_temp_range": extruder_temp_range,
                     "bed_temp": bed_temp,
+                    "bed_temp_range": bed_temp_range,
                     "finish": color_finish,
                     "multi_color_direction": color_multi_color_direction,
                     "pattern": color_pattern,
