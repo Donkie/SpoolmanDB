@@ -1,0 +1,153 @@
+{
+    "manufacturer": "3DJAKE",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 231
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Weiß",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },{
+                    "name": "Dunkelgrau",
+                    "hex": "484848"
+                },{
+                    "name": "Silber",
+                    "hex": "cecece"
+                },{
+                    "name": "Bronze",
+                    "hex": "a69059"
+                },{
+                    "name": "Dunkelblau",
+                    "hex": "002351"
+                },{
+                    "name": "Hellblau",
+                    "hex": "017cff"
+                },{
+                    "name": "Hellgrün",
+                    "hex": "65c525"
+                },{
+                    "name": "Dunkelgrün",
+                    "hex": "258b01"
+                },{
+                    "name": "Neon Orange",
+                    "hex": "ff6600"
+                },{
+                    "name": "Rot",
+                    "hex": "d80000"
+                },{
+                    "name": "Pastellpink",
+                    "hex": "d89d9d"
+                },{
+                    "name": "Pastellblau",
+                    "hex": "7ab4f3"
+                },{
+                    "name": "Transparent",
+                    "hex": "ffffff"
+                },{
+                    "name": "Transparent Rot",
+                    "hex": "c50000"
+                },{
+                    "name": "Transparent Grün",
+                    "hex": "00b01d"
+                },{
+                    "name": "Transparent Blau",
+                    "hex": "0039bf"
+                },{
+                    "name": "Transparent Gelb",
+                    "hex": "deae00"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PCTG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 231
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Weiß",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },{
+                    "name": "Dunkelgrau",
+                    "hex": "484848"
+                },{
+                    "name": "Silber",
+                    "hex": "cecece"
+                },{
+                    "name": "Bronze",
+                    "hex": "a69059"
+                },{
+                    "name": "Dunkelblau",
+                    "hex": "002351"
+                },{
+                    "name": "Hellblau",
+                    "hex": "017cff"
+                },{
+                    "name": "Hellgrün",
+                    "hex": "65c525"
+                },{
+                    "name": "Dunkelgrün",
+                    "hex": "258b01"
+                },{
+                    "name": "Neon Orange",
+                    "hex": "ff6600"
+                },{
+                    "name": "Rot",
+                    "hex": "d80000"
+                },{
+                    "name": "Pastellpink",
+                    "hex": "d89d9d"
+                },{
+                    "name": "Pastellblau",
+                    "hex": "7ab4f3"
+                },{
+                    "name": "Transparent",
+                    "hex": "ffffff"
+                },{
+                    "name": "Transparent Rot",
+                    "hex": "c50000"
+                },{
+                    "name": "Transparent Grün",
+                    "hex": "00b01d"
+                },{
+                    "name": "Transparent Blau",
+                    "hex": "0039bf"
+                },{
+                    "name": "Transparent Gelb",
+                    "hex": "deae00"
+                }
+            ]
+        }
+    ]
+}
