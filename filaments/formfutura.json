@@ -46,8 +46,14 @@
                 1.75,
                 2.85
             ],
-            "extruder_temp": 210,
-            "bed_temp": 55,
+            "extruder_temp_range": [
+                200,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                60
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -196,8 +202,14 @@
                 1.75,
                 2.85
             ],
-            "extruder_temp": 210,
-            "bed_temp": 55,
+            "extruder_temp_range": [
+                200,
+                220
+            ],
+            "bed_temp_range": [
+                50,
+                60
+            ],
             "colors": [
                 {
                     "name": "Traffic Black",

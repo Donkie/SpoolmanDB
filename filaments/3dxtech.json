@@ -529,7 +529,7 @@
         },
         {
             "name": "3DXMAX™ {color_name}",
-            "material": "PC/ABS",
+            "material": "PC+ABS",
             "density": 1.14,
             "weights": [
                 {
