@@ -1,0 +1,136 @@
+{
+    "manufacturer": "3DJAKE",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 231
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },{
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Dark Gray",
+                    "hex": "484848"
+                },{
+                    "name": "Silver",
+                    "hex": "cecece"
+                },{
+                    "name": "Bronze",
+                    "hex": "a69059"
+                },{
+                    "name": "Dark Blue",
+                    "hex": "002351"
+                },{
+                    "name": "Sky Blue",
+                    "hex": "017cff"
+                },{
+                    "name": "Light Green",
+                    "hex": "65c525"
+                },{
+                    "name": "Neon Orange",
+                    "hex": "ff6600"
+                },{
+                    "name": "Red",
+                    "hex": "d80000"
+                },{
+                    "name": "Neon Yellow",
+                    "hex": "c4ff03"
+                },{
+                    "name": "Pastell pink",
+                    "hex": "d89d9d"
+                },{
+                    "name": "Pastel blue",
+                    "hex": "7ab4f3"
+                },{
+                    "name": "Transparent",
+                    "hex": "ffffff"
+                },{
+                    "name": "Red Transparent",
+                    "hex": "c50000"
+                },{
+                    "name": "Green Transparent",
+                    "hex": "00b01d"
+                },{
+                    "name": "Blue Transparent",
+                    "hex": "0039bf"
+                },{
+                    "name": "Yellow Transparent",
+                    "hex": "deae00"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PCTG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 231
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },{
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Silver",
+                    "hex": "cecece"
+                },{
+                    "name": "Dark Blue",
+                    "hex": "002351"
+                },{
+                    "name": "Light Blue",
+                    "hex": "017cff"
+                },{
+                    "name": "Light Green",
+                    "hex": "65c525"
+                },{
+                    "name": "Dark Green",
+                    "hex": "036606"
+                },{
+                    "name": "Red",
+                    "hex": "d80000"
+                },{
+                    "name": "Transparent",
+                    "hex": "ffffff"
+                },{
+                    "name": "Transparent Red",
+                    "hex": "c50000"
+                },{
+                    "name": "Transparent Green",
+                    "hex": "00b01d"
+                },{
+                    "name": "Transparent Blue",
+                    "hex": "0039bf"
+                },{
+                    "name": "Transparent Yellow",
+                    "hex": "deae00"
+                }
+            ]
+        }
+    ]
+}
