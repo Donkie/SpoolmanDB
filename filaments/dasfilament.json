@@ -1,0 +1,605 @@
+{
+    "manufacturer": "eSun",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Schwarz matt",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gold V2",
+                    "hex": "dddd00",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Anthrazit V2",
+                    "hex": "313131",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Blue Pearl",
+                    "hexes": [
+                        "000000",
+                        "03292c"
+                    ],
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Grüngold",
+                    "hexes": [
+                        "000000",
+                        "2c2c0a"
+                    ],
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Tonweiß matt",
+                    "hex": "fff0f0",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Metallic Rot",
+                    "hex": "b11111",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Toms3D Infinity Blue",
+                    "hex": "007fd4"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "ca004d"
+                },
+                {
+                    "name": "Kirschrot",
+                    "hex": "e70000"
+                },
+                {
+                    "name": "Transluzent Blau",
+                    "hex": "2437b9",
+                    "translucent": true
+                },
+                {
+                    "name": "DAS FILAMENT Grün",
+                    "hex": "85ff58"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "3a2918",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Silber",
+                    "hex": "a2a2a2",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Thermo-Rot",
+                    "hex": "bd0000"
+                },
+                {
+                    "name": "Neonorange",
+                    "hex": "ff5500"
+                },
+                {
+                    "name": "Feuerrot",
+                    "hex": "d81919"
+                },
+                {
+                    "name": "Königsblau",
+                    "hex": "040ea3"
+                },
+                {
+                    "name": "Grasgrün",
+                    "hex": "35934b"
+                },
+                {
+                    "name": "Reinorange",
+                    "hex": "ca4000"
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Tannengrün",
+                    "hex": "23514f"
+                },
+                {
+                    "name": "Transluzent Grün",
+                    "hex": "44b49c",
+                    "translucent": true
+                },
+                {
+                    "name": "Himmelblau",
+                    "hex": "1361ab"
+                },
+                {
+                    "name": "Grau",
+                    "hex": "797979"
+                },
+                {
+                    "name": "Kastanienbraun",
+                    "hex": "6a1904"
+                },
+                {
+                    "name": "Sonnengelb",
+                    "hex": "ffd500"
+                },
+                {
+                    "name": "Natur",
+                    "hex": "fffbc9",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} - Refill",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Schwarz matt",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gold V2",
+                    "hex": "dddd00",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Anthrazit V2",
+                    "hex": "313131",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Blue Pearl",
+                    "hexes": [
+                        "000000",
+                        "03292c"
+                    ],
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Grüngold",
+                    "hexes": [
+                        "000000",
+                        "2c2c0a"
+                    ],
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Tonweiß matt",
+                    "hex": "fff0f0",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Metallic Rot",
+                    "hex": "b11111",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Toms3D Infinity Blue",
+                    "hex": "007fd4"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "ca004d"
+                },
+                {
+                    "name": "Kirschrot",
+                    "hex": "e70000"
+                },
+                {
+                    "name": "Transluzent Blau",
+                    "hex": "2437b9",
+                    "translucent": true
+                },
+                {
+                    "name": "DAS FILAMENT Grün",
+                    "hex": "85ff58"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "3a2918",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Silber",
+                    "hex": "a2a2a2",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Thermo-Rot",
+                    "hex": "bd0000"
+                },
+                {
+                    "name": "Neonorange",
+                    "hex": "ff5500"
+                },
+                {
+                    "name": "Feuerrot",
+                    "hex": "d81919"
+                },
+                {
+                    "name": "Königsblau",
+                    "hex": "040ea3"
+                },
+                {
+                    "name": "Grasgrün",
+                    "hex": "35934b"
+                },
+                {
+                    "name": "Reinorange",
+                    "hex": "ca4000"
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Tannengrün",
+                    "hex": "23514f"
+                },
+                {
+                    "name": "Transluzent Grün",
+                    "hex": "44b49c",
+                    "translucent": true
+                },
+                {
+                    "name": "Himmelblau",
+                    "hex": "1361ab"
+                },
+                {
+                    "name": "Grau",
+                    "hex": "797979"
+                },
+                {
+                    "name": "Kastanienbraun",
+                    "hex": "6a1904"
+                },
+                {
+                    "name": "Sonnengelb",
+                    "hex": "ffd500"
+                },
+                {
+                    "name": "Natur",
+                    "hex": "fffbc9",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 75,
+            "colors": [
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Flammschutz Schwarz",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Alu-silber",
+                    "hex": "afafa9",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Silber",
+                    "hex": "bdbdbd",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Anthrazit V2",
+                    "hex": "313131",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "bda791"
+                }
+                ,
+                {
+                    "name": "Militär-Grün",
+                    "hex": "394807"
+                },
+                {
+                    "name": "Burnt Copper",
+                    "hex": "9d3707",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Sturmgrau",
+                    "hex": "434343"
+                },
+                {
+                    "name": "Metallic Blau",
+                    "hex": "002f68",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Lila",
+                    "hex": "8804ad"
+                },
+                {
+                    "name": "Rubinrot",
+                    "hex": "8b2411"
+                },
+                {
+                    "name": "Transparent Blau",
+                    "hex": "2437b9",
+                    "translucent": true
+                },
+                {
+                    "name": "Melonengelb",
+                    "hex": "bc6831"
+                },
+                {
+                    "name": "Maisgelb",
+                    "hex": "bc9624"
+                },
+                {
+                    "name": "Transparent Rot",
+                    "hex": "be0000",
+                    "translucent": true
+                },
+                {
+                    "name": "Transl. Wassergrün",
+                    "hex": "00d4d4",
+                    "translucent": true
+                },
+                {
+                    "name": "Transluzent Neongrün",
+                    "hex": "00ff33",
+                    "translucent": true
+                },
+                {
+                    "name": "Transluzent Neongelb",
+                    "hex": "e6ff00",
+                    "translucent": true
+                },
+                {
+                    "name": "Leuchtorange",
+                    "hex": "f05000"
+                },
+                {
+                    "name": "Feuerrot",
+                    "hex": "d81919"
+                },
+                {
+                    "name": "Opalgrün",
+                    "hex": "004747"
+                },
+                {
+                    "name": "Grasgrün",
+                    "hex": "35934b"
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Transparent Neongrün",
+                    "hex": "00ff33",
+                    "translucent": true
+                },
+                {
+                    "name": "Schiefergrau",
+                    "hex": "484848"
+                },
+                {
+                    "name": "Blau",
+                    "hex": "006ace"
+                },
+                {
+                    "name": "Saphirblau",
+                    "hex": "02224d"
+                },
+                {
+                    "name": "Natur",
+                    "hex": "ffffff",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} - Refill",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 75,
+            "colors": [
+                {
+                    "name": "Schwarz",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Flammschutz Schwarz",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Alu-silber",
+                    "hex": "afafa9",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Silber",
+                    "hex": "bdbdbd",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Anthrazit V2",
+                    "hex": "313131",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "bda791"
+                }
+                ,
+                {
+                    "name": "Militär-Grün",
+                    "hex": "394807"
+                },
+                {
+                    "name": "Burnt Copper",
+                    "hex": "9d3707",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Sturmgrau",
+                    "hex": "434343"
+                },
+                {
+                    "name": "Metallic Blau",
+                    "hex": "002f68",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Lila",
+                    "hex": "8804ad"
+                },
+                {
+                    "name": "Rubinrot",
+                    "hex": "8b2411"
+                },
+                {
+                    "name": "Transparent Blau",
+                    "hex": "2437b9",
+                    "translucent": true
+                },
+                {
+                    "name": "Melonengelb",
+                    "hex": "bc6831"
+                },
+                {
+                    "name": "Maisgelb",
+                    "hex": "bc9624"
+                },
+                {
+                    "name": "Transparent Rot",
+                    "hex": "be0000",
+                    "translucent": true
+                },
+                {
+                    "name": "Transl. Wassergrün",
+                    "hex": "00d4d4",
+                    "translucent": true
+                },
+                {
+                    "name": "Transluzent Neongrün",
+                    "hex": "00ff33",
+                    "translucent": true
+                },
+                {
+                    "name": "Transluzent Neongelb",
+                    "hex": "e6ff00",
+                    "translucent": true
+                },
+                {
+                    "name": "Leuchtorange",
+                    "hex": "f05000"
+                },
+                {
+                    "name": "Feuerrot",
+                    "hex": "d81919"
+                },
+                {
+                    "name": "Opalgrün",
+                    "hex": "004747"
+                },
+                {
+                    "name": "Grasgrün",
+                    "hex": "35934b"
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Transparent Neongrün",
+                    "hex": "00ff33",
+                    "translucent": true
+                },
+                {
+                    "name": "Schiefergrau",
+                    "hex": "484848"
+                },
+                {
+                    "name": "Blau",
+                    "hex": "006ace"
+                },
+                {
+                    "name": "Saphirblau",
+                    "hex": "02224d"
+                },
+                {
+                    "name": "Natur",
+                    "hex": "ffffff",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}
