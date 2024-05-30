@@ -1,5 +1,5 @@
 {
-    "manufacturer": "eSun",
+    "manufacturer": "Das Filament",
     "filaments": [
         {
             "name": "{color_name}",
@@ -37,22 +37,6 @@
                     "finish": "glossy"
                 },
                 {
-                    "name": "Blue Pearl",
-                    "hexes": [
-                        "000000",
-                        "03292c"
-                    ],
-                    "pattern": "sparkle"
-                },
-                {
-                    "name": "Grüngold",
-                    "hexes": [
-                        "000000",
-                        "2c2c0a"
-                    ],
-                    "pattern": "sparkle"
-                },
-                {
                     "name": "Tonweiß matt",
                     "hex": "fff0f0",
                     "finish": "matte"
@@ -76,7 +60,7 @@
                 },
                 {
                     "name": "Transluzent Blau",
-                    "hex": "2437b9",
+                    "hex": "2437b988",
                     "translucent": true
                 },
                 {
@@ -127,7 +111,7 @@
                 },
                 {
                     "name": "Transluzent Grün",
-                    "hex": "44b49c",
+                    "hex": "44b49c88",
                     "translucent": true
                 },
                 {
@@ -148,7 +132,7 @@
                 },
                 {
                     "name": "Natur",
-                    "hex": "fffbc9",
+                    "hex": "fffbc988",
                     "translucent": true
                 }
             ]
@@ -189,22 +173,6 @@
                     "finish": "glossy"
                 },
                 {
-                    "name": "Blue Pearl",
-                    "hexes": [
-                        "000000",
-                        "03292c"
-                    ],
-                    "pattern": "sparkle"
-                },
-                {
-                    "name": "Grüngold",
-                    "hexes": [
-                        "000000",
-                        "2c2c0a"
-                    ],
-                    "pattern": "sparkle"
-                },
-                {
                     "name": "Tonweiß matt",
                     "hex": "fff0f0",
                     "finish": "matte"
@@ -228,7 +196,7 @@
                 },
                 {
                     "name": "Transluzent Blau",
-                    "hex": "2437b9",
+                    "hex": "2437b988",
                     "translucent": true
                 },
                 {
@@ -279,7 +247,7 @@
                 },
                 {
                     "name": "Transluzent Grün",
-                    "hex": "44b49c",
+                    "hex": "44b49c88",
                     "translucent": true
                 },
                 {
@@ -300,7 +268,7 @@
                 },
                 {
                     "name": "Natur",
-                    "hex": "fffbc9",
+                    "hex": "fffbc988",
                     "translucent": true
                 }
             ]
@@ -378,7 +346,7 @@
                 },
                 {
                     "name": "Transparent Blau",
-                    "hex": "2437b9",
+                    "hex": "2437b922",
                     "translucent": true
                 },
                 {
@@ -391,22 +359,22 @@
                 },
                 {
                     "name": "Transparent Rot",
-                    "hex": "be0000",
+                    "hex": "be000022",
                     "translucent": true
                 },
                 {
                     "name": "Transl. Wassergrün",
-                    "hex": "00d4d4",
+                    "hex": "00d4d488",
                     "translucent": true
                 },
                 {
                     "name": "Transluzent Neongrün",
-                    "hex": "00ff33",
+                    "hex": "00ff3388",
                     "translucent": true
                 },
                 {
                     "name": "Transluzent Neongelb",
-                    "hex": "e6ff00",
+                    "hex": "e6ff0088",
                     "translucent": true
                 },
                 {
@@ -431,7 +399,7 @@
                 },
                 {
                     "name": "Transparent Neongrün",
-                    "hex": "00ff33",
+                    "hex": "00ff3322",
                     "translucent": true
                 },
                 {
@@ -448,7 +416,7 @@
                 },
                 {
                     "name": "Natur",
-                    "hex": "ffffff",
+                    "hex": "ffffff22",
                     "translucent": true
                 }
             ]
@@ -526,7 +494,7 @@
                 },
                 {
                     "name": "Transparent Blau",
-                    "hex": "2437b9",
+                    "hex": "2437b922",
                     "translucent": true
                 },
                 {
@@ -539,22 +507,22 @@
                 },
                 {
                     "name": "Transparent Rot",
-                    "hex": "be0000",
+                    "hex": "be000022",
                     "translucent": true
                 },
                 {
                     "name": "Transl. Wassergrün",
-                    "hex": "00d4d4",
+                    "hex": "00d4d488",
                     "translucent": true
                 },
                 {
                     "name": "Transluzent Neongrün",
-                    "hex": "00ff33",
+                    "hex": "00ff3388",
                     "translucent": true
                 },
                 {
                     "name": "Transluzent Neongelb",
-                    "hex": "e6ff00",
+                    "hex": "e6ff0088",
                     "translucent": true
                 },
                 {
@@ -579,7 +547,7 @@
                 },
                 {
                     "name": "Transparent Neongrün",
-                    "hex": "00ff33",
+                    "hex": "00ff3322",
                     "translucent": true
                 },
                 {
@@ -596,7 +564,7 @@
                 },
                 {
                     "name": "Natur",
-                    "hex": "ffffff",
+                    "hex": "ffffff22",
                     "translucent": true
                 }
             ]
