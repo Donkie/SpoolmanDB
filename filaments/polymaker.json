@@ -4,6 +4,7 @@
         {
             "name": "PolySonic™ {color_name}",
             "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polysonic-pla",
             "density": 1.23,
             "weights": [
                 {
@@ -16,52 +17,12 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 50,
-            "colors": [
-                {
-                    "name": "White",
-                    "hex": "eaece7"
-                },
-                {
-                    "name": "Black",
-                    "hex": "2c3232"
-                },
-                {
-                    "name": "Grey",
-                    "hex": "a6b3b9"
-                },
-                {
-                    "name": "Blue",
-                    "hex": "244ba2"
-                },
-                {
-                    "name": "Red",
-                    "hex": "e3343e"
-                },
-                {
-                    "name": "Yellow",
-                    "hex": "f7dd3c"
-                },
-                {
-                    "name": "Orange",
-                    "hex": "ef9c50"
-                },
-                {
-                    "name": "Purple",
-                    "hex": "837ad8"
-                },
-                {
-                    "name": "Teal",
-                    "hex": "4bc5bc"
-                },
-                {
-                    "name": "Green",
-                    "hex": "37bc53"
-                }
-            ]
+            "colors": []
         },
         {
             "name": "PolyLite™ Dual Silk {color_name}",
             "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polylite-dual-silk-pla",
             "density": 1.17,
             "weights": [
                 {
@@ -145,6 +106,7 @@
         {
             "name": "PolyTerra™ {color_name}",
             "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polyterra-pla",
             "density": 1.24,
             "weights": [
                 {
@@ -162,152 +124,60 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 50,
-            "colors": [
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
                 {
-                    "name": "Charcoal Black",
-                    "hex": "1c1c1c"
+                    "weight": 1000,
+                    "spool_weight": 140
                 },
                 {
-                    "name": "Cotton White",
-                    "hex": "e6dddb"
+                    "weight": 3000,
+                    "spool_weight": 425
                 },
                 {
-                    "name": "Army Beige",
-                    "hex": "cca897"
-                },
-                {
-                    "name": "Army Brown",
-                    "hex": "724e3d"
-                },
-                {
-                    "name": "Earth Brown",
-                    "hex": "623e2a"
-                },
-                {
-                    "name": "Muted White",
-                    "hex": "afa198"
-                },
-                {
-                    "name": "Pastel Peanut",
-                    "hex": "c29572"
-                },
-                {
-                    "name": "Wood Brown",
-                    "hex": "ad7441"
-                },
-                {
-                    "name": "Pastel Peach",
-                    "hex": "f2b67a"
-                },
-                {
-                    "name": "Sunrise Orange",
-                    "hex": "f78e0e"
-                },
-                {
-                    "name": "Pastel Banana",
-                    "hex": "f5cf6f"
-                },
-                {
-                    "name": "Army Light Green",
-                    "hex": "a78403"
-                },
-                {
-                    "name": "Savannah Yellow",
-                    "hex": "f0be02"
-                },
-                {
-                    "name": "Lime Green",
-                    "hex": "d0e740"
-                },
-                {
-                    "name": "Army Dark Green",
-                    "hex": "515234"
-                },
-                {
-                    "name": "Pastel Mint",
-                    "hex": "bec9a5"
-                },
-                {
-                    "name": "Muted Green",
-                    "hex": "656d60"
-                },
-                {
-                    "name": "Forest Green",
-                    "hex": "519f61"
-                },
-                {
-                    "name": "Arctic Teal",
-                    "hex": "5aabb1"
-                },
-                {
-                    "name": "Pastel Ice",
-                    "hex": "95c5d3"
-                },
-                {
-                    "name": "Sapphire Blue",
-                    "hex": "005aa2"
-                },
-                {
-                    "name": "Army Blue",
-                    "hex": "062b4d"
-                },
-                {
-                    "name": "Muted Blue",
-                    "hex": "4e6a84"
-                },
-                {
-                    "name": "Fossil Grey",
-                    "hex": "6f727e"
-                },
-                {
-                    "name": "Lavender Purple",
-                    "hex": "8a68b5"
-                },
-                {
-                    "name": "Muted Purple",
-                    "hex": "7c5577"
-                },
-                {
-                    "name": "Pastel Candy",
-                    "hex": "dabcc8"
-                },
-                {
-                    "name": "Sakura Pink",
-                    "hex": "e0a8bb"
-                },
-                {
-                    "name": "Pastel Watermelon",
-                    "hex": "e93a3f"
-                },
-                {
-                    "name": "Lava Red",
-                    "hex": "de1619"
-                },
-                {
-                    "name": "Army Red",
-                    "hex": "ac1a17"
-                },
-                {
-                    "name": "Muted Red",
-                    "hex": "db3e14"
-                },
-                {
-                    "name": "Army Purple",
-                    "hex": "ffffff"
-                },
-                {
-                    "name": "Ash Grey",
-                    "hex": "ffffff"
-                },
-                {
-                    "name": "Electric Indigo",
-                    "hex": "ffffff"
-                },
-                {
-                    "name": "Pastel Periwinkle",
-                    "hex": "ffffff"
+                    "weight": 5000,
+                    "spool_weight": 819
                 }
-            ]
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-asa",
+            "material": "ASA",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 95,
+            "colors": []
         }
     ]
 }
