@@ -608,9 +608,28 @@
             "colors": []
         },
         {
-            "name": "Polymaker™ PBT {color_name}",
+            "name": "Polymaker™ {color_name}",
             "product_url": "https://us.polymaker.com/products/polymaker-pc-pbt",
-            "material": "PC-PBT",
+            "material": "PC+ABS",
+            "density": 1.10,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": []
+        },
+        {
+            "name": "Polymaker™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymaker-pc-pbt",
+            "material": "PC+PBT",
             "density": 1.20,
             "weights": [
                 {
@@ -629,7 +648,7 @@
         {
             "name": "Polymide™ {color_name}",
             "product_url": "https://us.polymaker.com/products/polymide-co-pa",
-            "material": "CoPA",
+            "material": "PA6+PA66",
             "density": 1.12,
             "weights": [
                 {
@@ -738,9 +757,9 @@
             "colors": []
         },
         {
-            "name": "PolyFlex™ 90 {color_name}",
+            "name": "PolyFlex™ {color_name}",
             "product_url": "https://us.polymaker.com/products/polyflex-tpu90",
-            "material": "TPU",
+            "material": "TPU-90A",
             "density": 1.12,
             "weights": [
                 {
@@ -757,9 +776,9 @@
             "colors": []
         },
         {
-            "name": "PolyFlex™ 95 {color_name}",
+            "name": "PolyFlex™ {color_name}",
             "product_url": "https://us.polymaker.com/products/polyflex-tpu95",
-            "material": "TPU",
+            "material": "TPU-95A",
             "density": 1.22,
             "weights": [
                 {
@@ -776,9 +795,9 @@
             "colors": []
         },
         {
-            "name": "PolyFlex™ 95-HF {color_name}",
+            "name": "PolyFlex™ HF {color_name}",
             "product_url": "https://us.polymaker.com/products/polyflex-tpu95-hf",
-            "material": "TPU",
+            "material": "TPU-95A",
             "density": 1.16,
             "weights": [
                 {
