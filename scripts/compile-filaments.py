@@ -5,7 +5,8 @@ import json
 from pathlib import Path
 from typing import Iterator
 from typing import TypedDict, NotRequired
-
+import requests
+from bs4 import BeautifulSoup
 
 class SpoolType(StrEnum):
     PLASTIC = "plastic"
@@ -95,6 +96,7 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
     """Expands the given filament data by generating multiple filament objects based on the weights, diameters, and colors."""
     name = data["name"]
     material = data["material"]
+    product_url = data.get("product_url", None)
     density = data["density"]
     weights = data["weights"]
     diameters = data["diameters"]
@@ -108,6 +110,8 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
     pattern = data.get("pattern", None)
     translucent = data.get("translucent", False)
     glow = data.get("glow", False)
+    if(manufacturer == "Polymaker" and product_url != None and len(colors) == 0):
+        colors = new_polymaker_color_array(get_polymaker_colors(product_url))
 
     for weight_obj in weights:
         weight = weight_obj["weight"]
@@ -194,6 +198,44 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "glow": color_glow,
                 }
 
+def split_polymaker_filament_name(raw_name):
+    # Replace unicode hash with ASCII hash
+    raw_name = raw_name.replace("⌗", "#")
+    
+    # Extract color and hex code
+    color = raw_name.split("(")[0].strip()
+    if "#" in raw_name:
+        hex_code = raw_name[raw_name.index("#") + 1:raw_name.index("#")+7].lower()
+    else:
+        hex_code = "ffffff"
+    
+    filament_info = {
+        "name": color,
+        "hex": hex_code
+    }
+    
+    return filament_info
+
+def new_polymaker_color_array(raw_names):
+    colors = []
+    for name in raw_names:
+        colors.append(split_polymaker_filament_name(name))
+    return colors
+
+def get_polymaker_colors(url):
+    response = requests.get(url)
+    html_content = response.text
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    elements = soup.select(".color-swatch__radio")
+
+    values = [element["value"] for element in elements]
+    return values
+
+def read_json(file_path):
+    with open(file_path, "r", encoding='utf-8') as file:
+        return json.load(file)
 
 def get_filaments_from_data(data: dict) -> Iterator[dict]:
     """Retrieves filaments from the provided data, assigns the manufacturer to each filament, and returns the list of filaments."""
