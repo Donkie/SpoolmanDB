@@ -20,6 +20,177 @@
             "colors": []
         },
         {
+            "name": "PolySonic™ Pro {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polysonic-pla-pro",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyTerra™ {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polyterra-pla",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyTerra™ Marble {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polyterra-marble-pla",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyTerra™ Satin+ {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polyterra-pla-plus",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ Pro {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polylite-pla-pro",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ Metallic Pro {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polylite-pla-pro",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ Silk {color_name}",
+            "material": "PLA",
+            "product_url": "https://us.polymaker.com/products/polylite-silk-pla",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "finish": "glossy",
+            "colors": []
+        },
+        {
             "name": "PolyLite™ Dual Silk {color_name}",
             "material": "PLA",
             "product_url": "https://us.polymaker.com/products/polylite-dual-silk-pla",
@@ -104,59 +275,65 @@
             ]
         },
         {
-            "name": "PolyTerra™ {color_name}",
+            "name": "PolyLite™ Galaxy {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-galaxy-pla",
             "material": "PLA",
-            "product_url": "https://us.polymaker.com/products/polyterra-pla",
-            "density": 1.24,
+            "density": 1.19,
             "weights": [
                 {
                     "weight": 1000,
                     "spool_weight": 140
-                },
-                {
-                    "weight": 3000,
-                    "spool_weight": 425
                 }
             ],
             "diameters": [
-                1.75,
-                2.85
+                1.75
             ],
             "extruder_temp": 210,
+            "bed_temp": 50,
+            "finish": "glossy",
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ LW {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-lw-pla",
+            "material": "PLA",
+            "density": 0.80,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 200,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ CF {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-pla-cf",
+            "material": "PLA",
+            "density": 0.80,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
             "bed_temp": 50,
             "colors": []
         },
         {
             "name": "PolyLite™ {color_name}",
-            "material": "PLA",
-            "density": 1.24,
-            "weights": [
-                {
-                    "weight": 1000,
-                    "spool_weight": 140
-                },
-                {
-                    "weight": 3000,
-                    "spool_weight": 425
-                },
-                {
-                    "weight": 5000,
-                    "spool_weight": 819
-                }
-            ],
-            "diameters": [
-                1.75,
-                2.85
-            ],
-            "extruder_temp": 210,
-            "bed_temp": 50,
-            "colors": []
-        },
-        {
-            "name": "PolyLite™ {color_name}",
-            "product_url": "https://us.polymaker.com/products/polylite-asa",
-            "material": "ASA",
-            "density": 1.05,
+            "product_url": "https://us.polymaker.com/products/polylite-abs",
+            "material": "ABS",
+            "density": 1.12,
             "weights": [
                 {
                     "weight": 1000,
@@ -177,6 +354,462 @@
             ],
             "extruder_temp": 250,
             "bed_temp": 95,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ Metallic {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-abs-metallic",
+            "material": "ABS",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 95,
+            "finish": "glossy",
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-petg",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 70,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ Translucent {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-translucent-petg",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 70,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-pc",
+            "material": "PC",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 90,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ TPU {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-tpu",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyLite™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polylite-asa",
+            "material": "ASA",
+            "density": 1.13,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                },
+                {
+                    "weight": 5000,
+                    "spool_weight": 819
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 95,
+            "colors": []
+        },
+        {
+            "name": "Polymax™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymax-pla",
+            "material": "PLA",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "Polymax™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymax-petg",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 70,
+            "colors": []
+        },
+        {
+            "name": "Polymax™ ESD {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymax-petg-esd",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 190
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 70,
+            "colors": []
+        },
+        {
+            "name": "Polymax™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymax-pc",
+            "material": "PC",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 425
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": []
+        },
+        {
+            "name": "Polymax™ FR {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymax-pc-fr",
+            "material": "PC",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": []
+        },
+        {
+            "name": "Polymaker™ PBT {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymaker-pc-pbt",
+            "material": "PC-PBT",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 110,
+            "colors": []
+        },
+        {
+            "name": "Polymide™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymide-co-pa",
+            "material": "CoPA",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 40,
+            "colors": []
+        },
+        {
+            "name": "Polymide™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymide-pa6-gf",
+            "material": "PA6-GF",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 190
+                },
+                {
+                    "weight": 2000,
+                    "spool_weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 290,
+            "bed_temp": 40,
+            "colors": []
+        },
+        {
+            "name": "Polymide™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymide-pa6-cf",
+            "material": "PA6-CF",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 190
+                },
+                {
+                    "weight": 2000,
+                    "spool_weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 290,
+            "bed_temp": 40,
+            "colors": []
+        },
+        {
+            "name": "Polymide™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymide-pa612-cf",
+            "material": "PA612-CF",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 190
+                },
+                {
+                    "weight": 2000,
+                    "spool_weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 290,
+            "bed_temp": 40,
+            "colors": []
+        },
+        {
+            "name": "Polymide™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polymide-pa12-cf",
+            "material": "PA12-CF",
+            "density": 1.06,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 190
+                },
+                {
+                    "weight": 2000,
+                    "spool_weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 280,
+            "bed_temp": 40,
+            "colors": []
+        },
+        {
+            "name": "PolyFlex™ 90 {color_name}",
+            "product_url": "https://us.polymaker.com/products/polyflex-tpu90",
+            "material": "TPU",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyFlex™ 95 {color_name}",
+            "product_url": "https://us.polymaker.com/products/polyflex-tpu95",
+            "material": "TPU",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolyFlex™ 95-HF {color_name}",
+            "product_url": "https://us.polymaker.com/products/polyflex-tpu95-hf",
+            "material": "TPU",
+            "density": 1.16,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": []
+        },
+        {
+            "name": "PolySmooth™ {color_name}",
+            "product_url": "https://us.polymaker.com/products/polysmooth",
+            "material": "PVA",
+            "density": 1.10,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 125
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 200,
+            "bed_temp": 60,
             "colors": []
         }
     ]
