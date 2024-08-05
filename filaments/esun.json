@@ -226,6 +226,88 @@
                     "hex": "3e1750"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS+",
+            "density": 1.06,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "111214"
+                },
+                {
+                    "name": "Cold White",
+                    "hex": "dbdbdd"
+                },
+                {
+                    "name": "Solid Grey", 
+                    "hex": "435a83"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "beb8ac"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "153a66"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "eae412"
+                },
+                {
+                    "name": "Brown", 
+                    "hex": "5b4337"
+                },
+                {
+                    "name": "Green",
+                    "hex": "00ab84"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "e89746"
+                },
+                {
+                    "name": "Red",
+                    "hex": "d12a31"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "797876"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "0097b7"
+                },
+                {
+                    "name": "Peak Green",
+                    "hex": "4da036"
+                },
+                {
+                    "name": "Pine Green",
+                    "hex": "244435"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "eb586a"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "952428"
+                }
+            ]
         }
     ]
 }
