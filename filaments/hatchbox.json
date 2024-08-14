@@ -1,0 +1,71 @@
+{
+    "manufacturer": "Hatchbox",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 251
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Red",
+                    "hex": "DD2721"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "919391"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "86D553"
+                },
+                {
+                    "name": "Green",
+                    "hex": "0D8D43"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "D76294"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "86D553"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "86D553"
+                },
+                {
+                    "name": "Red",
+                    "hex": "DD2721"
+                },
+                {
+                    "name": "Transparent Light Blue",
+                    "hex": "007992",
+                    "translucent": true
+                },
+                {
+                    "name": "Transparent Green",
+                    "hex": "79936C",
+                    "translucent": true
+                },
+                {
+                    "name": "Transparent Red",
+                    "hex": "9A232D",
+                    "translucent": true
+                }
+                
+            ]
+        }
+    ]
+}
