@@ -1,0 +1,54 @@
+{
+    "manufacturer": "Printy Please",
+    "filaments": [
+         {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 190
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 105,
+            "pattern": "sparkle",
+            "colors": [
+                {
+                    "name": "Cheshire Purple",
+                    "hex": "984983"
+                },
+                {
+                    "name": "Jungle Prowler Green",
+                    "hex": "005737"
+                },
+                {
+                    "name": "Mouse Blood Red",
+                    "hex": "D94A3E"
+                },
+                {
+                    "name": "Nebelung Grey",
+                    "hex": "908F8D"
+                },
+                {
+                    "name": "Persian Pink",
+                    "hex": "CC669A"
+                },
+                {
+                    "name": "Salem Black",
+                    "hex": "4C473F"
+                },
+
+                {
+                    "name": "Void Black",
+                    "hex": "000000"
+
+                }
+            ]
+        }
+    ]
+}
