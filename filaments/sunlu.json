@@ -22,6 +22,28 @@
                     "hex": "16BA36"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 124
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 105,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "3A3C3B"
+                }
+            ]
         }
     ]
 }
