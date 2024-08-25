@@ -90,5 +90,11 @@
     {
         "material": "PPSU",
         "density": 1.37
+    },
+    {
+        "material": "ABS+",
+        "density": 1.06,
+        "extruder_temp": 240,
+        "bed_temp": 100
     }
 ]
