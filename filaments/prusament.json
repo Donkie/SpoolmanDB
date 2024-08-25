@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 205.0
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -18,8 +19,69 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "Anthracite",
+                    "name": "Matte Black",
+                    "hex": "303635"
+                },
+                {
+                    "name": "Anthracite Grey",
                     "hex": "3F4647"
+                },
+                {
+                    "name": "Galaxy Black",
+                    "hex": "3D3E3D"
+                },
+                {
+                    "name": "Urban Grey",
+                    "hex": "999596"
+                },
+                {
+                    "name": "Chalky Blue",
+                    "hex": "6F9AAA"
+                },
+                {
+                    "name": "Jungle Green",
+                    "hex": "007249"
+                },
+                {
+                    "name": "Neon Green Transparent",
+                    "hex": "A6EC5F",
+                    "translucent": true
+                },
+                {
+                    "name": "Ocean Blue",
+                    "hex": "194C55"
+                },
+                {
+                    "name": "Pistachio Green",
+                    "hex": "93A683"
+                },
+                {
+                    "name": "Terracotta Light",
+                    "hex": "B87F6A"
+                },
+                {
+                    "name": "Yellow Gold",
+                    "hex": "9A8524"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EA5E1A"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "E3DFD9"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "D02F37"
+                },
+                {
+                    "name": "Mango Yellow",
+                    "hex": "F2B70A"
                 }
             ]
         }
