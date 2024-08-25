@@ -44,7 +44,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Compile filaments
-        run: python3 scripts/compile-filaments.py
+        run: python3 scripts/compile_filaments.py
       - uses: actions/upload-artifact@v4
         with:
           name: filaments
