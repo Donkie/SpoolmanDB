@@ -308,6 +308,76 @@
                     "hex": "952428"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU-95A",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "050503"
+                },
+                {
+                    "name": "White",
+                    "hex": "d0cbc2"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "777b7c"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "cdc1b1"
+                },
+                {
+                    "name": "Transparent Red",
+                    "hex": "982a2b"
+                },
+                {
+                    "name": "Transparent Yellow",
+                    "hex": "e5e002"
+                },
+                {
+                    "name": "Transparent Green",
+                    "hex": "02b31a"
+                },
+                {
+                    "name": "Tansparent Blue",
+                    "hex": "108edb"
+                },
+                {
+                    "name": "Transparent Pink",
+                    "hex": "d53857"
+                },
+                {
+                    "name": "Transparent Orange",
+                    "hex": "ff8126"
+                },
+                {
+                    "name": "Transparent Purple",
+                    "hex": "851d4e"
+                },
+                {
+                    "name": "Rainbow",
+                    "hex": "889874"
+                },
+                {
+                    "name": "Change by temp",
+                    "hex": "d93325"
+                }
+            ]
         }
     ]
 }
