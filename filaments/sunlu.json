@@ -44,6 +44,82 @@
                     "hex": "3A3C3B"
                 }
             ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "TPU",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 124,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 0,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Cream White",
+                    "hex": "F7F1D1"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "92CECC"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "1D2353"
+                },
+                {
+                    "name": "Burgundy",
+                    "hex": "3F2028"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 120.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "glow": true,
+            "colors": [
+                {
+                    "name": "White (Glow Green)",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White (Glow Blue)",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Yellow (Glow Yellow)",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Red (Glow Orange)",
+                    "hex": "FF0000"
+                }
+            ]
         }
     ]
 }
