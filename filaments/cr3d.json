@@ -244,7 +244,7 @@
     },
     {
       "name": "{color_name}",
-      "material": "ABS FibCR20",
+      "material": "ABS-FibCR20",
       "density": 1.18,
       "weights": [
         {
