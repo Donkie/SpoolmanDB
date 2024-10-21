@@ -2,7 +2,7 @@
   "manufacturer": "CR3D",
   "filaments": [
     {
-      "name": "{color_name}",
+      "name": "PETG {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "{color_name}",
+      "name": "ABS {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -243,8 +243,8 @@
       ]
     },
     {
-      "name": "{color_name}",
-      "material": "ABSFibCR20",
+      "name": "ABS FibCR20 {color_name}",
+      "material": "ABS+GF20",
       "density": 1.18,
       "weights": [
         {
