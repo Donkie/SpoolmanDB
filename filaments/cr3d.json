@@ -1,0 +1,304 @@
+{
+  "manufacturer": "CR3D",
+  "filaments": [
+    {
+      "name": "PETG {color_name}",
+      "material": "PETG",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 248
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 255,
+      "bed_temp": 80,
+      "colors": [
+        {
+          "name": "Carbon",
+          "hex": "515151"
+        },
+        {
+          "name": "Schwarz",
+          "hex": "1a1a1a"
+        },
+        {
+          "name": "Wasserblau",
+          "hex": "046b7a"
+        },
+        {
+          "name": "Leuchtgrün",
+          "hex": "418c00"
+        },
+        {
+          "name": "Signalweiss",
+          "hex": "e0e0e0"
+        },
+        {
+          "name": "Reinorange",
+          "hex": "ea5b2e"
+        },
+        {
+          "name": "Neon Grün",
+          "hex": "84d449"
+        },
+        {
+          "name": "Perlhellgrau",
+          "hex": "a3a3a5"
+        },
+        {
+          "name": "Black Magic",
+          "hex": "2c2827"
+        },
+        {
+          "name": "Rot",
+          "hex": "cf0b21"
+        },
+        {
+          "name": "Blau",
+          "hex": "0079d8"
+        },
+        {
+          "name": "HevORT Green",
+          "hex": "88a018"
+        },
+        {
+          "name": "Violett",
+          "hex": "5f5c86"
+        },
+        {
+          "name": "Gelb",
+          "hex": "f3d635"
+        },
+        {
+          "name": "Seidenweiß",
+          "hex": "efefef"
+        },
+        {
+          "name": "Anthrazitgrau",
+          "hex": "4e5059"
+        },
+        {
+          "name": "Bronze",
+          "hex": "4e382b"
+        },
+        {
+          "name": "Pink",
+          "hex": "b9485a"
+        },
+        {
+          "name": "Neonorange",
+          "hex": "ff4d2b"
+        },
+        {
+          "name": "Wasserblau Magic",
+          "hex": "046b7a",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Green Magic",
+          "hex": "4f7946",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Blue Magic",
+          "hex": "4b79cd",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Red Magic",
+          "hex": "9b3036",
+          "pattern": "sparkle"
+        }
+      ]
+    },
+    {
+      "name": "ABS {color_name}",
+      "material": "ABS",
+      "density": 1.05,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 231
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 260,
+      "bed_temp": 110,
+      "colors": [
+        {
+          "name": "Perlweiß",
+          "hex": "e1ddd1"
+        },
+        {
+          "name": "Schwarz",
+          "hex": "1a1a1a"
+        },
+        {
+          "name": "Carbon",
+          "hex": "515151"
+        },
+        {
+          "name": "Wasserblau",
+          "hex": "046b7a"
+        },
+        {
+          "name": "Neon Orange",
+          "hex": "ff4d2b"
+        },
+        {
+          "name": "Brilliantrot",
+          "hex": "b11b1c"
+        },
+        {
+          "name": "HevORT Green",
+          "hex": "88a018"
+        },
+        {
+          "name": "Neon Grün",
+          "hex": "84d449"
+        },
+        {
+          "name": "Anthrazitgrau",
+          "hex": "4e5059"
+        },
+        {
+          "name": "Silber",
+          "hex": "898783"
+        },
+        {
+          "name": "Hellblau",
+          "hex": "2f3e75"
+        },
+        {
+          "name": "Leuchtgrün",
+          "hex": "418c00"
+        },
+        {
+          "name": "Natur",
+          "hex": "c6bdb6"
+        },
+        {
+          "name": "Sonnengelb",
+          "hex": "e3af03"
+        },
+        {
+          "name": "Magenta",
+          "hex": "a2294c"
+        },
+        {
+          "name": "Violett",
+          "hex": "5f5c86"
+        },
+        {
+          "name": "Neon Gelb",
+          "hex": "bfc205"
+        },
+        {
+          "name": "Verkehrsgrün",
+          "hex": "197c49"
+        },
+        {
+          "name": "Wasserblau Magic",
+          "hex": "046b7a",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Olivgrün",
+          "hex": "5e6151"
+        },
+        {
+          "name": "Earth Grey",
+          "hex": "7b6e5e"
+        },
+        {
+          "name": "Magic Red",
+          "hex": "9b3036",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Magic Green",
+          "hex": "4f7946",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Magic Blue",
+          "hex": "4b79cd",
+          "pattern": "sparkle"
+        },
+        {
+          "name": "Feuerrot",
+          "hex": "9b3036"
+        },
+        {
+          "name": "Magic Magenta",
+          "hex": "a2294c",
+          "pattern": "sparkle"
+        }
+      ]
+    },
+    {
+      "name": "ABS FibCR20 {color_name}",
+      "material": "ABS+GF20",
+      "density": 1.18,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 231
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 270,
+      "bed_temp": 100,
+      "colors": [
+        {
+          "name": "Schwarz",
+          "hex": "1a1a1a"
+        },
+        {
+          "name": "Wasserblau",
+          "hex": "046b7a"
+        },
+        {
+          "name": "Anthrazitgrau",
+          "hex": "4e5059"
+        },
+        {
+          "name": "Brilliantrot",
+          "hex": "b11b1c"
+        },
+        {
+          "name": "Natur",
+          "hex": "c6bdb6"
+        },
+        {
+          "name": "HevORT Green",
+          "hex": "88a018"
+        },
+        {
+          "name": "Hellblau",
+          "hex": "2f3e75"
+        },
+        {
+          "name": "Leuchtgrün",
+          "hex": "418c00"
+        },
+        {
+          "name": "Bronze",
+          "hex": "4e382b"
+        },
+        {
+          "name": "Sonnengelb",
+          "hex": "e3af03"
+        }
+      ]
+    }
+  ]
+}
