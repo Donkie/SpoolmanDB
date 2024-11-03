@@ -1,5 +1,5 @@
 {
-  "manufacturer": "Siddamenr",
+  "manufacturer": "Siddament",
   "filaments": [
   {
       "name": "{color_name} ABS",
@@ -8,7 +8,7 @@
       "weights": [
         {
           "weight": 1000.0,
-		  "spool_type": plastic
+		  "spool_type": plastic,
           "spool_weight": 160
         }
       ],
@@ -127,6 +127,6 @@
           "hex": "623E2A"
         }
       ]
-    },
+    }
   ]
 }
