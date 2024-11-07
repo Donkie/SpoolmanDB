@@ -1,0 +1,132 @@
+{
+  "manufacturer": "Siddament",
+  "filaments": [
+  {
+      "name": "{color_name} ABS",
+      "material": "ABS",
+      "density": 1.05,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_type": "plastic",
+          "spool_weight": 160
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 250,
+      "bed_temp": 110,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "0E0E10"
+        },
+        {
+          "name": "Fossil Grey",
+          "hex": "6F727E"
+        },
+        {
+          "name": "Ash Grey",
+          "hex": "454343"
+        },
+        {
+          "name": "Silver",
+          "hex": "a7a7a7"
+        },
+        {
+          "name": "White",
+          "hex": "F1F0EA"
+        },
+        {
+          "name": "Army Blue",
+          "hex": "062B4D"
+        },
+        {
+          "name": "Blue",
+          "hex": "00387B"
+        },
+        {
+          "name": "Muted Blue",
+          "hex": "4E6A84"
+        },
+        {
+          "name": "Arctic Teal",
+          "hex": "5D928A"
+        },
+        {
+          "name": "Purple",
+          "hex": "694482"
+        },
+        {
+          "name": "Muted Purple",
+          "hex": "7C5577"
+        },
+        {
+          "name": "Pink",
+          "hex": "D99CA4"
+        },
+        {
+          "name": "Sakura Pink",
+          "hex": "E0A8BB"
+        },
+        {
+          "name": "Lava Red",
+          "hex": "DE1619"
+        },
+        {
+          "name": "Red",
+          "hex": "cf0000"
+        },
+        {
+          "name": "Pastel Watermelon",
+          "hex": "E93A3F"
+        },
+        {
+          "name": "Orange",
+          "hex": "FF4D06"
+        },
+        {
+          "name": "Sunrise Orange",
+          "hex": "F78E0E"
+        },
+		{
+          "name": "Pastel Peanut",
+          "hex": "C29572"
+        },
+		{
+          "name": "Muted White",
+          "hex": "AFA198"
+        },
+		{
+          "name": "Army Green",
+          "hex": "515234"
+        },
+		{
+          "name": "Green",
+          "hex": "61993B"
+        },
+		{
+          "name": "Mint Green",
+          "hex": "BEC9A5"
+        },
+		{
+          "name": "Lime Green",
+          "hex": "D0E740"
+        },
+		{
+          "name": "Savannah Yellow",
+          "hex": "F0BE02"
+        },
+		{
+          "name": "Yellow",
+          "hex": "FFFF00"
+        },
+		{
+          "name": "Earth Brown",
+          "hex": "623E2A"
+        }
+      ]
+    }
+  ]
+}
