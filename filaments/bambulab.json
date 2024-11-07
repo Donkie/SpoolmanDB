@@ -92,6 +92,14 @@
                 {
                     "name": "Black",
                     "hex": "000000"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "D1D3D5"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "545454"
                 }
             ]
         },
