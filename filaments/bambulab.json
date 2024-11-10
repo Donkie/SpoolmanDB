@@ -1037,6 +1037,28 @@
                     "hex": "000000"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PPS-CF",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 320,
+            "bed_temp": 110,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
         }
     ]
 }
