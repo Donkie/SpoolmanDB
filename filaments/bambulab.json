@@ -46,6 +46,14 @@
                     "hex": "9D432C"
                 },
                 {
+                    "name": "Cocoa Brown",
+                    "hex": "6F5034"
+                },
+                {
+                    "name": "Maroon Red",
+                    "hex": "9D2235"
+                },
+                {
                     "name": "Red",
                     "hex": "C12E1F"
                 },
@@ -58,12 +66,28 @@
                     "hex": "F55A74"
                 },
                 {
+                    "name": "Hot Pink",
+                    "hex": "F5547C"
+                },
+                {
                     "name": "Orange",
                     "hex": "FF6A13"
                 },
                 {
+                    "name": "Pumpkin Orange",
+                    "hex": "FF9016"
+                },
+                {
+                    "name": "Sunflower Yellow",
+                    "hex": "FEC600"
+                },
+                {
                     "name": "Yellow",
                     "hex": "F4EE2A"
+                },
+                {
+                    "name": "Bright Green",
+                    "hex": "BECF00"
                 },
                 {
                     "name": "Bambu Green",
@@ -74,6 +98,10 @@
                     "hex": "3F8E43"
                 },
                 {
+                    "name": "Turquoise",
+                    "hex": "00B1B7"
+                },
+                {
                     "name": "Cyan",
                     "hex": "0086D6"
                 },
@@ -82,16 +110,20 @@
                     "hex": "0A2989"
                 },
                 {
+                    "name": "Cobalt Blue",
+                    "hex": "0056B8"
+                },
+                {
                     "name": "Purple",
                     "hex": "5E43B7"
                 },
                 {
-                    "name": "Blue Gray",
-                    "hex": "5B6579"
+                    "name": "Indigo Purple",
+                    "hex": "482960"
                 },
                 {
-                    "name": "Black",
-                    "hex": "000000"
+                    "name": "Blue Gray",
+                    "hex": "5B6579"
                 },
                 {
                     "name": "Light Gray",
@@ -100,6 +132,10 @@
                 {
                     "name": "Dark Gray",
                     "hex": "545454"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
                 }
             ]
         },
