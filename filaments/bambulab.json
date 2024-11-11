@@ -370,6 +370,10 @@
             "pattern": "sparkle",
             "colors": [
                 {
+                    "name": "Classic Gold",
+                    "hex": "CEA629"
+                },
+                {
                     "name": "Slate Gray",
                     "hex": "8E9089"
                 },
