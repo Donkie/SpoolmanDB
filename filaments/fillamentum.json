@@ -1,88 +1,168 @@
 {
     "manufacturer": "Fillamentum",
     "filaments": [
-        {
-            "name": "Extrafill {color_name}",
-            "material": "ASA",
-            "density": 1.07,
-            "weights": [
-                {
-                    "weight": 750.0,
-                    "spool_weight": 230.0
-                },
-                {
-                    "weight": 2500.0,
-                    "spool_weight": 590.0
-                }
-            ],
-            "diameters": [
-                1.75,
-                2.85
-            ],
-            "extruder_temp": 250,
-            "bed_temp": 95,
-            "colors": [
-                {
-                    "name": "Vertigo Grey",
-                    "hex": "5A5964"
-                },
-                {
-                    "name": "Show White",
-                    "hex": "F3F3F1"
-                },
-                {
-                    "name": "Dijon Mustard",
-                    "hex": "DDC934"
-                },
-                {
-                    "name": "Vivid Pink",
-                    "hex": "D22D38"
-                },
-                {
-                    "name": "Traffic Black",
-                    "hex": "1E1E1E"
-                },
-                {
-                    "name": "Metallic Grey",
-                    "hex": "878A8D"
-                },
-                {
-                    "name": "Sky Blue",
-                    "hex": "2271B3"
-                },
-                {
-                    "name": "Traffic Yellow",
-                    "hex": "FAD201"
-                },
-                {
-                    "name": "Traffic Red",
-                    "hex": "CC0605"
-                },
-                {
-                    "name": "Traffic White",
-                    "hex": "F6F6F6"
-                },
-                {
-                    "name": "Natural",
-                    "hex": "DCE4E1"
-                },
-                {
-                    "name": "Green Grass",
-                    "hex": "35682D"
-                },
-                {
-                    "name": "Grey Blue",
-                    "hex": "495966"
-                },
-                {
-                    "name": "Anthracite Grey",
-                    "hex": "293133"
-                },
-                {
-                    "name": "White Aluminium",
-                    "hex": "A5A5A5"
-                }
-            ]
-        }
+      {
+        "name": "Extrafill {color_name}",
+        "material": "ASA",
+        "density": 1.07,
+        "weights": [
+          {
+            "weight": 750.0,
+            "spool_weight": 230.0
+          },
+          {
+            "weight": 2500.0,
+            "spool_weight": 590.0
+          }
+        ],
+        "diameters": [
+          1.75,
+          2.85
+        ],
+        "extruder_temp": 250,
+        "bed_temp": 95,
+        "colors": [
+          {
+            "name": "Vertigo Grey",
+            "hex": "5A5964"
+          },
+          {
+            "name": "Show White",
+            "hex": "F3F3F1"
+          },
+          {
+            "name": "Dijon Mustard",
+            "hex": "DDC934"
+          },
+          {
+            "name": "Vivid Pink",
+            "hex": "D22D38"
+          },
+          {
+            "name": "Traffic Black",
+            "hex": "1E1E1E"
+          },
+          {
+            "name": "Metallic Grey",
+            "hex": "878A8D"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "2271B3"
+          },
+          {
+            "name": "Traffic Yellow",
+            "hex": "FAD201"
+          },
+          {
+            "name": "Traffic Red",
+            "hex": "CC0605"
+          },
+          {
+            "name": "Traffic White",
+            "hex": "F6F6F6"
+          },
+          {
+            "name": "Natural",
+            "hex": "DCE4E1"
+          },
+          {
+            "name": "Green Grass",
+            "hex": "35682D"
+          },
+          {
+            "name": "Grey Blue",
+            "hex": "495966"
+          },
+          {
+            "name": "Anthracite Grey",
+            "hex": "293133"
+          },
+          {
+            "name": "White Aluminium",
+            "hex": "A5A5A5"
+          }
+        ]
+      },
+      {
+        "name": "Extrafill {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 750.0,
+            "spool_weight": 230.0
+          },
+          {
+            "weight": 2500.0,
+            "spool_weight": 590.0
+          }
+        ],
+        "diameters": [
+          1.75,
+          2.85
+        ],
+        "extruder_temp": 200,
+        "bed_temp": 55,
+        "colors": [
+          {
+            "name": "Traffic White",
+            "hex": "F6F6F6"
+          },
+          {
+            "name": "Traffic Black",
+            "hex": "262420"
+          },
+          {
+            "name": "Vertigo Grey",
+            "hex": "5A5964"
+          },
+          {
+            "name": "Peppered Mustard",
+            "hex": "a67123"
+          },
+          {
+            "name": "Metallic Grey",
+            "hex": "878A8D"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "2271B3"
+          },
+          {
+            "name": "Traffic Yellow",
+            "hex": "FAD201"
+          },
+          {
+            "name": "Traffic Red",
+            "hex": "CC0605"
+          },
+
+          {
+            "name": "Natural",
+            "hex": "DCE4E1"
+          },
+          {
+            "name": "Green Grass",
+            "hex": "35682D"
+          },
+          {
+            "name": "Concrete Grey",
+            "hex": "9f9c89"
+          },
+          {
+            "name": "Turquoise Blue",
+            "hex": "83bdc3"
+          },
+          {
+            "name": "Rapunzel Silver",
+            "hex": "c2c3be"
+          },
+          {
+            "name": "Cobalt Blue",
+            "hex": "283355"
+          }
+        ]
+      }
     ]
 }
