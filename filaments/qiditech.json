@@ -1,0 +1,39 @@
+{
+	"manufacturer": "QIDI Tech",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "PPS-CF",
+			"density": 1.3,
+			"weights": [
+				{
+					"weight": 750.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 310, 350 ],
+			"bed_temp": 100,
+			"fill": "carbon fiber",
+			"colors": [ { "name": "Black", "hex": "000000" } ]
+		},
+		{
+			"name": "{color_name}",
+			"material": "PAHT-CF",
+			"density": 1.2,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 300, 320 ],
+			"bed_temp_range": [ 70, 90 ],
+			"fill": "carbon fiber",
+			"colors": [ { "name": "Black", "hex": "000000" } ]
+		}
+	]
+}
