@@ -96,5 +96,9 @@
         "density": 1.06,
         "extruder_temp": 240,
         "bed_temp": 100
+    },
+    {
+        "material": "eABS+HS",
+        "density": 1.04,
     }
 ]
