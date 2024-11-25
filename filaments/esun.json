@@ -311,7 +311,7 @@
         },
 		{
             "name": "{color_name}",
-            "material": "EABS+HS",
+            "material": "eABS+HS",
             "density": 1.04,
             "weights": [
                 {
