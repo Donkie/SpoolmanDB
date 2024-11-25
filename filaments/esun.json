@@ -309,6 +309,72 @@
                 }
             ]
         },
+		{
+            "name": "{color_name}",
+            "material": "eABS+HS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "111214"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "beb8ac"
+                },
+                {
+                    "name": "White",
+                    "hex": "e1e1e1"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "e89746"
+                },
+                {
+                    "name": "Red",
+                    "hex": "d12a31"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "eae412"
+                },
+                {
+                    "name": "Grey", 
+                    "hex": "435a83"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "153a66"
+                },
+                {
+                    "name": "Cold White",
+                    "hex": "dbdbdd"
+                },
+                {
+                    "name": "Green",
+                    "hex": "00ab84"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "952428"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "797876"
+                }
+            ]
+        },
         {
             "name": "{color_name}",
             "material": "TPU-95A",
