@@ -244,6 +244,65 @@
                 }
             ]
         },
+         {
+            "name": "{color_name}",
+            "material": "PLA-Lite",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "BLACK",
+                    "hex": "101211"
+                },
+                {
+                    "name": "BLUE",
+                    "hex": "0d2c7c"
+                },
+                {
+                    "name": "COLD WHITE",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "FIRE ENGINE RED",
+                    "hex": "8b282d"
+                },
+                {
+                    "name": "GREEN",
+                    "hex": "3e484a"
+                },
+                {
+                    "name": "GREY",
+                    "hex": "1a3059"
+                },
+                {
+                    "name": "ORANGE",
+                    "hex": "fc6401"
+                },
+                {
+                    "name": "VERY PERI",
+                    "hex": "675df1"
+                },
+                {
+                    "name": "WHITE",
+                    "hex": "c2c1bd"
+                },
+                {
+                    "name": "YELLOW",
+                    "hex": "f6dc01"
+                }
+
+            ]
+        },
         {
             "name": "{color_name}",
             "material": "PETG",
