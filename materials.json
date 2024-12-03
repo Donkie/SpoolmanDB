@@ -12,14 +12,6 @@
         "bed_temp": 60
     },
     {
-        "material": "EPLA HS",
-        "density": 1.24 
-    },
-    {
-        "material": "PLA Lite",
-        "density": 1.23
-    },
-    {
         "material": "ABS",
         "density": 1.04
     },
