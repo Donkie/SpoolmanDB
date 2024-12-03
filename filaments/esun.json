@@ -207,6 +207,45 @@
         },
         {
             "name": "{color_name}",
+            "material": "ePLA-HS",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "12296f"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "a6a9ae"
+                },
+                {
+                    "name": "Red",
+                    "hex": "ae241a"
+                },
+                {
+                    "name": "White",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
             "weights": [
