@@ -12,11 +12,11 @@
         "bed_temp": 60
     },
     {
-        "material": "ePLA-HS",
+        "material": "EPLA HS",
         "density": 1.24 
     },
     {
-        "material": "PLA-Lite",
+        "material": "PLA Lite",
         "density": 1.23
     },
     {
