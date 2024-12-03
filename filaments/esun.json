@@ -301,6 +301,85 @@
                 }
             ]
         },
+     {
+            "name": "PLA-Matte {color_name}",
+            "material": "PLA",
+            "density": 1.329,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Rainbow",
+                    "hex": "d1d8ae"
+                },
+                {
+                    "name": "TANGERINE",
+                    "hex": "ff7537"
+                },
+                {
+                    "name": "STRAWBERRY RED",
+                    "hex": "f88ba2"
+                },
+                {
+                    "name": "PEACH PINK",
+                    "hex": "f4b1c2"
+                },
+                {
+                    "name": "MORANDI PURPLE",
+                    "hex": "90ba66"
+                },
+                {
+                    "name": "MORANDI GREEN",
+                    "hex": "0d353d"
+                },
+                {
+                    "name": "MINT GREEN",
+                    "hex": "8dbda3"
+                },
+                {
+                    "name": "MILKY WHITE",
+                    "hex": "dfdbd8"
+                },
+                {
+                    "name": "MATCHA GREEN",
+                    "hex": "90ba66"
+                },
+                {
+                    "name": "LILAC",
+                    "hex": "e1bae6"
+                },
+                {
+                    "name": "LIGHT KHAKI",
+                    "hex": "c7b8a5"
+                },
+                {
+                    "name": "LIGHT BLUE",
+                    "hex": "85baca"
+                },
+                {
+                    "name": "DARK GREY",
+                    "hex": "596484"
+                },
+                {
+                    "name": "BLACK",
+                    "hex": "272928"
+                },
+                {
+                    "name": "ALMOND YELLOW",
+                    "hex": "ddecb3"
+                }
+            ]
+        },
+        
         {
             "name": "{color_name}",
             "material": "PETG",
