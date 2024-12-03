@@ -125,7 +125,84 @@
                 {
                     "name": "Pink",
                     "hex": "ef7aa4"
+                },
+                {
+                	"name": "Grass Green"
+                	"hex":  "049840"
+                },
+                {
+                	"name": "Mustard Green"
+                	"hex":  "dedf93"
+                },
+                {
+                	"name": "Jade Green"
+                	"hex":  "02c5a7"
+                },
+                {
+                	"name": "Holly Green",
+                	"hex":  "014d41"
+                },
+                {   
+                	"name": "Haze Blue",
+                	"hex":  "468db9"
+                },
+                {   
+                	"name": "RGB RED",
+                	"hex":  "e62409"
+                },
+                {   
+                	"name": "ALMOND YELLOW",
+                	"hex":  "dfd590"
+                },
+                {   
+                	"name": "APRICOT",
+                	"hex":  "e68a1d"
+                },
+                {   
+                	"name": "BABY BLUE",
+                	"hex":  "75c2ca"
+                },
+                {   
+                	"name": "BABY PINK",
+                	"hex":  "cd8e89"
+                },
+                {   
+                	"name": "CORAL ORANGE",
+                	"hex":  "ff7e23"
+                },
+                {   
+                	"name": "LIGHT KHAKI",
+                	"hex":  "bdb7a1"
+                },
+                {   
+                	"name": "LILAC",
+                	"hex":  "c78dbf"
+                },
+                {   
+                	"name": "MATCHA GREEN",
+                	"hex":  "91994c"
+                },
+                {   
+                	"name": "MILKY WHITE",
+                	"hex":  "d6d5d0"
+                },
+                {   
+                	"name": "MINT GREEN",
+                	"hex":  "69c296"
+                },
+                {   
+                	"name": "PEACH PINK",
+                	"hex":  "dab4b1"
+                },
+                {   
+                	"name": "RGB BLUE",
+                	"hex":  "303ed2"
+                },
+                {   
+                	"name": "RGB GREEN",
+                	"hex":  "0cb234"
                 }
+
             ]
         },
         {
