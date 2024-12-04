@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 240
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -211,7 +212,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 240
+                   "spool_weight": 170,
+                   "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -250,7 +252,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 240
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -308,7 +311,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 240
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
