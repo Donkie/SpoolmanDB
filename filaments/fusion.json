@@ -1,6 +1,7 @@
 {
     "manufacturer": "Fusion",
-    "filaments": [
+    "filaments": 
+	[
         {
             "name": "ABS 1.5 {color_name} (matte)",
             "material": "ABS",
@@ -15,7 +16,10 @@
                 1.75
             ],
             "extruder_temp": 255,
-            "bed_temp": 95,
+			"bed_temp_range": [
+			90,
+			100
+			],
             "colors": [
                 {
                     "name": "Alpha Particle Orange",
@@ -48,73 +52,74 @@
                 {
                     "name": "Electrolytic Deuterium",
                     "hex": "29768F"
-                }
+                },
                 {
                     "name": "Geomagnetic Mauve",
                     "hex": "342364"
-                }
+                },
                 {
                     "name": "Heavy Water Blue",
                     "hex": "003671"
-                }
+                },
                 {
                     "name": "Interstellar Emerald",
                     "hex": "106F62"
-                }
+                },
                 {
                     "name": "Ionized Cobalt Black",
                     "hex": "212023"
-                }
+                },
                 {
                     "name": "Mushroom Cloud Grey",
                     "hex": "676A6D"
-                }
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
-                }
+                },
                 {
                     "name": "Plutonic Purple",
                     "hex": "341A6A"
-                }
+                },
                 {
                     "name": "Proton Pink",
                     "hex": "EB3A97"
-                }
+                },
                 {
                     "name": "Radioactive Orange",
                     "hex": "FA8F2C"
-                }
+                },
                 {
                     "name": "Radium Green 2.0",
                     "hex": "40C91F"
-                }
+                },
                 {
                     "name": "Red Dwarf",
                     "hex": "8C1B18"
-                }
+                },
                 {
                     "name": "Rigid Green",
                     "hex": "9EE978"
-                }
+                },
                 {
                     "name": "Seismic Red ",
                     "hex": "9D0115"
-                }
+                },
                 {
                     "name": "Thorium Thilver",
                     "hex": "687074"
-                }
+                },
                 {
                     "name": "Tritium Green",
                     "hex": "1F8544"
-                }
+                },
                 {
                     "name": "Uranium Yellow",
                     "hex": "DBDA45"
-                }
-            ]
-        }
+          }
+        ]
+      },
+      {
             "name": "ABS 2.0 {color_name} (gloss)",
             "material": "ABS",
             "density": 1.13,
@@ -128,8 +133,11 @@
                 1.75
             ],
             "extruder_temp": 255,
-            "bed_temp": 95,
-            "colors": [
+			"bed_temp_range": [
+			90,
+			100
+			],
+				"colors": [
                 {
                     "name": "Alpha Particle Orange",
                     "hex": "F8561C"
@@ -161,61 +169,62 @@
                 {
                     "name": "Heavy Water Blue",
                     "hex": "00296E"
-                }
+                },
                 {
                     "name": "Interstellar Emerald",
                     "hex": "006645"
-                }
+                },
                 {
                     "name": "Ionized Cobalt Black",
                     "hex": "201F24"
-                }
+                },
                 {
                     "name": "Mushroom Cloud Grey",
                     "hex": "595C61"
-                }
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
-                }
+                },
                 {
                     "name": "Neutron Green",
                     "hex": "72A27E"
-                }
+                },
                 {
                     "name": "Plutonic Purple",
                     "hex": "2C0367"
-                }
+                },
                 {
                     "name": "Radioactive Orange",
                     "hex": "FF6000"
-                }
+                },
                 {
                     "name": "Radium Green 2.0",
                     "hex": "00C10F"
-                }
+                },
                 {
                     "name": "Red Dwarf",
                     "hex": "860F13"
-                }
+                },
                 {
                     "name": "Seismic Red",
                     "hex": "9D3026"
-                }
+                },
                 {
                     "name": "Thorium Thilver",
                     "hex": "616971"
-                }
+                },
                 {
                     "name": "Tritium Green",
                     "hex": "006C2A"
-                }
+                },
                 {
                     "name": "Uranium Yellow",
                     "hex": "A9C82F"
-                }
-            ]
-        }
+          }
+        ]
+      },
+      {
             "name": "HTPLA+ {color_name}",
             "material": "PLA",
             "density": 1.22,
@@ -228,9 +237,15 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 235,
-            "bed_temp": 70,
-            "colors": [
+			"extruder_temp_range": [
+			220,
+			245
+			],
+			"bed_temp_range": [
+			50,
+			75
+			],
+				"colors": [
                 {
                     "name": "Alpha Particle Orange",
                     "hex": "FF6800"
@@ -262,79 +277,79 @@
                 {
                     "name": "Geomagnetic Mauve",
                     "hex": "3F245D"
-                }
+                },
                 {
                     "name": "Heavy Water Blue",
                     "hex": "131870"
-                }
+                },
                 {
                     "name": "Interstellar Emerald",
                     "hex": "226B68"
-                }
+                },
                 {
                     "name": "Ionized Cobalt Black",
                     "hex": "17161A"
-                }
+                },
                 {
                     "name": "Mushroom Cloud Grey",
                     "hex": "716F6B"
-                }
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
-                }
+                },
                 {
                     "name": "Natural",
                     "hex": "DFC5AA"
-                }
+                },
                 {
                     "name": "Neutron Green",
                     "hex": "6BB293"
-                }
+                },
                 {
                     "name": "Nuclear Winter White 2.0",
                     "hex": "DEDDD8"
-                }
+                },
                 {
                     "name": "Plutonic Purple",
                     "hex": "5F0073"
-                }
+                },
                 {
                     "name": "Proton Pink",
                     "hex": "FF4894"
-                }
+                },
                 {
                     "name": "Radioactive Orange",
                     "hex": "FF7C08"
-                }
+                },
                 {
                     "name": "Radium Green 2.0",
                     "hex": "00C42B"
-                }
+                },
                 {
                     "name": "Reactor Red",
                     "hex": "750E0F"
-                }
+                },
                 {
                     "name": "Red Dwarf",
                     "hex": "79221A"
-                }
+                },
                 {
                     "name": "Seismic Red",
                     "hex": "A50005"
-                }
+                },
                 {
                     "name": "Sievert Silver",
                     "hex": "4F5358"
-                }
+                },
                 {
                     "name": "Supercritical Brown",
                     "hex": "30271F"
-                }
+                },
                 {
                     "name": "Tritium Green",
                     "hex": "007423"
-                }
+                },
                 {
                     "name": "Uranium Yellow",
                     "hex": "ACCB35"
