@@ -140,6 +140,48 @@
             ]
         },
         {
+            "name": "{color_name}",
+            "material": "PLA Wood",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "bed_temp": 40,
+            "colors": [
+                {
+                    "name": "Black Walnut",
+                    "hex": "4F3F24"
+                },
+                {
+                    "name": "Rosewood",
+                    "hex": "4C241C"
+                },
+                {
+                    "name": "Clay Brown",
+                    "hex": "995F11"
+                },
+                {
+                    "name": "Classic Birch",
+                    "hex": "918669"
+                },
+                {
+                    "name": "White Oak",
+                    "hex": "D6CCA3"
+                },
+                {
+                    "name": "Ochre Yellow",
+                    "hex": "C98935"
+                }
+            ]
+        },
+        {
             "name": "Matte {color_name}",
             "material": "PLA",
             "density": 1.31,
