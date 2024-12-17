@@ -141,7 +141,7 @@
         },
         {
             "name": "{color_name}",
-            "material": "PLA Wood",
+            "material": "PLA+WOOD",
             "density": 1.21,
             "weights": [
                 {
