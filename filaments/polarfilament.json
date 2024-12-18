@@ -46,7 +46,8 @@
           },
           {
             "name": "Natural",
-            "hex": "C6C695"
+            "hex": "C6C695",
+            "translucent":true
           },
           {
             "name": "Bubblegum",
@@ -105,6 +106,11 @@
             "hex": "043591"
           },
           {
+            "name": "Marine Blue",
+            "hex": "043591",
+            "pattern":"sparkle"
+          },
+          {
             "name": "Pink",
             "hex": "af5f5f"
           },
@@ -130,7 +136,8 @@
           },
           {
             "name": "Bloopiter",
-            "hex": "3b3149"
+            "hex": "3b3149",
+            "pattern":"sparkle"
           },
           {
             "name": "Purplex",
@@ -150,7 +157,8 @@
           },
           {
             "name": "Seafoam",
-            "hex": "0a5e5e"
+            "hex": "0a5e5e",
+            "pattern":"sparkle"
           }
         ]
       },
@@ -199,7 +207,8 @@
           },
           {
             "name": "Natural (Clear)",
-            "hex": "C6C695"
+            "hex": "C6C695",
+            "translucent":true
           },
           {
             "name": "Sunshine Yellow",
