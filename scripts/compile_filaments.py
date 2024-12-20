@@ -16,6 +16,7 @@ class SpoolType(StrEnum):
 class Finish(StrEnum):
     MATTE = "matte"
     GLOSSY = "glossy"
+    WOOD = "wood"
 
 
 class MultiColorDirection(StrEnum):
