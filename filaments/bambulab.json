@@ -540,6 +540,34 @@
                         "307FE2",
                         "54FF9B"
                     ]
+                },
+                {
+                    "name": "Cotton Candy Cloud",
+                    "hexes": [
+                        "E7C1D5",
+                        "8EC9E9"
+                    ]
+                },
+                {
+                    "name": "Blueberry Bubblegum",
+                    "hexes": [
+                        "6FCAEF",
+                        "8573DD"
+                    ]
+                },
+                {
+                    "name": "Mint Lime",
+                    "hexes": [
+                        "B6FF43",
+                        "4EC939"
+                    ]
+                },
+                {
+                    "name": "Pink Citrus",
+                    "hexes": [
+                        "F78F77",
+                        "E4505A"
+                    ]
                 }
             ]
         },
