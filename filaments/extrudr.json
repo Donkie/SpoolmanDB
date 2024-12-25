@@ -27,7 +27,7 @@
             ]
         },
         {
-        "name": "{color_name}", "material": "DuraPro ABS", "density": 1.06, 
+        "name": "DuraPro - {color_name}", "material": "ABS", "density": 1.06, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro ASA", "density": 1.05, 
+        "name": "DuraPro - {color_name}", "material": "ASA", "density": 1.05, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro ASA CF", "density": 1.14, 
+        "name": "DuraPro - {color_name}", "material": "ASA-CF", "density": 1.14, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro ASA GF", "density": 1.1, 
+        "name": "DuraPro - {color_name}", "material": " ASA-GF", "density": 1.1, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"}
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro PA12", "density": 1.01, 
+        "name": "DuraPro - {color_name}", "material": "PA12", "density": 1.01, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro PA12 CF", "density": 1.03, 
+        "name": "DuraPro - {color_name}", "material": "PA12-CF", "density": 1.03, 
         "weights": 
         [
             {"weight": 500.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro PC/PBT", "density": 1.2, 
+        "name": "DuraPro - {color_name}", "material": "PC-PBT", "density": 1.2, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "DuraPro PC/PBT CF", "density": 1.2, 
+        "name": "DuraPro - {color_name}", "material": "PC-PBT-CF", "density": 1.2, 
         "weights": 
         [
             {"weight": 700.0, "spool_weight": 260.0, "spool_type": "plastic"}
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "GREENTEC Pro", "density": 1.35, 
+        "name": "Pro {color_name}", "material": "GREENTEC", "density": 1.35, 
         "weights": 
         [
             {"weight": 800.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "GREENTEC Pro CF", "density": 1.2, 
+        "name": "Pro {color_name}", "material": "GREENTEC-CF", "density": 1.2, 
         "weights": 
         [
             {"weight": 800.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "PLA Basic", "density": 1.24, 
+        "name": "Basic - {color_name}", "material": "PLA", "density": 1.24, 
         "weights": 
         [
             {"weight": 1000.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "PLA NX2 MATT", "density": 1.3, 
+        "name": "NX2-MATT - {color_name}", "material": "PLA", "density": 1.3, 
         "weights": 
         [
             {"weight": 1000.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "XPETG CF", "density": 1.29, 
+        "name": "X - {color_name}", "material": "PETG-CF", "density": 1.29, 
         "weights": 
         [
             {"weight": 800.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -433,7 +433,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "XPETG MATT", "density": 1.41, 
+        "name": "MATT - {color_name}", "material": "PETG", "density": 1.41, 
         "weights": 
         [
             {"weight": 1000.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -453,7 +453,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "XPETG REC", "density": 1.41, 
+        "name": "X - {color_name} REC", "material": "PETG", "density": 1.41, 
         "weights": 
         [
             {"weight": 1000.0, "spool_weight": 260.0, "spool_type": "cardboard"},
@@ -470,7 +470,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "FLEX Hard", "density": 1.2, 
+        "name": "FLEX - {color_name} Hard", "material": "TPU", "density": 1.2, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -487,7 +487,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "FLEX Hard CF", "density": 1.22, 
+        "name": "FLEX - {color_name} - Hard", "material": "TPU-CF", "density": 1.22, 
         "weights": 
         [
             {"weight": 500.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "FLEX Medium", "density": 1.2, 
+        "name": "FLEX - {color_name} - Medium", "material": "TPU", "density": 1.2, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -527,7 +527,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "FLEX Medium ESD", "density": 1.2, 
+        "name": "FLEX - {color_name} - Medium-ESD", "material": "TPU", "density": 1.2, 
         "weights": 
         [
             {"weight": 500.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -542,7 +542,7 @@
         ]
     },
     {
-        "name": "{color_name}", "material": "FLEX Semisoft", "density": 1.18, 
+        "name": "{FLEX - {color_name} - Semisoft", "material": "TPU", "density": 1.18, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
