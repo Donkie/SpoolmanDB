@@ -1396,7 +1396,7 @@
             ]
         },
         {
-            "name": "{FLEX - {color_name} - Semisoft",
+            "name": "FLEX - {color_name} - Semisoft",
             "material": "TPU",
             "density": 1.18,
             "weights": [
