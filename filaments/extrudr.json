@@ -182,7 +182,7 @@
         "bed_temp": 110, 
         "colors": 
         [
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Anthracite", "hex": "293133"},
             {"name": "Metallic", "hex": "828282"},
             {"name": "Silver", "hex": "A5A5A5"},
@@ -320,7 +320,7 @@
         "colors": 
         [
             {"name": "White", "hex": "F4F4F4"},
-            {"name": "Transparent ", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent ", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Black ", "hex": "1E1E1E"},
             {"name": "Gold", "hex": "705335"},
             {"name": "CMYK Lithowhite", "hex": "F4F4F4"},
@@ -381,35 +381,35 @@
         "bed_temp": 90, 
         "colors": 
         [
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Black", "hex": "1E1E1E"},
             {"name": "Anthracite", "hex": "293133"},
             {"name": "Metallic", "hex": "828282"},
             {"name": "Silver", "hex": "A5A5A5"},
             {"name": "Grey", "hex": "CAC4B0"},
             {"name": "Military Green", "hex": "424632"},
-            {"name": "Transparent Green", "hex": "57A639", "translucent": "True"},
+            {"name": "Transparent Green", "hex": "57A639", "translucent": "true"},
             {"name": "Emerald Green", "hex": "287233"},
             {"name": "Signal Green", "hex": "008F39"},
             {"name": "Neon Green", "hex": "00BB2D"},
-            {"name": "glowEx", "hex": "00BB2D", "glow": "True"},
+            {"name": "glowEx", "hex": "00BB2D", "glow": "true"},
             {"name": "White", "hex": "F4F4F4"},
             {"name": "Turquoise", "hex": "3F888F"},
-            {"name": "Transparent Blue", "hex": "2A6478", "translucent": "True"},
+            {"name": "Transparent Blue", "hex": "2A6478", "translucent": "true"},
             {"name": "Navy Blue", "hex": "1D1E33"},
             {"name": "Light Blue", "hex": "3B83BD"},
             {"name": "Purple", "hex": "924E7D"},
             {"name": "Magenta", "hex": "CF3476"},
-            {"name": "Transparent Red", "hex": "9B111E", "translucent": "True"},
+            {"name": "Transparent Red", "hex": "9B111E", "translucent": "true"},
             {"name": "Red", "hex": "A52019"},
             {"name": "Neon Red", "hex": "F80000"},
             {"name": "Hellfire Red ", "hex": "F80000"},
             {"name": "Copper", "hex": "8E402A"},
             {"name": "Bronze", "hex": "F80000"},
-            {"name": "Transparent Orange", "hex": "D84B20", "translucent": "True"},
+            {"name": "Transparent Orange", "hex": "D84B20", "translucent": "true"},
             {"name": "Neon Orange", "hex": "FF2301"},
             {"name": "Orange", "hex": "F54021"},
-            {"name": "Transparent Yellow", "hex": "E5BE01", "translucent": "True"},
+            {"name": "Transparent Yellow", "hex": "E5BE01", "translucent": "true"},
             {"name": "Gold", "hex": "705335"},
             {"name": "Yellow", "hex": "FAD201"},
             {"name": "Neon Yellow", "hex": "FFFF00"}            
@@ -449,7 +449,7 @@
             {"name": "Military Green", "hex": "424632", "finish": "matte"},
             {"name": "Blue", "hex": "1D1E33", "finish": "matte"},
             {"name": "Red", "hex": "A52019", "finish": "matte"},
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"}
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"}
         ]
     },
     {
@@ -465,7 +465,7 @@
         "colors": 
         [
             {"name": "White", "hex": "F4F4F4"},
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Black", "hex": "1E1E1E"}
         ]
     },
@@ -482,7 +482,7 @@
         "colors": 
         [
             {"name": "White", "hex": "F4F4F4"},
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Black", "hex": "1E1E1E"}
         ]
     },
@@ -514,7 +514,7 @@
         "bed_temp": 90, 
         "colors": 
         [
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Neon Green", "hex": "00BB2D"},
             {"name": "Navy Blue", "hex": "1D1E33"},
             {"name": "White", "hex": "F4F4F4"},
@@ -553,7 +553,7 @@
         "bed_temp": 90, 
         "colors": 
         [
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": "True"},
+            {"name": "Transparent", "hex": "FFFFFF", "translucent": "true"},
             {"name": "Black", "hex": "1E1E1E"},
             {"name": "White", "hex": "F4F4F4"}
         ]
