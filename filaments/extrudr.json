@@ -18,7 +18,7 @@
                 {"name": "Metallic Grey", "hex": "828282"},
                 {"name": "Quicksilver", "hex": "828282"},
                 {"name": "Reptile Green", "hex": "1C542D"},
-                {"name": "Venom Green", "hex": "C06DF16"},
+                {"name": "Venom Green", "hex": "C0DF16"},
                 {"name": "Blue Fire", "hex": "102C54"},
                 {"name": "Epic Purple", "hex": "4A192C"},
                 {"name": "Cherry Red", "hex": "D53032"},
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "name": "DuraPro - {color_name}", "material": " ASA-GF", "density": 1.1, 
+        "name": "DuraPro - {color_name}", "material": "ASA-GF", "density": 1.1, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"}
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "DuraPro - {color_name}", "material": "PC-PBT", "density": 1.2, 
+        "name": "DuraPro - {color_name}", "material": "PCPBT", "density": 1.2, 
         "weights": 
         [
             {"weight": 750.0, "spool_weight": 260.0, "spool_type": "plastic"},
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "name": "DuraPro - {color_name}", "material": "PC-PBT-CF", "density": 1.2, 
+        "name": "DuraPro - {color_name}", "material": "PCPBT-CF", "density": 1.2, 
         "weights": 
         [
             {"weight": 700.0, "spool_weight": 260.0, "spool_type": "plastic"}
@@ -514,7 +514,7 @@
         "bed_temp": 90, 
         "colors": 
         [
-            {"name": "Transparent", "hex": "FFFFFF", "translucent": true},
+            {"name": "Transparent", "hex": "FFFFFsF", "translucent": true},
             {"name": "Neon Green", "hex": "00BB2D"},
             {"name": "Navy Blue", "hex": "1D1E33"},
             {"name": "White", "hex": "F4F4F4"},
