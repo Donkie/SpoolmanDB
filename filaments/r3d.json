@@ -7,7 +7,7 @@
             "weights": 
             [
                 {"weight": 1000.0, "spool_weight": 127.0, "spool_type": "plastic"},
-                {"weight": 1000.0, "spool_weight": 100.0, "spool_type": "cardboard"}
+                {"weight": 1000.0, "spool_weight": 140.0, "spool_type": "cardboard"}
             ], 
             "diameters": [1.75], 
             "extruder_temp": 245, 
