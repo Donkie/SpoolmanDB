@@ -750,7 +750,7 @@
         },
         {
             "name": "{color_name}",
-            "material": "PETG-HF",
+            "material": "PETG HF",
             "density": 1.28,
             "weights": [
                 {
