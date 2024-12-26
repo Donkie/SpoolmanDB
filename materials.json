@@ -44,6 +44,14 @@
         "density": 1.19
     },
     {
+        "material": "PC/PBT",
+        "density": 1.2
+    },
+    {
+        "material": "PCTG",
+        "density": 1.21
+    },
+    {
         "material": "HIPS",
         "density": 1.03
     },
@@ -96,5 +104,21 @@
         "density": 1.06,
         "extruder_temp": 240,
         "bed_temp": 100
+    },
+    {
+        "material": "BIOFUSION",
+        "density": 1.25
+    },
+    {
+        "material": "GREENTEC",
+        "density": 1.3
+    },
+    {
+        "material": "FLAX",
+        "density": 1.45
+    },
+    {
+        "material": "PEARL",
+        "density": 1.25
     }
 ]
