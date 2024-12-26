@@ -750,6 +750,81 @@
         },
         {
             "name": "{color_name}",
+            "material": "PETG-HF",
+            "density": 1.28,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 70,
+            "translucent": false,
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "hex": "FFD00B"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F75403"
+                },
+                {
+                    "name": "Green",
+                    "hex": "00AE42"
+                },
+                {
+                    "name": "Red",
+                    "hex": "EB3A3A"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "002E96"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Cream",
+                    "hex": "F9DFB9"
+                },
+                {
+                    "name": "Lime Green",
+                    "hex": "6EE53C"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "39541A"
+                },
+                {
+                    "name": "Lake Blue",
+                    "hex": "1F79E5"
+                },
+                {
+                    "name": "Peanut Brown",
+                    "hex": "875718"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "ADB1B2"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "515151"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "ABS",
             "density": 1.05,
             "weights": [
