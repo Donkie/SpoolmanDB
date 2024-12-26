@@ -1022,6 +1022,52 @@
         },
         {
             "name": "{color_name}",
+            "material": "TPU+AMS",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 35,
+            "colors": [
+                {
+                    "name": "Red",
+                    "hex": "ED0000"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F9EF41"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "5898DD"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "90FF1A"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "939393"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PA6-GF",
             "density": 1.09,
             "weights": [
