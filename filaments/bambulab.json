@@ -320,6 +320,77 @@
             ]
         },
         {
+            "name": "Silk+ {color_name}",
+            "material": "PLA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 55,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Gold",
+                    "hex": "F4A925"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "C8C8C8"
+                },
+                {
+                    "name": "Titan Gray",
+                    "hex": "5F6367"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "008BDA"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "8671CB"
+                },
+                {
+                    "name": "Candy Red",
+                    "hex": "D02727"
+                },
+                {
+                    "name": "Candy Green",
+                    "hex": "018814"
+                },
+                {
+                    "name": "Rose Gold",
+                    "hex": "BA9594"
+                },
+                {
+                    "name": "Baby Blue",
+                    "hex": "A8C6EE"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "F7ADA6"
+                },
+                {
+                    "name": "Mint",
+                    "hex": "96DCB9"
+                },
+                {
+                    "name": "Champagne",
+                    "hex": "F3CFB2"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
             "name": "{color_name} Metallic",
             "material": "PLA",
             "density": 1.25,
