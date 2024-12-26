@@ -1009,11 +1009,6 @@
                     "hex": "00BB2D"
                 },
                 {
-                    "name": "glowEx",
-                    "hex": "00BB2D",
-                    "glow": true
-                },
-                {
                     "name": "White",
                     "hex": "F4F4F4"
                 },
@@ -1096,6 +1091,36 @@
                 {
                     "name": "Neon Yellow",
                     "hex": "FFFF00"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_weight": 260.0,
+                    "spool_type": "plastic"
+                },
+                {
+                    "weight": 2500.0,
+                    "spool_weight": 600.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 70,
+            "colors": [
+                {
+                    "name": "glowEx",
+                    "hex": "00BB2D",
+                    "glow": true
                 }
             ]
         },
