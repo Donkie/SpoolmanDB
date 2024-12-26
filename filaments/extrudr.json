@@ -1097,7 +1097,7 @@
         {
             "name": "{color_name}",
             "material": "PETG",
-            "density": 1.3,
+            "density": 1.29,
             "weights": [
                 {
                     "weight": 800.0,
