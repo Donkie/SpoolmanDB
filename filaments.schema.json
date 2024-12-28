@@ -105,7 +105,8 @@
                         "enum": [
                             null,
                             "glass fiber",
-                            "carbon fiber"
+                            "carbon fiber",
+                            "wood"
                         ]
                     },
                     "finish": {
@@ -113,7 +114,8 @@
                         "enum": [
                             null,
                             "matte",
-                            "glossy"
+                            "glossy",
+                            "wood"
                         ]
                     },
                     "multi_color_direction": {
