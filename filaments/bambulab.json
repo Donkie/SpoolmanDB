@@ -692,6 +692,28 @@
         },
         {
             "name": "{color_name}",
+            "material": "PVA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Clear",
+                    "hex": "F0F1A8"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.25,
             "weights": [
