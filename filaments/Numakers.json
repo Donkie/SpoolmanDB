@@ -162,7 +162,7 @@
             "material": "PETG",
             "density": 1.27,
             "weights": [
-                { 
+                {
                     "weight": 1000,
                     "spool_weight": 200
                 }
@@ -170,10 +170,10 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp_range":[
+            "extruder_temp_range": [
                 230,
                 250
-            ], 
+            ],
             "bed_temp_range": [
                 80,
                 90
@@ -232,7 +232,6 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 60,
-            "finish": "wood",
             "fill": "wood",
             "colors": [
                 {
@@ -255,7 +254,7 @@
                 1.75
             ],
             "extruder_temp_range": [
-                200, 
+                200,
                 230
             ],
             "bed_temp_range": [
