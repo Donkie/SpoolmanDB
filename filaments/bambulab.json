@@ -1021,8 +1021,8 @@
             ]
         },
         {
-            "name": "{color_name}",
-            "material": "TPU+AMS",
+            "name": "For AMS {color_name}",
+            "material": "TPU",
             "density": 1.26,
             "weights": [
                 {
