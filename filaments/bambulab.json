@@ -1147,6 +1147,36 @@
             ]
         },
         {
+            "name": "FR {color_name}",
+            "material": "PC",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 110,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "A8A8AA"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "TPU",
             "density": 1.22,
@@ -1338,6 +1368,70 @@
         },
         {
             "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 75,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Titan Gray",
+                    "hex": "565656"
+                },
+                {
+                    "name": "Malachite Green",
+                    "hex": "16b08e"
+                },
+                {
+                    "name": "Indigue Blue",
+                    "hex": "324585"
+                },
+                {
+                    "name": "Violet Purple",
+                    "hex": "583061"
+                },
+                {
+                    "name": "Brick Red",
+                    "hex": "9f332a"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA-CF",
+            "density": 1.02,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 280,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PET-CF",
             "density": 1.29,
             "weights": [
@@ -1360,6 +1454,53 @@
                     "name": "Black",
                     "hex": "000000"
                 }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 45,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Lava Gray",
+                    "hex": "4d5054"
+                },
+                {
+                    "name": "Iris Purple",
+                    "hex": "69398E"
+                },
+                {
+                    "name": "Royal Blue",
+                    "hex": "2842AD"
+                },
+                {
+                    "name": "Jeans Blue",
+                    "hex": "6e88bc"
+                },
+                {
+                    "name": "Matcha Green",
+                    "hex": "5c9748"
+                },
+                {
+                    "name": "Burgundy Red",
+                    "hex": "951e23"
+                }
+
             ]
         },
         {
