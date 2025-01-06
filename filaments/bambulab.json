@@ -661,6 +661,13 @@
             "finish": "glossy",
             "colors": [
                 {
+                    "name": "Velvet Eclipse (Black-Red)",
+                    "hexes": [
+                        "000000",
+                        "A34342"
+                    ]
+                },
+                {
                     "name": "Midnight Blaze (Blue-Red)",
                     "hexes": [
                         "0047BB",
