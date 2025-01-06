@@ -1,0 +1,121 @@
+{
+    "manufacturer": "LDO",
+    "filaments": 
+	[
+        {
+            "name": "ABS {color_name}",
+            "material": "ABS",
+            "density": 1.06,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp ": 260,
+			"bed_temp_range": [
+				90,
+				110
+			],
+            "colors": [
+                {
+                    "name": "Dark Teal",
+                    "hex": "00677f"
+                },
+                {
+                    "name": "Black",
+                    "hex": "2D2926"
+                },
+                {
+                    "name": "Stardust Gray",
+                    "hex": "75787B"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0086d6"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "5F259F"
+                },
+                {
+                    "name": "White",
+                    "hex": "f7f9ef"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C8102E"
+                },
+                {
+                    "name": "Lemon Lime",
+                    "hex": "d6e865"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "6ad1e3"
+                },
+                {
+                    "name": "Smoke Gray",
+                    "hex": "75787B"
+                }
+			]
+		},
+	{
+            "name": "ASA {color_name}",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp ": 260,
+			"bed_temp_range": [
+				90,
+				110
+			],
+				"colors": [
+                {
+                    "name": "Orange",
+                    "hex": "f93822"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "4b5e23"
+                }
+			]
+		},
+		{
+            "name": "ASA-CF {color_name}",
+            "material": "ASA",
+            "density": 1.10,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				260
+			],
+			"bed_temp_range": [
+				80,
+				100
+			],
+				"colors": [
+                {
+                    "name": "Black",
+                    "hex": "2D2926"
+                }
+            ]
+		}
+	]
+}
