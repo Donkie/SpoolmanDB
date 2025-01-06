@@ -3,7 +3,7 @@
     "filaments": 
 	[
         {
-            "name": "ABS {color_name}",
+            "name": "{color_name}",
             "material": "ABS",
             "density": 1.06,
             "weights": [
@@ -33,7 +33,7 @@
                     "hex": "75787B"
                 },
                 {
-                    "name": "Blue",
+                    "name": "LDO Blue",
                     "hex": "0086d6"
                 },
                 {
@@ -63,7 +63,7 @@
 			]
 		},
 	{
-            "name": "ASA {color_name}",
+            "name": "{color_name}",
             "material": "ASA",
             "density": 1.08,
             "weights": [
@@ -91,8 +91,8 @@
 			]
 		},
 		{
-            "name": "ASA-CF {color_name}",
-            "material": "ASA",
+            "name": "{color_name}",
+            "material": "ASA-CF",
             "density": 1.10,
             "weights": [
                 {
