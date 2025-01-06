@@ -258,7 +258,7 @@
                 {
                     "name": "Gold",
                     "hex": "e39d3e"
-                }
+                },
                 {
                     "name": "Green",
                     "hex": "4b585e"
@@ -282,7 +282,7 @@
                 {
                     "name": "Olive Green",
                     "hex": "6d6b5e"
-                }
+                },
                 {
                     "name": "Orange",
                     "hex": "ff5216"
@@ -380,7 +380,7 @@
                 {
                     "name": "Blue",
                     "hex": "0064ee"
-                }
+                },
                 {
                     "name": "Yellow",
                     "hex": "e1be1a"
@@ -404,7 +404,7 @@
                 {
                     "name": "Red",
                     "hex": "ff2c30"
-                }
+                },
                 {
                     "name": "Purple",
                     "hex": "6d22a3"
