@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1100.0,
-                    "spool_weight": 120.0
+                    "spool_weight": 120.0,
+					"spool_type": "cardboard"	
                 }
             ],
             "diameters": [
@@ -32,6 +33,10 @@
                 {
                     "name": "Yellow",
                     "hex": "E4AB00"
+                },
+				{
+                    "name": "Pure Yellow",
+                    "hex": "F2D00D"
                 },
                 {
                     "name": "Grey-Blue",
