@@ -9,7 +9,7 @@
                 {
                     "weight": 1100.0,
                     "spool_weight": 120.0,
-					"spool_type": "cardboard"	
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
