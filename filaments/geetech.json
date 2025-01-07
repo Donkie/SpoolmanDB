@@ -7,10 +7,10 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 1000,
-                    "spool_weight": 186,
-					"spool_type": "plastic"
-				}
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
             ],
             "diameters": [
                 1.75
@@ -62,9 +62,9 @@
             "density": 1.31,
             "weights": [
                 {
-                    "weight": 1000,
-                    "spool_weight": 186,
-					"spool_type": "plastic"
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -75,72 +75,24 @@
             "finish": "matte",
             "colors": [
                 {
-                    "name": "Ivory White",
-                    "hex": "FFFFFF"
+                    "name": "Skin",
+                    "hex": "EBB791"
                 },
                 {
-                    "name": "Latte Brown",
-                    "hex": "D3B7A7"
+                    "name": "Grey",
+                    "hex": "4A4B52"
                 },
                 {
-                    "name": "Desert Tan",
-                    "hex": "E8DBB7"
+                    "name": "Orange",
+                    "hex": "CB8863"
                 },
                 {
-                    "name": "Ash Gray",
-                    "hex": "9B9EA0"
+                    "name": "Light Gray",
+                    "hex": "A8A5A3"
                 },
                 {
-                    "name": "Lilac Purple",
-                    "hex": "AE96D4"
-                },
-                {
-                    "name": "Sakura Pink",
-                    "hex": "E8AFCF"
-                },
-                {
-                    "name": "Mandarin Orange",
-                    "hex": "F99963"
-                },
-                {
-                    "name": "Lemon Yellow",
-                    "hex": "F7D959"
-                },
-                {
-                    "name": "Scarlet Red",
-                    "hex": "DE4343"
-                },
-                {
-                    "name": "Dark Red",
-                    "hex": "BB3D43"
-                },
-                {
-                    "name": "Dark Brown",
-                    "hex": "7D6556"
-                },
-                {
-                    "name": "Dark Green",
-                    "hex": "68724D"
-                },
-                {
-                    "name": "Grass Green",
-                    "hex": "61C680"
-                },
-                {
-                    "name": "Ice Blue",
-                    "hex": "A3D8E1"
-                },
-                {
-                    "name": "Marine Blue",
-                    "hex": "0078BF"
-                },
-                {
-                    "name": "Dark Blue",
-                    "hex": "042F56"
-                },
-                {
-                    "name": "Charcoal",
-                    "hex": "000000"
+                    "name": "Dark Grey",
+                    "hex": "282A2E"
                 }
             ]
         }
