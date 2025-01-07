@@ -1,0 +1,148 @@
+{
+    "manufacturer": "GEETECH",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 186,
+					"spool_type": "plastic"
+				}
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 205,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "New Purple",
+                    "hex": "813F92"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "885E3E"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0071AE"
+                },
+                {
+                    "name": "Apple Green",
+                    "hex": "B6D649"
+                },
+                {
+                    "name": "Water Blue",
+                    "hex": "04AACB"
+                },
+                {
+                    "name": "Black",
+                    "hex": "3C3C3C"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "82868A"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "E99D48"
+                },
+                {
+                    "name": "White",
+                    "hex": "Dee2E7"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 186,
+					"spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Ivory White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Latte Brown",
+                    "hex": "D3B7A7"
+                },
+                {
+                    "name": "Desert Tan",
+                    "hex": "E8DBB7"
+                },
+                {
+                    "name": "Ash Gray",
+                    "hex": "9B9EA0"
+                },
+                {
+                    "name": "Lilac Purple",
+                    "hex": "AE96D4"
+                },
+                {
+                    "name": "Sakura Pink",
+                    "hex": "E8AFCF"
+                },
+                {
+                    "name": "Mandarin Orange",
+                    "hex": "F99963"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "F7D959"
+                },
+                {
+                    "name": "Scarlet Red",
+                    "hex": "DE4343"
+                },
+                {
+                    "name": "Dark Red",
+                    "hex": "BB3D43"
+                },
+                {
+                    "name": "Dark Brown",
+                    "hex": "7D6556"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "68724D"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "61C680"
+                },
+                {
+                    "name": "Ice Blue",
+                    "hex": "A3D8E1"
+                },
+                {
+                    "name": "Marine Blue",
+                    "hex": "0078BF"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "042F56"
+                },
+                {
+                    "name": "Charcoal",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
