@@ -52,7 +52,152 @@
                     "hex": "9A232D",
                     "translucent": true
                 }
-                
+
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 251
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Cool Gray",
+                    "hex": "959494"
+                },
+                {
+                    "name": "Baby Blue",
+                    "hex": "ADD8E6"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "F5F5DC"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "True Blue",
+                    "hex": "0B519E"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "CD7F32"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "452923"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "B87333"
+                },
+                {
+                    "name": "Gray Blue",
+                    "hex": "6F8FAF"
+                },
+                {
+                    "name": "Green",
+                    "hex": "4CBB17"
+                },
+                {
+                    "name": "Iron Red",
+                    "hex": "79111E"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "0096FF"
+                },
+                {
+                    "name": "Light Orange",
+                    "hex": "FFBF00"
+                },
+                {
+                    "name": "Light Purple",
+                    "hex": "BF40BF"
+                },
+                {
+                    "name": "Lime Green",
+                    "hex": "7CFC00"
+                },
+                {
+                    "name": "Midnight Purple",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "7FFFD4"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "B6BAB1"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "B6BAB1"
+                },
+                {
+                    "name": "Pastel Green",
+                    "hex": "98FB98"
+                },
+                {
+                    "name": "Peacock Blue",
+                    "hex": "6495ED"
+                },
+                {
+                    "name": "True Pink",
+                    "hex": "DF6786"
+                },
+                {
+                    "name": "Red",
+                    "hex": "AB2A2C"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "8E8D94"
+                },
+                {
+                    "name": "White",
+                    "hex": "E3E5E7"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "ECD018"
+                }
+                ]
+        },
+        {
+            "name": "Sparkle {color_name}",
+            "material": "PLA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 251
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "pattern": "sparkle",
+            "colors": [
+                {
+                    "name": "Red",
+                    "hex": "79111E"
+                }
             ]
         }
     ]
