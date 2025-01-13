@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 0
+                    "spool_weight": 165
+                    "spool_type": "plastic",
                 }
             ],
             "diameters": [
@@ -20,6 +21,42 @@
                 {
                     "name": "Transparent Green",
                     "hex": "16BA36"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F25602"
+                },
+                {
+                    "name": "Green",
+                    "hex": "5FC50D"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F6FA00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "942192"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
                 }
             ]
         },
@@ -128,7 +165,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 315.0,
+                    "spool_weight": 165.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -161,6 +198,18 @@
                 {
                     "name": "Green",
                     "hex": "5FC50D"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F6FA00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "942192"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
                 }
             ]
         }
