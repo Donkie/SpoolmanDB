@@ -101,7 +101,7 @@
         {
             "name": "High Speed 95A {color_name}",
             "material": "TPU",
-            "density": 1.24,
+            "density": 1.19,
             "finish": "glossy",
             "weights": [
                 {
