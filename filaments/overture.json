@@ -126,7 +126,7 @@
                 },
                 {
                     "name": "Clear",
-                    "hex": "FFFFFF"
+                    "hex": "FFFFFF",
                     "translucent": true
                 },
                 {
@@ -135,7 +135,7 @@
                 },
                 {
                     "name": "Translucent Red",
-                    "hex": "FF0000"
+                    "hex": "FF0000",
                     "translucent": true
                 },
                 {
@@ -152,7 +152,7 @@
                 },
                 {
                     "name": "Translucent Blue",
-                    "hex": "0000FF"
+                    "hex": "0000FF",
                     "translucent": true
                 }
             ]
