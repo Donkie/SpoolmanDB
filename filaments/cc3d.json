@@ -1,0 +1,48 @@
+{
+  "manufacturer": "CC3D",
+  "filaments": [
+    {
+      "name": "ABS+ {color_name}",
+      "material": "ABS",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 180,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 250,
+      "bed_temp": 90,
+      "colors": [
+         {
+           "name": "Black",
+           "hex": "000000"
+         },
+         {
+           "name": "White",
+           "hex": "FFFFFF"
+         },
+         {
+           "name": "Red",
+           "hex": "FF0000"
+         },
+         {
+           "name": "Dark Blue",
+           "hex": "244197"
+         },
+         {
+           "name": "Gray",
+           "hex": "adadad"
+        },
+         {
+           "name": "Pink",
+           "hex": "f0c4e3"
+        }
+      ]
+    }
+  ]
+}
