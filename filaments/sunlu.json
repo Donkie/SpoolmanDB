@@ -20,7 +20,7 @@
             "colors": [
                 {
                     "name": "Transparent Green",
-                    "translucent": true
+                    "translucent": true,
                     "hex": "16BA36"
                 },
                 {
