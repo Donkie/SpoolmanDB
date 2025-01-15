@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 0
+                    "spool_weight": 165,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -19,7 +20,44 @@
             "colors": [
                 {
                     "name": "Transparent Green",
+                    "translucent": true,
                     "hex": "16BA36"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F25602"
+                },
+                {
+                    "name": "Green",
+                    "hex": "5FC50D"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F6FA00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "942192"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
                 }
             ]
         },
@@ -118,6 +156,61 @@
                 {
                     "name": "Red (Glow Orange)",
                     "hex": "FF0000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 165.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 255,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F25602"
+                },
+                {
+                    "name": "Green",
+                    "hex": "5FC50D"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F6FA00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "942192"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
                 }
             ]
         }
