@@ -1,0 +1,9 @@
+# Test container
+version: '3'
+services:
+  filament-compile:
+    image: python:3.11-alpine
+    working_dir: /usr/src/spoolmandb
+    command: python scripts/compile_filaments.py
+    volumes:
+      - .:/usr/src/spoolmandb # Mount the project, MUST MATCH working_dir

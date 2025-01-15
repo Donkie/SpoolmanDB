@@ -14,6 +14,7 @@ entries or you can split up the filament object into multiple ones.
 #### Source file fields
  * **name** - The product name. Should probably contain the format code `{color_name}` to automatically insert the color name.
  * **material** - The material name, e.g. PLA.
+ * **price** *(optional)*- A key:value listing of currencies and the filament cost. e.g. `{ "USD": 19.99, "AUD": 30.99 }`
  * **density** - The density of the material in g/cm3.
  * **weights** - An array of objects with `weight`, `spool_weight` and `spool_type` fields. Specify multiple here if the manufacturer sells the filament in e.g. 1 kg and 5 kg spools. `spool_weight` is optional but recommended. `spool_type` is optional and can be any of "plastic", "cardboard" or "metal".
  * **diameters** - An array of diameters in mm. Specify multiple here if the manufacturer sells the filament in both e.g. 1.75 and 2.85 mm diameters.
@@ -34,3 +35,7 @@ All materials are found in the `materials.json` file.
  * **density** - The density of the material in g/cm3.
  * **extruder_temp** - General extruder temperature for this material.
  * **bed_temp** - General bed temperature for this material.
+
+## Testing compile script
+If you don't have python install on the host, you can use Docker to test the compile script. 
+Run `docker-compose up` and the container will be built, the compile attempted and the container will immediately exit.

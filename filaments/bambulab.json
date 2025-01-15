@@ -4,6 +4,15 @@
         {
             "name": "{color_name}",
             "material": "PLA",
+            "prices": {
+                "AUD": 30.99,
+                "USD": 19.99,
+                "CAD": 25.99,
+                "EUR": 22.99,
+                "GBP": 17.99,
+                "JPY": 2800,
+                "KRW": 33000
+            },
             "density": 1.24,
             "weights": [
                 {

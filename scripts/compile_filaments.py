@@ -44,10 +44,19 @@ class Color(TypedDict):
     translucent: NotRequired[bool]
     glow: NotRequired[bool]
 
+class Prices(TypedDict):
+    USD: NotRequired[float]
+    EUR: NotRequired[float]
+    GBP: NotRequired[float]
+    AUD: NotRequired[float]
+    CAD: NotRequired[float]
+    JPY: NotRequired[float]
+    KRW: NotRequired[float]
 
 class Filament(TypedDict):
     name: str
     material: str
+    prices: NotRequired[Prices | None]
     density: float
     weights: list[Weight]
     diameters: list[float]
@@ -95,6 +104,7 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
     """Expands the given filament data by generating multiple filament objects based on the weights, diameters, and colors."""
     name = data["name"]
     material = data["material"]
+    prices = data.get("prices", None)
     density = data["density"]
     weights = data["weights"]
     diameters = data["diameters"]
@@ -176,6 +186,7 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "manufacturer": manufacturer,
                     "name": formatted_name,
                     "material": material,
+                    "prices": prices,
                     "density": density,
                     "weight": weight,
                     "spool_weight": spool_weight,

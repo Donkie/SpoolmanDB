@@ -33,6 +33,42 @@
                         "type": "string",
                         "pattern": "^[A-Z0-9]+(\\+[A-Z0-9]+)*(-(CF\\d{0,2}|GF\\d{0,2}|\\d{2}[AD]))?\\+?$"
                     },
+                    "prices": {
+                        "type": "object",
+                        "$comment": "Price of the filament by currency. At least 1 of USD, EUR, GBP, AUD, CAD, JPY or KRW must be included.",
+                        "properties": {
+                            "USD": { 
+                                "type": "number"
+                            },
+                            "EUR": { 
+                                "type": "number" 
+                            },
+                            "GBP": { 
+                                "type": "number" 
+                            },
+                            "AUD": { 
+                                "type": "number" 
+                            },
+                            "CAD": { 
+                                "type": "number" 
+                            },
+                            "JPY": { 
+                                "type": "number" 
+                            },
+                            "KRW": { 
+                                "type": "number" 
+                            }
+                        },
+                        "anyOf": [
+                            { "required": ["USD"] },
+                            { "required": ["EUR"] },
+                            { "required": ["GBP"] },
+                            { "required": ["AUD"] },
+                            { "required": ["CAD"] },
+                            { "required": ["JPY"] },
+                            { "required": ["KRW"] }
+                        ]
+                    },
                     "density": {
                         "type": "number",
                         "exclusiveMinimum": 0
