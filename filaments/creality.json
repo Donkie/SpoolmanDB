@@ -74,6 +74,51 @@
                 {
                     "name": "Red",
                     "hex": "DE3530"
+                },
+                {
+                    "name": "Raindow",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "37c597",
+                        "fdff79",
+                        "e95f2a",
+                        "a15160",
+                        "84adcf"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ender-PLA {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 120
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2D8CD5"
+                },
+                {
+                    "name": "Red",
+                    "hex": "DE3530"
                 }
             ]
         }
