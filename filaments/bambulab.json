@@ -764,7 +764,7 @@
             ]
         },
         {
-            "name": "Support for PLA/PETG",
+            "name": "Support for PLA/PETG {color_name}",
             "material": "PLA",
             "density": 1.28,
             "weights": [
@@ -790,7 +790,7 @@
             ]
         },
         {
-            "name": "Support for PLA",
+            "name": "Support for PLA {color_name}",
             "material": "PLA",
             "density": 1.22,
             "weights": [
