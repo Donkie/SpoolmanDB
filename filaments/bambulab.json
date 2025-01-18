@@ -720,6 +720,102 @@
             ]
         },
         {
+            "name": "Support for ABS",
+            "material": "ABS",
+            "density": 1.16,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Support for PA/PET",
+            "material": "PA",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 290,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "BECF00"
+                }
+            ]
+        },
+        {
+            "name": "Support for PLA/PETG",
+            "material": "PLA",
+            "density": 1.28,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Nature",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Support for PLA",
+            "material": "PLA",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 225,
+            "bed_temp": 45,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PETG",
             "density": 1.25,
