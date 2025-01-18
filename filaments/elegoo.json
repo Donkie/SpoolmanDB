@@ -23,6 +23,40 @@
                     "hex": "00FFFFFF"
                 }
             ]
+        },
+		{
+            "name": "PLA {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+			"weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 160,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Brown",
+                    "hex": "6a4a34"
+                },{
+                    "name": "Beige",
+                    "hex": "dbd0bd"
+                },{
+                    "name": "Grey",
+                    "hex": "b5b7b8"
+                }
+            ]
         }
+    ]
+}
     ]
 }
