@@ -97,6 +97,65 @@
                     "hex": "cfc802"
                 }
             ]
+        },
+        {
+            "name": "High Speed 95A {color_name}",
+            "material": "TPU",
+            "density": 1.19,
+            "finish": "glossy",
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 174,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 35,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF",
+                    "translucent": true
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "e2f641"
+                },
+                {
+                    "name": "Translucent Red",
+                    "hex": "FF0000",
+                    "translucent": true
+                },
+                {
+                    "name": "Orange",
+                    "hex": "db8134"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "f0bae9"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "a3afa9"
+                },
+                {
+                    "name": "Translucent Blue",
+                    "hex": "0000FF",
+                    "translucent": true
+                }
+            ]
         }
     ]
 }
