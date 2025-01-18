@@ -720,7 +720,7 @@
             ]
         },
         {
-            "name": "Support for ABS",
+            "name": "Support for {color_name}",
             "material": "ABS",
             "density": 1.16,
             "weights": [
@@ -736,13 +736,13 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "White",
+                    "name": "ABS",
                     "hex": "FFFFFF"
                 }
             ]
         },
         {
-            "name": "Support for PA/PET",
+            "name": "Support for {color_name}",
             "material": "PA",
             "density": 1.17,
             "weights": [
@@ -758,7 +758,7 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "Green",
+                    "name": "PA/PET",
                     "hex": "BECF00"
                 }
             ]
