@@ -737,6 +737,28 @@
         },
         {
             "name": "{color_name}",
+            "material": "eMarbe",
+            "density": 1.274,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Nature",
+                    "hex": "ffffff"
+                }
+            ]
+        },   
+        {
+            "name": "{color_name}",
             "material": "TPU-95A",
             "density": 1.21,
             "weights": [
