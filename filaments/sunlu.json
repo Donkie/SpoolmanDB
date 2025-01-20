@@ -69,7 +69,19 @@
                 {
                     "weight": 1000,
                     "spool_weight": 124
-                }
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                }                
             ],
             "diameters": [
                 1.75
