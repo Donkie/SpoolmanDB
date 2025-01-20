@@ -736,6 +736,28 @@
             ]
         },
         {
+            "nome" : "eMarble {nome_colore} " ,
+            "materiale" : "PLA" ,
+            "densità" : 1,274 ,
+            "pesi" : [
+                {
+                    "peso" : 1000 ,
+                    "peso_spool" : 240
+                }
+            ],
+            "diametri" : [
+                1,75
+            ],
+            "temp_estrusore" : 220 ,
+            "temp_letto" : 60 ,
+            "colori" : [
+                {
+                    "nome" : " Natura " ,
+                    "esadecimale" : " ffffff "
+                }
+            ]
+        }, 
+        {
             "name": "{color_name}",
             "material": "TPU-95A",
             "density": 1.21,
