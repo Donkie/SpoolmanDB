@@ -206,6 +206,28 @@
             ]
         },
         {
+            "nome" : " eMarmo {nome_colore} " ,
+            "materiale" : " PLA " ,
+            "densità" : 1 , 274 ,
+            "peso" : [
+                {
+                    "peso" : 1000 ,
+                    "peso_bobina" : 240
+                }
+            ],
+            "diametro" : [
+                1 , 75
+            ],
+            "temp_estrusore" : 220 ,
+            "temp_letto" : 60 ,
+            "colori" : [
+                {
+                    "nome" : " Natura " ,
+                    "esadecimale" : " ffffff "
+                }
+            ]
+        },
+        {
             "name": "ePLA+HS {color_name}",
             "material": "PLA+",
             "density": 1.24,
