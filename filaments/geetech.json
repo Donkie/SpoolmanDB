@@ -96,6 +96,7 @@
                 }
             ]
         },
+        {
                     "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
