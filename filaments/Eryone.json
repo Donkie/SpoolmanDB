@@ -24,7 +24,8 @@
                     "name": "Black",
                     "hex": "000000"
                 },{
-                    "name": "Pink&Blue",
+                    "name": "Pink & Blue",
+                    "multi_color_direction": "coaxial",
                     "hexes": [
                         "FC0FC0",
                         "0000FF"
