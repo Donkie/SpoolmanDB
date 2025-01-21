@@ -21,15 +21,14 @@
                 {
                     "name": "Pink & Blue",
                     "hexes": [
-                      "FC0FC0",
-                      "0000FF"
+                        "FC0FC0",
+                        "0000FF"
                     ]
-                },
-                {
+                },{
                     "name": "Dusty Blue & Mustard Yellow",
                     "hexes": [
-                      "36454F",
-                      "E1AD01"
+                        "36454F",
+                        "E1AD01"
                     ]
                 }
             ]
