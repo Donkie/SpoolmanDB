@@ -30,6 +30,13 @@
                         "FC0FC0",
                         "0000FF"
                     ]
+                },{
+                    "name": "Dusty Blue & Mustard Yellow",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "36454F",
+                        "E1AD01"
+                    ]
                 }
             ]
         }
