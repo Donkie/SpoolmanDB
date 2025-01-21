@@ -19,17 +19,11 @@
             "bed_temp": 60,
             "colors": [
                 {
-                    "name": "Pink & Blue",
-                    "hexes": [
-                        "FC0FC0",
-                        "0000FF"
-                    ]
+                    "name": "White",
+                    "hex": "FFFFFF"
                 },{
-                    "name": "Dusty Blue & Mustard Yellow",
-                    "hexes": [
-                        "36454F",
-                        "E1AD01"
-                    ]
+                    "name": "Black",
+                    "hex": "000000"
                 }
             ]
         }
