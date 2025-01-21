@@ -8,7 +8,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 165,
+                    "spool_weight": 130,
                     "spool_type": "plastic"
                 }
             ],
@@ -72,7 +72,7 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 124
+                    "spool_weight": 130
                 }
             ],
             "diameters": [
@@ -110,7 +110,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 124,
+                    "spool_weight": 130,
                     "spool_type": "plastic"
                 }
             ],
@@ -150,7 +150,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 120.0,
+                    "spool_weight": 130.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -186,7 +186,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 165.0,
+                    "spool_weight": 130.0,
                     "spool_type": "plastic"
                 }
             ],
