@@ -32,6 +32,10 @@
                     "hex": "FFFFFF"
                 },
                 {
+                    "name": "Sky Blue",
+                    "hex": "69E2FF"
+                },
+                {
                     "name": "Red",
                     "hex": "FF0000"
                 },
