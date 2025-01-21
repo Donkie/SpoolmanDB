@@ -1,0 +1,33 @@
+{
+    "manufacturer": "Geetech",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 184
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },{
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Dark Gray",
+                    "hex": "484848"
+                }
+            ]
+        }
+    ]
+}
