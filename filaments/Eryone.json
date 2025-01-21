@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Eryone",
+    "filaments": [
+        {
+            "name": "PLA Matte Dual Color {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 140
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75,
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Pink & Blue",
+                    "hexes": ["FC0FC0","0000FF"]
+                },
+                {
+                    "name": "Dusty Blue & Mustard Yellow",
+                    "hexes": ["36454F","E1AD01"]
+                }
+            ]
+        }
+    ]
+}
