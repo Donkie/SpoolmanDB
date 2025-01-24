@@ -63,7 +63,7 @@
                 {
                     "weight": 1000,
                     "spool_weight": 251,
-		    "spool_type": plastic
+		    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -186,7 +186,7 @@
                 {
                     "weight": 1000,
                     "spool_weight": 251,
-		    "spool_type": plastic
+		    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -230,7 +230,7 @@
                 {
                     "weight": 1000,
                     "spool_weight": 251,
-                    "spool_type": plastic
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
