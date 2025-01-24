@@ -1,0 +1,100 @@
+{
+    "manufacturer": "GEETECH",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 205,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "New Purple",
+                    "hex": "813F92"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "885E3E"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0071AE"
+                },
+                {
+                    "name": "Apple Green",
+                    "hex": "B6D649"
+                },
+                {
+                    "name": "Water Blue",
+                    "hex": "04AACB"
+                },
+                {
+                    "name": "Black",
+                    "hex": "3C3C3C"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "82868A"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "E99D48"
+                },
+                {
+                    "name": "White",
+                    "hex": "Dee2E7"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.31,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Skin",
+                    "hex": "EBB791"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "4A4B52"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "CB8863"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "A8A5A3"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "282A2E"
+                }
+            ]
+        }
+    ]
+}

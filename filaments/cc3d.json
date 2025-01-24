@@ -1,0 +1,104 @@
+{
+  "manufacturer": "CC3D",
+  "filaments": [
+    {
+      "name": "ABS+ {color_name}",
+      "material": "ABS",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 180,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 250,
+      "bed_temp": 90,
+      "colors": [
+         {
+           "name": "Black",
+           "hex": "000000"
+         },
+         {
+           "name": "White",
+           "hex": "FFFFFF"
+         },
+         {
+           "name": "Red",
+           "hex": "FF0000"
+         },
+         {
+           "name": "Dark Blue",
+           "hex": "244197"
+         },
+         {
+           "name": "Gray",
+           "hex": "BBBBBB"
+        },
+        {
+           "name": "Pink",
+           "hex": "f0c4e3"
+        }
+      ]
+    },
+    {
+      "name": "{color_name}",
+      "material": "PETG",
+      "density": 1.27,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 180,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 245,
+      "bed_temp": 80,
+      "colors": [
+        {
+          "name": "Glow in the Dark Green",
+          "hex": "68FD9A",
+          "glow": true
+        },
+        {
+          "name": "Transparent",
+          "hex": "FFFFFF",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "name": "Silk {color_name}",
+      "material": "PLA",
+      "density": 1.21,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 180,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 210,
+      "bed_temp": 50,
+      "colors": [
+        {
+          "name": "Gold",
+          "hex": "ffdf00"
+        },
+        {
+          "name": "Enamel Blue",
+          "hex": "05dfd9"
+        }
+      ]
+    }
+  ]
+}
