@@ -8,7 +8,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 165,
+                    "spool_weight": 130,
                     "spool_type": "plastic"
                 }
             ],
@@ -30,6 +30,14 @@
                 {
                     "name": "White",
                     "hex": "FFFFFF"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "69E2FF"
+                },
+                {
+                    "name": "Sakura Pink",
+                    "hex": "F6C7B3"
                 },
                 {
                     "name": "Red",
@@ -68,7 +76,7 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 124
+                    "spool_weight": 130
                 }
             ],
             "diameters": [
@@ -80,6 +88,22 @@
                 {
                     "name": "Black",
                     "hex": "3A3C3B"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
                 }
             ]
         },
@@ -90,7 +114,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 124,
+                    "spool_weight": 130,
                     "spool_type": "plastic"
                 }
             ],
@@ -130,7 +154,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 120.0,
+                    "spool_weight": 130.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -166,7 +190,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 165.0,
+                    "spool_weight": 130.0,
                     "spool_type": "plastic"
                 }
             ],
