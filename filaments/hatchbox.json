@@ -62,7 +62,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 251
+                    "spool_weight": 251,
+		    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -145,7 +146,7 @@
                 },
                 {
                     "name": "Orange",
-                    "hex": "B6BAB1"
+                    "hex": "D65E17"
                 },
                 {
                     "name": "Pastel Green",
@@ -184,7 +185,8 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 251
+                    "spool_weight": 251,
+		    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -197,6 +199,74 @@
                 {
                     "name": "Red",
                     "hex": "79111E"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "ECD018"
+                },
+                {
+                    "name": "Green",
+                    "hex": "3B5646"
+                },
+                {
+                    "name": "Black",
+                    "hex": "3F3839"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "257778"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "383C40"
+                }
+            ]
+        },
+	{
+            "name": "Transparent {color_name}",
+            "material": "PLA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 251,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+	    "translucent": true,
+            "colors": [
+                {
+                    "name": "Red",
+                    "hex": "C02716"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "E18923"
+                },
+                {
+                    "name": "White",
+                    "hex": "ACB3B3"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "1E7EAF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "ABABAB"
+                },
+                {
+                    "name": "Green",
+                    "hex": "86D553"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "ECD018"
                 }
             ]
         }
