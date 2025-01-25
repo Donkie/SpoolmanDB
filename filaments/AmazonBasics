@@ -1,0 +1,39 @@
+{
+    "manufacturer": "AmazonBasics",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 252
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 255,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },{
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Dark Gray",
+                    "hex": "636363"
+                },{
+                    "name": "Blue",
+                    "hex": "00B4D8"
+                },{
+                    "name": "Red",
+                    "hex": "D1001F"
+                }
+            ]
+        }
+    ]
+}
