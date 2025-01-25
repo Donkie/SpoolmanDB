@@ -885,6 +885,40 @@
         ]
       },
       {
+        "name": "Panchroma\u2122 Dual {color_name}",
+        "material": "PLA",
+        "density": 1.37,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Chameleon (Teal-Yellow)",
+            "hexes": [
+              "5AABB1",
+              "F0BE02"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          }          
+        ]
+      },
+      {
         "name": "PolyLite\u2122 PLA Pro {color_name}",
         "material": "PLA",
         "density": 1.22,
