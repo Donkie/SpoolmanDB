@@ -553,7 +553,69 @@
                 }
             ]
         },
-        
+        {
+            "name": "PLA-Silk Magic {color_name}",
+            "material": "PLA",
+            "density": 1.256,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 153,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Red Gold",
+                    "hex": "ee3137"
+                },
+                {
+                    "name": "Red Blue",
+                    "hex": "0061af"
+                },
+                {
+                    "name": "Purple Gold",
+                    "hex": "c592a5"
+                },
+                {
+                    "name": "Gold Silver",
+                    "hex": "fdcf91"
+                },
+                {
+                    "name": "Blue Green",
+                    "hex": "02254b"
+                },
+                {
+                    "name": "Black Red",
+                    "hex": "a82c2c"
+                },
+                {
+                    "name": "Black Purple",
+                    "hex": "583a60"
+                },
+                {
+                    "name": "Black Green",
+                    "hex": "5d9288"
+                },
+                {
+                    "name": "Black Gold",
+                    "hex": "ab5b26"
+                },
+                {
+                    "name": "Silver Blue",
+                    "hex": "0e2f8e"
+                },
+                {
+                    "name": "Red Green",
+                    "hex": "0a4c1e"
+                }
+            ]
+        },
         {
             "name": "{color_name}",
             "material": "PETG",
