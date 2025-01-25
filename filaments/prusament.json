@@ -117,6 +117,104 @@
                     "hex": "262727"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "bed_temp_range": [
+                50,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Galaxy Black",
+                    "hex": "3D3E3D"
+                },
+                {
+                    "name": "Galaxy Silver",
+                    "hex": "999AA0"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "D02F37"
+                },
+                {
+                    "name": "Azure Blue",
+                    "hex": "0082AD"
+                },
+                {
+                    "name": "Pearl Mouse",
+                    "hex": "A49D8E"
+                },
+                {
+                    "name": "Vanilla White",
+                    "hex": "D9D4C6"
+                },
+                {
+                    "name": "Gentleman's Grey",
+                    "hex": "354047"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "5E6345"
+                },
+                {
+                    "name": "Galaxy Purple",
+                    "hex": "453A72"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Opal Green",
+                    "hex": "065B4A"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EA5E1A"
+                },
+                {
+                    "name": "Pineapple Yellow",
+                    "hex": "EFD00B"
+                },
+                {
+                    "name": "Gravity Grey",
+                    "hex": "9FA4A8"
+                },
+                {
+                    "name": "Simply Green",
+                    "hex": "70A641"
+                },
+                {
+                    "name": "Marble Grey",
+                    "hex": "B0B4B5"
+                },
+                {
+                    "name": "Galaxy Green",
+                    "hex": "42663A"
+                },
+                {
+                    "name": "Pristine White",
+                    "hex": "E6EAEF"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                }
+            ]
         }
     ]
 }
