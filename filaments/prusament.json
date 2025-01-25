@@ -82,6 +82,39 @@
                 {
                     "name": "Mango Yellow",
                     "hex": "F2B70A"
+                },
+                {
+                    "name": "Ultramarine Blue",
+                    "hex": "2B3B61"
+                }
+            ]
+        },
+        {
+            "name": "PC Blend Carbon Fiber {color_name}",
+            "material": "PC-CF",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_weight": 200.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                275,
+                295
+            ],
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "262727"
                 }
             ]
         }
