@@ -781,11 +781,11 @@
             "colors": [
                 {
                     "name": "Nature",
-                    "hex": "000000"
+                    "hex": "FFFFFF"
                 },
                 {
                     "name": "Black",
-                    "hex": "FFFFFF"
+                    "hex": "000000"
                 }
             ]
         },
