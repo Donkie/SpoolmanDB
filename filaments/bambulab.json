@@ -781,37 +781,11 @@
             "colors": [
                 {
                     "name": "Nature",
-                    "hex": "FFFFFF"
+                    "hex": "000000"
                 },
                 {
                     "name": "Black",
-                    "hex": "000000"
-                }
-            ]
-        },
-        {
-            "name": "Support for PLA {color_name}",
-            "material": "PLA",
-            "density": 1.22,
-            "weights": [
-                {
-                    "weight": 500,
-                    "spool_weight": 250
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 225,
-            "bed_temp": 45,
-            "colors": [
-                {
-                    "name": "White",
                     "hex": "FFFFFF"
-                },
-                {
-                    "name": "Black",
-                    "hex": "000000"
                 }
             ]
         },
