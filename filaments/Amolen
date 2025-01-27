@@ -1,0 +1,75 @@
+{
+    "manufacturer": "Amolen",
+    "filaments": [
+        {
+            "name": "Dual Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 200.0,
+                    "spool_weight": 53.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "blue & green",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "2B35AF",
+                        "008000"
+                    ]
+                },{
+                    "name": "Pink & green",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "DE3163",
+                        "008000"
+                    ]
+                },{
+                    "name": "Pink & orange",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "DE3163",
+                        "FC6600"
+                    ]
+                },{
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "glow": true,
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "A1FFAC"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F8FF80"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "F17B8F"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "7AC0E9"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF9D5B"
+                },
+                {
+                    "name": "Rainbow",
+                    "hex": "d1d8ae"
+                },
+                {
+                    "name": "Red",
+                    "hex": "A34342"
+                }
+            ]
+        },
