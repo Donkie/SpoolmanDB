@@ -55,6 +55,32 @@
                     "hex": "b5b7b8"
                 }
             ]
+        },
+		{
+            "name": "ASA {color_name}",
+            "material": "ASA",
+            "density": 1.09,
+			"weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 160,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 265,
+            "bed_temp": 95,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "White",
+                    "hex": "ffffff"
+                }
+            ]
         }
     ]
 }
