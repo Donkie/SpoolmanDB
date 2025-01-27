@@ -522,6 +522,74 @@
         ]
       },
       {
+        "name": "PolyLite CosPLA (Version A)",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          },
+          {
+            "weight": 5000.0,
+            "spool_weight": 819.0,
+            "spool_type": "plastic"
+          },
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Grey",
+            "hex": "B1B1B1"
+          }
+        ]
+      },
+      {
+        "name": "PolyLite CosPLA (Version B)",
+        "material": "PLA",
+        "density": 1.22,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          },
+          {
+            "weight": 5000.0,
+            "spool_weight": 819.0,
+            "spool_type": "plastic"
+          },
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          30,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Grey",
+            "hex": "B1B1B1"
+          }
+        ]
+      },
+      {
         "name": "PolyLite\u2122\u00a0LW-PLA {color_name}",
         "material": "PLA",
         "density": 0.8,
