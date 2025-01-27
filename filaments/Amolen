@@ -42,6 +42,18 @@
             "name": "Glow {color_name}",
             "material": "PLA",
             "glow": true,
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 200.0,
+                    "spool_weight": 53.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
             "colors": [
                 {
                     "name": "Green",
