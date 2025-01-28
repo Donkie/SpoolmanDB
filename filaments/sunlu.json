@@ -3,7 +3,7 @@
     "filaments": [
         {
             "name": "{color_name}",
-            "material": "Elite Series PETG",
+            "material": "PETG",
             "density": 1.23,
             "weights": [
                 {
@@ -18,7 +18,7 @@
             "bed_temp": 70,
             "colors": [
                 {
-                    "name": "Black",
+                    "name": "Elite Series {color_name}",
                     "hex": "3A3C3B"
                 }
             ]
