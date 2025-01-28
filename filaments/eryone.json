@@ -1,0 +1,113 @@
+{
+    "manufacturer": "Eryone",
+    "filaments": [
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 187.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Gold",
+                    "hex": "D5983E"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "B36A51"
+                },
+                {
+                    "name": "Black & Rose Red",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "C21E56"
+                    ]
+                },
+                {
+                    "name": "Black & Gold & Purple",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "D5983E",
+                        "5B3378"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 187
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Pink & Blue",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "FC0FC0",
+                        "0000FF"
+                    ]
+                },
+                {
+                    "name": "Dusty Blue & Mustard Yellow",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "36454F",
+                        "E1AD01"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 187.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "80817F"
+                }
+               
+            ]
+        }
+    ]
+}

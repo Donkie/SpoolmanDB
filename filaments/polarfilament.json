@@ -1,0 +1,228 @@
+{
+    "manufacturer": "Polar Filament",
+    "filaments": [
+      {
+        "name": "{color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 190.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          205,
+          225
+        ],
+        "bed_temp_range": [
+          55,
+          65
+        ],
+        "colors": [
+          {
+            "name": "Classic Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Polar White",
+            "hex": "BABAB0"
+          },
+          {
+            "name": "Royal Blue",
+            "hex": "0130AF"
+          },
+          {
+            "name": "Candy Red",
+            "hex": "C10006"
+          },
+          {
+            "name": "Sunshine Yellow",
+            "hex": "F9E20C"
+          },
+          {
+            "name": "Natural",
+            "hex": "C6C695",
+            "translucent":true
+          },
+          {
+            "name": "Bubblegum",
+            "hex": "D62285"
+          },
+          {
+            "name": "Magenta",
+            "hex": "C1004A"
+          },
+          {
+            "name": "Rocket Red",
+            "hex": "C60003"
+          },
+          {
+            "name": "Blaze Orange",
+            "hex": "F91D09"
+          },
+          {
+            "name": "Vivid Orange",
+            "hex": "C62A03"
+          },
+          {
+            "name": "Creamsicle",
+            "hex": "D65A3B"
+          },
+          {
+            "name": "Lemon Drop",
+            "hex": "B8C109"
+          },
+          {
+            "name": "Opulent Gold",
+            "hex": "d6ad46"
+          },
+          {
+            "name": "Shamrock",
+            "hex": "148714"
+          },
+          {
+            "name": "Alien Green",
+            "hex": "0a5e0a"
+          },
+          {
+            "name": "Squid",
+            "hex": "139677"
+          },
+          {
+            "name": "Light Blue",
+            "hex": "0a15af"
+          },
+          {
+            "name": "Cornflower Blue",
+            "hex": "5065af"
+          },
+          {
+            "name": "Sapphire",
+            "hex": "043591"
+          },
+          {
+            "name": "Marine Blue",
+            "hex": "043591",
+            "pattern":"sparkle"
+          },
+          {
+            "name": "Pink",
+            "hex": "af5f5f"
+          },
+          {
+            "name": "Spaceship",
+            "hex": "636363"
+          },
+          {
+            "name": "Mocha",
+            "hex": "5e4a3b"
+          },
+          {
+            "name": "Merlot",
+            "hex": "68364a"
+          },
+          {
+            "name": "Chestnut",
+            "hex": "873232"
+          },
+          {
+            "name": "Deep Space",
+            "hex": "1d3154"
+          },
+          {
+            "name": "Bloopiter",
+            "hex": "3b3149",
+            "pattern":"sparkle"
+          },
+          {
+            "name": "Purplex",
+            "hex": "5a2d91"
+          },
+          {
+            "name": "Banana Split",
+            "hex": "abba3b"
+          },
+          {
+            "name": "Regulation Gray",
+            "hex": "6d6d6d"
+          },
+          {
+            "name": "Coral",
+            "hex": "d12b4a"
+          },
+          {
+            "name": "Seafoam",
+            "hex": "0a5e5e",
+            "pattern":"sparkle"
+          }
+        ]
+      },
+      {
+        "name": "{color_name}",
+        "material": "PETG",
+        "density": 1.27,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 190.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          230,
+          250
+        ],
+        "bed_temp_range": [
+          55,
+          65
+        ],
+        "colors": [
+          {
+            "name": "Classic Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Polar White",
+            "hex": "BABAB0"
+          },
+          {
+            "name": "Royal Blue",
+            "hex": "0130AF"
+          },
+          {
+            "name": "Vivid Orange",
+            "hex": "C62A03"
+          },
+          {
+            "name": "Candy Red",
+            "hex": "C10006"
+          },
+          {
+            "name": "Natural (Clear)",
+            "hex": "C6C695",
+            "translucent":true
+          },
+          {
+            "name": "Sunshine Yellow",
+            "hex": "F9E20C"
+          },
+          {
+            "name": "Purplex",
+            "hex": "5a2d91"
+          },
+          {
+            "name": "Regulation Gray",
+            "hex": "6d6d6d"
+          }
+        ]
+      }
+    ]
+}
