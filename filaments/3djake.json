@@ -1,144 +1,359 @@
 {
-    "manufacturer": "3DJAKE",
-    "filaments": [
-        {
-            "name": "{color_name}",
-            "material": "PETG",
-            "density": 1.24,
-            "weights": [
-                {
-                    "weight": 1000.0,
-                    "spool_weight": 231
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 240,
-            "bed_temp": 90,
-            "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },{
-                    "name": "Black",
-                    "hex": "000000"
-                },{
-                    "name": "Dark Gray",
-                    "hex": "484848"
-                },{
-                    "name": "Silver",
-                    "hex": "cecece"
-                },{
-                    "name": "Bronze",
-                    "hex": "a69059"
-                },{
-                    "name": "Dark Blue",
-                    "hex": "002351"
-                },{
-                    "name": "Sky Blue",
-                    "hex": "017cff"
-                },{
-                    "name": "Light Green",
-                    "hex": "65c525"
-                },{
-                    "name": "Neon Orange",
-                    "hex": "ff6600"
-                },{
-                    "name": "Red",
-                    "hex": "d80000"
-                },{
-                    "name": "Neon Yellow",
-                    "hex": "c4ff03"
-                },{
-                    "name": "Pastell pink",
-                    "hex": "d89d9d"
-                },{
-                    "name": "Pastel blue",
-                    "hex": "7ab4f3"
-                },{
-                    "name": "Transparent",
-                    "hex": "ffffff"
-                },{
-                    "name": "Red Transparent",
-                    "hex": "c50000",
-                    "translucent": true
-                },{
-                    "name": "Green Transparent",
-                    "hex": "00b01d",
-                    "translucent": true
-                },{
-                    "name": "Blue Transparent",
-                    "hex": "0039bf",
-                    "translucent": true
-                },{
-                    "name": "Yellow Transparent",
-                    "hex": "deae00",
-                    "translucent": true
-                }
-            ]
-        },
-        {
-            "name": "{color_name}",
-            "material": "PCTG",
-            "density": 1.24,
-            "weights": [
-                {
-                    "weight": 1000.0,
-                    "spool_weight": 231
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 260,
-            "bed_temp": 100,
-            "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },{
-                    "name": "Black",
-                    "hex": "000000"
-                },{
-                    "name": "Silver",
-                    "hex": "cecece"
-                },{
-                    "name": "Dark Blue",
-                    "hex": "002351"
-                },{
-                    "name": "Light Blue",
-                    "hex": "017cff"
-                },{
-                    "name": "Light Green",
-                    "hex": "65c525"
-                },{
-                    "name": "Dark Green",
-                    "hex": "036606"
-                },{
-                    "name": "Red",
-                    "hex": "d80000"
-                },{
-                    "name": "Transparent",
-                    "hex": "ffffff",
-                    "translucent": true
-                },{
-                    "name": "Transparent Red",
-                    "hex": "c50000",
-                    "translucent": true
-                },{
-                    "name": "Transparent Green",
-                    "hex": "00b01d",
-                    "translucent": true
-                },{
-                    "name": "Transparent Blue",
-                    "hex": "0039bf",
-                    "translucent": true
-                },{
-                    "name": "Transparent Yellow",
-                    "hex": "deae00",
-                    "translucent": true
-                }
+   "manufacturer":"3DJAKE",
+   "filaments":[
+      {
+         "name":"{color_name}",
+         "material":"PETG",
+         "density":1.24,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":231
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":240,
+         "bed_temp":90,
+         "colors":[
+            {
+               "name":"White",
+               "hex":"FFFFFF"
+            },
+            {
+               "name":"Black",
+               "hex":"000000"
+            },
+            {
+               "name":"Dark Gray",
+               "hex":"484848"
+            },
+            {
+               "name":"Silver",
+               "hex":"cecece"
+            },
+            {
+               "name":"Bronze",
+               "hex":"a69059"
+            },
+            {
+               "name":"Dark Blue",
+               "hex":"002351"
+            },
+            {
+               "name":"Sky Blue",
+               "hex":"017cff"
+            },
+            {
+               "name":"Light Green",
+               "hex":"65c525"
+            },
+            {
+               "name":"Neon Orange",
+               "hex":"ff6600"
+            },
+            {
+               "name":"Red",
+               "hex":"d80000"
+            },
+            {
+               "name":"Neon Yellow",
+               "hex":"c4ff03"
+            },
+            {
+               "name":"Pastell pink",
+               "hex":"d89d9d"
+            },
+            {
+               "name":"Pastel blue",
+               "hex":"7ab4f3"
+            },
+            {
+               "name":"Transparent",
+               "hex":"ffffff"
+            },
+            {
+               "name":"Red Transparent",
+               "hex":"c50000",
+               "translucent":true
+            },
+            {
+               "name":"Green Transparent",
+               "hex":"00b01d",
+               "translucent":true
+            },
+            {
+               "name":"Blue Transparent",
+               "hex":"0039bf",
+               "translucent":true
+            },
+            {
+               "name":"Yellow Transparent",
+               "hex":"deae00",
+               "translucent":true
+            }
+         ]
+      },
+      {
+         "name":"{color_name}",
+         "material":"PCTG",
+         "density":1.24,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":231
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":260,
+         "bed_temp":100,
+         "colors":[
+            {
+               "name":"White",
+               "hex":"FFFFFF"
+            },
+            {
+               "name":"Black",
+               "hex":"000000"
+            },
+            {
+               "name":"Silver",
+               "hex":"cecece"
+            },
+            {
+               "name":"Dark Blue",
+               "hex":"002351"
+            },
+            {
+               "name":"Light Blue",
+               "hex":"017cff"
+            },
+            {
+               "name":"Light Green",
+               "hex":"65c525"
+            },
+            {
+               "name":"Dark Green",
+               "hex":"036606"
+            },
+            {
+               "name":"Red",
+               "hex":"d80000"
+            },
+            {
+               "name":"Transparent",
+               "hex":"ffffff",
+               "translucent":true
+            },
+            {
+               "name":"Transparent Red",
+               "hex":"c50000",
+               "translucent":true
+            },
+            {
+               "name":"Transparent Green",
+               "hex":"00b01d",
+               "translucent":true
+            },
+            {
+               "name":"Transparent Blue",
+               "hex":"0039bf",
+               "translucent":true
+            },
+            {
+               "name":"Transparent Yellow",
+               "hex":"deae00",
+               "translucent":true
+            }
+         ]
+      },
+      {
+         "name":"{color_name}",
+         "material":"PLA",
+         "density":1.24,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":240
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":215,
+         "bed_temp":60,
+         "colors":[
+            {
+               "name":"Transparent",
+               "hex":"ffffff",
+               "translucent":true
+            },
+            {
+               "name":"CMYK White",
+               "hex":"FFFFFF"
+            },
+            {
+               "name":"White",
+               "hex":"FFFFFF"
+            },
+            {
+               "name":"Light Gray",
+               "hex":"D7D7D7"
+            },
+            {
+               "name":"Neon Yellow",
+               "hex":"FFFF00"
+            },
+            {
+               "name":"CMYK Yellow",
+               "hex":"FFFF00"
+            },
+            {
+               "name":"Yellow",
+               "hex":"EDFF21"
+            },
+            {
+               "name":"Orange",
+               "hex":"F75E25"
+            },
+            {
+               "name":"Neon Orange",
+               "hex":"ff6600"
+            },
+            {
+               "name":"Pastel Pink",
+               "hex":"EA899A"
+            },
+            {
+               "name":"Red",
+               "hex":"CC0605"
+            },
+            {
+               "name":"Pink",
+               "hex":"FE5CAC"
+            },
+            {
+               "name":"CMYK Magenta",
+               "hex":"CF3476"
+            },
+            {
+               "name":"Violet",
+               "hex":"6C4675"
+            },
+            {
+               "name":"Pastel Blue",
+               "hex":"5D9B9B"
+            },
+            {
+               "name":"Light Blue",
+               "hex":"2271B3"
+            },
+            {
+               "name":"Dark Blue",
+               "hex":"20214F"
+            },
+            {
+               "name":"Pastel Green",
+               "hex":"C2ECE2"
+            },
+            {
+               "name":"Light Green",
+               "hex":"57A639"
+            },
+            {
+               "name":"Neon Green",
+               "hex":"2DE645"
+            },
+            {
+               "name":"CMYK Cyan",
+               "hex":"59B0F8"
+            },
+            {
+               "name":"Dark Green",
+               "hex":"1E5945"
+            },
+            {
+               "name":"Gold",
+               "hex":"DEBF6C"
+            },
+            {
+               "name":"Bronze",
+               "hex":"705335"
+            },
+            {
+               "name":"Brown",
+               "hex":"4C2F27"
+            },
+            {
+               "name":"Silver",
+               "hex":"A5A5A5"
+            },
+            {
+               "name":"Dark Gray",
+               "hex":"434B4D"
+            },
+            {
+               "name":"Black",
+               "hex":"000000"
+            }
+         ]
+      },
+	  {
+         "name":"Silk {color_name}",
+         "material":"PLA",
+         "density":1.22,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":220
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":230,
+         "bed_temp":60,
+		 "finish": "glossy",
+         "colors":[
+            {
+               "name":"Raspberry",
+               "hex":"CE409E"
+            },
+			{
+               "name":"Yellow",
+               "hex":"F3D77D"
+            },
+			{
+               "name":"Gold",
+               "hex":"C49954"
+            },
+			{
+               "name":"Copper",
+               "hex":"833421"
+            },
+			{
+               "name":"Violet",
+               "hex":"463BA4"
+            },
+			{
+               "name":"Blue",
+               "hex":"22359E"
+            },
+			{
+               "name":"Green",
+               "hex":"287565"
+            },
+			{
+               "name":"Silver",
+               "hex":"8B90A3"
+            },
+			{
+               "name":"Black",
+               "hex":"000000"
+            }
             ]
         }
     ]
