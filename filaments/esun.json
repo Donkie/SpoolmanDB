@@ -416,6 +416,72 @@
             ]
         },
         {
+            "name": "PLA-Silk Mystic {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 154
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "GOLD BLUE PURPLE",
+                    "hex": "3f409a"
+                },
+                {
+                    "name": "GOLD GREEN BLACK",
+                    "hex": "534737"
+                },
+                {
+                    "name": "GOLD GREEN PURPLE",
+                    "hex": "c58a0c"
+                },
+                {
+                    "name": "GOLD RED GREEN",
+                    "hex": "b5334d"
+                },
+                {
+                    "name": "GOLD SILVER COPPER",
+                    "hex": "bdbab1"
+                },
+                {
+                    "name": "RED BLACK GOLD",
+                    "hex": "2a2426"
+                },
+                {
+                    "name": "RED GOLD PURPLE",
+                    "hex": "fd9e0c"
+                },
+                {
+                    "name": "RED GREEN BLUE",
+                    "hex": "223265"
+                },
+                {
+                    "name": "RED YELLOW BLUE",
+                    "hex": "ece280"
+                },
+                {
+                    "name": "BLUE ORANGE GREEN",
+                    "hex": "f7b585"
+                },
+                {
+                    "name": "BLUE RED PURPLE",
+                    "hex": "5c0242"
+                },
+                {
+                    "name": "COPPER PURPLE GREEN",
+                    "hex": "7c5f95"
+                }
+            ]
+        },
+        {
             "name": "PLA-lite {color_name}",
             "material": "PLA",
             "density": 1.23,
