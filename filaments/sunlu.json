@@ -205,6 +205,22 @@
                     "name": "Black",
                     "hex": "2B2B2D"
                 },
+                {
+                    "name": "White",
+                    "hex": "C7CDD7"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "636767"
+                },
+                {
+                    "name": "Red",
+                    "hex": "AC3638"
+                },
+                {
+                    "name": "Sunny Orange",
+                    "hex": "D8631E"
+                }
             ]
         },
         {
