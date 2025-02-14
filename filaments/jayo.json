@@ -137,6 +137,14 @@
                 {
                     "name": "Orange",
                     "hex": "F2552A"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F55C3D"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "7FFFD4"
                 }
             ]
         },
