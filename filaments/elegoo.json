@@ -104,6 +104,9 @@
                 {
                     "name": "Grey",
                     "hex": "b5b7b8"
+                },{
+                    "name": "Yellow",
+                    "hex": "fef406"
                 }
             ]
         }
