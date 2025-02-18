@@ -253,7 +253,7 @@
                 1.75
             ],
             "extruder_temp": 210,
-            "bed_temp": 10,
+            "bed_temp": 60,
             "colors": [
                 {
                     "name": "Chestnut Brown",
