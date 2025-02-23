@@ -522,7 +522,7 @@
         ]
       },
       {
-        "name": "PolyLite CosPLA (Version A)",
+        "name": "PolyLite CosPLA {color_name}",
         "material": "PLA",
         "density": 1.24,
         "weights": [
@@ -550,13 +550,13 @@
         ],
         "colors": [
           {
-            "name": "Grey",
+            "name": "Version A",
             "hex": "B1B1B1"
           }
         ]
       },
       {
-        "name": "PolyLite CosPLA (Version B)",
+        "name": "PolyLite CosPLA {color_name}",
         "material": "PLA",
         "density": 1.22,
         "weights": [
@@ -579,12 +579,12 @@
           230
         ],
         "bed_temp_range": [
-          30,
+          25,
           60
         ],
         "colors": [
           {
-            "name": "Grey",
+            "name": "Version B",
             "hex": "B1B1B1"
           }
         ]
