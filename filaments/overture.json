@@ -27,10 +27,12 @@
             "name": "Rock PLA {color_name}",
             "material": "PLA",
             "density": 1.30,
+            "finish": "matte",
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 155
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -41,11 +43,13 @@
             "colors": [
                 {
                     "name": "Rock White",
-                    "hex": "FFFFFF"
+                    "hex": "FFFFFF",
+                    "pattern": "marble"
                 },
                 {
                     "name": "Fossil Rock",
-                    "hex": "C2C0BA"
+                    "hex": "C2C0BA",
+                    "pattern": "marble"
                 },
                 {
                     "name": "Sedimentary Rock",
@@ -57,10 +61,12 @@
                 },
                 {
                     "name": "Glacier Blue",
-                    "hex": "A3EAFF"
+                    "multi_color_direction": "longitudinal",
+                    "hexes": ["A3EAFF", "FFFFFF"]
                 },
                 {
                     "name": "Rock Rainbow",
+                    "multi_color_direction": "longitudinal",
                     "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]
                 }
             ]
@@ -69,10 +75,12 @@
             "name": "Matte PLA {color_name}",
             "material": "PLA",
             "density": 1.30,
+            "finish": "matte",
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 155
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -112,11 +120,11 @@
                 {"name": "Jeans Red", "hex": "F76E6E"},
                 {"name": "Olive Green", "hex": "A88704"},
                 {"name": "Jeans Blue", "hex": "6787AD"},
-                {"name": "Rainbow", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
+                {"name": "Rainbow", "multi_color_direction": "longitudinal", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
                 {"name": "Red", "hex": "EB3B41"},
                 {"name": "Chocolate", "hex": "503529"},
                 {"name": "Slate Gray", "hex": "4F6B86"},
-                {"name": "Rainbow A1", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
+                {"name": "Rainbow A1", "multi_color_direction": "longitudinal", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
                 {"name": "Brick Red", "hex": "D22D2F"},
                 {"name": "Grass Green", "hex": "CEFF5C"},
                 {"name": "Blue", "hex": "005DA4"}
