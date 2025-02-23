@@ -24,6 +24,105 @@
             ]
         },
         {
+            "name": "Rock PLA {color_name}",
+            "material": "PLA",
+            "density": 1.30,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 155
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Rock White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Fossil Rock",
+                    "hex": "C2C0BA"
+                },
+                {
+                    "name": "Sedimentary Rock",
+                    "hex": "C4B199"
+                },
+                {
+                    "name": "Mars Red",
+                    "hex": "D76D3B"
+                },
+                {
+                    "name": "Glacier Blue",
+                    "hex": "A3EAFF"
+                },
+                {
+                    "name": "Rock Rainbow",
+                    "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]
+                }
+            ]
+        },
+        {
+            "name": "Matte PLA {color_name}",
+            "material": "PLA",
+            "density": 1.30,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 155
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {"name": "Carbon Fiber Black", "hex": "000000"},
+                {"name": "Dark Orange", "hex": "DC4116"},
+                {"name": "Gray Green", "hex": "666F60"},
+                {"name": "Navy Blue", "hex": "072E4E"},
+                {"name": "Black", "hex": "1D1E1E"},
+                {"name": "Orange", "hex": "F3C102"},
+                {"name": "Army Green", "hex": "6E8451"},
+                {"name": "Lavender", "hex": "7E5777"},
+                {"name": "Repose Gray", "hex": "B1A498"},
+                {"name": "Yellow", "hex": "EFDC4C"},
+                {"name": "Green", "hex": "519F62"},
+                {"name": "Purple", "hex": "8C69B5"},
+                {"name": "Light Grey", "hex": "BAC4C4"},
+                {"name": "Light Orange", "hex": "F2B87B"},
+                {"name": "Pale Green", "hex": "BECBA8"},
+                {"name": "Black-White", "hexes": ["000000", "FFFFFF"]},
+                {"name": "White", "hex": "E6DEDE"},
+                {"name": "Skin", "hex": "F0DDC2"},
+                {"name": "Light Green", "hex": "AFDEB9"},
+                {"name": "Orange-Red", "hexes": ["FCAB59", "F02800"]},
+                {"name": "Light Pink", "hex": "F7E6DE"},
+                {"name": "Light Brown", "hex": "EDD5A6"},
+                {"name": "Light Teal", "hex": "C7FFE3"},
+                {"name": "Blue-Red", "hexes": ["0074BD", "F00024"]},
+                {"name": "Pink", "hex": "FFE0E1"},
+                {"name": "Wood", "hex": "CAAC78"},
+                {"name": "Light Blue", "hex": "99FFFA"},
+                {"name": "Light Blue-Yellow", "hexes": ["B8FFFF", "FFF49E"]},
+                {"name": "Jeans Red", "hex": "F76E6E"},
+                {"name": "Olive Green", "hex": "A88704"},
+                {"name": "Jeans Blue", "hex": "6787AD"},
+                {"name": "Rainbow", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
+                {"name": "Red", "hex": "EB3B41"},
+                {"name": "Chocolate", "hex": "503529"},
+                {"name": "Slate Gray", "hex": "4F6B86"},
+                {"name": "Rainbow A1", "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]},
+                {"name": "Brick Red", "hex": "D22D2F"},
+                {"name": "Grass Green", "hex": "CEFF5C"},
+                {"name": "Blue", "hex": "005DA4"}
+              ]
+        },
+        {
             "name": "{color_name}",
             "material": "PETG",
             "density": 1.24,
