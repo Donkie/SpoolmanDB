@@ -535,7 +535,7 @@
             "weight": 5000.0,
             "spool_weight": 819.0,
             "spool_type": "plastic"
-          },
+          }
         ],
         "diameters": [
           1.75
@@ -569,7 +569,7 @@
             "weight": 5000.0,
             "spool_weight": 819.0,
             "spool_type": "plastic"
-          },
+          }
         ],
         "diameters": [
           1.75
