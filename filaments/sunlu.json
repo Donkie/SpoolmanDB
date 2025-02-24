@@ -66,6 +66,66 @@
                 {
                     "name": "Gray",
                     "hex": "808080"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "0CCEB4"
+                },
+                {
+                    "name": "Blue Grey",
+                    "hex": "3E53D5"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "FFE8DB"
+                },
+                {
+                    "name": "Cherry Red",
+                    "hex": "E63034"
+                },
+                {
+                    "name": "Chocolate",
+                    "hex": "563835"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "39D0F1"
+                },
+                {
+                    "name": "Coffee",
+                    "hex": "715E3E"
+                },
+                {
+                    "name": "Fuchsia",
+                    "hex": "B63ED4"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "EFA537"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "328169"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "E6E55F"
+                },
+                {
+                    "name": "Light Gold",
+                    "hex": "FADD47"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFABD3"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "9299A9"
+                },
+                {
+                    "name": "Sunny Orange",
+                    "hex": "FC743A"
                 }
             ]
         },
