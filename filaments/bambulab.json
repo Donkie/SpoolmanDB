@@ -265,6 +265,38 @@
                 {
                     "name": "Charcoal",
                     "hex": "000000"
+                },
+                {
+                    "name": "Bone White",
+                    "hex": "CBC6B8"
+                },
+                {
+                    "name": "Plum",
+                    "hex": "950051"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "56B7E6"
+                },
+                {
+                    "name": "Apple Green",
+                    "hex": "C2E189"
+                },
+                {
+                    "name": "Dark Chocolate",
+                    "hex": "4D3324"
+                },
+                {
+                    "name": "Caramel",
+                    "hex": "AE835B"
+                },
+                {
+                    "name": "Terracotta",
+                    "hex": "B15533"
+                },
+                {
+                    "name": "Nardo Gray",
+                    "hex": "757575"
                 }
             ]
         },
