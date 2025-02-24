@@ -277,6 +277,49 @@
                     "hex": "808080"
                 }
             ]
+        },
+        {
+            "name": "High Speed {color_name} Marble",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Chestnut Brown",
+                    "hex": "E1E0DE"
+                },
+                {
+                    "name": "Brick Red",
+                    "hex": "8F4938"
+                },
+                {
+                    "name": "Oreo",
+                    "hex": "DDDFE3"
+                },
+                {
+                    "name": "Shadow Storm",
+                    "hex": "D8D7D8"
+                },
+                {
+                    "name": "Ashen",
+                    "hex": "838383"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "C3D3D0"
+                }
+            ]
         }
     ]
 }
