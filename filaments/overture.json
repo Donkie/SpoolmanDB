@@ -263,6 +263,78 @@
                     "translucent": true
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 147,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                245,
+                265
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },{
+                    "name": "Black",
+                    "hex": "000000"
+                },{
+                    "name": "Gray",
+                    "hex": "cacac9"
+                },{
+                    "name": "Blue",
+                    "hex": "00628f"
+                },{
+                    "name": "Slate Gray",
+                    "hex": "91a0b6"
+                },{
+                    "name": "Yellow",
+                    "hex": "ffff47"
+                },{
+                    "name": "Dark Red",
+                    "hex": "ff311f"
+                },{
+                    "name": "Natural",
+                    "hex": "f8f8ee"
+                },{
+                    "name": "Green",
+                    "hex": "3d9441"
+                },{
+                    "name": "Purple",
+                    "hex": "7142a3"
+                },{
+                    "name": "Glow Green",
+                    "hex": "ebefee",
+                    "glow": true
+                },{
+                    "name": "Diamond Purple",
+                    "hex": "a04ed0",
+                    "pattern": "sparkle"
+                },{
+                    "name": "Diamond Gray",
+                    "hex": "8c8c8c",
+                    "pattern": "sparkle"
+                },{
+                    "name": "Diamond Orange",
+                    "hex": "ff8133",
+                    "pattern": "sparkle"
+                }
+            ]
         }
     ]
 }
