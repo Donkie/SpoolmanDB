@@ -24,7 +24,7 @@
                 }
             ]
         },
-		{
+	{
             "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
@@ -46,14 +46,59 @@
                     "hex": "000000"
                 },{
                     "name": "Brown",
-                    "hex": "6a4a34"
+                    "hex": "9e6a4b"
                 },{
                     "name": "Beige",
-                    "hex": "dbd0bd"
+                    "hex": "fee7bf"
                 },{
                     "name": "Grey",
-                    "hex": "b5b7b8"
-                }
+                    "hex": "8f949b"
+                },{	
+                    "name": "Purple",
+                    "hex": "603ba0"
+		},{	
+                    "name": "Pink",
+                    "hex": "f9b0bd"
+		},{	
+                    "name": "Sky Blue",
+                    "hex": "27b2d0"
+		},{	
+                    "name": "Sea Green",
+                    "hex": "1abc83"
+		},{	
+                    "name": "White",
+                    "hex": "ffffff"
+		},{	
+                    "name": "Neon Green",
+                    "hex": "02e601"
+		},{	
+                    "name": "Dark Blue",
+                    "hex": "2240af"
+		},{	
+                    "name": "Red",
+                    "hex": "ea140e"
+		},{	
+                    "name": "Yellow",
+                    "hex": "f6d701"
+		},{	
+                    "name": "Orange",
+                    "hex": "fd7c18"
+		},{	
+                    "name": "Clear",
+                    "hex": "e9e9e7"
+		},{	
+                    "name": "Space Grey",
+                    "hex": "5d5d5d"
+		},{	
+                    "name": "Wood Color",
+                    "hex": "b19870"
+		},{	
+                    "name": "Wood Filled",
+                    "hex": "9d8058"
+		},{	
+                    "name": "Bronze Filled",
+                    "hex": "895837"
+		}
             ]
         }
     ]
