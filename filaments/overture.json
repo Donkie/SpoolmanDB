@@ -156,6 +156,112 @@
                     "translucent": true
                 }
             ]
+        },
+        {
+            "name": "Matte PLA {color_name}",
+            "material": "PLA",
+            "density": 1.30,
+            "finish": "matte",
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "1d1e1e"
+                },
+                {
+                    "name": "White",
+                    "hex": "e6dede"
+                },
+                {
+                    "name": "Light blue",
+                    "hex": "99fffa"
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "072e4e"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "005da4"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "efdc4c"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "ffe0e1"
+                },
+                {
+                    "name": "Light gray",
+                    "hex": "bac4c4"
+                },
+                {
+                    "name": "Grass green",
+                    "hex": "ceff5c"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "6e8451"
+                },
+                {
+                    "name": "Light Green",
+                    "hex": "afdeb9"
+                },
+                {
+                    "name": "Green",
+                    "hex": "519f62"
+                },
+                {
+                    "name": "Red",
+                    "hex": "eb3b41"
+                },
+                {
+                    "name": "Brick Red",
+                    "hex": "d22d2f"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "8c69b5"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "f3c102"
+                },
+                {
+                    "name": "Light brown",
+                    "hex": "edd5a6"
+                },
+                {
+                    "name": "Chocolate",
+                    "hex": "503529"
+                },
+                {
+                    "name": "Skin",
+                    "hex": "f0ddc2"
+                },
+                {
+                    "name": "Wood",
+                    "hex": "caac78"
+                }
+            ]
         }
     ]
 }
