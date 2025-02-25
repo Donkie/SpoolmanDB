@@ -2,6 +2,28 @@
     "manufacturer": "eSun",
     "filaments": [
         {
+            "name": "eMarbe {color_name}",
+            "material": "PLA",
+            "density": 1.274,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Nature",
+                    "hex": "DBE9F4"
+                }
+            ]
+        },
+        {
             "name": "PLA+ {color_name}",
             "material": "PLA+",
             "density": 1.23,
