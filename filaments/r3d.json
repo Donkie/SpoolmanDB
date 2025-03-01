@@ -7,7 +7,8 @@
             "weights": 
             [
                 {"weight": 1000.0, "spool_weight": 127.0, "spool_type": "plastic"},
-                {"weight": 1000.0, "spool_weight": 140.0, "spool_type": "cardboard"}
+                {"weight": 1000.0, "spool_weight": 140.0, "spool_type": "cardboard"},
+                {"weight": 3000.0, "spool_weight": 320.0, "spool_type": "plastic"}
             ], 
             "diameters": [1.75], 
             "extruder_temp": 245, 
@@ -49,14 +50,14 @@
             "diameters": [1.75], "extruder_temp": 260, "bed_temp": 80, 
             "colors": 
             [
-                {"name": "Translucent Black", "hex": "000000", "translucent": true},
-                {"name": "Translucent Blue", "hex": "0000FF", "translucent": true},
-                {"name": "Translucent Purple", "hex": "800080", "translucent": true},
-                {"name": "Translucent Red", "hex": "FF0000", "translucent": true},
-                {"name": "Translucent Orange", "hex": "FFA500", "translucent": true},
-                {"name": "Translucent Yellow", "hex": "FFFF00", "translucent": true},
-                {"name": "Translucent Pink", "hex": "FFC0CB", "translucent": true},
-                {"name": "Translucent Light Blue", "hex": "ADD8E6", "translucent": true}
+                {"name": "Black", "hex": "000000", "translucent": true},
+                {"name": "Blue", "hex": "0000FF", "translucent": true},
+                {"name": "Purple", "hex": "800080", "translucent": true},
+                {"name": "Red", "hex": "FF0000", "translucent": true},
+                {"name": "Orange", "hex": "FFA500", "translucent": true},
+                {"name": "Yellow", "hex": "FFFF00", "translucent": true},
+                {"name": "Pink", "hex": "FFC0CB", "translucent": true},
+                {"name": "Light Blue", "hex": "ADD8E6", "translucent": true}
             ]
         },
         {
