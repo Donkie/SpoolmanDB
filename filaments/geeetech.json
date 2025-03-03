@@ -53,6 +53,10 @@
                 {
                     "name": "White",
                     "hex": "Dee2E7"
+                },
+                {
+                    "name": "Red",
+                    "hex": "#FA0000"
                 }
             ]
         },
