@@ -1,0 +1,79 @@
+{
+    "manufacturer": "Fiberlogy",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 750,
+                    "spool_weight": 260
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 110,
+            "colors": [
+				{
+                    "name": "Natural",
+                    "hex": "F5F5DC"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Graphite",
+                    "hex": "474A51"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFD700"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFB200"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C41E3A"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0072BB"
+                },
+                {
+                    "name": "Light Green",
+                    "hex": "90EE90"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "808000"
+                },
+                {
+                    "name": "Inox",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Vertigo",
+                    "hex": "708090"
+                },
+                {
+                    "name": "Onyx",
+                    "hex": "353839"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
