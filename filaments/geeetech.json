@@ -1,5 +1,5 @@
 {
-    "manufacturer": "GEETECH",
+    "manufacturer": "GEEETECH",
     "filaments": [
         {
             "name": "{color_name}",
@@ -8,7 +8,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 193.0,
+                    "spool_weight": 180.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -53,6 +53,10 @@
                 {
                     "name": "White",
                     "hex": "Dee2E7"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FA0000"
                 }
             ]
         },
@@ -63,7 +67,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 193.0,
+                    "spool_weight": 180.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -103,7 +107,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 184
+                    "spool_weight": 180.0
                 }
             ],
             "diameters": [
