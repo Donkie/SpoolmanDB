@@ -1,0 +1,118 @@
+{
+    "manufacturer": "NTH Grillon",
+    "filaments": [
+        {
+            "name": "grillon3 PLA | {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "colors": [
+                {
+                    "name": "Amarillo (PANTONE Yellow)",
+                    "hex": "fedf00"
+                },
+                {
+                    "name": "Amarillo Flúo (PANTONE 388)",
+                    "hex": "e0e721"
+                },
+                {
+                    "name": "Azul (PANTONE 286)",
+                    "hex": "0033ab"
+                },
+                {
+                    "name": "Azul Prusia (PANTONE 3015)",
+                    "hex": "00629b"
+                },         
+                {
+                    "name": "Blanco",
+                    "hex": "ffffff"
+                },              
+                {
+                    "name": "Bordó (PANTONE 201)",
+                    "hex": "9d2235"
+                },
+                {
+                    "name": "Bronce (PANTONE 4505)",
+                    "hex": "998542"
+                },
+                {
+                    "name": "Celeste (PANTONE 2925)",
+                    "hex": "009cde"
+                },              
+                {
+                    "name": "Cobre (PANTONE 160)",
+                    "hex": "a1561c"
+                },
+                {
+                    "name": "Fucsia (PANTONE 232)",
+                    "hex": "e93cac"
+                },
+                {
+                    "name": "Grís Espacial (PANTONE Cool Gray 3)",
+                    "hex": "c8c9c7"
+                },
+                {
+                    "name": "Grís Plata (PANTONE Cool Gray 9)",
+                    "hex": "75787b"
+                },              
+                {
+                    "name": "Naranja Flúo (PANTONE 172)",
+                    "hex": "fa4616"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "fcf5d2"
+                },
+                {
+                    "name": "Negro (PANTONE Black)",
+                    "hex": "2d2926"
+                },              
+                {
+                    "name": "Piel 162 (PANTONE 162)",
+                    "hex": "ffbe9f"
+                },
+                {
+                    "name": "Piel 720 (PANTONE 720)",
+                    "hex": "e7b78a"
+                },
+                {
+                    "name": "Rojo (PANTONE 485)",
+                    "hex": "da291c"
+                },              
+                {
+                    "name": "Rosa (PANTONE 211)",
+                    "hex": "f57eb6"
+                },
+                {
+                    "name": "Turquesa (PANTONE 313)",
+                    "hex": "0092bc"
+                },
+                {
+                    "name": "Verde (PANTONE 347)",
+                    "hex": "009959"
+                },
+                {
+                    "name": "Verde Flúo",
+                    "hex": "0df111"
+                }, 
+                {
+                    "name": "Verde Manzana (PANTONE 375)",
+                    "hex": "97d700"
+                },
+                {
+                    "name": "Violeta (PANTONE 2603)",
+                    "hex": "702082"
+                }
+            ]
+        }
+    ]
+}
