@@ -23,11 +23,11 @@
                     "hex": "383435"
                 }
             ]
-        }    
+        }, 
         {
             "name": "{color_name}",
             "material": "PLA",
-            "density": 1.27,
+            "density": 1.24,
             "weights": [
                 {
                     "weight": 1000,
