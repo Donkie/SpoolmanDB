@@ -73,6 +73,10 @@
                     "name": "Mushroom Cloud Grey",
                     "hex": "676A6D"
                 },
+				{
+                    "name": "Natural",
+                    "hex": "BFC4C7"
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
