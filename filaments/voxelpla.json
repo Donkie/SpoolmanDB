@@ -7,7 +7,7 @@
             "density": 1.27,
             "weights": [
                 {
-                    "weight": 1100.0,
+                    "weight": 1000.0,
                     "spool_weight": 217,
                     "spool_type": "plastic"
                 }
