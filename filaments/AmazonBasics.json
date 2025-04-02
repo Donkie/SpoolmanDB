@@ -20,18 +20,73 @@
                 {
                     "name": "White",
                     "hex": "FFFFFF"
-                },{
+                },
+                {
                     "name": "Black",
                     "hex": "000000"
-                },{
+                },
+                {
                     "name": "Dark Gray",
                     "hex": "636363"
-                },{
+                },
+                {
                     "name": "Blue",
                     "hex": "00B4D8"
-                },{
+                },
+                {
                     "name": "Red",
                     "hex": "D1001F"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 390
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 70,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FEA608"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2578D8"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FC1E08"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "BCC0B2"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F7ED78"
+                },
+                {
+                    "name": "Translucent",
+                    "hex": "FFFFFF",
+                    "translucent": true
                 }
             ]
         }
