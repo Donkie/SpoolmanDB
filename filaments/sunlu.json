@@ -380,6 +380,41 @@
                     "hex": "C3D3D0"
                 }
             ]
+        },
+        {
+            "name": "{color_name} Wood",
+            "material": "WOOD",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Wood",
+                    "hex": "cfaf94"
+                },
+                {
+                    "name": "Cherry",
+                    "hex": "6c4f4c"
+                },
+                {
+                    "name": "Maple",
+                    "hex": "c7aa8d"
+                },
+                {
+                    "name": "Walnut",
+                    "hex": "564e44"
+                }
+            ]
         }
     ]
 }
