@@ -146,11 +146,32 @@
                     "name": "Black",
                     "hex": "000000"
                 },{
+                    "name": "White",
+                    "hex": "ffffff"
+                },{
                     "name": "Grey",
                     "hex": "b5b7b8"
                 },{
+                    "name": "Green",
+                    "hex": "02e601"
+                },{
+                    "name": "Blue",
+                    "hex": "2240af"
+                },{
+                    "name": "Red",
+                    "hex": "ea140e"
+                },{
                     "name": "Yellow",
                     "hex": "fef406"
+                },{
+                    "name": "Orange",
+                    "hex": "fd7c18"
+                },{
+                    "name": "Brown",
+                    "hex": "9e6a4b"
+                },{
+                    "name": "Beige",
+                    "hex": "fee7bf"
                 }
             ]
         },
