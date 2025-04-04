@@ -1413,6 +1413,7 @@
             "colors": [
                 {
                     "name": "Frozen",
+                    "multi_color_direction": "longitudinal",
                     "hexes": [
                         "FFFFFF",
                         "40B6E4"
@@ -1420,6 +1421,7 @@
                 },
                 {
                     "name": "Blaze",
+                    "multi_color_direction": "longitudinal",
                     "hexes": [
                         "F1AAA8",
                         "D21B3C"
@@ -1697,7 +1699,6 @@
                     "name": "Burgundy Red",
                     "hex": "951e23"
                 }
-
             ]
         },
         {
