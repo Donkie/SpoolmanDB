@@ -822,6 +822,28 @@
             ]
         },
         {
+            "name": "Support for PLA {color_name}",
+            "material": "PLA",
+            "density": 1.33,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 225,
+            "bed_temp": 40,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PETG",
             "density": 1.25,
@@ -1375,6 +1397,74 @@
         },
         {
             "name": "{color_name}",
+            "material": "TPU-90A",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 30,
+            "colors": [
+                {
+                    "name": "Frozen",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "FFFFFF",
+                        "40B6E4"
+                    ]
+                },
+                {
+                    "name": "Blaze",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "F1AAA8",
+                        "D21B3C"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU-85A",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 30,
+            "colors": [
+                {
+                    "name": "Neon Orange",
+                    "hex": "F68B1B"
+                },
+                {
+                    "name": "Light Cyan",
+                    "hex": "C3E2D6"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PA6-GF",
             "density": 1.09,
             "weights": [
@@ -1609,7 +1699,6 @@
                     "name": "Burgundy Red",
                     "hex": "951e23"
                 }
-
             ]
         },
         {
