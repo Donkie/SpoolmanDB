@@ -20,6 +20,98 @@
                 {
                     "name": "Marble",
                     "hex": "ACA9A6"
+                },
+                {
+                    "color": "White",
+                    "hex": "FFFEFA"
+                },
+                {
+                    "color": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "color": "Midnight Black",
+                    "hex": "0F0E0E"
+                },
+                {
+                    "color": "Cold White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "color": "Space Gray",
+                    "hex": "63646B"
+                },
+                {
+                    "color": "Light Gray",
+                    "hex": "C7D4D6"
+                },
+                {
+                    "color": "Cement Gray",
+                    "hex": "697272"
+                },
+                {
+                    "color": "Orange",
+                    "hex": "FF8E24"
+                },
+                {
+                    "color": "Pink",
+                    "hex": "F09BB5"
+                },
+                {
+                    "color": "Red",
+                    "hex": "E9301E"
+                },
+                {
+                    "color": "Fresh Red",
+                    "hex": "E31A1F"
+                },
+                {
+                    "color": "Blue",
+                    "hex": "033877"
+                },
+                {
+                    "color": "Light Blue",
+                    "hex": "3ABBDE"
+                },
+                {
+                    "color": "Gray Blue",
+                    "hex": "81BAC1"
+                },
+                {
+                    "color": "Green",
+                    "hex": "00C26B"
+                },
+                {
+                    "color": "Olive Green",
+                    "hex": "97A014"
+                },
+                {
+                    "color": "Glow in Dark",
+                    "hex": "EBF1E0"
+                },
+                {
+                    "color": "Yellow",
+                    "hex": "E6B535"
+                },
+                {
+                    "color": "Highlight Yellow",
+                    "hex": "E4FF33"
+                },
+                {
+                    "color": "Royal Gold",
+                    "hex": "FFCB47"
+                },
+                {
+                    "color": "Brown",
+                    "hex": "D7A86A"
+                },
+                {
+                    "color": "Chocolate",
+                    "hex": "57361C"
+                },
+                {
+                    "color": "Purple",
+                    "hex": "6F4AB2"
                 }
             ]
         },
