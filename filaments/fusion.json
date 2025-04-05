@@ -5,7 +5,7 @@
         {
             "name": "ABS 1.5 {color_name} (matte)",
             "material": "ABS",
-            "density": 1.13,
+            "density": 1.05,
             "weights": [
                 {
                     "weight": 1000,
@@ -15,7 +15,7 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 255,
+            "extruder_temp": 280,
 			"bed_temp_range": [
 			90,
 			100
@@ -126,7 +126,7 @@
       {
             "name": "ABS 2.0 {color_name} (gloss)",
             "material": "ABS",
-            "density": 1.13,
+            "density": 1.05,
             "weights": [
                 {
                     "weight": 1000,
@@ -359,6 +359,95 @@
                     "hex": "ACCB35"
                 }
             ]
-        }
+        },
+		{
+            "name": "ASA {color_name} (Engineering)",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 150
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 290,
+			"bed_temp_range": [
+			100,
+			110
+			],
+            "colors": [
+                {
+                    "name": "Carbon Rod Black",
+                    "hex": "262832"
+                },
+                {
+                    "name": "Cold Fusion Blue",
+                    "hex": "4B839B"
+                },
+                {
+                    "name": "Cosmic Ray Blue",
+                    "hex": "0B3D78"
+                },
+                {
+                    "name": "Electrolytic Deuterium",
+                    "hex": "29768F"
+                },
+                {
+                    "name": "Geomagnetic Mauve",
+                    "hex": "342364"
+                },
+                {
+                    "name": "Heavy Water Blue",
+                    "hex": "003671"
+                },
+                {
+                    "name": "Interstellar Emerald",
+                    "hex": "106F62"
+                },
+                {
+                    "name": "Ionized Cobalt Black",
+                    "hex": "212023"
+                },
+                {
+                    "name": "Mushroom Cloud Grey",
+                    "hex": "676A6D"
+                },
+                {
+                    "name": "Nano Tube Grey",
+                    "hex": "5E6A7D"
+                },
+                {
+                    "name": "Radioactive Orange",
+                    "hex": "FA8F2C"
+                },
+                {
+                    "name": "Radium Green 2.0",
+                    "hex": "40C91F"
+                },
+                {
+                    "name": "Red Dwarf",
+                    "hex": "8C1B18"
+                },
+                {
+                    "name": "Seismic Red ",
+                    "hex": "9D0115"
+                },
+                {
+                    "name": "Sievert Silver",
+                    "hex": "4F5358"
+                },
+                {
+                    "name": "Tritium Green",
+                    "hex": "1F8544"
+                },
+                {
+                    "name": "Uranium Yellow",
+                    "hex": "DBDA45"
+          }
+        ]
+      }
     ]
 }
