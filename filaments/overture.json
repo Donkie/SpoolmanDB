@@ -94,6 +94,38 @@
             ]
         },
         {
+            "name": "Silk PLA {color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "finish": "silk",
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 60,
+            "colors": [
+                {"color": "White","hex": "DDD4CA"},
+                {"color": "Copper","hex": "641501"},
+                {"color": "Gray","hex": "394658"},
+                {"color": "Gold","hex": "F9E352"},
+                {"color": "Neon green","hex": "91C800"},
+                {"color": "Green","hex": "018E63"},
+                {"color": "Blue","hex": "0353BA"},
+                {"color": "Red","hex": "DA445A"},
+                {"color": "Silk Purple","hex": "7769BC"},
+                {"color": "Silver","hex": "818FA0"},
+                {"color": "Fresh Red","hex": "CC0201"},
+                {"color": "Christmas Red","hex": "CE5D4C"}
+            ]    
+        },
+        {
             "name": "Matte PLA {color_name}",
             "material": "PLA",
             "density": 1.30,
@@ -171,61 +203,64 @@
                 {
                     "name": "White",
                     "hex": "FFFFFF"
-                },{
+                },
+                {
                     "name": "Black",
                     "hex": "000000"
-                },{
+                },
+                {
                     "name": "Space Gray",
                     "hex": "484848"
-                },{
+                },
+                {
                     "name": "Light Gray",
                     "hex": "cfcfcf"
-                },{
+                },
+                {
                     "name": "Army green",
                     "hex": "224d02"
-                },{
+                },
+                {
                     "name": "Blue",
                     "hex": "0933a5"
-                },{
+                },
+                {
                     "name": "Green",
                     "hex": "29b646"
-                },{
+                },
+                {
                     "name": "Orange",
                     "hex": "ff6600"
-                },{
+                },
+                {
                     "name": "Red",
                     "hex": "d80000"
-                },{
+                },
+                {
                     "name": "Purple",
                     "hex": "521eba"
-                },{
+                },
+                {
+                    "name": "Starry Blue",
+                    "hex": "142B4B"
+                },
+                {
+                    "name": "Sparkle Blue",
+                    "hex": "253F56"
+                },
+                {
+                    "name": "Digital Blue",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "C4D802"
+                },
+                {
                     "name": "Transparent",
                     "hex": "ffffff"
                 }
             ]          
-        },
-        {
-            "name": "{color_name}",
-            "material": "PETG",
-            "density": 1.24,
-            "finish": "glossy",
-            "weights": [
-                {
-                    "weight": 1000.0,
-                    "spool_weight": 231
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 240,
-            "bed_temp": 90,
-            "colors": [
-                {
-                    "name": "Gold",
-                    "hex": "cfc802"
-                }
-            ]
         },
         {
             "name": "High Speed 95A {color_name}",
