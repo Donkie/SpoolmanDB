@@ -41,8 +41,7 @@
                 {"color": "Royal Gold","hex": "FFCB47"},
                 {"color": "Brown","hex": "D7A86A"},
                 {"color": "Chocolate","hex": "57361C"},
-                {"color": "Purple","hex": "6F4AB2"
-                }
+                {"color": "Purple","hex": "6F4AB2"}
             ]
         },
         {
@@ -111,18 +110,18 @@
             "extruder_temp": 210,
             "bed_temp": 60,
             "colors": [
-                {"color": "White","hex": "DDD4CA"},
-                {"color": "Copper","hex": "641501"},
-                {"color": "Gray","hex": "394658"},
-                {"color": "Gold","hex": "F9E352"},
-                {"color": "Neon green","hex": "91C800"},
-                {"color": "Green","hex": "018E63"},
-                {"color": "Blue","hex": "0353BA"},
-                {"color": "Red","hex": "DA445A"},
-                {"color": "Silk Purple","hex": "7769BC"},
-                {"color": "Silver","hex": "818FA0"},
-                {"color": "Fresh Red","hex": "CC0201"},
-                {"color": "Christmas Red","hex": "CE5D4C"}
+                {"name"": "White","hex": "DDD4CA"},
+                {"name": "Copper","hex": "641501"},
+                {"name"": "Gray","hex": "394658"},
+                {"name"": "Gold","hex": "F9E352"},
+                {"name"": "Neon green","hex": "91C800"},
+                {"name"": "Green","hex": "018E63"},
+                {"name"": "Blue","hex": "0353BA"},
+                {"name"": "Red","hex": "DA445A"},
+                {"name"": "Silk Purple","hex": "7769BC"},
+                {"name"": "Silver","hex": "818FA0"},
+                {"name"": "Fresh Red","hex": "CC0201"},
+                {"name"": "Christmas Red","hex": "CE5D4C"}
             ]    
         },
         {
