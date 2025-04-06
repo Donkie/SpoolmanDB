@@ -257,6 +257,10 @@
                     "hex": "C4D802"
                 },
                 {
+                    "name": "Gold",
+                    "hex": "CE8D00"
+                },
+                {
                     "name": "Transparent",
                     "hex": "ffffff"
                 }
