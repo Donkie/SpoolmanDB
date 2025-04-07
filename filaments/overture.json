@@ -19,29 +19,29 @@
             "bed_temp": 60,
             "colors": [
                 {"name": "Marble","hex": "ACA9A6"},
-                {"color": "White","hex": "FFFEFA"},
-                {"color": "Black","hex": "000000"},
-                {"color": "Midnight Black","hex": "0F0E0E"},
-                {"color": "Cold White","hex": "FFFFFF"},
-                {"color": "Space Gray","hex": "63646B"},
-                {"color": "Light Gray","hex": "C7D4D6"},
-                {"color": "Cement Gray","hex": "697272"},
-                {"color": "Orange","hex": "FF8E24"},
-                {"color": "Pink","hex": "F09BB5"},
-                {"color": "Red","hex": "E9301E"},
-                {"color": "Fresh Red","hex": "E31A1F"},
-                {"color": "Blue","hex": "033877"},
-                {"color": "Light Blue","hex": "3ABBDE"},
-                {"color": "Gray Blue","hex": "81BAC1"},
-                {"color": "Green","hex": "00C26B"},
-                {"color": "Olive Green","hex": "97A014"},
-                {"color": "Glow in Dark","hex": "EBF1E0"},
-                {"color": "Yellow","hex": "E6B535"},
-                {"color": "Highlight Yellow","hex": "E4FF33"},
-                {"color": "Royal Gold","hex": "FFCB47"},
-                {"color": "Brown","hex": "D7A86A"},
-                {"color": "Chocolate","hex": "57361C"},
-                {"color": "Purple","hex": "6F4AB2"}
+                {"name": "White","hex": "FFFEFA"},
+                {"name": "Black","hex": "000000"},
+                {"name": "Midnight Black","hex": "0F0E0E"},
+                {"name": "Cold White","hex": "FFFFFF"},
+                {"name": "Space Gray","hex": "63646B"},
+                {"name": "Light Gray","hex": "C7D4D6"},
+                {"name": "Cement Gray","hex": "697272"},
+                {"name": "Orange","hex": "FF8E24"},
+                {"name": "Pink","hex": "F09BB5"},
+                {"name": "Red","hex": "E9301E"},
+                {"name": "Fresh Red","hex": "E31A1F"},
+                {"name": "Blue","hex": "033877"},
+                {"name": "Light Blue","hex": "3ABBDE"},
+                {"name": "Gray Blue","hex": "81BAC1"},
+                {"name": "Green","hex": "00C26B"},
+                {"name": "Olive Green","hex": "97A014"},
+                {"name": "Glow in Dark","hex": "EBF1E0"},
+                {"name": "Yellow","hex": "E6B535"},
+                {"name": "Highlight Yellow","hex": "E4FF33"},
+                {"name": "Royal Gold","hex": "FFCB47"},
+                {"name": "Brown","hex": "D7A86A"},
+                {"name": "Chocolate","hex": "57361C"},
+                {"name": "Purple","hex": "6F4AB2"}
             ]
         },
         {
@@ -62,36 +62,13 @@
             "extruder_temp": 210,
             "bed_temp": 60,
             "colors": [
-                {
-                    "name": "Rock White",
-                    "hex": "FFFFFF",
-                    "pattern": "marble"
-                },
-                {
-                    "name": "Fossil Rock",
-                    "hex": "C2C0BA",
-                    "pattern": "marble"
-                },
-                {
-                    "name": "Sedimentary Rock",
-                    "hex": "C4B199"
-                },
-                {
-                    "name": "Mars Red",
-                    "hex": "D76D3B"
-                },
-                {
-                    "name": "Glacier Blue",
-                    "multi_color_direction": "longitudinal",
-                    "hexes": ["A3EAFF", "FFFFFF"]
-                },
-                {
-                    "name": "Rock Rainbow",
-                    "multi_color_direction": "longitudinal",
-                    "hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]
-                }
-            ]
-        },
+                {"name": "Rock White","hex": "FFFFFF","pattern": "marble"},
+                {"name": "Fossil Rock","hex": "C2C0BA","pattern": "marble"},
+                {"name": "Sedimentary Rock","hex": "C4B199"},
+                {"name": "Mars Red","hex": "D76D3B"},
+                {"name": "Glacier Blue","multi_color_direction": "longitudinal","hexes": ["A3EAFF", "FFFFFF"]},
+                {"name": "Rock Rainbow","multi_color_direction": "longitudinal","hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]}
+            ]},
         {
             "name": "Silk PLA {color_name}",
             "material": "PLA",
@@ -110,18 +87,18 @@
             "extruder_temp": 210,
             "bed_temp": 60,
             "colors": [
-                {"name"": "White","hex": "DDD4CA"},
+                {"name": "White","hex": "DDD4CA"},
                 {"name": "Copper","hex": "641501"},
-                {"name"": "Gray","hex": "394658"},
-                {"name"": "Gold","hex": "F9E352"},
-                {"name"": "Neon green","hex": "91C800"},
-                {"name"": "Green","hex": "018E63"},
-                {"name"": "Blue","hex": "0353BA"},
-                {"name"": "Red","hex": "DA445A"},
-                {"name"": "Silk Purple","hex": "7769BC"},
-                {"name"": "Silver","hex": "818FA0"},
-                {"name"": "Fresh Red","hex": "CC0201"},
-                {"name"": "Christmas Red","hex": "CE5D4C"}
+                {"name": "Gray","hex": "394658"},
+                {"name": "Gold","hex": "F9E352"},
+                {"name": "Neon green","hex": "91C800"},
+                {"name": "Green","hex": "018E63"},
+                {"name": "Blue","hex": "0353BA"},
+                {"name": "Red","hex": "DA445A"},
+                {"name": "Silk Purple","hex": "7769BC"},
+                {"name": "Silver","hex": "818FA0"},
+                {"name": "Fresh Red","hex": "CC0201"},
+                {"name": "Christmas Red","hex": "CE5D4C"}
             ]    
         },
         {
@@ -199,70 +176,22 @@
             "extruder_temp": 240,
             "bed_temp": 90,
             "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },
-                {
-                    "name": "Black",
-                    "hex": "000000"
-                },
-                {
-                    "name": "Space Gray",
-                    "hex": "484848"
-                },
-                {
-                    "name": "Light Gray",
-                    "hex": "cfcfcf"
-                },
-                {
-                    "name": "Army green",
-                    "hex": "224d02"
-                },
-                {
-                    "name": "Blue",
-                    "hex": "0933a5"
-                },
-                {
-                    "name": "Green",
-                    "hex": "29b646"
-                },
-                {
-                    "name": "Orange",
-                    "hex": "ff6600"
-                },
-                {
-                    "name": "Red",
-                    "hex": "d80000"
-                },
-                {
-                    "name": "Purple",
-                    "hex": "521eba"
-                },
-                {
-                    "name": "Starry Blue",
-                    "hex": "142B4B"
-                },
-                {
-                    "name": "Sparkle Blue",
-                    "hex": "253F56"
-                },
-                {
-                    "name": "Digital Blue",
-                    "hex": "0378D0"
-                },
-                {
-                    "name": "Grass Green",
-                    "hex": "C4D802"
-                },
-                {
-                    "name": "Gold",
-                    "hex": "CE8D00"
-                },
-                {
-                    "name": "Transparent",
-                    "hex": "ffffff"
-                }
+                {"name": "White","hex": "FFFFFF"},
+                {"name": "Black","hex": "000000"},
+                {"name": "Space Gray","hex": "484848"},
+                {"name": "Light Gray","hex": "cfcfcf"},
+                {"name": "Army green","hex": "224d02"},
+                {"name": "Blue","hex": "0933a5"},
+                {"name": "Green","hex": "29b646"},
+                {"name": "Orange","hex": "ff6600"},
+                {"name": "Red","hex": "d80000"},
+                {"name": "Purple","hex": "521eba"},
+                {"name": "Starry Blue","hex": "142B4B"},
+                {"name": "Sparkle Blue","hex": "253F56"},
+                {"name": "Digital Blue","hex": "0378D0"},
+                {"name": "Grass Green","hex": "C4D802"},
+                {"name": "Gold","hex": "CE8D00"},
+                {"name": "Transparent","hex": "ffffff"}
             ]          
         },
         {
@@ -283,45 +212,15 @@
             "extruder_temp": 230,
             "bed_temp": 35,
             "colors": [
-                {
-                    "name": "Black",
-                    "hex": "000000"
-                },
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },
-                {
-                    "name": "Clear",
-                    "hex": "FFFFFF",
-                    "translucent": true
-                },
-                {
-                    "name": "Grass Green",
-                    "hex": "e2f641"
-                },
-                {
-                    "name": "Translucent Red",
-                    "hex": "FF0000",
-                    "translucent": true
-                },
-                {
-                    "name": "Orange",
-                    "hex": "db8134"
-                },
-                {
-                    "name": "Pink",
-                    "hex": "f0bae9"
-                },
-                {
-                    "name": "Gray",
-                    "hex": "a3afa9"
-                },
-                {
-                    "name": "Translucent Blue",
-                    "hex": "0000FF",
-                    "translucent": true
-                }
+                {"name": "Black","hex": "000000"},
+                {"name": "White","hex": "FFFFFF"},
+                {"name": "Clear","hex": "FFFFFF","translucent": true},
+                {"name": "Grass Green","hex": "e2f641"},
+                {"name": "Translucent Red","hex": "FF0000","translucent": true},
+                {"name": "Orange","hex": "db8134"},
+                {"name": "Pink","hex": "f0bae9"},
+                {"name": "Gray","hex": "a3afa9"},
+                {"name": "Translucent Blue","hex": "0000FF","translucent": true}
             ]
         },
         {
@@ -347,53 +246,20 @@
                 100
             ],
             "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },{
-                    "name": "Black",
-                    "hex": "000000"
-                },{
-                    "name": "Gray",
-                    "hex": "cacac9"
-                },{
-                    "name": "Blue",
-                    "hex": "00628f"
-                },{
-                    "name": "Slate Gray",
-                    "hex": "91a0b6"
-                },{
-                    "name": "Yellow",
-                    "hex": "ffff47"
-                },{
-                    "name": "Dark Red",
-                    "hex": "ff311f"
-                },{
-                    "name": "Natural",
-                    "hex": "f8f8ee"
-                },{
-                    "name": "Green",
-                    "hex": "3d9441"
-                },{
-                    "name": "Purple",
-                    "hex": "7142a3"
-                },{
-                    "name": "Glow Green",
-                    "hex": "ebefee",
-                    "glow": true
-                },{
-                    "name": "Diamond Purple",
-                    "hex": "a04ed0",
-                    "pattern": "sparkle"
-                },{
-                    "name": "Diamond Gray",
-                    "hex": "8c8c8c",
-                    "pattern": "sparkle"
-                },{
-                    "name": "Diamond Orange",
-                    "hex": "ff8133",
-                    "pattern": "sparkle"
-                }
+                {"name": "White","hex": "FFFFFF"},
+                {"name": "Black","hex": "000000"},
+                {"name": "Gray","hex": "cacac9"},
+                {"name": "Blue","hex": "00628f"},
+                {"name": "Slate Gray","hex": "91a0b6"},
+                {"name": "Yellow","hex": "ffff47"},
+                {"name": "Dark Red","hex": "ff311f"},
+                {"name": "Natural","hex": "f8f8ee"},
+                {"name": "Green","hex": "3d9441"},
+                {"name": "Purple","hex": "7142a3"},
+                {"name": "Glow Green","hex": "ebefee","glow": true},
+                {"name": "Diamond Purple","hex": "a04ed0","pattern": "sparkle"},
+                {"name": "Diamond Gray","hex": "8c8c8c","pattern": "sparkle"},
+                {"name": "Diamond Orange","hex": "ff8133","pattern": "sparkle"}
             ]
         }
     ]
