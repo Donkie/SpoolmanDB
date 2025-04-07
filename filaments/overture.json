@@ -73,7 +73,6 @@
             "name": "Silk PLA {color_name}",
             "material": "PLA",
             "density": 1.19,
-            "finish": "silk",
             "weights": [
                 {
                     "weight": 1000.0,
