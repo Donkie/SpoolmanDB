@@ -3,6 +3,76 @@
    "filaments":[
       {
          "name":"{color_name}",
+         "material":"ASA",
+         "density":1.07,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":240
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":250,
+         "bed_temp":100,
+         "colors":[
+            {
+               "name":"White",
+               "hex":"EEEEED"
+            },
+            {
+               "name":"Yellow",
+               "hex":"F9BA09"
+            },
+            {
+               "name":"Orange",
+               "hex":"EE713A"
+            },
+            {
+               "name":"Red",
+               "hex":"BE3B37"
+            },
+            {
+               "name":"Purple",
+               "hex":"8072A1"
+            },
+            {
+               "name":"Light Blue",
+               "hex":"0083B4"
+            },
+            {
+               "name":"Dark Blue",
+               "hex":"2F4D86"
+            },
+            {
+               "name":"Light Green",
+               "hex":"699E4B"
+            },
+            {
+               "name":"Dark Green",
+               "hex":"187359"
+            },
+            {
+               "name":"Light Grey",
+               "hex":"C8CBC8"
+            },
+            {
+               "name":"Silver",
+               "hex":"A5A5A4"
+            },
+            {
+               "name":"Dark Grey",
+               "hex":"5D6366"
+            },
+            {
+               "name":"Black",
+               "hex":"414040"
+            }
+         ]
+      },
+      {
+         "name":"{color_name}",
          "material":"PETG",
          "density":1.24,
          "weights":[
