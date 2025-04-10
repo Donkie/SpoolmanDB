@@ -801,6 +801,7 @@
           }
         ]
       },
+      {
         "name": "PolyLite\u2122 Translucent PETG {color_name}",
         "material": "PETG",
         "density": 1.25,
