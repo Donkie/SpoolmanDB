@@ -801,6 +801,57 @@
           }
         ]
       },
+        "name": "PolyLite\u2122 Translucent PETG {color_name}",
+        "material": "PETG",
+        "density": 1.25,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          },
+          {
+            "weight": 3000.0,
+            "spool_weight": 425.0,
+            "spool_type": "cardboard"
+          },
+          {
+            "weight": 5000.0,
+            "spool_weight": 819.0,
+            "spool_type": "plastic"
+          }
+        ],
+        "diameters": [
+          1.75,
+          2.85
+        ],
+        "extruder_temp_range": [
+          230,
+          260
+        ],
+        "bed_temp_range": [
+          70,
+          80
+        ],
+        "colors": [
+          {
+            "name": "Blue",
+            "hex": "06038D"
+          },
+          {
+            "name": "Red",
+            "hex": "CB333B"
+          },
+          {
+            "name": "Green",
+            "hex": "009A44"
+          },
+          {
+            "name": "Clear",
+            "hex": "F4FAFC"
+          }
+        ]
+      },
       {
         "name": "Panchroma\u2122 Regular {color_name}",
         "material": "PLA",
