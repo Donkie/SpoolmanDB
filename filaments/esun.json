@@ -683,6 +683,50 @@
             ]
         },
         {
+            "name": "PLA-Luminous {color_name}",
+            "material": "PLA",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+
+                {
+                    "name": "Cored Luminous Orange",
+                    "hex": "ff977f"
+                },
+                {
+                    "name": "Cored Luminous Purple",
+                    "hex": "997abd"
+                },
+                {
+                    "name": "Cored Luminous Blue",
+                    "hex": "2c95cc"
+                },
+                {
+                    "name": "Cored Luminous Green",
+                    "hex": "3c4242"
+                },
+                {
+                    "name": "Luminous Green",
+                    "hex": "3c4242"
+                },
+                {
+                    "name": "Luminous Blue",
+                    "hex": "2c95cc"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
