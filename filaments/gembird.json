@@ -1,0 +1,32 @@
+{
+	"manufacturer": "gembird",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "ABS",
+			"density": 1.01,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 200.0,
+					"spool_type": "cardboard"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [225, 240],
+			"bed_temp": 80,
+			"colors": [
+        { "name": "Black", "hex": "000000" },
+        { "name": "Blue", "hex": "0000ff" },
+        { "name": "Green", "hex": "00ff00" },
+        { "name": "Gray", "hex": "808080" },
+        { "name": "Red", "hex": "ff0000" },
+        { "name": "Transparent", "hex": "ffffff" },
+        { "name": "White", "hex": "ffffff" },
+        { "name": "Yellow", "hex": "ffff00" },
+        { "name": "flame-bright Yellow", "hex": "ffff00" },
+        { "name": "Silver", "hex": "c0c0c0" }
+      ]
+		}
+	]
+}
