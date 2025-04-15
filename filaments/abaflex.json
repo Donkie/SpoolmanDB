@@ -1,0 +1,29 @@
+{
+	"manufacturer": "Abaflex",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "PLA",
+			"density": 1.223,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 100.0,
+					"spool_type": "cardboard"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 200, 230 ],
+			"bed_temp_range": [40, 60],
+			"colors": [
+        { "name": "Black", "hex": "000000" },
+        { "name": "White", "hex": "ffffff" },
+        { "name": "Grey", "hex": "7f7f7f" },
+        { "name": "Green", "hex": "00ff00" },
+        { "name": "Natural", "hex": "e0e0e0" },
+        { "name": "Red", "hex": "ff0000" },
+        { "name": "Blue", "hex": "0000ff" }
+      ]
+		}
+  ]
+}
