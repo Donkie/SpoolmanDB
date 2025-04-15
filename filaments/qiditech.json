@@ -34,6 +34,72 @@
 			"bed_temp_range": [ 70, 90 ],
 			"fill": "carbon fiber",
 			"colors": [ { "name": "Black", "hex": "000000" } ]
+		},
+		{
+			"name": "{color_name}",
+			"material": "PA12-CF",
+			"density": 1.09,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 280, 300 ],
+			"bed_temp_range": [ 40, 70 ],
+			"fill": "carbon fiber",
+			"colors": [ { "name": "Black", "hex": "000000" } ]
+		},
+		{
+			"name": "{color_name}",
+			"material": "ASA",
+			"density": 1.07,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 240, 280 ],
+			"bed_temp_range": [ 100, 110 ],
+			"colors": [
+				{ "name": "Black", "hex": "000000" },
+				{ "name": "White", "hex": "FFFFFF" },
+				{ "name": "Red", "hex": "C51223" },
+				{ "name": "Gray", "hex": "BEBFC2" },
+				{ "name": "Blue", "hex": "0F55C6" },
+				{ "name": "Green", "hex": "7FC61B" },
+				{ "name": "Yellow", "hex": "F4DB67" },
+				{ "name": "Brown", "hex": "593729" }
+			]
+		},
+		{
+			"name": "{color_name}",
+			"material": "PETG-Tough",
+			"density": 1.24,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 240, 280 ],
+			"bed_temp_range": [ 70, 80 ],
+			"colors": [
+				{ "name": "Black", "hex": "000000" },
+				{ "name": "White", "hex": "FFFFFF" },
+				{ "name": "Red", "hex": "DF0000" },
+				{ "name": "Orange", "hex": "EE8F00" },
+				{ "name": "Blue", "hex": "0094EB" },
+				{ "name": "Green", "hex": "2A9D4A" },
+				{ "name": "Yellow", "hex": "F4D875" }
+			]
 		}
 	]
 }
