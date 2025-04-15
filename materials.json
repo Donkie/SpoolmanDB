@@ -20,6 +20,10 @@
         "density": 1.27
     },
     {
+        "material": "PETG-Tough",
+        "density": 1.24
+    },
+    {
         "material": "Nylon",
         "density": 1.52
     },
