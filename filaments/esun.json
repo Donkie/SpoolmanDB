@@ -865,6 +865,27 @@
         },
         {
             "name": "{color_name}",
+            "material": "HIPS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 240
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_rang": [230, 270],
+            "bed_temp_range": [100, 115],
+            "colors": [
+                {"name": "Black", "hex": "000000"},
+                {"name": "White", "hex": "ffffff"},
+                {"name": "Natural", "hex": "beb8ac"}
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "TPU-95A",
             "density": 1.21,
             "weights": [
