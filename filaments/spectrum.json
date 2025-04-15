@@ -1,0 +1,26 @@
+{
+	"manufacturer": "Spectrum",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "PCTG",
+			"density": 1.27,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 245.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 250, 270 ],
+			"bed_temp_ranfe": [60, 100],
+			"colors": [
+        { "name": "Traffic Black", "hex": "000000" },
+        { "name": "Arctic White", "hex": "ffffff" },
+        { "name": "Sulfur Yellow", "hex": "ffff00" },
+        { "name": "Transparent Green", "hex": "00ff00" }
+      ]
+		}
+  ]
+}
