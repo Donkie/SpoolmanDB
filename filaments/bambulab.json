@@ -1224,7 +1224,7 @@
         {
             "name": "{color_name}",
             "material": "ASA",
-            "density": 0.99,
+            "density": 1.05,
             "weights": [
                 {
                     "weight": 1000,
@@ -1239,7 +1239,7 @@
             "colors": [
                 {
                     "name": "White Aero",
-                    "hex": "F5F1DD"
+                    "hex": "E9E4D9"
                 }
             ]
         },
