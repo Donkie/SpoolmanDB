@@ -1396,8 +1396,8 @@
             ]
         },
         {
-            "name": "{color_name}",
-            "material": "TPU-95A-HF",
+            "name": "HF {color_name}",
+            "material": "TPU-95A",
             "density": 1.22,
             "weights": [
                 {
@@ -1417,23 +1417,23 @@
                 },
                 {
                     "name": "Yellow",
-                    "hex": "#F3E600"
+                    "hex": "F3E600"
                 },
                 {
                     "name": "Blue",
-                    "hex": "#0072CE"
+                    "hex": "0072CE"
                 },
                 {
                     "name": "Red",
-                    "hex": "#C8102E"
+                    "hex": "C8102E"
                 },
                 {
                     "name": "Gray",
-                    "hex": "#898D8D"
+                    "hex": "898D8D"
                 },
                 {
                     "name": "Black",
-                    "hex": "#101820"
+                    "hex": "101820"
                 }
             ]
         },
