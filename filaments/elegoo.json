@@ -125,6 +125,77 @@
                 }
             ]
         },
+    {
+        "name": "{color_name}",
+        "material": "PLA+",
+        "density": 1.29,
+        "weights": [
+          {
+            "weight": 1000,
+            "spool_weight": 160,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp": 210,
+        "bed_temp": 60,
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "000000"
+          },
+          {
+            "name": "White",
+            "hex": "ffffff"
+          },
+          {
+            "name": "Grey",
+            "hex": "b5b7b8"
+          },
+          {
+            "name": "Blue",
+            "hex": "2240af"
+          },
+          {
+            "name": "Red",
+            "hex": "ea140e"
+          },
+          {
+            "name": "Orange",
+            "hex": "fd7c18"
+          },
+          {
+            "name": "Yellow",
+            "hex": "fef406"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "27b2d0"
+          },
+          {
+            "name": "Space Grey",
+            "hex": "5d5d5d"
+          },
+          {
+            "name": "Purple",
+            "hex": "603ba0"
+          },
+          {
+            "name": "Sea Green",
+            "hex": "1abc83"
+          },
+          {
+            "name": "Wood Color",
+            "hex": "b19870"
+          },
+          {
+            "name": "Brown",
+            "hex": "9e6a4b"
+          }
+        ]
+      },
         {
             "name": "RAPID PLA+ {color_name}",
             "material": "PLA+",
