@@ -146,7 +146,7 @@
     {
       "name": "{color_name}",
       "material": "PLA+",
-      "density": 1.29,
+      "density": 1.30,
       "weights": [
         {
           "weight": 1000,
