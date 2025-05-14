@@ -330,76 +330,121 @@
           90,
           100
         ],
+ 
         "colors": [
-          {
-            "name": "Black",
-            "hex": "101820"
-          },
-          {
-            "name": "White",
-            "hex": "FFFFFF"
-          },
-          {
-            "name": "Grey",
-            "hex": "888B8D"
-          },
-          {
-            "name": "Blue",
-            "hex": "002677"
-          },
-          {
-            "name": "Red",
-            "hex": "DE4343"
-          },
-          {
-            "name": "Green",
-            "hex": "3A913F"
-          },
-          {
-            "name": "Yellow",
-            "hex": "FFC845"
-          },
-          {
-            "name": "Orange",
-            "hex": "FF6A13"
-          },
-          {
-            "name": "Polymaker Teal",
-            "hex": "2DCCD3"
-          },
-          {
-            "name": "Purple",
-            "hex": "6E3FA3"
-          },
-          {
-            "name": "Pink",
-            "hex": "F59BBB"
-          },
-          {
-            "name": "Lime",
-            "hex": "C4D600"
-          },
-          {
-            "name": "Light Blue",
-            "hex": "5BC2E7"
-          },
-          {
-            "name": "Dark Grey",
-            "hex": "6C6D71"
-          },
-          {
-            "name": "Gold",
-            "hex": "CC8A00"
-          },
-          {
-            "name": "Dark Purple",
-            "hex": "292036"
-          },
-          {
-            "name": "Natural",
-            "hex": "E8E6D0"
-          }
-        ]
+            {
+                "name": "Galaxy Dark Grey",
+                "hex":  "474648"
+            },
+            {
+		"name": "Green",
+		"hex":  "479161"
+            },
+            {
+		"name": "Lime",
+		"hex":	"C4D100"
+            },
+            {
+		"name": "Dark Purple",
+		"hex":	"292036"
+            },
+            {
+		"name": "Natural",
+		"hex":	"E2E0C9"
+            },
+            {
+		"name": "Black",
+		"hex":	"16161A"
+            },
+            {
+		"name": "Galaxy Black",
+		"hex":	"474648"
+            },
+            {
+		"name": "Dark Grey",
+		"hex":	"474648"
+            },
+            {
+		"name": "Grey",
+		"hex":	"8C8D93"
+            },
+            {
+		"name": "White",
+		"hex":	"F0EBE8"
+            },
+            {
+		"name": "Neon Magenta",
+		"hex":	"F6162E"
+            },
+            {
+		"name": "Pink",
+		"hex":	"FFA7C4"
+            },
+            {
+		"name": "Red",
+		"hex":	"F3442B"
+            },
+            {
+		"name": "Galaxy Orange",
+		"hex":	"F57517"
+            },
+            {
+		"name": "Neon Orange",
+		"hex":	"FE602B"
+            },
+            {
+		"name": "Orange",
+		"hex":	"F57517"
+            },
+            {
+		"name": "Gold",
+		"hex":	"BD6200"
+            },
+            {
+		"name": "Neon Yellow",
+		"hex":	"FFC001"
+            },
+            {
+		"name": "Yellow",
+		"hex":	"EDA900"
+            },
+            {
+		"name": "Metallic Green",
+		"hex":	"3D441E"
+            },
+            {
+		"name": "Neon Green",
+		"hex":	"77F0A2"
+            },
+            {
+		"name": "Blue",
+		"hex":	"003276"
+            },
+            {
+		"name": "Light Blue",
+		"hex":	"8EDBEB"
+            },
+            {
+		"name": "Metallic Blue",
+		"hex":	"043371"
+            },
+            {
+		"name": "Galaxy Purple",
+		"hex":	"6545A5"
+            },
+            {
+		"name": "Galaxy Teal",
+		"hex":	"2DCCD3"
+            },
+            {
+		"name": "Teal",
+		"hex":	"01ACBA"
+            },
+            {
+		"name": "Purple",
+		"hex":	"6545A5"
+            }
+	]
       },
       {
         "name": "PolyLite\u2122 ASA {color_name}",
