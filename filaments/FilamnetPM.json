@@ -474,7 +474,7 @@
         },
         {
             "name": "TPU96 - {color_name}",
-            "material": "Flexible (TPU)",
+            "material": "TPU96",
             "density": 1.15,
             "weights": [
                 {
@@ -589,7 +589,7 @@
         },
         {
             "name": "ABS-T - {color_name}",
-            "material": "ABS-T",
+            "material": "ABS+T",
             "density": 1.08,
             "weights": [
                 {
@@ -684,7 +684,7 @@
         },
         {
             "name": "PPJET - {color_name}",
-            "material": "Polypropylene (PP)",
+            "material": "PP",
             "density": 0.89,
             "weights": [
                 {
@@ -713,7 +713,7 @@
         },
         {
             "name": "PETG FRJET - {color_name}",
-            "material": "PETG",
+            "material": "PETG+FR",
             "density": 1.27,
             "weights": [
                 {
@@ -751,7 +751,7 @@
         },
         {
             "name": "PETG CFJET - {color_name}",
-            "material": "PETG",
+            "material": "PETG-CF",
             "density": 1.01,
             "weights": [
                 {
@@ -781,7 +781,7 @@
         },
         {
             "name": "PEIJET ULTEM - {color_name}",
-            "material": "PEI (Ultem)",
+            "material": "ULTEM",
             "density": 1.27,
             "weights": [
                 {
@@ -810,7 +810,7 @@
         },
         {
             "name": "PAJET - {color_name}",
-            "material": "Nylon",
+            "material": "PA",
             "density": 1.01,
             "weights": [
                 {
@@ -839,7 +839,7 @@
         },
         {
             "name": "PC/ABS - {color_name}",
-            "material": "PC/ABS",
+            "material": "PC+ABS",
             "density": 1.19,
             "weights": [
                 {
@@ -872,7 +872,7 @@
         },
         {
             "name": "PA-CFJET - {color_name}",
-            "material": "Nylon",
+            "material": "PA",
             "density": 1.01,
             "weights": [
                 {
@@ -902,7 +902,7 @@
         },
         {
             "name": "TPE 32 - {color_name}",
-            "material": "Flexible (TPE 32D)",
+            "material": "TPE-32D",
             "density": 1.10,
             "weights": [
                 {
@@ -932,7 +932,7 @@
         },
         {
             "name": "TPE 88 - {color_name}",
-            "material": "Flexible (TPE 88A)",
+            "material": "TPE-88A",
             "density": 0.89,
             "weights": [
                 {
