@@ -120,5 +120,17 @@
     {
         "material": "PEARL",
         "density": 1.25
+    },
+    {
+        "material": "ABS-T",
+        "density": 1.08
+    },
+    {
+        "material": "Flexible (TPE 32D)",
+        "density": 1.10
+    },
+    {
+        "material": "Flexible (TPE 88A)",
+        "density": 0.89
     }
 ]
