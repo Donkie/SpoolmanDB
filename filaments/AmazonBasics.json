@@ -3,6 +3,108 @@
     "filaments": [
         {
             "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 232
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Blue",
+                    "hex": "50C2EF"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "7D503F"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "0828A0"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "5E6872"
+                },
+                {
+                    "name": "Translucent",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Translucent Red",
+                    "hex": "D8100C"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F9EB51"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "C8A970"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "F7F3F0"
+                },
+                {
+                    "name": "Bright Green",
+                    "hex": "B4D68D"
+                },
+                {
+                    "name": "Luminous",
+                    "hex": "E2DFD0"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "8AD77F"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "F8A813"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "E3A03D"
+                },
+                {
+                    "name": "Pearl White",
+                    "hex": "F7F3E6"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "D9B8B4"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E5371C"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "9F9D9E"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "D90258"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "ABS",
             "density": 1.27,
             "weights": [
