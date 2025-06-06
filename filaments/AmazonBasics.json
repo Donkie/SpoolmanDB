@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 232
+                    "spool_weight": 232,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -35,11 +36,13 @@
                 },
                 {
                     "name": "Translucent",
-                    "hex": "FFFFFF"
+                    "hex": "00FFFFFF",
+                    "translucent": true
                 },
                 {
                     "name": "Translucent Red",
-                    "hex": "D8100C"
+                    "hex": "3CD8100C",
+                    "translucent": true
                 },
                 {
                     "name": "Yellow",
@@ -59,15 +62,18 @@
                 },
                 {
                     "name": "Luminous",
-                    "hex": "E2DFD0"
+                    "hex": "E2DFD0",
+                    "glow": true
                 },
                 {
                     "name": "Neon Green",
-                    "hex": "8AD77F"
+                    "hex": "3C8AD77F",
+                    "translucent": true
                 },
                 {
                     "name": "Neon Orange",
-                    "hex": "F8A813"
+                    "hex": "3CF8A813",
+                    "translucent": true
                 },
                 {
                     "name": "Orange",

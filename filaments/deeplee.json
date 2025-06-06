@@ -8,7 +8,8 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 140
+                    "spool_weight": 140,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
@@ -47,7 +48,8 @@
                 },
                 {
                     "name": "Clear",
-                    "hex": "FFFFFF"
+                    "hex": "00FFFFFF",
+                    "translucent": true
                 },
                 {
                     "name": "Light Green",
