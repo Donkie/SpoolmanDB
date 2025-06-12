@@ -206,6 +206,29 @@
             ]
         },
         {
+            "name": "PLA {color_name}",
+            "material": "PLA",
+            "density": 1.1,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Wood",
+                    "hex": "ebcfa7"
+                }
+            ]
+        },    
+        {
             "name": "ePLA+HS {color_name}",
             "material": "PLA+",
             "density": 1.24,
