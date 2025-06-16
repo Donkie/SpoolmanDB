@@ -1396,6 +1396,48 @@
             ]
         },
         {
+            "name": "HF {color_name}",
+            "material": "TPU-95A",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 30,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F3E600"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0072CE"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C8102E"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "898D8D"
+                },
+                {
+                    "name": "Black",
+                    "hex": "101820"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "TPU-90A",
             "density": 1.24,
