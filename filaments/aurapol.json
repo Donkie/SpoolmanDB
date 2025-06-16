@@ -1,0 +1,84 @@
+{
+	"manufacturer": "AURAPOL",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "PLA",
+			"density": 1.223,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 250.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 210, 240 ],
+			"bed_temp_range": [40, 60],
+			"colors": [
+        { "name": "Black", "hex": "000000" },
+        { "name": "Metallic Brick", "hex": "ff4010" },
+        { "name": "Natural", "hex": "ffffff" },
+        { "name": "Grey", "hex": "7f7f7f" },
+        { "name": "L-EGO red", "hex": "ff0000" },
+        { "name": "White", "hex": "ffffff" },
+        { "name": "Yellow Green", "hex": "80ff00" },
+        { "name": "Raspberry partially transparent", "hex": "ff2060" },
+        { "name": "leaf green", "hex": "00a000" },
+        { "name": "L-EGO yellow", "hex": "ffff00" },
+        { "name": "L-EGO green", "hex": "00ff00" },
+        { "name": "L-EGO blue", "hex": "0000ff" }
+      ]
+		},
+		{
+			"name": "{color_name}",
+			"material": "PETG",
+			"density": 1.259,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 250.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 245, 255 ],
+			"bed_temp_range": [85, 95],
+			"colors": [
+        { "name": "Graphite black", "hex": "101010" },
+        { "name": "White", "hex": "ffffff" },
+        { "name": "Natural transparent", "hex": "ffffff" },
+        { "name": "Signal Grey", "hex": "7f7f7f" },
+        { "name": "Traffic Red", "hex": "ff0000" },
+        { "name": "Sulfur Yellow", "hex": "ffff00" },
+        { "name": "Green Mint", "hex": "00ff00" },
+        { "name": "Signal blue", "hex": "0000ff" }
+      ]
+		},
+		{
+			"name": "{color_name}",
+			"material": "ASA",
+			"density": 1.039,
+			"weights": [
+				{
+					"weight": 850.0,
+					"spool_weight": 250.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 255, 265 ],
+			"bed_temp_range": [105, 115],
+			"colors": [
+        { "name": "Graphite black", "hex": "101010" },
+        { "name": "Signal White", "hex": "ffffff" },
+        { "name": "Natural", "hex": "f0f0cf" },
+        { "name": "Light Grey", "hex": "7f7f7f" },
+        { "name": "Signal Orange", "hex": "ff7000" },
+        { "name": "Sky Blue", "hex": "4040ff" },
+        { "name": "Green Grass", "hex": "00bf00" },
+        { "name": "Slate Gray", "hex": "606060" }
+      ]
+		}
+	]
+}
