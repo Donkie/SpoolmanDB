@@ -1,0 +1,183 @@
+{
+   "manufacturer":"3D-Fuel",
+   "filaments":[
+      {
+         "name":"{color_name}",
+         "material":"PLA+",
+         "density":1.22,
+         "weights":[
+            {
+               "weight":1000.0,
+               "spool_weight":225
+            }
+         ],
+         "diameters":[
+            1.75
+         ],
+         "extruder_temp":220,
+         "bed_temp":60,
+         "colors":[
+            {
+               "name":"Natural",
+               "hex":"FFFAEF"
+            },
+            {
+               "name":"Brightest White",
+               "hex":"FFFFFF"
+            },
+            {
+               "name":"Snow White",
+               "hex":"D9D8DD"
+            },
+            {
+               "name":"Bone White",
+               "hex":"E2DCCC"
+            },
+            {
+               "name":"Almond",
+               "hex":"CFBCAE"
+            },
+            {
+               "name":"Desert Tan",
+               "hex":"D2C6BA"
+            },
+            {
+               "name":"Flat Dark Earth",
+               "hex":"B19179"
+            },
+            {
+               "name":"Chocolate Brown",
+               "hex":"754F4A"
+            },
+            {
+               "name":"Warm Bisque",
+               "hex":"EFC8BF"
+            },
+            {
+               "name":"Bubblegum Pink",
+               "hex":"FAB0B7"
+            },
+            {
+               "name":"Island Fuschia",
+               "hex":"CA3890"
+            },
+            {
+               "name":"Grape Purple",
+               "hex":"6642A2"
+            },
+            {
+               "name":"Cobalt Blue",
+               "hex":"12218F"
+            },
+            {
+               "name":"Ocean Blue",
+               "hex":"219AE1"
+            },
+            {
+               "name":"Caribbean Blue",
+               "hex":"0288C3"
+            },
+            {
+               "name":"Fjord Blue",
+               "hex":"05A4FD"
+            },
+            {
+               "name":"Electric Blue",
+               "hex":"65CEF6"
+            },
+            {
+               "name":"Aquamarine",
+               "hex":"97E9EB"
+            },
+            {
+               "name":"Pistachio Green",
+               "hex":"B4ECB5"
+            },
+            {
+               "name":"Olive Green",
+               "hex":"8A9684"
+            },
+            {
+               "name":"Forest Green",
+               "hex":"348C75"
+            },
+            {
+               "name":"Grass Green",
+               "hex":"50DE93"
+            },
+            {
+               "name":"LulzBot Green",
+               "hex":"CFF319"
+            },
+            {
+               "name":"Daffodil Yellow",
+               "hex":"FFD21B"
+            },
+            {
+               "name":"Harvest Gold",
+               "hex":"FFC830"
+            },
+            {
+               "name":"Tangerine Orange",
+               "hex":"F48240"
+            },
+            {
+               "name":"Autumn Orange",
+               "hex":"F76647"
+            },
+            {
+               "name":"Fire Engine Red",
+               "hex":"CD100E"
+            },
+            {
+               "name":"Iron Red",
+               "hex":"900C14"
+            },
+            {
+               "name":"Metallic Copper",
+               "hex":"B56150"
+            },
+            {
+               "name":"Metallic Gold",
+               "hex":"FFE48F"
+            },
+            {
+               "name":"Metallic Silver",
+               "hex":"858991"
+            },
+            {
+               "name":"Industrial Gray",
+               "hex":"9EA4B4"
+            },
+            {
+               "name":"Castle Gray",
+               "hex":"6D6D6F"
+            },
+            {
+               "name":"Charcoal Gray",
+               "hex":"656A7F"
+            },
+            {
+               "name":"Midnight Black",
+               "hex":"000000"
+            },
+            {
+               "name":"Flourescent Green",
+               "hex":"57D791"
+            },
+            {
+               "name":"Flourescent Orange",
+               "hex":"E5743A"
+            },
+            {
+               "name":"Flourescent Yellow",
+               "hex":"D9E66B"
+            },
+            {
+               "name":"Glow in the Dark",
+               "hex":"DBDADD"
+            }
+         ]
+      }
+    ]
+}
