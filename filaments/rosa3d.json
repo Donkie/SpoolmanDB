@@ -1,0 +1,138 @@
+{
+    "manufacturer": "Rosa3D",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "050503"
+                },
+                {
+                    "name": "White",
+                    "hex": "f6fcfc"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "8d989d"
+                },
+                {
+                    "name": "Juicy Orange",
+                    "hex": "fc5e2e"
+                },
+                {
+                    "name": "Red",
+                    "hex": "d6181b"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "fdf849"
+                },
+                {
+                    "name": "Green",
+                    "hex": "63bf59"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "33405c"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "aeafac"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "f9f4e2"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "050503"
+                },
+                {
+                    "name": "White",
+                    "hex": "f6fcfc"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "6b7377"
+                },
+                {
+                    "name": "Juicy Orange",
+                    "hex": "fc5e2e"
+                },
+                {
+                    "name": "Red",
+                    "hex": "d6181b"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "fdf849"
+                },
+                {
+                    "name": "Green",
+                    "hex": "63bf59"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "2c62c0"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 2500,
+                    "spool_weight": 700,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "050503"
+                }
+            ]
+        }
+    ]
+}
