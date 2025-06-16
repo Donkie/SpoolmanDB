@@ -121,6 +121,42 @@
                     "hex": "DE3530"
                 }
             ]
+        },
+        {
+            "name": "CR-PETG {color_name}",
+            "material": "PETG",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 225,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "00FFFFFF",
+                    "translucent": true
+                },
+                {
+                    "name": "Red",
+                    "hex": "DE3530"
+                }
+            ]
         }
     ]
 }
