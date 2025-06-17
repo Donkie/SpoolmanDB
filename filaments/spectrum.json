@@ -14,7 +14,7 @@
 			],
 			"diameters": [ 1.75 ],
 			"extruder_temp_range": [ 250, 270 ],
-			"bed_temp_ranfe": [60, 100],
+			"bed_temp_range": [60, 100],
 			"colors": [
         { "name": "Traffic Black", "hex": "000000" },
         { "name": "Arctic White", "hex": "ffffff" },
