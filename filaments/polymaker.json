@@ -1835,179 +1835,179 @@
         ]
       },
       {
-            "name": "Panchroma™ Matte (Formerly PolyTerra™) {color_name}",
-            "material": "PLA",
-            "density": 1.24,
-            "weights": [
-                {
-                    "weight": 1000,
-                    "spool_weight": 140
-                },
-                {
-                    "weight": 3000,
-                    "spool_weight": 425
-                }
-            ],
-            "diameters": [
-                1.75,
-                2.85
-            ],
-            "extruder_temp": 210,
-            "bed_temp": 50,
-            "colors": [
-              {
-                "name": "Arctic Teal",
-                "hex": "5aabb1"
-              },
-              {
-                "name": "Army Beige",
-                "hex": "cca897"
-              },
-              {
-                "name": "Army Blue",
-                "hex": "062b4d"
-              },
-              {
-                "name": "Army Brown",
-                "hex": "724e3d"
-              },
-              {
-                "name": "Army Dark Green",
-                "hex": "515234"
-              },
-              {
-                "name": "Army Light Green",
-                "hex": "a78403"
-              },
-              {
-                "name": "Army Purple",
-                "hex": "292036"
-              },
-              {
-                "name": "Army Red",
-                "hex": "ac1a17"
-              },
-              {
-                "name": "Ash Grey",
-                "hex": "575e75"
-              },
-              {
-                "name": "Charcoal Black",
-                "hex": "1c1c1c"
-              },
-              {
-                "name": "Cotton White",
-                "hex": "e6dddb"
-              },
-              {
-                "name": "Earth Brown",
-                "hex": "7c594a"
-              },
-              {
-                "name": "Electric Indigo",
-                "hex": "764c99"
-              },
-              {
-                "name": "Forest Green",
-                "hex": "519f61"
-              },
-              {
-                "name": "Fossil Grey",
-                "hex": "6f727e"
-              },
-              {
-                "name": "Lavender Purple",
-                "hex": "8a68b5"
-              },
-              {
-                "name": "Lava Red",
-                "hex": "de1619"
-              },
-              {
-                "name": "Lime Green",
-                "hex": "d0e740"
-              },
-              {
-                "name": "Lotus Pink",
-                "hex": "f98289"
-              },
-              {
-                "name": "Muted Blue",
-                "hex": "4e6a84"
-              },
-              {
-                "name": "Muted Green",
-                "hex": "656d60"
-              },
-              {
-                "name": "Muted Purple",
-                "hex": "7c5577"
-              },
-              {
-                "name": "Muted Red",
-                "hex": "db3e14"
-              },
-              {
-                "name": "Muted White",
-                "hex": "afa198"
-              },
-              {
-                "name": "Pastel Banana",
-                "hex": "f5cf6f"
-              },
-              {
-                "name": "Pastel Candy",
-                "hex": "dabcc8"
-              },
-              {
-                "name": "Pastel Ice",
-                "hex": "95c5d3"
-              },
-              {
-                "name": "Pastel Mint",
-                "hex": "bec9a5"
-              },
-              {
-                "name": "Pastel Peach",
-                "hex": "f2b67a"
-              },
-              {
-                "name": "Pastel Peanut",
-                "hex": "c29572"
-              },
-              {
-                "name": "Pastel Periwinkle",
-                "hex": "bfb2e6"
-              },
-              {
-                "name": "Pastel Watermelon",
-                "hex": "e93a3f"
-              },
-              {
-                "name": "Sakura Pink",
-                "hex": "e0a8bb"
-              },
-              {
-                "name": "Sapphire Blue",
-                "hex": "005aa2"
-              },
-              {
-                "name": "Savannah Yellow",
-                "hex": "f0be02"
-              },
-              {
-                "name": "Sky Blue",
-                "hex": "87ceeb"
-              },
-              {
-                "name": "Sunrise Orange",
-                "hex": "f78e0e"
-              },
-              {
-                "name": "Wood Brown",
-                "hex": "ad7441"
-              }
-            ]
-        }
+        "name": "Panchroma™ Matte (Formerly PolyTerra™) {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+            {
+                "weight": 1000,
+                "spool_weight": 140
+            },
+            {
+                "weight": 3000,
+                "spool_weight": 425
+            }
+        ],
+        "diameters": [
+            1.75,
+            2.85
+        ],
+        "extruder_temp": 210,
+        "bed_temp": 50,
+        "colors": [
+          {
+            "name": "Arctic Teal",
+            "hex": "5aabb1"
+          },
+          {
+            "name": "Army Beige",
+            "hex": "cca897"
+          },
+          {
+            "name": "Army Blue",
+            "hex": "062b4d"
+          },
+          {
+            "name": "Army Brown",
+            "hex": "724e3d"
+          },
+          {
+            "name": "Army Dark Green",
+            "hex": "515234"
+          },
+          {
+            "name": "Army Light Green",
+            "hex": "a78403"
+          },
+          {
+            "name": "Army Purple",
+            "hex": "292036"
+          },
+          {
+            "name": "Army Red",
+            "hex": "ac1a17"
+          },
+          {
+            "name": "Ash Grey",
+            "hex": "575e75"
+          },
+          {
+            "name": "Charcoal Black",
+            "hex": "1c1c1c"
+          },
+          {
+            "name": "Cotton White",
+            "hex": "e6dddb"
+          },
+          {
+            "name": "Earth Brown",
+            "hex": "7c594a"
+          },
+          {
+            "name": "Electric Indigo",
+            "hex": "764c99"
+          },
+          {
+            "name": "Forest Green",
+            "hex": "519f61"
+          },
+          {
+            "name": "Fossil Grey",
+            "hex": "6f727e"
+          },
+          {
+            "name": "Lavender Purple",
+            "hex": "8a68b5"
+          },
+          {
+            "name": "Lava Red",
+            "hex": "de1619"
+          },
+          {
+            "name": "Lime Green",
+            "hex": "d0e740"
+          },
+          {
+            "name": "Lotus Pink",
+            "hex": "f98289"
+          },
+          {
+            "name": "Muted Blue",
+            "hex": "4e6a84"
+          },
+          {
+            "name": "Muted Green",
+            "hex": "656d60"
+          },
+          {
+            "name": "Muted Purple",
+            "hex": "7c5577"
+          },
+          {
+            "name": "Muted Red",
+            "hex": "db3e14"
+          },
+          {
+            "name": "Muted White",
+            "hex": "afa198"
+          },
+          {
+            "name": "Pastel Banana",
+            "hex": "f5cf6f"
+          },
+          {
+            "name": "Pastel Candy",
+            "hex": "dabcc8"
+          },
+          {
+            "name": "Pastel Ice",
+            "hex": "95c5d3"
+          },
+          {
+            "name": "Pastel Mint",
+            "hex": "bec9a5"
+          },
+          {
+            "name": "Pastel Peach",
+            "hex": "f2b67a"
+          },
+          {
+            "name": "Pastel Peanut",
+            "hex": "c29572"
+          },
+          {
+            "name": "Pastel Periwinkle",
+            "hex": "bfb2e6"
+          },
+          {
+            "name": "Pastel Watermelon",
+            "hex": "e93a3f"
+          },
+          {
+            "name": "Sakura Pink",
+            "hex": "e0a8bb"
+          },
+          {
+            "name": "Sapphire Blue",
+            "hex": "005aa2"
+          },
+          {
+            "name": "Savannah Yellow",
+            "hex": "f0be02"
+          },
+          {
+            "name": "Sky Blue",
+            "hex": "87ceeb"
+          },
+          {
+            "name": "Sunrise Orange",
+            "hex": "f78e0e"
+          },
+          {
+            "name": "Wood Brown",
+            "hex": "ad7441"
+          }
+        ]
+      }
     ]
 }
