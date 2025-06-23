@@ -1856,6 +1856,10 @@
             "bed_temp": 50,
             "colors": [
               {
+                "name": "Arctic Teal",
+                "hex": "5aabb1"
+              },
+              {
                 "name": "Army Beige",
                 "hex": "cca897"
               },
@@ -1877,19 +1881,15 @@
               },
               {
                 "name": "Army Purple",
-                "hex": "ffffff"
+                "hex": "292036"
               },
               {
                 "name": "Army Red",
                 "hex": "ac1a17"
               },
               {
-                "name": "Arctic Teal",
-                "hex": "5aabb1"
-              },
-              {
                 "name": "Ash Grey",
-                "hex": "ffffff"
+                "hex": "575e75"
               },
               {
                 "name": "Charcoal Black",
@@ -1901,11 +1901,11 @@
               },
               {
                 "name": "Earth Brown",
-                "hex": "623e2a"
+                "hex": "7c594a"
               },
               {
                 "name": "Electric Indigo",
-                "hex": "ffffff"
+                "hex": "764c99"
               },
               {
                 "name": "Forest Green",
@@ -1916,16 +1916,20 @@
                 "hex": "6f727e"
               },
               {
-                "name": "Lava Red",
-                "hex": "de1619"
-              },
-              {
                 "name": "Lavender Purple",
                 "hex": "8a68b5"
               },
               {
+                "name": "Lava Red",
+                "hex": "de1619"
+              },
+              {
                 "name": "Lime Green",
                 "hex": "d0e740"
+              },
+              {
+                "name": "Lotus Pink",
+                "hex": "f98289"
               },
               {
                 "name": "Muted Blue",
@@ -1960,6 +1964,10 @@
                 "hex": "95c5d3"
               },
               {
+                "name": "Pastel Mint",
+                "hex": "bec9a5"
+              },
+              {
                 "name": "Pastel Peach",
                 "hex": "f2b67a"
               },
@@ -1969,11 +1977,7 @@
               },
               {
                 "name": "Pastel Periwinkle",
-                "hex": "ffffff"
-              },
-              {
-                "name": "Pastel Mint",
-                "hex": "bec9a5"
+                "hex": "bfb2e6"
               },
               {
                 "name": "Pastel Watermelon",
@@ -1990,6 +1994,10 @@
               {
                 "name": "Savannah Yellow",
                 "hex": "f0be02"
+              },
+              {
+                "name": "Sky Blue",
+                "hex": "87ceeb"
               },
               {
                 "name": "Sunrise Orange",
