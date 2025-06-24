@@ -256,6 +256,42 @@
                     "hex": "2DC84D"
                 }
             ]
+        },
+        {
+            "name": "Metal {color_name}",
+            "material": "PLA",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 127,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "finish": "metallic",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "43403D"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "3177A3"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "956C58"
+                },
+                {
+                    "name": "Champagne",
+                    "hex": "B59C7D"
+                }
+            ]
         }
     ]
 }
