@@ -21,6 +21,39 @@
                 {
                     "name": "Black",
                     "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "B1B3B3"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F3E500"
+                },
+                {
+                    "name": "Green",
+                    "hex": "009639"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7F32"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "6A6DCD"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0762C8"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "000000",
+                    "translucent": true
                 }
             ]
         },
@@ -346,6 +379,37 @@
                 {
                     "name": "Milky White",
                     "hex": "E9E9E7"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 127,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "63666A"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
                 }
             ]
         }
