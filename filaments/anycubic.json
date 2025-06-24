@@ -155,7 +155,8 @@
                     "hexes": [
                         "744E10",
                         "009639"
-                    ]
+                    ],
+                    "multi_color_direction": "coaxial"
                 },
                 {
                     "name": "Green",
@@ -178,7 +179,8 @@
                     "hexes": [
                         "c8102e",
                         "0047BB"
-                    ]
+                    ],
+                    "multi_color_direction": "coaxial"
                 },
                 {
                     "name": "Red",
