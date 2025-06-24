@@ -209,6 +209,53 @@
                     "hex": "74D1EA"
                 }
             ]
+        },
+        {
+            "name": "High Speed {color_name}",
+            "material": "PLA",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 125,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "212721"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "53565A"
+                },
+                {
+                    "name": "White",
+                    "hex": "F3F4F5"
+                },
+                {
+                    "name": "Red",
+                    "hex": "BA0C2F"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7338"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0762C8"
+                },
+                {
+                    "name": "Green",
+                    "hex": "2DC84D"
+                }
+            ]
         }
     ]
 }
