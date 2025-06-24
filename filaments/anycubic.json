@@ -292,6 +292,62 @@
                     "hex": "B59C7D"
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 127,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "212721"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "63666A"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "D22630"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF6A13"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "A438A8"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "005EB8"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF",
+                    "translucent": true
+                },
+                {
+                    "name": "Milky White",
+                    "hex": "E9E9E7"
+                }
+            ]
         }
     ]
 }
