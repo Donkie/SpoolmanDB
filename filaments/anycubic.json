@@ -177,14 +177,14 @@
                 {
                     "name": "Red-Blue",
                     "hexes": [
-                        "c8102e",
+                        "C8102E",
                         "0047BB"
                     ],
                     "multi_color_direction": "coaxial"
                 },
                 {
                     "name": "Red",
-                    "hex": "c8102e"
+                    "hex": "C8102E"
                 },
                 {
                     "name": "Sakura Pink",
@@ -464,7 +464,7 @@
                     "hex": "63666A"
                 },
                 {
-                    "name": "Clear",
+                    "name": "White",
                     "hex": "FFFFFF"
                 },
                 {
@@ -482,6 +482,10 @@
                 {
                     "name": "Blue",
                     "hex": "005EB8"
+                },
+                {
+                    "name": "Green",
+                    "hex": "79C000"
                 },
                 {
                     "name": "Clear",
