@@ -146,6 +146,69 @@
                     "translucent": true
                 }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA+",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 127,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "212721"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "F1F0ED"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E10600"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7338"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "695FA2"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0762C8"
+                },
+                {
+                    "name": "Green",
+                    "hex": "2DC84D"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FDDB27"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "8A8D8F"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "74D1EA"
+                }
+            ]
         }
     ]
 }
