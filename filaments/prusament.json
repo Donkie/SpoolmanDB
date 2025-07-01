@@ -119,6 +119,35 @@
             ]
         },
         {
+            "name": "TPU 95A {color_name}",
+            "material": "TPU",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 220.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                240
+            ],
+            "bed_temp_range": [
+                65,
+                75
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "fffcf4"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
