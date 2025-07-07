@@ -138,8 +138,52 @@
       "finish": "matte",
       "colors": [
         {
+          "name": "Beige",
+          "hex": "f4e0b8"
+        },
+        {
           "name": "Black",
-          "hex": "000000"
+          "hex": "090909"
+        },
+        {
+          "name": "Ice Blue",
+          "hex": "b3f3fd"
+        },
+        {
+          "name": "Lavender Purple",
+          "hex": "9d85d1"
+        },
+        {
+          "name": "Mint Green",
+          "hex": "dbebba"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "2d3f6f"
+        },
+        {
+          "name": "Ruby Red",
+          "hex": "bb2c2e"
+        },
+        {
+          "name": "Sakura Pink",
+          "hex": "f9c2d5"
+        },
+        {
+          "name": "Slate Grey",
+          "hex": "969799"
+        },
+        {
+          "name": "Sunshine Yellow",
+          "hex": "f7d863"
+        },
+        {
+          "name": "Teal Green",
+          "hex": "74cdc7"
+        },
+        {
+          "name": "White",
+          "hex": "f6f6f6"
         }
       ]
     },
