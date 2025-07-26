@@ -114,6 +114,7 @@
                         "enum": [
                             null,
                             "matte",
+                            "silk",
                             "glossy"
                         ]
                     },

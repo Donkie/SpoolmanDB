@@ -8,7 +8,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
@@ -27,11 +27,11 @@
     {
       "name": "{color_name}",
       "material": "PLA",
-      "density": 1.24,
+      "density": 1.26,
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
@@ -98,7 +98,7 @@
           "hex": "fd7c18"
         },
         {
-          "name": "Clear",
+          "name": "Translucent",
           "hex": "e9e9e7"
         },
         {
@@ -116,17 +116,131 @@
         {
           "name": "Bronze Filled",
           "hex": "895837"
+        },
+        {
+          "name": "Marble",
+          "hex": "B1B6B6"
+        }
+      ]
+    },
+    {
+      "name": "Silk {color_name}",
+      "material": "PLA",
+      "density": 1.25,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 154,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 220,
+      "bed_temp": 60,
+      "finish": "silk",
+      "colors": [
+        {
+          "name": "Gold",
+          "hex": "ffd10e"
+        },
+        {
+          "name": "Silver",
+          "hex": "dbdde2"
+        },
+        {
+          "name": "Bronze",
+          "hex": "965c39"
+        },
+        {
+          "name": "White",
+          "hex": "ffffff"
+        },
+        {
+          "name": "Coral Pink",
+          "hex": "f4717d"
+        },
+        {
+          "name": "Mint Green",
+          "hex": "53d8d4"
+        },
+        {
+          "name": "Holly Green",
+          "hex": "#408E67"
+        },
+        {
+          "name": "Red",
+          "hex": "#ED646B"
+        },
+        {
+          "name": "Black Red",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "000000",
+              "ED646B"
+          ]
+        },
+        {
+          "name": "Blue Magenta",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "294FBA",
+              "A92D6F"
+          ]
+        },
+        {
+          "name": "Green Red",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "E76099",
+              "5CBC82"
+          ]
+        },
+        {
+          "name": "Black Purple",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "000000",
+              "7433BA"
+          ]
+        },
+        {
+          "name": "Blue Green",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "0565D1",
+              "22C36C"
+          ]
+        },
+        {
+          "name": "Blue Purple Black",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "0565D1",
+              "7433BA",
+              "000000"
+          ]
+        },
+        {
+          "name": "Blue Green Orange",
+          "multi_color_direction": "coaxial",
+          "hexes": [
+              "125CA3",
+              "DE6A21",
+              "3F9510"
+          ]
         }
       ]
     },
     {
       "name": "Matte {color_name}",
       "material": "PLA",
-      "density": 1.24,
+      "density": 1.26,
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
@@ -194,7 +308,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
@@ -261,11 +375,11 @@
     {
       "name": "RAPID PLA+ {color_name}",
       "material": "PLA+",
-      "density": 1.29,
+      "density": 1.23,
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
@@ -308,6 +422,10 @@
           "hex": "fd7c18"
         },
         {
+          "name": "Silver",
+          "hex": "9f9f9f"
+        },
+        {
           "name": "Brown",
           "hex": "9e6a4b"
         },
@@ -324,7 +442,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_weight": 160,
+          "spool_weight": 154,
           "spool_type": "cardboard"
         }
       ],
