@@ -1,0 +1,130 @@
+{
+    "manufacturer": "Closin",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 146,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "extruder_temp_range": [
+                220,
+                260
+            ],
+            "bed_temp": 85,
+            "colors": [
+                {
+                    "name": "Bronze",
+                    "hex": "867349"
+                },
+                {
+                    "name": "Marron",
+                    "hex": "574e45"
+                },
+                {
+                    "name": "Roxo",
+                    "hex": "4c5090"
+                },
+                {
+                    "name": "Fluo Blue",
+                    "hex": "2c60c1",
+                    "translucent": true
+                },
+                {
+                    "name": "Branco",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Preto",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Silver Prateado",
+                    "hex": "535c57"
+                },
+                {
+                    "name": "Fluo Red",
+                    "hex": "c6313d",
+                    "translucent": true
+                },
+                {
+                    "name": "Cinza",
+                    "hex": "a9aba6"
+                },
+                {
+                    "name": "Amarelo",
+                    "hex": "dcaf46"
+                },
+                {
+                    "name": "Vermelho",
+                    "hex": "f7525b"
+                },
+                {
+                    "name": "Azul",
+                    "hex": "1a51c4"
+                },
+                {
+                    "name": "Verde",
+                    "hex": "40bc6b"
+                },
+                {
+                    "name": "Fluo Yellow",
+                    "hex": "a8ac21",
+                    "translucent": true
+
+                },
+                {
+                    "name": "Fluo Green",
+                    "hex": "51e53c",
+                    "translucent": true
+
+                },
+                {
+                    "name": "Lemon Green",
+                    "hex": "54c714"
+                },
+                {
+                    "name": "Fluo Rose",
+                    "hex": "d64d66",
+                    "translucent": true
+
+                },
+                {
+                    "name": "Transparente",
+                    "hex": "f1f8f7",
+                    "translucent": true
+
+                },
+                {
+                    "name": "Laranja",
+                    "hex": "ed8848"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "bc8a67"
+                },
+                {
+                    "name": "Wood",
+                    "hex": "8f7962"
+                },
+                {
+                    "name": "Skin",
+                    "hex": "897157"
+                },
+                {
+                    "name": "Rosa",
+                    "hex": "f07a9b"
+                }
+            ]
+        }
+    ]
+}
