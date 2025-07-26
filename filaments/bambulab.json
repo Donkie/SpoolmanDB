@@ -607,6 +607,65 @@
             ]
         },
         {
+            "name": "Translucent {color_name}",
+            "material": "PLA",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "translucent": true,
+            "colors": [
+                {
+                    "name": "Teal",
+                    "hex": "009FA1"
+                },
+                {
+                    "name": "Light Jade",
+                    "hex": "96D8AF"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0047BB"
+                },
+                {
+                    "name": "Mellow Yellow",
+                    "hex": "F5DBAB"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "8344B0"
+                },
+                {
+                    "name": "Cherry Pink",
+                    "hex": "F5B6CD"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F74E02"
+                },
+                {
+                    "name": "Ice Blue",
+                    "hex": "B8CDE9"
+                },
+                {
+                    "name": "Red",
+                    "hex": "B50011"
+                },
+                {
+                    "name": "Lavender",
+                    "hex": "B8ACD6"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
