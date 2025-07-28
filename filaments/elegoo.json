@@ -139,7 +139,7 @@
       ],
       "extruder_temp": 220,
       "bed_temp": 60,
-      "finish": "silk",
+      "finish": "glossy",
       "colors": [
         {
           "name": "Gold",
