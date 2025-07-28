@@ -339,6 +339,41 @@
                 {
                     "name": "Gray",
                     "hex": "808080"
+                },
+                {
+                    "name": "Transparent",
+                    "translucent": true,
+                    "hex": "C4C2C8"
+                },
+                {
+                    "name": "Transparent Yellow",
+                    "translucent": true,
+                    "hex": "E2CC5B"
+                },
+                {
+                    "name": "Transparent Red",
+                    "translucent": true,
+                    "hex": "FF4747"
+                },
+                {
+                    "name": "Transparent Purple",
+                    "translucent": true,
+                    "hex": "8E8AF8"
+                },
+                {
+                    "name": "Transparent Orange",
+                    "translucent": true,
+                    "hex": "FDB958"
+                },
+                {
+                    "name": "Transparent Green",
+                    "translucent": true,
+                    "hex": "44F867"
+                },
+                {
+                    "name": "Transparent Blue",
+                    "translucent": true,
+                    "hex": "3A87FE"
                 }
             ]
         },
