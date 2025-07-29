@@ -114,7 +114,8 @@
                         "enum": [
                             null,
                             "matte",
-                            "glossy"
+                            "glossy",
+                            "metallic"
                         ]
                     },
                     "multi_color_direction": {
@@ -185,7 +186,8 @@
                                     "enum": [
                                         null,
                                         "matte",
-                                        "glossy"
+                                        "glossy",
+                                        "metallic"
                                     ]
                                 },
                                 "multi_color_direction": {
