@@ -418,7 +418,7 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 55,
-            "finish": "metallic",
+            "finish": "glossy",
             "colors": [
                 {
                     "name": "Black",
