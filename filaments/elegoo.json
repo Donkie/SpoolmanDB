@@ -19,8 +19,48 @@
       "bed_temp": 80,
       "colors": [
         {
-          "name": "Tranparent",
+          "name": "Beige",
+          "hex": "EDE8D0"
+        },
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "0000FF"
+        },
+        {
+          "name": "Brown",
+          "hex": "743824"
+        },
+        {
+          "name": "Green",
+          "hex": "2B9A84"
+        },
+        {
+          "name": "Grey",
+          "hex": "828282"
+        },
+        {
+          "name": "Orange",
+          "hex": "D0864C"
+        },
+        {
+          "name": "Red",
+          "hex": "FF0000"
+        },
+        {
+          "name": "Transparent",
           "hex": "00FFFFFF"
+        },
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "Yellow",
+          "hex": "DBFF80"
         }
       ]
     },
