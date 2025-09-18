@@ -330,7 +330,7 @@
           90,
           100
         ],
- 
+
         "colors": [
             {
                 "name": "Galaxy Dark Grey",
@@ -1028,7 +1028,7 @@
             ],
             "finish": "matte",
             "multi_color_direction": "coaxial"
-          }          
+          }
         ]
       },
       {
@@ -2006,6 +2006,52 @@
           {
             "name": "Wood Brown",
             "hex": "ad7441"
+          }
+        ]
+      },
+      {
+        "name": "Panchroma™ Marble (Formerly PolyTerra™ Marble) {color_name}",
+        "material": "PLA",
+        "pattern": "marble",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "White",
+            "hex": "cfccd6"
+          },
+          {
+            "name": "Slate Grey",
+            "hex": "91c2cc"
+          },
+          {
+            "name": "Brick",
+            "hex": "cf6646"
+          },
+          {
+            "name": "Limestone",
+            "hex": "bfbfb3"
+          },
+          {
+            "name": "Sandstone",
+            "hex": "c6c781"
           }
         ]
       }
