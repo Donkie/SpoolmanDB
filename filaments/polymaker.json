@@ -1835,6 +1835,50 @@
         ]
       },
       {
+        "name": "Panchroma™ (Formerly PolyLite™) Luminous {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+            {
+                "weight": 1000,
+                "spool_weight": 140
+            }
+        ],
+        "diameters": [
+            1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Orange",
+            "hex": "ec7626"
+          }, 
+          {
+            "name": "Yellow",
+            "hex": "ccc93c"
+          }, 
+          {
+            "name": "Pink",
+            "hex": "f48079"
+          }, 
+          {
+            "name": "Green",
+            "hex": "75df69"
+          }, 
+          {
+            "name": "Blue",
+            "hex": "419ec2"
+          }
+        ]
+      },
+      {
         "name": "Panchroma™ Matte (Formerly PolyTerra™) {color_name}",
         "material": "PLA",
         "density": 1.24,
