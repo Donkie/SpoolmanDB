@@ -61,6 +61,74 @@
             ]
         },
         {
+            "manufacturer": "Rosa3D",
+            "filaments": [
+              {
+                "name": "PLA Starter",
+                "material": "PLA",
+                "density": 1.24,
+                "diameters": [1.75],
+                "diameter_tolerance": 0.05,
+                "oval_tolerance": 0.02,
+                "weights": [
+                  {
+                    "weight": 1000,
+                    "spool_weight": 250,
+                    "spool_type": "plastic"
+                  }
+                ],
+                "extruder_temp": 210,
+                "bed_temp": 55,
+                "price_eur_ttc": 16.20,
+
+                "colors": [
+                    { "name": "Black", "hex": "#000000" },
+                    { "name": "White", "hex": "#FFFFFF" },
+                    { "name": "Winter White", "hex": "#F8F8F8" },
+                    { "name": "Red", "hex": "#FF0000" },
+                    { "name": "Yellow", "hex": "#FFFF00" },
+                    { "name": "Blue", "hex": "#0000FF" },
+                    { "name": "Carpi Blue Satin", "hex": "#3A5FCD" },
+                    { "name": "Blue Sky", "hex": "#87CEEB" },
+                    { "name": "Dark Blue", "hex": "#00008B" },
+                    { "name": "Blue Pearl", "hex": "#4169E1" },
+                    { "name": "Glitter Bronze", "hex": "#B08D57" },
+                    { "name": "Chocolate Brown", "hex": "#381819" },
+                    { "name": "Glitter Graphite", "hex": "#4B4B4B" },
+                    { "name": "Gray", "hex": "#808080" },
+                    { "name": "Light Gray", "hex": "#D3D3D3" },
+                    { "name": "Satin Grey", "hex": "#A9A9A9" },
+                    { "name": "Neon Fluo", "hex": "#39FF14" },
+                    { "name": "Light Brown", "hex": "#A0522D" },
+                    { "name": "Mocha Mousse", "hex": "#836953" },
+                    { "name": "Natural", "hex": "#F5F5DC" },
+                    { "name": "Pearl Gold", "hex": "#FFD700" },
+                    { "name": "Orange", "hex": "#FFA500" },
+                    { "name": "Neon Orange", "hex": "#FF6700" },
+                    { "name": "Porcelain Skin", "hex": "#FFE5B4" },
+                    { "name": "Pink", "hex": "#FFC0CB" },
+                    { "name": "Tanned Skin", "hex": "#D2B48C" },
+                    { "name": "Satin Pink", "hex": "#FF69B4" },
+                    { "name": "Karmin Red", "hex": "#960018" },
+                    { "name": "Red Jasper Satin", "hex": "#B22222" },
+                    { "name": "Rubin Red", "hex": "#D1001C" },
+                    { "name": "Green", "hex": "#008000" },
+                    { "name": "Army Green", "hex": "#4B5320" },
+                    { "name": "Hunter Green", "hex": "#355E3B" },
+                    { "name": "Emerald Green Satin", "hex": "#50C878" },
+                    { "name": "Neon Green", "hex": "#39FF14" },
+                    { "name": "Oxy Green", "hex": "#009966" },
+                    { "name": "Reseda Green", "hex": "#78866B" },
+                    { "name": "Juicy Green", "hex": "#7FFF00" },
+                    { "name": "Violet Dynamic", "hex": "#8A2BE2" },
+                    { "name": "Signal Violet", "hex": "#8B00FF" },
+                    { "name": "Rose Beige Skin", "hex": "#EEC1BE" }
+                  ]
+              }
+            ]
+          },
+          
+        {
             "name": "{color_name}",
             "material": "ABS",
             "density": 1.05,
