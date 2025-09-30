@@ -1,0 +1,2286 @@
+{
+    "manufacturer": "Protopasta",
+    "filaments": [
+        {
+            "name": "{color_name} Metallic",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Candy Apple Red",
+                    "hex": "ef3731"
+                },
+                {
+                    "name": "Cloverleaf Green",
+                    "hex": "08523d"
+                },
+                {
+                    "name": "Empire Strikes Black",
+                    "hex": "262629"
+                },
+                {
+                    "name": "Galactic Empire Purple",
+                    "hex": "544b7b"
+                },
+                {
+                    "name": "Highfive Blue",
+                    "hex": "0458b5"
+                },
+                {
+                    "name": "Mermaid's Tale Teal",
+                    "hex": "026570"
+                },
+                {
+                    "name": "Tangerine Orange",
+                    "hex": "f77f41"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Translucent",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Blood of My Enemies",
+                    "hex": "a60217"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Glitter",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Stardust Silver",
+                    "hex": "d4d4d2"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Carbon Fiber",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                }
+            ]
+        },
+        {
+            "name": "Simply {color_name}",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101010"
+                },
+                {
+                    "name": "White",
+                    "hex": "fcfcfc"
+                }
+            ]
+        },
+        {
+            "name": "Simply {color_name}",
+            "material": "PETG",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 70,
+            "translucent": true,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Clear",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "Recycled {color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Carbon Fiber Black",
+                    "hex": "010204",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                }
+            ]
+        },
+        {
+            "name": "Static Dissipative {color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                }
+            ]
+        },
+        {
+            "name": "Composite Conductive {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 2000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "070707"
+                }
+            ]
+        },
+        {
+            "name": "Composite Conductive {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 2000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "070707"
+                }
+            ]
+        },
+        {
+            "name": "Composite Carbon Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                }
+            ]
+        },
+        {
+            "name": "Composite Iron {color_name}",
+            "material": "PLA",
+            "density": 1.85,
+            "weights": [
+                {
+                    "weight": 100,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 2000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                185,
+                215
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "6d6e70"
+                }
+            ]
+        },
+        {
+            "name": "Composite Steel {color_name}",
+            "material": "PLA",
+            "density": 2.30,
+            "weights": [
+                {
+                    "weight": 100,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 2000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "7e7e7c"
+                },
+                {
+                    "name": "CGray",
+                    "hex": "7e7e7c"
+                }
+            ]
+        },
+        {
+            "name": "Composite Iron {color_name}",
+            "material": "PLA",
+            "density": 1.85,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                185,
+                215
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "6d6e70"
+                }
+            ]
+        },
+        {
+            "name": "Composite Steel {color_name}",
+            "material": "PLA",
+            "density": 2.30,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "7e7e7c"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} High Flow",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "f9efe6"
+                },
+                {
+                    "name": "White",
+                    "hex": "f7f2ec"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Glitter",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Atomic Age Gray",
+                    "hex": "a39e91",
+                    "translucent": false
+                },
+                {
+                    "name": "Candle Light White",
+                    "hex": "f5e9da",
+                    "translucent": false
+                },
+                {
+                    "name": "Stardust Silver",
+                    "hex": "d4d4d2",
+                    "translucent": true
+                },
+                {
+                    "name": "Dusty Smoke",
+                    "hex": "595758",
+                    "translucent": true
+                },
+                {
+                    "name": "Fleck’n Fire Red",
+                    "hex": "c31b1a",
+                    "translucent": true
+                },
+                {
+                    "name": "Fleck 'n Forest Green",
+                    "hex": "016b4b",
+                    "translucent": true
+                },
+                {
+                    "name": "Gold Dust",
+                    "hex": "ddb264",
+                    "translucent": true
+                },
+                {
+                    "name": "Night Before Blue",
+                    "hexes": [
+                        "2a3c5a",
+                        "272C6F"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Unicorn Tears White",
+                    "hex": "edeef0",
+                    "translucent": false
+                },
+                {
+                    "name": "Wonder Black",
+                    "hex": "231c1a",
+                    "translucent": true
+                },
+                {
+                    "name": "Wonder Blue",
+                    "hex": "054579",
+                    "translucent": true
+                },
+                {
+                    "name": "Winter Blue",
+                    "hex": "0396e6",
+                    "translucent": true
+                },
+                {
+                    "name": "Texas Tea Black with Gold",
+                    "hex": "181713",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Multicolor",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Citrus Sunrise Orange",
+                    "hexes": [
+                        "fba122",
+                        "F15A25"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Forest Fantasy Green",
+                    "hexes": [
+                        "49af6c",
+                        "148C8B"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Marine Dream Blue",
+                    "hexes": [
+                        "00afc0",
+                        "0A8CC0"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Cotton Candy Pastel",
+                    "hexes": [
+                        "b8aadb",
+                        "CB7DB4"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Gold Dust",
+                    "hexes": [
+                        "94808e",
+                        "95819D"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Night Glow Fluorescent",
+                    "hexes": [
+                        "5f4d75",
+                        "726981"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Rainbow",
+                    "hexes": [
+                        "505178",
+                        "4D5C7D"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Stardust",
+                    "hexes": [
+                        "525ba0",
+                        "8260A1"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula Silver Silk",
+                    "hexes": [
+                        "9d81a2",
+                        "6978A1"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Midnight",
+                    "hexes": [
+                        "005470",
+                        "005B7C"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Stratocumulus",
+                    "hexes": [
+                        "84ced5",
+                        "A6D8D6"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Amethyst Aria",
+                    "hexes": [
+                        "d2629c",
+                        "EE2679"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Erratic Indigo",
+                    "hexes": [
+                        "6473b1",
+                        "585E95"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Mango Medley",
+                    "hexes": [
+                        "ff582c",
+                        "EF3942"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Kermie Green",
+                    "hexes": [
+                        "96cb50",
+                        "74C26E"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Partly Cloudy Blue",
+                    "hexes": [
+                        "02a0e6",
+                        "4D7DBF"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Partly Sunny Yellow",
+                    "hexes": [
+                        "fee25a",
+                        "FCE487"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Scarlet Symphony",
+                    "hex": "fd5570",
+                    "translucent": false
+                },
+                {
+                    "name": "Seafoam Green",
+                    "hex": "02c8a2",
+                    "translucent": false
+                },
+                {
+                    "name": "Tidal Turquoise",
+                    "hexes": [
+                        "02b5cc",
+                        "33BFC1"
+                    ],
+                    "translucent": false,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Candy Rainbow",
+                    "hexes": [
+                        "c0d0d2",
+                        "C28EBF",
+                        "A5DFF7"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Fading Rainbow",
+                    "hexes": [
+                        "d8d3da",
+                        "B6E2EB"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Nebula",
+                    "hexes": [
+                        "8c78bb",
+                        "DF88B9"
+                    ],
+                    "translucent": true,
+                    "multi_color_direction": "longitudinal"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Marble",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Dragonfruit Smoothie",
+                    "hex": "c5354c"
+                },
+                {
+                    "name": "Orange Papaya Smoothie",
+                    "hex": "ec8c1e"
+                },
+                {
+                    "name": "Pineapple Banana Smoothie",
+                    "hex": "ecc72c"
+                },
+                {
+                    "name": "White",
+                    "hex": "f2eeeb"
+                }
+            ]
+        },
+        {
+            "name": "Matte Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Matte Fiber Black",
+                    "hex": "29292b"
+                },
+                {
+                    "name": "Matte Fiber White",
+                    "hex": "f6f5f1"
+                }
+            ]
+        },
+        {
+            "name": "Matte Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Matte Fiber Daffodil",
+                    "hex": "d5a76f"
+                },
+                {
+                    "name": "Matte Fiber Gray",
+                    "hex": "77818a"
+                },
+                {
+                    "name": "Matte Fiber Mahogany",
+                    "hex": "905f51"
+                },
+                {
+                    "name": "Matte Fiber Walnut",
+                    "hex": "78635a"
+                }
+            ]
+        },
+        {
+            "name": "Matte Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Matte Fiber White",
+                    "hex": "f6f5f1"
+                },
+                {
+                    "name": "Matte Fiber Black",
+                    "hex": "29292b"
+                }
+            ]
+        },
+        {
+            "name": "Amber Alchemy Translucent {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Brown",
+                    "hex": "d05e20"
+                }
+            ]
+        },
+        {
+            "name": "Ecto Ooze Translucent {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "b8df84"
+                }
+            ]
+        },
+        {
+            "name": "Gloop! Translucent {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Purple",
+                    "hex": "583f65"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Translucent",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Bottle Brown",
+                    "hex": "84592f",
+                    "translucent": true
+                },
+                {
+                    "name": "Bobbi's Purple Iris",
+                    "hex": "6b3979",
+                    "translucent": true
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "0661c0",
+                    "translucent": false
+                },
+                {
+                    "name": "Iridescent Ice",
+                    "hex": "ffffff",
+                    "translucent": true
+                },
+                {
+                    "name": "Silver Smoke",
+                    "hex": "b7b1a9",
+                    "translucent": true
+                },
+                {
+                    "name": "Soda Green",
+                    "hex": "069d56",
+                    "translucent": true
+                },
+                {
+                    "name": "Blood of My Enemies",
+                    "hex": "a60217",
+                    "translucent": true
+                },
+                {
+                    "name": "Juliette's Raspberry Jam",
+                    "hex": "dd3963",
+                    "translucent": true
+                },
+                {
+                    "name": "Nerfed Orange",
+                    "hex": "f69e22",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Translucent",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Iridescent Ice Translucent",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Silver Smoke Translucent",
+                    "hex": "b7b1a9"
+                }
+            ]
+        },
+        {
+            "name": "Totally Translucent {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "hex": "fed839"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Opaque",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Atikam Teal",
+                    "hex": "00686d"
+                },
+                {
+                    "name": "Caution Yellow",
+                    "hex": "fac414"
+                },
+                {
+                    "name": "Beach Bum Beige",
+                    "hex": "e4ceb2"
+                },
+                {
+                    "name": "Good Old Gray",
+                    "hex": "7f919d"
+                },
+                {
+                    "name": "Lab Coat White",
+                    "hex": "e0dedf"
+                },
+                {
+                    "name": "Lootsef Green",
+                    "hex": "7fd14a"
+                },
+                {
+                    "name": "Nice 'N Navy",
+                    "hex": "22212f"
+                },
+                {
+                    "name": "Out of Darts Orange",
+                    "hex": "fe872a"
+                },
+                {
+                    "name": "Derek's Olive Drab",
+                    "hex": "7e7957"
+                },
+                {
+                    "name": "Sophy's Aqua Phresh",
+                    "hex": "aee4dc"
+                },
+                {
+                    "name": "Tropical Palm Green",
+                    "hex": "026e37"
+                },
+                {
+                    "name": "Bluish Purple",
+                    "hex": "3c448f"
+                }
+            ]
+        },
+        {
+            "name": "Opaque {color_name}",
+            "material": "PLA",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "003ba9"
+                },
+                {
+                    "name": "White",
+                    "hex": "f7f7f7"
+                }
+            ]
+        },
+        {
+            "name": "Opaque {color_name}",
+            "material": "PLA",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Red",
+                    "hex": "dd0021"
+                }
+            ]
+        },
+        {
+            "name": "Opaque {color_name}",
+            "material": "PLA",
+            "density": 1.20,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                },
+                {
+                    "name": "White",
+                    "hex": "f7f7f7"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Carbon Fiber",
+            "material": "PLA",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Carbon Fiber",
+            "material": "PLA",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Carbon Fiber",
+            "material": "PLA",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Dark",
+                    "hex": "4e555b"
+                },
+                {
+                    "name": "Light",
+                    "hex": "afbdc6"
+                }
+            ]
+        },
+        {
+            "name": "Fluorescent {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "hex": "d4ed3a"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Composite",
+            "material": "PLA",
+            "density": 2.30,
+            "weights": [
+                {
+                    "weight": 100,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                185,
+                215
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Brass",
+                    "hex": "8f7846"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "624c3e"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "995a49"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Metallic",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Luke's Proton Purple",
+                    "hex": "874c68",
+                    "translucent": false
+                },
+                {
+                    "name": "Candy Apple Red",
+                    "hex": "ef3731",
+                    "translucent": true
+                },
+                {
+                    "name": "Cloverleaf Green",
+                    "hex": "08523d",
+                    "translucent": true
+                },
+                {
+                    "name": "Double Espresso Brown",
+                    "hex": "533222",
+                    "translucent": false
+                },
+                {
+                    "name": "Electric Lemonade Yellow",
+                    "hex": "fee25b",
+                    "translucent": true
+                },
+                {
+                    "name": "Empire Strikes Black",
+                    "hex": "262629",
+                    "translucent": true
+                },
+                {
+                    "name": "For The Lulz Green",
+                    "hex": "c5cd26",
+                    "translucent": false
+                },
+                {
+                    "name": "Galactic Empire Purple",
+                    "hex": "544b7b",
+                    "translucent": true
+                },
+                {
+                    "name": "Good as Gold",
+                    "hex": "a98451",
+                    "translucent": false
+                },
+                {
+                    "name": "Highfive Blue",
+                    "hex": "0458b5",
+                    "translucent": true
+                },
+                {
+                    "name": "Heartthrob Red",
+                    "hex": "87141d",
+                    "translucent": true
+                },
+                {
+                    "name": "Mermaid's Tale Teal",
+                    "hex": "026570",
+                    "translucent": true
+                },
+                {
+                    "name": "Obsidian",
+                    "hex": "353a41",
+                    "translucent": false
+                },
+                {
+                    "name": "Cupid's Crush Pink",
+                    "hex": "f970a9",
+                    "translucent": false
+                },
+                {
+                    "name": "Second to None Silver",
+                    "hex": "a4afb2",
+                    "translucent": false
+                },
+                {
+                    "name": "What Karat? Smooth Gold",
+                    "hex": "d99922",
+                    "translucent": false
+                },
+                {
+                    "name": "Tangerine Orange",
+                    "hex": "f77f41",
+                    "translucent": true
+                },
+                {
+                    "name": "Stef's Rose Gold",
+                    "hex": "ea8c67",
+                    "translucent": false
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Pearl",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Pretty in Pink",
+                    "hex": "fba2b8",
+                    "translucent": false
+                },
+                {
+                    "name": "Dragon Scale Purple",
+                    "hex": "9e99ce",
+                    "translucent": true
+                },
+                {
+                    "name": "Summertime Green",
+                    "hex": "9cd4b3",
+                    "translucent": true
+                },
+                {
+                    "name": "Watermelon Crush Red",
+                    "hex": "fc4d8c",
+                    "translucent": true
+                },
+                {
+                    "name": "Glitter's Mane Teal",
+                    "hex": "14cfe6",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Satin",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Moonstruck White",
+                    "hex": "f9f9f9"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} cMatte",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "matte",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "64676c"
+                },
+                {
+                    "name": "White",
+                    "hex": "f4f4f4"
+                }
+            ]
+        },
+        {
+            "name": "Basic {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": true,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "Basic {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 3000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101010"
+                },
+                {
+                    "name": "White",
+                    "hex": "fcfcfc"
+                }
+            ]
+        },
+        {
+            "name": "Recycled {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Thermochromic",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Just Peachy",
+                    "hex": "e56161",
+                    "translucent": false
+                },
+                {
+                    "name": "Galactic Duel",
+                    "hex": "262629",
+                    "translucent": true
+                },
+                {
+                    "name": "Chlorophylled",
+                    "hex": "375b4e",
+                    "translucent": false
+                },
+                {
+                    "name": "Sour Apple",
+                    "hex": "127e81",
+                    "translucent": false
+                },
+                {
+                    "name": "The Vine Fruit",
+                    "hex": "402f82",
+                    "translucent": false
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Autumn Orange",
+                    "hex": "c25542"
+                }
+            ]
+        },
+        {
+            "name": "Green Glow-in-the-Dark {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": true,
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "d1e1c7"
+                },
+                {
+                    "name": "White",
+                    "hex": "f8f9f3"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "c5ec82"
+                }
+            ]
+        },
+        {
+            "name": "Static Dissipative Carbon Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "fill": "carbon fiber",
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                }
+            ]
+        },
+        {
+            "name": "Static Dissipative {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Flexible",
+            "material": "TPE",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204",
+                    "translucent": false
+                },
+                {
+                    "name": "Clear",
+                    "hex": "ffffff",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Rigid",
+            "material": "TPE",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                },
+                {
+                    "weight": 1000,
+                    "spool_type": "cardboard",
+                    "spool_weight": 75
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp": 60,
+            "translucent": false,
+            "glow": false,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "f7f7f7"
+                }
+            ]
+        }
+    ]
+}
