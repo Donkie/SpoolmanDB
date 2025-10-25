@@ -2,6 +2,133 @@
     "manufacturer": "eSun",
     "filaments": [
         {
+            "name": "PLA-Basic {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 170,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Orange",
+                    "hex": "fda42e"
+                },
+                {
+                    "name": "Concrete Grey",
+                    "hex": "b3b3b3"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "a60056"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "536c8b"
+                },
+                {
+                    "name": "Green",
+                    "hex": "068e1f"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "536782"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "4d9ce1"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "ff6762"
+                },
+                {
+                    "name": "Barbie Pink",
+                    "hex": "fd838e"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "e1ac8c"
+                },
+                {
+                    "name": "Black",
+                    "hex": "0f0f0f"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "1533c5"
+                },
+                {
+                    "name": "Bone White",
+                    "hex": "dcc7b2"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "634432"
+                },
+                {
+                    "name": "Cold White",
+                    "hex": "dbeefd"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "3a4056"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "8d091e"
+                },
+                {
+                    "name": "Grape Purple",
+                    "hex": "6e2d91"
+                },
+                {
+                    "name": "Holly Green",
+                    "hex": "3f8278"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "535645"
+                },
+                {
+                    "name": "Red",
+                    "hex": "d54837"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "888d93"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "63d0f9"
+                },
+                {
+                    "name": "White",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "f8df20"
+                },
+                {
+                    "name": "Aqua",
+                    "hex": "42c3d7"
+                },
+                {
+                    "name": "Peak Green",
+                    "hex": "a9d47b"
+                }
+            ]
+        },
+        {
             "name": "PLA+ {color_name}",
             "material": "PLA+",
             "density": 1.23,
