@@ -785,29 +785,10 @@
                         "60A4E8",
                         "4CE4A0"
                     ]
-                }
-            ]
-        },
-        {
-            "name": "{color_name}",
-            "material": "PLA",
-            "density": 1.32,
-            "weights": [
-                {
-                    "weight": 1000,
-                    "spool_weight": 250
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 220,
-            "bed_temp": 40,
-            "multi_color_direction": "longitudinal",
-            "finish": "glossy",
-            "colors": [
+                },
                 {
                     "name": "Aurora Purple (Blue-Purple)",
+                    "multi_color_direction": "longitudinal",
                     "hexes": [
                         "1E63BF",
                         "713D9C"
