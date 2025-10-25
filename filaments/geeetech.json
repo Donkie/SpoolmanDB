@@ -61,6 +61,60 @@
             ]
         },
         {
+            "name": "Luminous {color_name}",
+            "material": "PLA",
+            "glow": true,
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 180.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "00bc00"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "f0b200"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "f39f00"
+                },
+                {
+                    "name": "White",
+                    "hex": "97a2c2"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "01acf7"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "1429d2"
+                },
+                {
+                    "name": "Rose red",
+                    "hex": "d857df"
+                }
+            ]
+        },
+        {
             "name": "Matte {color_name}",
             "material": "PLA",
             "density": 1.31,
