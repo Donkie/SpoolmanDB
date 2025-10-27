@@ -65,8 +65,6 @@
             "material": "PLA",
             "density": 1.24,
             "diameters": [1.75],
-            "diameter_tolerance": 0.05,
-            "oval_tolerance": 0.02,
             "weights": [
                 {
                 "weight": 1000,
@@ -76,7 +74,6 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 55,
-            "price_eur_ttc": 16.20,
 
             "colors": [
                 { "name": "Black", "hex": "000000" },
