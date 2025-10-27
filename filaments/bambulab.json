@@ -785,6 +785,14 @@
                         "60A4E8",
                         "4CE4A0"
                     ]
+                },
+                {
+                    "name": "Aurora Purple (Blue-Purple)",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "1E63BF",
+                        "713D9C"
+                    ]
                 }
             ]
         },
