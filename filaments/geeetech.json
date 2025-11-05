@@ -155,31 +155,45 @@
             ]
         },
         {
-                    "name": "{color_name}",
+            "name": "{color_name}",
             "material": "PETG",
-            "density": 1.27,
+            "density": 1.25,
+            "finish": "glossy",
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 180.0
+                    "spool_weight": 180.0,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 240,
-            "bed_temp": 90,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp_range": [
+                80,
+                90
+            ],
             "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
-                },{
-                    "name": "Black",
-                    "hex": "000000"
-                },{
-                    "name": "Dark Gray",
-                    "hex": "484848"
-                }
+                { "name": "Apple", "hex": "daeb2e" },
+                { "name": "Black", "hex": "000000" },
+                { "name": "Blue", "hex": "0067ea" },
+                { "name": "Brown", "hex": "b56b58" },
+                { "name": "Dark Gray", "hex": "484848" },
+                { "name": "Green", "hex": "1c8c04" },
+                { "name": "Orange", "hex": "f65d33" },
+                { "name": "Pink", "hex": "ec58b8" },
+                { "name": "Purple", "hex": "6a24b6" },
+                { "name": "Red", "hex": "e31f2b" },
+                { "name": "Silver", "hex": "e7ecf0" },               
+                { "name": "Skin", "hex": "ffc8a9" },
+                { "name": "Transparent", "hex": "ededed", "translucent": true },
+                { "name": "Water Blue", "hex": "02b4f2" },
+                { "name": "White", "hex": "fcfefb" },
+                { "name": "Yellow", "hex": "feea00" }
             ]
         }
     ]
