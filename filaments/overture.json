@@ -260,6 +260,45 @@
                 {"name": "Diamond Gray","hex": "8c8c8c","pattern": "sparkle"},
                 {"name": "Diamond Orange","hex": "ff8133","pattern": "sparkle"}
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 132,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                270
+            ],
+            "bed_temp_range": [
+                70,
+                95
+            ],
+            "colors": [
+                {"name": "Black","hex": "000000"},
+                {"name": "Blue","hex": "002979"},
+                {"name": "Brown","hex": "785F53"},
+                {"name": "Diamond Blue","hex": "324485","pattern": "sparkle"},
+                {"name": "Diamond Green","hex": "26A648","pattern": "sparkle"},
+                {"name": "Diamond Red","hex": "C01616","pattern": "sparkle"},
+                {"name": "Gray","hex": "B5B9BA"},
+                {"name": "Green","hex": "01AA5E"},
+                {"name": "Natural","hex": "F1E6B3"},
+                {"name": "Olive Green","hex": "6B7550"},
+                {"name": "Orange","hex": "FF9A40"},
+                {"name": "Red","hex": "AF251E"},
+                {"name": "White","hex": "FFFFFF"},
+                {"name": "Yellow","hex": "FFE802"}
+            ]
         }
     ]
 }
