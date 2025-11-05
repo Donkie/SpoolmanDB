@@ -378,6 +378,44 @@
             ]
         },
         {
+            "name": "High Speed Matte PETG - {color_name}",
+            "material": "PETG",
+            "density": 1.26,
+            "finish": "matte",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 220,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                205,
+                270
+            ],
+            "bed_temp_range": [
+                70,
+                80
+            ],
+            "colors": [
+                { "name": "Yellow", "hex": "fbfb49" },
+                { "name": "Pink", "hex": "fca2d3" },
+                { "name": "Mint", "hex": "40aa98" },
+                { "name": "Sky Blue", "hex": "5dc0f0" },
+                { "name": "Grey", "hex": "838589" },
+                { "name": "Blue", "hex": "3a39bb" },
+                { "name": "Green", "hex": "2ec835" },
+                { "name": "White", "hex": "eeeeee" },
+                { "name": "Black", "hex": "151616" },
+                { "name": "Olive Green", "hex": "64794b" },
+                { "name": "Orange", "hex": "f55f35" },
+                { "name": "Red", "hex": "c72c2f" }                
+            ]
+        },
+        {
             "name": "High Speed {color_name} Marble",
             "material": "PLA",
             "density": 1.25,
