@@ -1142,7 +1142,7 @@
         },
         {
             "name": "PC ABS {color_name}",
-            "material": "PC-ABS",
+            "material": "PC",
             "density": 1.04,
             "weights": [
                 {
