@@ -21,6 +21,29 @@
         { "name": "Sulfur Yellow", "hex": "ffff00" },
         { "name": "Transparent Green", "hex": "00ff00" }
       ]
-		}
+		},
+      		{
+			"name": "The Filament {color_name}",
+			"material": "ASA-CF",
+			"density": 1.12,
+			"weights": [
+				{
+					"weight": 1000.0,
+					"spool_weight": 206.0,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 230, 270 ],
+			"bed_temp_range": [80, 100],
+            "finish": "matte",
+			"colors": [
+        { "name": "Grey", "hex": "4a5664" },
+        { "name": "Green", "hex": "ebebef" },
+        { "name": "Blue", "hex": "006f94" },
+        { "name": "Black", "hex": "0f1316" },
+        { "name": "Red", "hex": "901c24" }
+      ]
+		}  
   ]
 }
