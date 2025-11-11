@@ -24,7 +24,7 @@
 		},
       		{
 			"name": "The Filament {color_name}",
-			"material": "ASA CF",
+			"material": "ASA-CF",
 			"density": 1.12,
 			"weights": [
 				{
