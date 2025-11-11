@@ -36,6 +36,7 @@
 			"diameters": [ 1.75 ],
 			"extruder_temp_range": [ 230, 270 ],
 			"bed_temp_range": [80, 100],
+            "finish": "matte",
 			"colors": [
         { "name": "Grey", "hex": "4a5664" },
         { "name": "Green", "hex": "ebebef" },
