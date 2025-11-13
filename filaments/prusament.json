@@ -21,7 +21,15 @@
                 1.75
             ],
             "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
             "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
             "colors": [
                 {
                     "name": "Matte Black",
@@ -112,10 +120,12 @@
             "diameters": [
                 1.75
             ],
+            "extruder_temp": 285,
             "extruder_temp_range": [
                 275,
                 295
             ],
+            "bed_temp": 110,
             "bed_temp_range": [
                 100,
                 120
@@ -124,6 +134,45 @@
                 {
                     "name": "Black",
                     "hex": "262727"
+                }
+            ]
+        },
+        {
+            "name": "PC Blend {color_name}",
+            "material": "PC",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 186.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "extruder_temp_range": [
+                265,
+                285
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EA5E1A"
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "5AECCB"
                 }
             ]
         },
@@ -141,18 +190,131 @@
             "diameters": [
                 1.75
             ],
+            "extruder_temp": 230,
             "extruder_temp_range": [
                 230,
                 240
             ],
+            "bed_temp": 65,
             "bed_temp_range": [
-                65,
+                55,
                 75
             ],
             "colors": [
                 {
                     "name": "Natural",
                     "hex": "fffcf4"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PVB",
+            "density": 1.10,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "extruder_temp_range": [
+                205,
+                225
+            ],
+            "bed_temp": 75,
+            "bed_temp_range": [
+                70,
+                80
+            ],
+            "colors": [
+                {
+                    "name": "Dark Blue",
+                    "hex": "0A4EA5",
+                    "translucent": true
+                },
+                {
+                    "name": "Bright Green",
+                    "hex": "C3D65F",
+                    "translucent": true
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "FA9235",
+                    "translucent": true
+                },
+                {
+                    "name": "Smoky Black",
+                    "hex": "B4B4B4",
+                    "translucent": true
+                },
+                {
+                    "name": "Light Yellow",
+                    "hex": "F0DB52",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                105,
+                115
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "D02F37"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "E3DFD9"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EA5E1A"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Galaxy Black",
+                    "hex": "3D3E3D"
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "5AECCB"
+                },
+                {
+                    "name": "Sapphire Blue",
+                    "hex": "3B4468"
                 }
             ]
         },
@@ -176,8 +338,13 @@
                 1.75
             ],
             "extruder_temp": 215,
+            "extruder_temp_range": [
+                205,
+                225
+            ],
+            "bed_temp": 50,
             "bed_temp_range": [
-                50,
+                40,
                 60
             ],
             "colors": [

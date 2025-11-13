@@ -132,5 +132,9 @@
     {
         "material": "Flexible (TPE 88A)",
         "density": 0.89
+    },
+    {
+        "material": "PVB",
+        "density": 1.10
     }
 ]
