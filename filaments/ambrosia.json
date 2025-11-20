@@ -347,7 +347,10 @@
                 },
                 {
                     "name": "Creamsicle",
-                    "hex": "FA9C47",
+                    "hexes": [
+                        "FA9C47",
+                        "FA9C46"
+                    ],
 					"multi_color_direction": "longitudinal"
                 },
                 {
@@ -974,7 +977,10 @@
                 },
                 {
                     "name": "Creamsicle",
-                    "hex": "FA9C47",
+                    "hexes": [
+                        "FA9C47",
+                        "FA9C46"
+                    ],
 					"multi_color_direction": "longitudinal"
                 },
                 {
