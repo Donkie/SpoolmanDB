@@ -347,11 +347,7 @@
                 },
                 {
                     "name": "Creamsicle",
-                    "hexes": [
-                        "FA9C47",
-                        "FA9C46"
-                    ],
-					"multi_color_direction": "longitudinal"
+                    "hex": "FA9C47"
                 },
                 {
                     "name": "Easter Egg",
@@ -443,7 +439,6 @@
             "name": "Dolos Color Shifting {color_name}",
             "material": "ASA",
             "density": 1.08,
-			"multi_color_direction": "coaxial",
             "weights": [
                 {
                     "weight": 1000,
@@ -985,8 +980,7 @@
                 },
                 {
                     "name": "Yellow Jacket",
-                    "hex": "C7881B",
-					"multi_color_direction": "coaxial"
+                    "hex": "C7881B"
                 },
 				{
                     "name": "Soft Lavender",
@@ -1009,7 +1003,6 @@
             "name": "Dolos Color Shifting {color_name}",
             "material": "PLA",
             "density": 1.25,
-			"multi_color_direction": "coaxial",
             "weights": [
                 {
                     "weight": 1000,
