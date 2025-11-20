@@ -1,0 +1,1217 @@
+{
+    "manufacturer": "Ambrosia",
+    "filaments": 
+	[
+        {
+            "name": "Über ABS {color_name}",
+            "material": "ABS",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				225,
+				250
+			],
+			"bed_temp_range": [
+				75,
+				110
+			],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "434243"
+                },
+                {
+                    "name": "White",
+                    "hex": "E3E0DC"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "E0D9CD"
+                },
+                {
+                    "name": "Pastel Pink",
+                    "hex": "EEAACE"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F12D43"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "5E4690"
+                }
+			]
+		},        
+		{
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.03,
+			"finish": "matte",
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				265
+			],
+			"bed_temp_range": [
+				75,
+				115
+			],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "25282A"
+                },
+                {
+                    "name": "Galactic Black",
+                    "hex": "454546",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                },
+                {
+                    "name": "Hot Pink",
+                    "hex": "FA008A"
+                },
+                {
+                    "name": "British Racing Green",
+                    "hex": "2D6467"
+                },
+                {
+                    "name": "Grey Abyss",
+                    "hex": "4B4747"
+                }
+			]
+		},
+		{
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				260
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+			"colors": [
+                {
+                    "name": "Galactic Black",
+                    "hex": "352F38",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Yellow",
+                    "hex": "D2DC22",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Grey",
+                    "hex": "79797B",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Super Red",
+                    "hex": "EE3329",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Super Blue",
+                    "hex": "2055E0",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Grape",
+                    "hex": "A82A82",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Green",
+                    "hex": "0AF53D",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Planetary Blue",
+                    "hex": "23ADE9",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Pink",
+                    "hex": "FF54AE",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Midnight Meteorite",
+                    "hex": "40298E",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Voron Red",
+                    "hex": "BC2421",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Holiday Green",
+                    "hex": "C8D639",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Holiday Red",
+                    "hex": "EF2D1D",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Santa's Robe",
+                    "hex": "FC3629",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Black Multi Color Glitter",
+                    "hex": "000000",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Quadra Teal",
+                    "hex": "22AAC9",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Hot Pink",
+                    "hex": "FF3486",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Supernova Black",
+                    "hex": "2A292E",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Glow",
+                    "hex": "00ED60",
+					"pattern": "sparkle",
+					"glow": true
+                },
+                {
+                    "name": "Armored Turtle Green",
+                    "hex": "0E945B",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Skin Rash (Light)",
+                    "hex": "CE9E7E",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Stardust",
+                    "hexes": [
+                        "B46BB4",
+                        "8F69B8",
+                        "5692C6"
+                    ],
+					"pattern": "sparkle",
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFF"
+                },
+                {
+                    "name": "Polar White",
+                    "hex": "FFFFF"
+                },
+                {
+                    "name": "West Green",
+                    "hex": "64A70B"
+                },
+                {
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "5B6670"
+                },
+                {
+                    "name": "Faded Desert Brown",
+                    "hex": "7C6F60"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF8200"
+                },
+                {
+                    "name": "Terrestrial Blue",
+                    "hex": "118BC6"
+                },
+                {
+                    "name": "Super Blue",
+                    "hex": "2253BB"
+                },
+                {
+                    "name": "Grape",
+                    "hex": "A82A82"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFC72C"
+                },
+                {
+                    "name": "Quadra Teal",
+                    "hex": "009CA6"
+                },
+                {
+                    "name": "KB3D Orange",
+                    "hex": "F27A2C"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "E0D9CD"
+                },
+                {
+                    "name": "Planetary Blue",
+                    "hex": "23ADE9"
+                },
+                {
+                    "name": "Hot Pink",
+                    "hex": "FA008A"
+                },
+                {
+                    "name": "Fluorescent Neon Green",
+                    "hex": "53D132"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F12D43"
+                },
+                {
+                    "name": "Super Grey",
+                    "hex": "5C5D5B"
+                },
+                {
+                    "name": "Bloody Murder",
+                    "hex": "AF231C"
+                },
+                {
+                    "name": "Camo Green",
+                    "hex": "6699CC"
+                },
+                {
+                    "name": "Camo Olive Drab",
+                    "hex": "695B24"
+                },
+                {
+                    "name": "Cardovan",
+                    "hex": "702F3B"
+                },
+                {
+                    "name": "Skin (Light)",
+                    "hex": "DEA978"
+                },
+                {
+                    "name": "Burnt Orange",
+                    "hex": "F93212"
+                },
+                {
+                    "name": "Creamsicle",
+                    "hex": "FA9C47",
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Easter Egg",
+                    "hexes": [
+                        "E6B4BB",
+						"64CFE0",
+                        "D4A69C"
+                    ],
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Rainbow Rush",
+                    "hexes": [
+                        "9D322A",
+						"DD6B42",
+                        "427A8F"
+                    ],
+					"multi_color_direction": "longitudinal"
+                }
+			]
+		},
+		{
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 2000,
+					"spool_weight": 632.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				260
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+				"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                }
+			]
+		},
+		{
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 5000,
+					"spool_weight": 819.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				260
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+				"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                }
+			]
+		},
+		{
+            "name": "Dolos Color Shifting {color_name}",
+            "material": "ASA",
+            "density": 1.08,
+			"multi_color_direction": "coaxial",
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				230,
+				260
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+			"colors": [
+                {
+                    "name": "Prince of Purple",
+                    "hex": "A368D5"
+                },
+                {
+                    "name": "Titanium Anno",
+                    "hex": "2B3E63"
+                },
+                {
+                    "name": "Banana Rama",
+                    "hex": "F2C987"
+                },
+                {
+                    "name": "Cool Grey Pearl",
+                    "hex": "B9B3B5"
+                },
+                {
+                    "name": "Violet Void",
+                    "hex": "502747"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "ASA-CF",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				250,
+				280
+			],
+			"bed_temp_range": [
+				100,
+				120
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Red",
+                    "hex": "4C3B3B"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "454A56"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "5E4690"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "5B6670"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "ASA-GF",
+            "density": 1.10,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				250,
+				280
+			],
+			"bed_temp_range": [
+				100,
+				120
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "E0D9CD"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "PC-CF",
+            "density": 1.36,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				250,
+				290
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2C5C8F"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F12D43"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFF"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "PC-ABS",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				250,
+				280
+			],
+			"bed_temp_range": [
+				100,
+				115
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Galactic Black",
+                    "hex": "000002",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Grey",
+                    "hex": "79797B",
+					"pattern": "sparkle"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				225,
+				260
+			],
+			"bed_temp_range": [
+				65,
+				80
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFF"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF",
+					"translucent": true
+                },
+                {
+                    "name": "Red",
+                    "hex": "B81D13"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "143D90"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F26B0F"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "5B6670"
+                },
+				{
+                    "name": "Rainbow Fusion",
+                    "hexes": [
+                        "A0B574",
+						"57C8B7",
+                        "657997"
+                    ]
+				}
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				190,
+				220
+			],
+			"bed_temp_range": [
+				0,
+				65
+			],
+			"colors": [
+                {
+                    "name": "Galactic Velvet Black",
+                    "hex": "000000",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Glow Blue",
+                    "hex": "09D6EB",
+					"pattern": "sparkle",
+					"glow": true
+                },
+                {
+                    "name": "Galactic Glow Green",
+                    "hex": "00ED60",
+					"pattern": "sparkle",
+					"glow": true
+                },
+                {
+                    "name": "Galactic Yellow",
+                    "hex": "D2DC22",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Grape",
+                    "hex": "A82A82",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Green",
+                    "hex": "0AF53D",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Planetary Blue",
+                    "hex": "23ADE9",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Pink",
+                    "hex": "FF54AE",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Midnight Meteorite",
+                    "hex": "40298E",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Grey",
+                    "hex": "79797B",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Holiday Red",
+                    "hex": "EF2D1D",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Holiday Green",
+                    "hex": "C8D639",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Santa's Robe",
+                    "hex": "FC3629",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Quadra Teal",
+                    "hex": "009CA6",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Voron Red",
+                    "hex": "BC2421",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Hot Pink",
+                    "hex": "FA008A",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Supernova Black",
+                    "hex": "2A292E",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Armored Turtle Green",
+                    "hex": "0E945B",
+					"pattern": "sparkle"
+                },
+                {
+                    "name": "Stardust",
+                    "hexes": [
+                        "B46BB4",
+                        "8F69B8",
+                        "5692C6"
+                    ],
+					"pattern": "sparkle",
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Galactic Super Blue",
+                    "hex": "2055E0",
+					"pattern": "sparkle"
+                },
+				{
+                    "name": "Black",
+                    "hex": "000000"
+                },
+				{
+                    "name": "Bloody Murder",
+                    "hex": "AF231C"
+                },
+				{
+                    "name": "Blue",
+                    "hex": "143D90"
+                },
+				{
+                    "name": "Camo Green",
+                    "hex": "6699CC"
+                },
+				{
+                    "name": "Camo Olive Drab",
+                    "hex": "695B24"
+                },
+				{
+                    "name": "Cardovan",
+                    "hex": "702F3B"
+                },
+				{
+                    "name": "Faded Desert Brown",
+                    "hex": "7C6F60"
+                },
+				{
+                    "name": "Fluorescent Neon Green",
+                    "hex": "53D132"
+                },
+				{
+                    "name": "Green",
+                    "hex": "4C8C2B"
+                },
+				{
+                    "name": "Grey",
+                    "hex": "5B6670"
+                },
+				{
+                    "name": "Hot Pink",
+                    "hex": "FA008A"
+                },
+				{
+                    "name": "KB3D Orange",
+                    "hex": "F27A2C"
+                },
+				{
+                    "name": "Orange",
+                    "hex": "FF8200"
+                },
+				{
+                    "name": "Pink",
+                    "hex": "F4A6D7"
+                },
+				{
+                    "name": "Purple",
+                    "hex": "5E4690"
+                },
+				{
+                    "name": "Quadra Teal",
+                    "hex": "009CA6"
+                },
+				{
+                    "name": "Red",
+                    "hex": "BF3333"
+                },
+				{
+                    "name": "Super Grey",
+                    "hex": "#5C5D5B"
+                },
+				{
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+				{
+                    "name": "Yellow",
+                    "hex": "FFC72C"
+                },
+				{
+                    "name": "Burnt Orange",
+                    "hex": "F93212"
+                },
+				{
+                    "name": "Grape",
+                    "hex": "A82A82"
+                },
+				{
+                    "name": "Skin (Light)",
+                    "hex": "DEA978"
+                },
+				{
+                    "name": "Super Blue",
+                    "hex": "2253BB"
+                },
+				{
+                    "name": "Terrestrial Blue",
+                    "hex": "118BC6"
+                },
+				{
+                    "name": "Voron Red",
+                    "hex": "A12336"
+                },
+				{
+                    "name": "West Green",
+                    "hex": "64A70B"
+                },
+                {
+                    "name": "Easter Egg",
+                    "hexes": [
+                        "E6B4BB",
+						"64CFE0",
+                        "D4A69C"
+                    ],
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Rainbow Rush",
+                    "hexes": [
+                        "9D322A",
+						"DD6B42",
+                        "427A8F"
+                    ],
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Glow in the Dark Rainbow",
+                    "hexes": [
+                        "EAAC67",
+						"93BD84",
+                        "DE8D91"
+                    ],
+					"multi_color_direction": "longitudinal",
+					"glow": true
+                },
+                {
+                    "name": "Creamsicle",
+                    "hex": "FA9C47",
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Yellow Jacket",
+                    "hex": "C7881B",
+					"multi_color_direction": "coaxial"
+                },
+				{
+                    "name": "Soft Lavender",
+                    "hex": "D1C1D9",
+					"finish": "matte"
+                },
+				{
+                    "name": "Soft Turquoise",
+                    "hex": "89C9CF",
+					"finish": "matte"
+                },
+				{
+                    "name": "Velvet Black",
+                    "hex": "000000",
+					"finish": "matte"
+                }
+            ]
+		},
+		{
+            "name": "Dolos Color Shifting {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+			"multi_color_direction": "coaxial",
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				190,
+				220
+			],
+			"bed_temp_range": [
+				0,
+				65
+			],
+			"colors": [
+                {
+                    "name": "Prince of Purple",
+                    "hex": "A368D5"
+                },
+                {
+                    "name": "Titanium Anno",
+                    "hex": "2B3E63"
+                },
+                {
+                    "name": "Banana Rama",
+                    "hex": "F2C987"
+                },
+                {
+                    "name": "Cool Grey Pearl",
+                    "hex": "B9B3B5"
+                },
+                {
+                    "name": "Rainbow Dolos",
+                    "hexes": [
+                        "BEFFFF",
+                        "7A7BFF"
+                    ],
+					"multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Violet Void",
+                    "hex": "502747"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "TPU-95",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				190,
+				220
+			],
+			"bed_temp_range": [
+				50,
+				65
+			],
+				"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+		},
+		{
+            "name": "{color_name}",
+            "material": "PHA",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 174.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				185,
+				205
+			],
+			"colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+				{
+                    "name": "Fog White",
+                    "hex": "FFFFF"
+                },
+                {
+                    "name": "Lichen Yellow",
+                    "hex": "DFC349"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "E0D9CD"
+                },
+                {
+                    "name": "Pine Green",
+                    "hex": "278E5C"
+                },
+                {
+                    "name": "Slate Blue",
+                    "hex": "7E9EBF"
+                }
+            ]
+		},
+		{
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+					"spool_weight": 130.0,
+					"spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+			"extruder_temp_range": [
+				190,
+				220
+			],
+			"bed_temp_range": [
+				0,
+				65
+			],
+			"colors": [
+                {
+                    "name": "Bright Gold",
+                    "hex": "FAC33A"
+                },
+				{
+                    "name": "Metal Grey",
+                    "hex": "5B585A"
+                },
+                {
+                    "name": "Blue+Green",
+                    "hexes": [
+                        "045A84",
+                        "06666D"
+                    ],
+					"multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Blue+Purple",
+                    "hexes": [
+                        "164Cb2",
+                        "50237E"
+                    ],
+					"multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Gold+Red",
+                    "hexes": [
+                        "DF3F22",
+                        "EF1B3B"
+                    ],
+					"multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Yellow+Green",
+                    "hexes": [
+                        "7FBC29",
+                        "D7D325"
+                    ],
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Rainbow Candy",
+                    "hexes": [
+                        "8F8AAC",
+                        "46A593",
+                        "E56F7F"
+                    ],
+					"multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Rainbow Silk",
+                    "hexes": [
+                        "F26C65",
+                        "8C7C9C",
+                        "A0B574"
+                    ],
+					"multi_color_direction": "longitudinal"
+                }
+            ]
+		}
+	]
+}
+
+
+
