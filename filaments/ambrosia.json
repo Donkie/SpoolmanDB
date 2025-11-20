@@ -607,7 +607,7 @@
 		},
 		{
             "name": "{color_name}",
-            "material": "PC/ABS",
+            "material": "PCABS",
             "density": 1.14,
             "weights": [
                 {
@@ -906,7 +906,7 @@
                 },
 				{
                     "name": "Super Grey",
-                    "hex": "#5C5D5B"
+                    "hex": "5C5D5B"
                 },
 				{
                     "name": "White",
@@ -1212,6 +1212,3 @@
 		}
 	]
 }
-
-
-
