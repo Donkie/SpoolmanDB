@@ -247,11 +247,11 @@
                 },
                 {
                     "name": "White",
-                    "hex": "FFFFF"
+                    "hex": "FFFFFF"
                 },
                 {
                     "name": "Polar White",
-                    "hex": "FFFFF"
+                    "hex": "FFFFFF"
                 },
                 {
                     "name": "West Green",
@@ -601,13 +601,13 @@
                 },
                 {
                     "name": "White",
-                    "hex": "FFFFF"
+                    "hex": "FFFFFF"
                 }
             ]
 		},
 		{
             "name": "{color_name}",
-            "material": "PC-ABS",
+            "material": "PC/ABS",
             "density": 1.14,
             "weights": [
                 {
@@ -673,7 +673,7 @@
                 },
                 {
                     "name": "White",
-                    "hex": "FFFFF"
+                    "hex": "FFFFFF"
                 },
                 {
                     "name": "Clear",
@@ -1055,7 +1055,7 @@
 		},
 		{
             "name": "{color_name}",
-            "material": "TPU-95",
+            "material": "TPU",
             "density": 1.23,
             "weights": [
                 {
@@ -1107,7 +1107,7 @@
                 },
 				{
                     "name": "Fog White",
-                    "hex": "FFFFF"
+                    "hex": "FFFFFF"
                 },
                 {
                     "name": "Lichen Yellow",
