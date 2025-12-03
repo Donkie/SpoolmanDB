@@ -8,13 +8,14 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 120.0
+                    "spool_weight": 155.0,
+                    "spool_type": "cardboard"
                 }
             ],
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 210,
+            "extruder_temp": 230,
             "bed_temp": 60,
             "colors": [
                 {
@@ -76,6 +77,24 @@
                 {
                     "name": "Blue",
                     "hex": "0000FF"
+                },
+                {
+                    "name": "Spring Lake",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "88ABC2",
+                        "A9D4D1",
+                        "EAADB7"
+                    ]
+                },
+                {
+                    "name": "Wild Blossom",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "5D90B9",
+                        "7BC29A",
+                        "DB8991"
+                    ]
                 }
             ]
         },
@@ -325,3 +344,5 @@
         }
     ]
 }
+
+
