@@ -20,8 +20,12 @@
                 {
                     "name": "Jade White",
                     "hex": "FFFFFF",
-                    "code": "10100",
-                    "ean": "6975337031024"
+                    "codes": [
+                        "10100"
+                    ],
+                    "eans": [
+                        "6975337031024"
+                    ]
                 },
                 {
                     "name": "Beige",
@@ -50,8 +54,12 @@
                 {
                     "name": "Cocoa Brown",
                     "hex": "6F5034",
-                    "code": "10802",
-                    "ean": "6977252429108"
+                    "codes": [
+                        "10802"
+                    ],
+                    "eans": [
+                        "6977252429108"
+                    ]
                 },
                 {
                     "name": "Maroon Red",
@@ -72,7 +80,9 @@
                 {
                     "name": "Hot Pink",
                     "hex": "F5547C",
-                    "code": "10204"
+                    "codes": [
+                        "10204"
+                    ]
                 },
                 {
                     "name": "Orange",
@@ -81,13 +91,19 @@
                 {
                     "name": "Pumpkin Orange",
                     "hex": "FF9016",
-                    "code": "10301"
+                    "codes": [
+                        "10301"
+                    ]
                 },
                 {
                     "name": "Sunflower Yellow",
                     "hex": "FEC600",
-                    "code": "10402",
-                    "ean": "6977252429122"
+                    "codes": [
+                        "10402"
+                    ],
+                    "eans": [
+                        "6977252429122"
+                    ]
                 },
                 {
                     "name": "Yellow",
@@ -100,7 +116,9 @@
                 {
                     "name": "Bambu Green",
                     "hex": "00AE42",
-                    "ean_refill": "6975337035817"
+                    "eans_refill": [
+                        "6975337035817"
+                    ]
                 },
                 {
                     "name": "Mistletoe Green",
@@ -109,20 +127,32 @@
                 {
                     "name": "Turquoise",
                     "hex": "00B1B7",
-                    "code": "10503",
-                    "ean_refill": "6977252427210"
+                    "codes": [
+                        "10503"
+                    ],
+                    "eans_refill": [
+                        "6977252427210"
+                    ]
                 },
                 {
                     "name": "Cyan",
                     "hex": "0086D6",
-                    "code": "10603",
-                    "ean": "6975337032052"
+                    "codes": [
+                        "10603"
+                    ],
+                    "eans": [
+                        "6975337032052"
+                    ]
                 },
                 {
                     "name": "Blue",
                     "hex": "0A2989",
-                    "code": "10601",
-                    "ean": "3119780059485"
+                    "codes": [
+                        "10601"
+                    ],
+                    "eans": [
+                        "3119780059485"
+                    ]
                 },
                 {
                     "name": "Cobalt Blue",
@@ -135,8 +165,12 @@
                 {
                     "name": "Indigo Purple",
                     "hex": "482960",
-                    "code": "10701",
-                    "ean": "6977252429115"
+                    "codes": [
+                        "10701"
+                    ],
+                    "eans": [
+                        "6977252429115"
+                    ]
                 },
                 {
                     "name": "Blue Gray",
@@ -153,7 +187,9 @@
                 {
                     "name": "Black",
                     "hex": "000000",
-                    "code": "10101"
+                    "codes": [
+                        "10101"
+                    ]
                 }
             ]
         },
@@ -219,8 +255,12 @@
                 {
                     "name": "Ivory White",
                     "hex": "FFFFFF",
-                    "code": "11100",
-                    "ean": "6975337031345"
+                    "codes": [
+                        "11100"
+                    ],
+                    "eans": [
+                        "6975337031345"
+                    ]
                 },
                 {
                     "name": "Latte Brown",
@@ -233,8 +273,12 @@
                 {
                     "name": "Ash Gray",
                     "hex": "9B9EA0",
-                    "code": "11102",
-                    "ean": "6975337031352"
+                    "codes": [
+                        "11102"
+                    ],
+                    "eans": [
+                        "6975337031352"
+                    ]
                 },
                 {
                     "name": "Lilac Purple",
@@ -255,8 +299,12 @@
                 {
                     "name": "Scarlet Red",
                     "hex": "DE4343",
-                    "code": "11200",
-                    "ean": "6975337031338"
+                    "codes": [
+                        "11200"
+                    ],
+                    "eans": [
+                        "6975337031338"
+                    ]
                 },
                 {
                     "name": "Dark Red",
@@ -281,7 +329,9 @@
                 {
                     "name": "Marine Blue",
                     "hex": "0078BF",
-                    "code": "11600"
+                    "codes": [
+                        "11600"
+                    ]
                 },
                 {
                     "name": "Dark Blue",
@@ -290,8 +340,12 @@
                 {
                     "name": "Charcoal",
                     "hex": "000000",
-                    "code": "11101",
-                    "ean": "6975337031376"
+                    "codes": [
+                        "11101"
+                    ],
+                    "eans": [
+                        "6975337031376"
+                    ]
                 },
                 {
                     "name": "Bone White",
@@ -346,8 +400,12 @@
                 {
                     "name": "Yellow",
                     "hex": "F4D53F",
-                    "code": "12401",
-                    "ean": "6937285500670"
+                    "codes": [
+                        "12401"
+                    ],
+                    "eans": [
+                        "6937285500670"
+                    ]
                 },
                 {
                     "name": "White",
@@ -1083,8 +1141,12 @@
                 {
                     "name": "Translucent Light Blue",
                     "hex": "61B0FF",
-                    "code": "32600",
-                    "ean": "6975337035961"
+                    "codes": [
+                        "32600"
+                    ],
+                    "eans": [
+                        "6975337035961"
+                    ]
                 },
                 {
                     "name": "Translucent Olive",
@@ -1097,8 +1159,12 @@
                 {
                     "name": "Translucent Teal",
                     "hex": "77EDD7",
-                    "code": "32501",
-                    "ean": "6975337035992"
+                    "codes": [
+                        "32501"
+                    ],
+                    "eans": [
+                        "6975337035992"
+                    ]
                 },
                 {
                     "name": "Translucent Orange",
@@ -1115,7 +1181,9 @@
                 {
                     "name": "Clear",
                     "hex": "FFFFFF",
-                    "code": "32101"
+                    "codes": [
+                        "32101"
+                    ]
                 }
             ]
         },
@@ -1155,12 +1223,16 @@
                 {
                     "name": "Blue",
                     "hex": "002E96",
-                    "code": "33600"
+                    "codes": [
+                        "33600"
+                    ]
                 },
                 {
                     "name": "Black",
                     "hex": "000000",
-                    "code": "33102"
+                    "codes": [
+                        "33102"
+                    ]
                 },
                 {
                     "name": "White",
@@ -1169,8 +1241,12 @@
                 {
                     "name": "Cream",
                     "hex": "F9DFB9",
-                    "code": "33401",
-                    "ean": "6937285507990"
+                    "codes": [
+                        "33401"
+                    ],
+                    "eans": [
+                        "6937285507990"
+                    ]
                 },
                 {
                     "name": "Lime Green",
@@ -1179,8 +1255,12 @@
                 {
                     "name": "Forest Green",
                     "hex": "39541A",
-                    "code": "33502",
-                    "ean": "6937285508010"
+                    "codes": [
+                        "33502"
+                    ],
+                    "eans": [
+                        "6937285508010"
+                    ]
                 },
                 {
                     "name": "Lake Blue",
@@ -1189,8 +1269,12 @@
                 {
                     "name": "Peanut Brown",
                     "hex": "875718",
-                    "code": "33801",
-                    "ean": "6937285508041"
+                    "codes": [
+                        "33801"
+                    ],
+                    "eans": [
+                        "6937285508041"
+                    ]
                 },
                 {
                     "name": "Gray",

@@ -43,6 +43,9 @@ class Color(TypedDict):
     pattern: NotRequired[Pattern | None]
     translucent: NotRequired[bool]
     glow: NotRequired[bool]
+    codes: NotRequired[list[str]]
+    eans: NotRequired[list[str]]
+    eans_refill: NotRequired[list[str]]
 
 
 class Filament(TypedDict):
@@ -126,6 +129,9 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                 color_pattern = color_obj.get("pattern", None)
                 color_translucent = color_obj.get("translucent", None)
                 color_glow = color_obj.get("glow", None)
+                color_codes = color_obj.get("codes", None)
+                color_eans = color_obj.get("eans", None)
+                color_eans_refill = color_obj.get("eans_refill", None)
 
                 if color_finish is None:
                     color_finish = finish
@@ -192,6 +198,9 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "pattern": color_pattern,
                     "translucent": color_translucent,
                     "glow": color_glow,
+                    "codes": color_codes,
+                    "eans": color_eans,
+                    "eans_refill": color_eans_refill,
                 }
 
 
