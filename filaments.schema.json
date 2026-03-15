@@ -211,6 +211,20 @@
                                 "glow": {
                                     "$comment": "True if this color has a glow-in-the-dark effect",
                                     "type": "boolean"
+                                },
+                                "code": {
+                                    "$comment": "Manufacturer product code / SKU for this color variant (e.g. Bambu Lab '10601' for PLA Basic Blue).",
+                                    "type": "string"
+                                },
+                                "ean": {
+                                    "$comment": "EAN/GTIN barcode for the spooled version of this color.",
+                                    "type": "string",
+                                    "pattern": "^[0-9]{8,14}$"
+                                },
+                                "ean_refill": {
+                                    "$comment": "EAN/GTIN barcode for the refill (no spool) version of this color.",
+                                    "type": "string",
+                                    "pattern": "^[0-9]{8,14}$"
                                 }
                             }
                         }
