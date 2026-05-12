@@ -216,9 +216,11 @@
                                     "$comment": "Manufacturer product codes / SKUs for this color variant (e.g. Bambu Lab '10601' for PLA Basic Blue).",
                                     "type": "array",
                                     "items": {
-                                        "type": "string"
+                                        "type": "string",
+                                        "minLength": 1
                                     },
-                                    "uniqueItems": true
+                                    "uniqueItems": true,
+                                    "minItems": 1
                                 },
                                 "eans": {
                                     "$comment": "EAN/GTIN barcodes for the spooled version of this color.",
@@ -227,7 +229,8 @@
                                         "type": "string",
                                         "pattern": "^[0-9]{8,14}$"
                                     },
-                                    "uniqueItems": true
+                                    "uniqueItems": true,
+                                    "minItems": 1
                                 },
                                 "eans_refill": {
                                     "$comment": "EAN/GTIN barcodes for the refill (no spool) version of this color.",
@@ -236,7 +239,8 @@
                                         "type": "string",
                                         "pattern": "^[0-9]{8,14}$"
                                     },
-                                    "uniqueItems": true
+                                    "uniqueItems": true,
+                                    "minItems": 1
                                 }
                             }
                         }
