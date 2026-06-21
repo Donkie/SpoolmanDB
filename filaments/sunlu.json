@@ -284,6 +284,11 @@
                 {
                     "name": "Sunny Orange",
                     "hex": "D8631E"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "#ffffffaa",
+                    "translucent": true
                 }
             ]
         },
