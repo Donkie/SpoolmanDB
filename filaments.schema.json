@@ -214,6 +214,10 @@
                                 }
                             }
                         }
+                    },
+                    "country_of_origin": {
+                        "$comment": "Country where the filament was manufactured.",
+                        "type": "string"
                     }
                 }
             }
