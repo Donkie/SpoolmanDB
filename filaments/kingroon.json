@@ -1,0 +1,177 @@
+{
+    "manufacturer": "Kingroon",
+    "filaments": [
+        {
+            "name": "Kingroon PLA Basic {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                210
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Skin",
+                    "hex": "F1C27D"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFC0CB"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "FFFFFF",
+                    "translucent": true
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "8B4513"
+                }
+            ]
+        },
+        {
+            "name": "Kingroon PETG {color_name}",
+            "material": "PETG",
+            "density": 1.28,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "87CEEB"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "FFFFFF",
+                    "translucent": true
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "7CFC00"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "98FF98"
+                },
+                {
+                    "name": "Light Apricot",
+                    "hex": "FDD5B1"
+                },
+                {
+                    "name": "Cyan-Blue",
+                    "hex": "00B7EB"
+                },
+                {
+                    "name": "Light Pink",
+                    "hex": "FFB6C1"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "006400"
+                }
+            ]
+        }
+    ]
+}
