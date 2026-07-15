@@ -214,6 +214,16 @@
                                 }
                             }
                         }
+                    },
+                    "sds_url": {
+                        "$comment": "Link to the Safety Data Sheet (SDS).",
+                        "type": "string",
+                        "format": "uri"
+                    },
+                    "tds_url": {
+                        "$comment": "Link to the Technical Data Sheet (TDS).",
+                        "type": "string",
+                        "format": "uri"
                     }
                 }
             }
