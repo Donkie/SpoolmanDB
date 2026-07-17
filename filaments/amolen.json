@@ -1,0 +1,73 @@
+{
+    "manufacturer": "Amolen",
+    "filaments": [
+        {
+            "name": "Amolen PLA Silk Basic {color_name}",
+            "material": "PLA",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                65
+            ],
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Silk Gold",
+                    "hex": "FFD700"
+                },
+                {
+                    "name": "Silk Silver Grey",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Silk Red Copper",
+                    "hex": "B87333"
+                }
+            ]
+        },
+        {
+            "name": "Amolen PLA Wood {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                180,
+                210
+            ],
+            "bed_temp_range": [
+                30,
+                65
+            ],
+            "fill": "wood",
+            "colors": [
+                {
+                    "name": "Walnut Wood",
+                    "hex": "5C4033"
+                },
+                {
+                    "name": "Bamboo Wood",
+                    "hex": "E1C699"
+                }
+            ]
+        }
+    ]
+}
