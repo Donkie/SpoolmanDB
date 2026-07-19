@@ -172,6 +172,71 @@
             ]
         },
         {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250, 
+                280
+            ],
+			"bed_temp_range": [
+				80,
+				100
+			],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F4F2EB"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "75787B"
+                },
+                {
+                    "name": "Red",
+                    "hex": "BC2726"
+                },
+                {
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFF13F"
+                },
+                {
+                    "name": "Green",
+                    "hex": "1DAA27"
+                },
+                {
+                    "name": "Lavender Purple",
+                    "hex": "685BC7"
+                },
+                {
+                    "name": "Mocha Mousse",
+                    "hex": "A47B67"
+                }
+            ]
+        },
+        {
             "name": "Silk {color_name}",
             "material": "TPU",
             "density": 1.24,
