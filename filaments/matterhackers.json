@@ -1,0 +1,120 @@
+{
+	"manufacturer": "MatterHackers",
+	"filaments": [
+		{
+			"name": "MH Build Series PLA {color_name}",
+			"material": "PLA",
+			"density": 1.25,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 190, 220 ],
+			"bed_temp_range": [ 25, 55 ],
+			"colors": [
+				{ "name": "Black", "hex": "1a1a1a" },
+				{ "name": "White", "hex": "f5f5f5" },
+				{ "name": "Gray", "hex": "808080" },
+				{ "name": "Red", "hex": "c41e2a" },
+				{ "name": "Royal Blue", "hex": "2e56f1" },
+				{ "name": "Yellow", "hex": "fdd835" },
+				{ "name": "Orange", "hex": "f57c00" },
+				{ "name": "Light Blue", "hex": "1adafb" },
+				{ "name": "Purple", "hex": "6a1b9a" },
+				{ "name": "Blue", "hex": "044786" },
+				{ "name": "Silver", "hex": "abacb0" },
+				{ "name": "Forest Green", "hex": "11784f" },
+				{ "name": "Pink", "hex": "ff72b6" },
+				{ "name": "Navy Blue", "hex": "1d2a56" },
+				{ "name": "Brown", "hex": "6e4325" },
+				{ "name": "Rose Pink", "hex": "f29ab2" },
+				{ "name": "Tan", "hex": "e6ba83" },
+				{ "name": "Olive Green", "hex": "77815c" },
+				{ "name": "Ruby Red", "hex": "b32031" },
+				{ "name": "Pearl White", "hex": "f1eee5" },
+				{ "name": "Lime Green", "hex": "9aed51" },
+				{ "name": "Porcelain White", "hex": "f4f1e8" },
+				{ "name": "Green", "hex": "2e7d32" },
+				{ "name": "Magenta", "hex": "c80181" },
+				{ "name": "Gold", "hex": "ffcb47" },
+				{ "name": "Natural", "hex": "dfdfd3" },
+				{ "name": "Glow in the Dark", "hex": "9bdd77", "glow": true },
+				{ "name": "Clear", "hex": "d8dde0", "translucent": true },
+				{ "name": "RGB Blue", "hex": "0057ff" },
+				{ "name": "RGB Green", "hex": "00a651" },
+				{ "name": "RGB Red", "hex": "f23b30" },
+				{ "name": "Blush Pink", "hex": "e8a2a7" },
+				{ "name": "Dusty Blue", "hex": "7896b3" },
+				{ "name": "Periwinkle Purple", "hex": "8d78c6" },
+				{ "name": "Matcha Green", "hex": "a8b979" },
+				{ "name": "Sky Blue", "hex": "74cceb" },
+				{ "name": "Grass Green", "hex": "4fb43f" },
+				{ "name": "Bone White", "hex": "e8dfcb" },
+				{ "name": "Light Yellow", "hex": "f3e79b" },
+				{ "name": "Lilac", "hex": "c6a4d8" },
+				{ "name": "Apricot", "hex": "f1a66a" },
+				{ "name": "Pine Green", "hex": "1f6b4f" },
+				{ "name": "Mandarin Orange", "hex": "f07a35" },
+				{ "name": "Jade Green", "hex": "32a77d" },
+				{ "name": "Light Khaki", "hex": "c6b990" },
+				{ "name": "Mint Green", "hex": "8dd7b4" }
+			]
+		},
+		{
+			"name": "MH Build Series PLA {color_name}",
+			"material": "PLA",
+			"density": 1.25,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_type": "plastic"
+				}
+			],
+			"diameters": [ 2.85 ],
+			"extruder_temp_range": [ 190, 220 ],
+			"bed_temp_range": [ 25, 55 ],
+			"colors": [
+				{ "name": "Black", "hex": "1a1a1a" },
+				{ "name": "White", "hex": "f5f5f5" },
+				{ "name": "Gray", "hex": "808080" },
+				{ "name": "Red", "hex": "c41e2a" },
+				{ "name": "Orange", "hex": "f57c00" },
+				{ "name": "Purple", "hex": "6a1b9a" },
+				{ "name": "Yellow", "hex": "fdd835" },
+				{ "name": "Light Blue", "hex": "1adafb" },
+				{ "name": "Blue", "hex": "044786" },
+				{ "name": "Lime Green", "hex": "9aed51" },
+				{ "name": "Pink", "hex": "ff72b6" },
+				{ "name": "Green", "hex": "2e7d32" },
+				{ "name": "Forest Green", "hex": "11784f" },
+				{ "name": "Brown", "hex": "6e4325" },
+				{ "name": "Magenta", "hex": "c80181" },
+				{ "name": "Tan", "hex": "e6ba83" },
+				{ "name": "Olive Green", "hex": "77815c" },
+				{ "name": "Natural", "hex": "dfdfd3" }
+			]
+		},
+		{
+			"name": "MH Build Series PLA {color_name}",
+			"material": "PLA",
+			"density": 1.25,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_type": "cardboard"
+				}
+			],
+			"diameters": [ 1.75 ],
+			"extruder_temp_range": [ 190, 220 ],
+			"bed_temp_range": [ 25, 55 ],
+			"colors": [
+				{ "name": "Black", "hex": "1a1a1a" },
+				{ "name": "Gray", "hex": "808080" },
+				{ "name": "White", "hex": "f5f5f5" }
+			]
+		}
+	]
+}
