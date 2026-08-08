@@ -128067,6 +128067,146 @@
     "glow": false
   },
   {
+    "id": "polymaker_pla_panchromatranslucentcyan_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Translucent Cyan",
+    "material": "PLA",
+    "density": 1.17,
+    "weight": 1000.0,
+    "spool_weight": 145.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "08abfb",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromatranslucentgrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Translucent Grey",
+    "material": "PLA",
+    "density": 1.17,
+    "weight": 1000.0,
+    "spool_weight": 145.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "9991a4",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromatranslucentmagenta_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Translucent Magenta",
+    "material": "PLA",
+    "density": 1.17,
+    "weight": 1000.0,
+    "spool_weight": 145.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "d93b90",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromatranslucentnatural_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Translucent Natural",
+    "material": "PLA",
+    "density": 1.17,
+    "weight": 1000.0,
+    "spool_weight": 145.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "e8e6d0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromatranslucentyellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Translucent Yellow",
+    "material": "PLA",
+    "density": 1.17,
+    "weight": 1000.0,
+    "spool_weight": 145.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "f9ed3d",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
     "id": "polymaker_pla_polylitecosplaversiona_1000_175_c",
     "manufacturer": "Polymaker",
     "name": "PolyLite CosPLA Version A",
