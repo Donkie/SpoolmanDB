@@ -150,15 +150,15 @@
         "density": 1.05
     },
     {
-        "material": "SMART_NUTRITION",
+        "material": "SMARTNUTRITION",
         "density": 1.10
     },
     {
-        "material": "RAW_SCENTED_CLEANSING",
+        "material": "RAWSCENTEDCLEANSING",
         "density": 1.05
     },
     {
-        "material": "SURVIVAL_EMERGENCY",
+        "material": "SURVIVALEMERGENCY",
         "density": 1.18
     },
     {
@@ -170,11 +170,11 @@
         "density": 1.07
     },
     {
-        "material": "TIME_PROGRAMMED_4D",
+        "material": "TIMEPROGRAMMED4D",
         "density": 1.14
     },
     {
-        "material": "RAW_ESSENCE",
+        "material": "RAWESSENCE",
         "density": 1.08
     },
     {
@@ -182,7 +182,7 @@
         "density": 1.10
     },
     {
-        "material": "WATER_SECURITY",
+        "material": "WATERSECURITY",
         "density": 1.09
     },
     {
@@ -194,11 +194,11 @@
         "density": 1.09
     },
     {
-        "material": "REPAIR_MAINTENANCE",
+        "material": "REPAIRMAINTENANCE",
         "density": 1.10
     },
     {
-        "material": "SCIENTIFIC_EXPLORATION",
+        "material": "SCIENTIFICEXPLORATION",
         "density": 1.17
     },
     {

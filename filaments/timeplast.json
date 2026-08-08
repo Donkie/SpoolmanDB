@@ -3,7 +3,7 @@
   "filaments": [
     {
       "name": "TimeMass Wax Filament {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 0.95,
       "weights": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "name": "Lawn Repair Filament {color_name}",
-      "material": "SMART_NUTRITION",
+      "material": "SMARTNUTRITION",
       "density": 1.08,
       "weights": [
         {
@@ -151,7 +151,7 @@
     },
     {
       "name": "Plant Vitamin Gen 2 {color_name}",
-      "material": "SMART_NUTRITION",
+      "material": "SMARTNUTRITION",
       "density": 1.10,
       "weights": [
         {
@@ -172,7 +172,7 @@
     },
     {
       "name": "Glowing Plant Vitamin {color_name}",
-      "material": "SMART_NUTRITION",
+      "material": "SMARTNUTRITION",
       "density": 1.11,
       "weights": [
         {
@@ -194,7 +194,7 @@
     },
     {
       "name": "Fire Gen 2 {color_name}",
-      "material": "SURVIVAL_EMERGENCY",
+      "material": "SURVIVALEMERGENCY",
       "density": 1.18,
       "weights": [
         {
@@ -434,7 +434,7 @@
     },
     {
       "name": "Timefilm {color_name}",
-      "material": "TIME_PROGRAMMED_4D",
+      "material": "TIMEPROGRAMMED4D",
       "density": 1.14,
       "weights": [
         {
@@ -539,7 +539,7 @@
     },
     {
       "name": "Vanilla (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -560,7 +560,7 @@
     },
     {
       "name": "Clove (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "name": "Nutmeg (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -602,7 +602,7 @@
     },
     {
       "name": "Star Anise (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -623,7 +623,7 @@
     },
     {
       "name": "Cardamom (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -644,7 +644,7 @@
     },
     {
       "name": "Black Pepper (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -665,7 +665,7 @@
     },
     {
       "name": "Coffee (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -686,7 +686,7 @@
     },
     {
       "name": "Cocoa (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -707,7 +707,7 @@
     },
     {
       "name": "Lavender (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -728,7 +728,7 @@
     },
     {
       "name": "Lemongrass (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -749,7 +749,7 @@
     },
     {
       "name": "Ginger (Pure) {color_name}",
-      "material": "RAW_ESSENCE",
+      "material": "RAWESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -816,7 +816,7 @@
     },
     {
       "name": "Fiber {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 1.13,
       "weights": [
         {
@@ -900,7 +900,7 @@
     },
     {
       "name": "Hydro Gel {color_name}",
-      "material": "WATER_SECURITY",
+      "material": "WATERSECURITY",
       "density": 1.09,
       "weights": [
         {
@@ -921,7 +921,7 @@
     },
     {
       "name": "Active - Gen 2 {color_name}",
-      "material": "TIME_PROGRAMMED_4D",
+      "material": "TIMEPROGRAMMED4D",
       "density": 1.12,
       "weights": [
         {
@@ -942,7 +942,7 @@
     },
     {
       "name": "Extended {color_name}",
-      "material": "TIME_PROGRAMMED_4D",
+      "material": "TIMEPROGRAMMED4D",
       "density": 1.11,
       "weights": [
         {
@@ -963,7 +963,7 @@
     },
     {
       "name": "Passive - Gen 2 {color_name}",
-      "material": "TIME_PROGRAMMED_4D",
+      "material": "TIMEPROGRAMMED4D",
       "density": 1.10,
       "weights": [
         {
@@ -1026,7 +1026,7 @@
     },
     {
       "name": "Cinnamon {color_name}",
-      "material": "SMART_NUTRITION",
+      "material": "SMARTNUTRITION",
       "density": 1.08,
       "weights": [
         {
@@ -1110,7 +1110,7 @@
     },
     {
       "name": "Support - Gen 2 {color_name}",
-      "material": "REPAIR_MAINTENANCE",
+      "material": "REPAIRMAINTENANCE",
       "density": 1.09,
       "weights": [
         {
@@ -1131,7 +1131,7 @@
     },
     {
       "name": "Passive Cooling {color_name}",
-      "material": "SURVIVAL_EMERGENCY",
+      "material": "SURVIVALEMERGENCY",
       "density": 1.09,
       "weights": [
         {
@@ -1215,7 +1215,7 @@
     },
     {
       "name": "Antibacterial {color_name}",
-      "material": "RAW_SCENTED_CLEANSING",
+      "material": "RAWSCENTEDCLEANSING",
       "density": 1.06,
       "weights": [
         {
@@ -1236,7 +1236,7 @@
     },
     {
       "name": "Thermochromatic {color_name}",
-      "material": "SCIENTIFIC_EXPLORATION",
+      "material": "SCIENTIFICEXPLORATION",
       "density": 1.11,
       "weights": [
         {
@@ -1279,7 +1279,7 @@
     },
     {
       "name": "TimeMass Photovoltaic {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 1.17,
       "weights": [
         {
@@ -1300,7 +1300,7 @@
     },
     {
       "name": "Timeplast Heat Conductive Filament {color_name}",
-      "material": "SCIENTIFIC_EXPLORATION",
+      "material": "SCIENTIFICEXPLORATION",
       "density": 1.13,
       "weights": [
         {
@@ -1342,7 +1342,7 @@
     },
     {
       "name": "Sublimation {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 1.12,
       "weights": [
         {
@@ -1363,7 +1363,7 @@
     },
     {
       "name": "Microwave {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 1.14,
       "weights": [
         {
@@ -1384,7 +1384,7 @@
     },
     {
       "name": "TimeMass Carbon Nanotube {color_name}",
-      "material": "HIGH_END",
+      "material": "HIGHEND",
       "density": 1.13,
       "weights": [
         {
