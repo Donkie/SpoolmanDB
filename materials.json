@@ -141,10 +141,7 @@
         "material": "PA12-CF",
         "density": 1.14
     },
-    {
-        "material": "WAX",
-        "density": 0.95
-    },
+
     {
         "material": "SOAP",
         "density": 1.05
