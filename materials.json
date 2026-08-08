@@ -150,11 +150,63 @@
         "density": 1.05
     },
     {
-        "material": "LAWNREPAIR",
+        "material": "SMART_NUTRITION",
+        "density": 1.10
+    },
+    {
+        "material": "RAW_SCENTED_CLEANSING",
+        "density": 1.05
+    },
+    {
+        "material": "SURVIVAL_EMERGENCY",
+        "density": 1.18
+    },
+    {
+        "material": "IRIDESCENT",
+        "density": 1.15
+    },
+    {
+        "material": "FISHING",
+        "density": 1.07
+    },
+    {
+        "material": "TIME_PROGRAMMED_4D",
+        "density": 1.14
+    },
+    {
+        "material": "RAW_ESSENCE",
         "density": 1.08
     },
     {
-        "material": "PLANTVITAMIN",
+        "material": "MEANINGFUL",
+        "density": 1.10
+    },
+    {
+        "material": "WATER_SECURITY",
+        "density": 1.09
+    },
+    {
+        "material": "BIOHACKERS",
+        "density": 1.12
+    },
+    {
+        "material": "OUTDOOR",
+        "density": 1.09
+    },
+    {
+        "material": "REPAIR_MAINTENANCE",
+        "density": 1.10
+    },
+    {
+        "material": "SCIENTIFIC_EXPLORATION",
+        "density": 1.17
+    },
+    {
+        "material": "MULTIFUNCTIONAL",
+        "density": 1.12
+    },
+    {
+        "material": "PLANTCARE",
         "density": 1.10
     },
     {
@@ -162,28 +214,12 @@
         "density": 1.18
     },
     {
-        "material": "RETROREFLECTIVE",
+        "material": "OPTICAL",
         "density": 1.16
     },
     {
-        "material": "LIGHT",
-        "density": 1.12
-    },
-    {
-        "material": "FISHBAIT",
+        "material": "AQUATIC",
         "density": 1.07
-    },
-    {
-        "material": "IRIDESCENT",
-        "density": 1.15
-    },
-    {
-        "material": "GLOW",
-        "density": 1.12
-    },
-    {
-        "material": "ANTIBACTERIAL",
-        "density": 1.06
     },
     {
         "material": "RAW",
@@ -198,15 +234,11 @@
         "density": 1.18
     },
     {
-        "material": "FISHFOOD",
-        "density": 1.08
-    },
-    {
-        "material": "RODENTDETERRENT",
+        "material": "PESTCONTROL",
         "density": 1.09
     },
     {
-        "material": "PHOTOVOLTAIC",
+        "material": "UTILITY",
         "density": 1.17
     },
     {
@@ -252,18 +284,6 @@
     {
         "material": "GINGER",
         "density": 1.08
-    },
-    {
-        "material": "CINNAMON",
-        "density": 1.08
-    },
-    {
-        "material": "INSECTBARRIER",
-        "density": 1.09
-    },
-    {
-        "material": "FIBER",
-        "density": 1.13
     },
     {
         "material": "SUGAR",

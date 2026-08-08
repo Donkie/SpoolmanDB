@@ -3,7 +3,7 @@
   "filaments": [
     {
       "name": "TimeMass Wax Filament {color_name}",
-      "material": "WAX",
+      "material": "HIGH_END",
       "density": 0.95,
       "weights": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "name": "Lawn Repair Filament {color_name}",
-      "material": "LAWNREPAIR",
+      "material": "SMART_NUTRITION",
       "density": 1.08,
       "weights": [
         {
@@ -151,7 +151,7 @@
     },
     {
       "name": "Plant Vitamin Gen 2 {color_name}",
-      "material": "PLANTVITAMIN",
+      "material": "SMART_NUTRITION",
       "density": 1.10,
       "weights": [
         {
@@ -171,8 +171,30 @@
       ]
     },
     {
+      "name": "Glowing Plant Vitamin {color_name}",
+      "material": "SMART_NUTRITION",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 150,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "4CAF50"
+        }
+      ]
+    },
+    {
       "name": "Fire Gen 2 {color_name}",
-      "material": "FIRE",
+      "material": "SURVIVAL_EMERGENCY",
       "density": 1.18,
       "weights": [
         {
@@ -193,7 +215,7 @@
     },
     {
       "name": "Retroreflective Holographic Filament {color_name}",
-      "material": "RETROREFLECTIVE",
+      "material": "IRIDESCENT",
       "density": 1.16,
       "weights": [
         {
@@ -215,7 +237,7 @@
     },
     {
       "name": "Light - Gen 2 {color_name}",
-      "material": "LIGHT",
+      "material": "IRIDESCENT",
       "density": 1.12,
       "weights": [
         {
@@ -237,7 +259,7 @@
     },
     {
       "name": "Fish Bait {color_name}",
-      "material": "FISHBAIT",
+      "material": "FISHING",
       "density": 1.07,
       "weights": [
         {
@@ -325,7 +347,7 @@
     },
     {
       "name": "Glow Cleansing Filament Gen 5 {color_name}",
-      "material": "GLOW",
+      "material": "SOAP",
       "density": 1.12,
       "weights": [
         {
@@ -347,7 +369,7 @@
     },
     {
       "name": "Antibacterial Detergent Filament {color_name}",
-      "material": "ANTIBACTERIAL",
+      "material": "SOAP",
       "density": 1.06,
       "weights": [
         {
@@ -390,7 +412,7 @@
     },
     {
       "name": "Reflect Glow {color_name}",
-      "material": "RETROREFLECTIVE",
+      "material": "IRIDESCENT",
       "density": 1.16,
       "weights": [
         {
@@ -412,7 +434,7 @@
     },
     {
       "name": "Timefilm {color_name}",
-      "material": "TIMEFILM",
+      "material": "TIME_PROGRAMMED_4D",
       "density": 1.14,
       "weights": [
         {
@@ -454,7 +476,7 @@
     },
     {
       "name": "Fish Food {color_name}",
-      "material": "FISHFOOD",
+      "material": "FISHING",
       "density": 1.08,
       "weights": [
         {
@@ -475,7 +497,7 @@
     },
     {
       "name": "Rodent Deterrent {color_name}",
-      "material": "RODENTDETERRENT",
+      "material": "OUTDOOR",
       "density": 1.09,
       "weights": [
         {
@@ -517,7 +539,7 @@
     },
     {
       "name": "Vanilla (Pure) {color_name}",
-      "material": "VANILLA",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -538,7 +560,7 @@
     },
     {
       "name": "Clove (Pure) {color_name}",
-      "material": "CLOVE",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -559,7 +581,7 @@
     },
     {
       "name": "Nutmeg (Pure) {color_name}",
-      "material": "NUTMEG",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -580,7 +602,7 @@
     },
     {
       "name": "Star Anise (Pure) {color_name}",
-      "material": "STARANISE",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -601,7 +623,7 @@
     },
     {
       "name": "Cardamom (Pure) {color_name}",
-      "material": "CARDAMOM",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -622,7 +644,7 @@
     },
     {
       "name": "Black Pepper (Pure) {color_name}",
-      "material": "BLACKPEPPER",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -643,7 +665,7 @@
     },
     {
       "name": "Coffee (Pure) {color_name}",
-      "material": "COFFEE",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -664,7 +686,7 @@
     },
     {
       "name": "Cocoa (Pure) {color_name}",
-      "material": "COCOA",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -685,7 +707,7 @@
     },
     {
       "name": "Lavender (Pure) {color_name}",
-      "material": "LAVENDER",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -706,7 +728,7 @@
     },
     {
       "name": "Lemongrass (Pure) {color_name}",
-      "material": "LEMONGRASS",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -727,7 +749,7 @@
     },
     {
       "name": "Ginger (Pure) {color_name}",
-      "material": "GINGER",
+      "material": "RAW_ESSENCE",
       "density": 1.08,
       "weights": [
         {
@@ -748,7 +770,7 @@
     },
     {
       "name": "Baby Gender Reveal {color_name}",
-      "material": "BABYGENDERREVEAL",
+      "material": "MEANINGFUL",
       "density": 1.10,
       "weights": [
         {
@@ -773,7 +795,7 @@
     },
     {
       "name": "Insect Barrier {color_name}",
-      "material": "INSECTBARRIER",
+      "material": "OUTDOOR",
       "density": 1.09,
       "weights": [
         {
@@ -794,7 +816,7 @@
     },
     {
       "name": "Fiber {color_name}",
-      "material": "FIBER",
+      "material": "HIGH_END",
       "density": 1.13,
       "weights": [
         {
@@ -815,7 +837,7 @@
     },
     {
       "name": "Sugar {color_name}",
-      "material": "SUGAR",
+      "material": "UTILITY",
       "density": 1.07,
       "weights": [
         {
@@ -836,7 +858,7 @@
     },
     {
       "name": "Ball {color_name}",
-      "material": "BALL",
+      "material": "OUTDOOR",
       "density": 1.11,
       "weights": [
         {
@@ -857,7 +879,7 @@
     },
     {
       "name": "Toilet Color {color_name}",
-      "material": "TOILETCOLOR",
+      "material": "UTILITY",
       "density": 1.08,
       "weights": [
         {
@@ -878,7 +900,7 @@
     },
     {
       "name": "Hydro Gel {color_name}",
-      "material": "HYDROGEL",
+      "material": "WATER_SECURITY",
       "density": 1.09,
       "weights": [
         {
@@ -899,7 +921,7 @@
     },
     {
       "name": "Active - Gen 2 {color_name}",
-      "material": "ACTIVE",
+      "material": "TIME_PROGRAMMED_4D",
       "density": 1.12,
       "weights": [
         {
@@ -920,7 +942,7 @@
     },
     {
       "name": "Extended {color_name}",
-      "material": "EXTENDED",
+      "material": "TIME_PROGRAMMED_4D",
       "density": 1.11,
       "weights": [
         {
@@ -941,7 +963,7 @@
     },
     {
       "name": "Passive - Gen 2 {color_name}",
-      "material": "PASSIVE",
+      "material": "TIME_PROGRAMMED_4D",
       "density": 1.10,
       "weights": [
         {
@@ -962,7 +984,7 @@
     },
     {
       "name": "Coral Food {color_name}",
-      "material": "CORALFOOD",
+      "material": "FISHING",
       "density": 1.08,
       "weights": [
         {
@@ -983,7 +1005,7 @@
     },
     {
       "name": "Flex {color_name}",
-      "material": "FLEX",
+      "material": "OUTDOOR",
       "density": 1.18,
       "weights": [
         {
@@ -1004,7 +1026,7 @@
     },
     {
       "name": "Cinnamon {color_name}",
-      "material": "CINNAMON",
+      "material": "SMART_NUTRITION",
       "density": 1.08,
       "weights": [
         {
@@ -1025,7 +1047,7 @@
     },
     {
       "name": "Wear {color_name}",
-      "material": "WEAR",
+      "material": "OUTDOOR",
       "density": 1.10,
       "weights": [
         {
@@ -1046,7 +1068,7 @@
     },
     {
       "name": "Texture {color_name}",
-      "material": "TEXTURE",
+      "material": "UTILITY",
       "density": 1.10,
       "weights": [
         {
@@ -1067,7 +1089,7 @@
     },
     {
       "name": "Paper Surface {color_name}",
-      "material": "PAPERSURFACE",
+      "material": "UTILITY",
       "density": 1.09,
       "weights": [
         {
@@ -1088,7 +1110,7 @@
     },
     {
       "name": "Support - Gen 2 {color_name}",
-      "material": "SUPPORT",
+      "material": "REPAIR_MAINTENANCE",
       "density": 1.09,
       "weights": [
         {
@@ -1109,7 +1131,7 @@
     },
     {
       "name": "Passive Cooling {color_name}",
-      "material": "PASSIVECOOLING",
+      "material": "SURVIVAL_EMERGENCY",
       "density": 1.09,
       "weights": [
         {
@@ -1172,7 +1194,7 @@
     },
     {
       "name": "Bug Attractor - Gen 2 {color_name}",
-      "material": "BUGATTRACTOR",
+      "material": "OUTDOOR",
       "density": 1.10,
       "weights": [
         {
@@ -1193,7 +1215,7 @@
     },
     {
       "name": "Antibacterial {color_name}",
-      "material": "ANTIBACTERIAL",
+      "material": "RAW_SCENTED_CLEANSING",
       "density": 1.06,
       "weights": [
         {
@@ -1214,7 +1236,7 @@
     },
     {
       "name": "Thermochromatic {color_name}",
-      "material": "THERMOCHROMATIC",
+      "material": "SCIENTIFIC_EXPLORATION",
       "density": 1.11,
       "weights": [
         {
@@ -1235,7 +1257,7 @@
     },
     {
       "name": "Holographic {color_name}",
-      "material": "HOLOGRAPHIC",
+      "material": "OPTICAL",
       "density": 1.13,
       "weights": [
         {
@@ -1257,7 +1279,7 @@
     },
     {
       "name": "TimeMass Photovoltaic {color_name}",
-      "material": "PHOTOVOLTAIC",
+      "material": "HIGH_END",
       "density": 1.17,
       "weights": [
         {
@@ -1278,7 +1300,7 @@
     },
     {
       "name": "Timeplast Heat Conductive Filament {color_name}",
-      "material": "HEATCONDUCTIVE",
+      "material": "SCIENTIFIC_EXPLORATION",
       "density": 1.13,
       "weights": [
         {
@@ -1299,7 +1321,7 @@
     },
     {
       "name": "Fish Food Color Chromatic Filament {color_name}",
-      "material": "FISHFOODCHROMATIC",
+      "material": "FISHING",
       "density": 1.09,
       "weights": [
         {
@@ -1320,7 +1342,7 @@
     },
     {
       "name": "Sublimation {color_name}",
-      "material": "SUBLIMATION",
+      "material": "HIGH_END",
       "density": 1.12,
       "weights": [
         {
@@ -1341,7 +1363,7 @@
     },
     {
       "name": "Microwave {color_name}",
-      "material": "MICROWAVE",
+      "material": "HIGH_END",
       "density": 1.14,
       "weights": [
         {
@@ -1362,7 +1384,7 @@
     },
     {
       "name": "TimeMass Carbon Nanotube {color_name}",
-      "material": "CARBONNANOTUBE",
+      "material": "HIGH_END",
       "density": 1.13,
       "weights": [
         {
@@ -1383,7 +1405,7 @@
     },
     {
       "name": "Stick & Glow {color_name}",
-      "material": "GLOW",
+      "material": "IRIDESCENT",
       "density": 1.13,
       "weights": [
         {
@@ -1405,7 +1427,7 @@
     },
     {
       "name": "Reflect & Glow {color_name}",
-      "material": "RETROREFLECTIVE",
+      "material": "OUTDOOR",
       "density": 1.16,
       "weights": [
         {
