@@ -136,5 +136,9 @@
     {
         "material": "PVB",
         "density": 1.10
+    },
+    {
+        "material": "PA12-CF",
+        "density": 1.14
     }
 ]
