@@ -160657,10 +160657,10 @@
     "glow": true
   },
   {
-    "id": "timeplast_high_end_fibernatural_1000_175_p",
+    "id": "timeplast_highend_fibernatural_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Fiber Natural",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 1.13,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -160679,10 +160679,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_high_end_microwavegray_1000_175_p",
+    "id": "timeplast_highend_microwavegray_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Microwave Gray",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 1.14,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -160701,10 +160701,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_high_end_sublimationwhite_1000_175_p",
+    "id": "timeplast_highend_sublimationwhite_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Sublimation White",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 1.12,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -160723,10 +160723,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_high_end_timemasscarbonnanotubeblack_1000_175_p",
+    "id": "timeplast_highend_timemasscarbonnanotubeblack_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "TimeMass Carbon Nanotube Black",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 1.13,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -160745,10 +160745,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_high_end_timemassphotovoltaicblue_1000_175_p",
+    "id": "timeplast_highend_timemassphotovoltaicblue_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "TimeMass Photovoltaic Blue",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 1.17,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -160767,10 +160767,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_high_end_timemasswaxfilamentnaturalwax_1000_175_p",
+    "id": "timeplast_highend_timemasswaxfilamentnaturalwax_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "TimeMass Wax Filament Natural Wax",
-    "material": "HIGH_END",
+    "material": "HIGHEND",
     "density": 0.95,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161295,10 +161295,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_blackpepper(pure)black_1000_175_p",
+    "id": "timeplast_rawessence_blackpepper(pure)black_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Black Pepper (Pure) Black",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161317,10 +161317,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_cardamom(pure)tan_1000_175_p",
+    "id": "timeplast_rawessence_cardamom(pure)tan_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Cardamom (Pure) Tan",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161339,10 +161339,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_clove(pure)brown_1000_175_p",
+    "id": "timeplast_rawessence_clove(pure)brown_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Clove (Pure) Brown",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161361,10 +161361,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_cocoa(pure)chocolate_1000_175_p",
+    "id": "timeplast_rawessence_cocoa(pure)chocolate_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Cocoa (Pure) Chocolate",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161383,10 +161383,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_coffee(pure)brown_1000_175_p",
+    "id": "timeplast_rawessence_coffee(pure)brown_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Coffee (Pure) Brown",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161405,10 +161405,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_ginger(pure)orange_1000_175_p",
+    "id": "timeplast_rawessence_ginger(pure)orange_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Ginger (Pure) Orange",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161427,10 +161427,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_lavender(pure)lavender_1000_175_p",
+    "id": "timeplast_rawessence_lavender(pure)lavender_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Lavender (Pure) Lavender",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161449,10 +161449,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_lemongrass(pure)green_1000_175_p",
+    "id": "timeplast_rawessence_lemongrass(pure)green_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Lemongrass (Pure) Green",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161471,10 +161471,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_nutmeg(pure)brown_1000_175_p",
+    "id": "timeplast_rawessence_nutmeg(pure)brown_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Nutmeg (Pure) Brown",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161493,10 +161493,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_staranise(pure)brown_1000_175_p",
+    "id": "timeplast_rawessence_staranise(pure)brown_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Star Anise (Pure) Brown",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161515,10 +161515,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_essence_vanilla(pure)vanilla_1000_175_p",
+    "id": "timeplast_rawessence_vanilla(pure)vanilla_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Vanilla (Pure) Vanilla",
-    "material": "RAW_ESSENCE",
+    "material": "RAWESSENCE",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161537,10 +161537,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_raw_scented_cleansing_antibacterialwhite_1000_175_p",
+    "id": "timeplast_rawscentedcleansing_antibacterialwhite_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Antibacterial White",
-    "material": "RAW_SCENTED_CLEANSING",
+    "material": "RAWSCENTEDCLEANSING",
     "density": 1.06,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161559,10 +161559,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_repair_maintenance_support-gen2white_1000_175_p",
+    "id": "timeplast_repairmaintenance_support-gen2white_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Support - Gen 2 White",
-    "material": "REPAIR_MAINTENANCE",
+    "material": "REPAIRMAINTENANCE",
     "density": 1.09,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161581,10 +161581,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_scientific_exploration_thermochromaticcolorshift_1000_175_p",
+    "id": "timeplast_scientificexploration_thermochromaticcolorshift_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Thermochromatic Color Shift",
-    "material": "SCIENTIFIC_EXPLORATION",
+    "material": "SCIENTIFICEXPLORATION",
     "density": 1.11,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161603,10 +161603,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_scientific_exploration_timeplastheatconductivefilamentblack_1000_175_p",
+    "id": "timeplast_scientificexploration_timeplastheatconductivefilamentblack_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Timeplast Heat Conductive Filament Black",
-    "material": "SCIENTIFIC_EXPLORATION",
+    "material": "SCIENTIFICEXPLORATION",
     "density": 1.13,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161625,10 +161625,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_smart_nutrition_cinnamonbrown_1000_175_p",
+    "id": "timeplast_smartnutrition_cinnamonbrown_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Cinnamon Brown",
-    "material": "SMART_NUTRITION",
+    "material": "SMARTNUTRITION",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161647,10 +161647,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_smart_nutrition_glowingplantvitamingreen_1000_175_p",
+    "id": "timeplast_smartnutrition_glowingplantvitamingreen_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Glowing Plant Vitamin Green",
-    "material": "SMART_NUTRITION",
+    "material": "SMARTNUTRITION",
     "density": 1.11,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161669,10 +161669,10 @@
     "glow": true
   },
   {
-    "id": "timeplast_smart_nutrition_lawnrepairfilamentgreen_1000_175_p",
+    "id": "timeplast_smartnutrition_lawnrepairfilamentgreen_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Lawn Repair Filament Green",
-    "material": "SMART_NUTRITION",
+    "material": "SMARTNUTRITION",
     "density": 1.08,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -161691,10 +161691,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_smart_nutrition_plantvitamingen2green_1000_175_p",
+    "id": "timeplast_smartnutrition_plantvitamingen2green_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Plant Vitamin Gen 2 Green",
-    "material": "SMART_NUTRITION",
+    "material": "SMARTNUTRITION",
     "density": 1.1,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162175,10 +162175,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_survival_emergency_firegen2orangered_1000_175_p",
+    "id": "timeplast_survivalemergency_firegen2orangered_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Fire Gen 2 Orange Red",
-    "material": "SURVIVAL_EMERGENCY",
+    "material": "SURVIVALEMERGENCY",
     "density": 1.18,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162197,10 +162197,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_survival_emergency_passivecoolingblue_1000_175_p",
+    "id": "timeplast_survivalemergency_passivecoolingblue_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Passive Cooling Blue",
-    "material": "SURVIVAL_EMERGENCY",
+    "material": "SURVIVALEMERGENCY",
     "density": 1.09,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162219,10 +162219,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_time_programmed_4d_active-gen2blue_1000_175_p",
+    "id": "timeplast_timeprogrammed4d_active-gen2blue_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Active - Gen 2 Blue",
-    "material": "TIME_PROGRAMMED_4D",
+    "material": "TIMEPROGRAMMED4D",
     "density": 1.12,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162241,10 +162241,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_time_programmed_4d_extendedgreen_1000_175_p",
+    "id": "timeplast_timeprogrammed4d_extendedgreen_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Extended Green",
-    "material": "TIME_PROGRAMMED_4D",
+    "material": "TIMEPROGRAMMED4D",
     "density": 1.11,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162263,10 +162263,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_time_programmed_4d_passive-gen2purple_1000_175_p",
+    "id": "timeplast_timeprogrammed4d_passive-gen2purple_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Passive - Gen 2 Purple",
-    "material": "TIME_PROGRAMMED_4D",
+    "material": "TIMEPROGRAMMED4D",
     "density": 1.1,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162285,10 +162285,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_time_programmed_4d_timefilmclear_1000_175_p",
+    "id": "timeplast_timeprogrammed4d_timefilmclear_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Timefilm Clear",
-    "material": "TIME_PROGRAMMED_4D",
+    "material": "TIMEPROGRAMMED4D",
     "density": 1.14,
     "weight": 1000.0,
     "spool_weight": 150,
@@ -162439,10 +162439,10 @@
     "glow": false
   },
   {
-    "id": "timeplast_water_security_hydrogelclear_1000_175_p",
+    "id": "timeplast_watersecurity_hydrogelclear_1000_175_p",
     "manufacturer": "TimePlast",
     "name": "Hydro Gel Clear",
-    "material": "WATER_SECURITY",
+    "material": "WATERSECURITY",
     "density": 1.09,
     "weight": 1000.0,
     "spool_weight": 150,
