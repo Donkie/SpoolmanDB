@@ -1,0 +1,42 @@
+name: Auto Compile
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'filaments/**'
+      - 'materials.json'
+      - 'scripts/compile_filaments.py'
+      - '.github/workflows/auto-compile.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  compile-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Compile filaments
+        run: python3 scripts/compile_filaments.py
+
+      - name: Commit updated artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add filaments.json materials.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate compiled filament database"
+            git push
+          fi
