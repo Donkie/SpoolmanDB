@@ -33,7 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add filaments.json materials.json
+          git add -f filaments.json
+          git add materials.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
