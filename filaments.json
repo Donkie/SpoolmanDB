@@ -122116,6 +122116,202 @@
     "glow": false
   },
   {
+    "id": "polymaker_pla_panchromacelestialcelestialblue_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "6ADCF7",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestialgreen_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "6FE2D2",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestiallightpink_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Light Pink",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "C3ADB8",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestiallightyellow_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Light Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "D7CE89",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestialpurple_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Purple",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "9678C8",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestialwhite_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "DCDAD0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromacelestialcelestialyellow_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Celestial Celestial Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "F4C76A",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": true,
+    "glow": false
+  },
+  {
     "id": "polymaker_pla_panchromadualchameleon(teal-yellow)_1000_175_c",
     "manufacturer": "Polymaker",
     "name": "Panchroma\u2122 Dual Chameleon (Teal-Yellow)",
@@ -122147,16 +122343,16 @@
     "glow": false
   },
   {
-    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)brick_1000_175_c",
+    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)marblebrick_1000_175_c",
     "manufacturer": "Polymaker",
-    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Brick",
+    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Marble Brick",
     "material": "PLA",
     "density": 1.24,
     "weight": 1000.0,
     "spool_weight": 140.0,
     "spool_type": "cardboard",
     "diameter": 1.75,
-    "color_hex": "cf6646",
+    "color_hex": "CD7456",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
@@ -122175,16 +122371,16 @@
     "glow": false
   },
   {
-    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)limestone_1000_175_c",
+    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)marblelimestone_1000_175_c",
     "manufacturer": "Polymaker",
-    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Limestone",
+    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Marble Limestone",
     "material": "PLA",
     "density": 1.24,
     "weight": 1000.0,
     "spool_weight": 140.0,
     "spool_type": "cardboard",
     "diameter": 1.75,
-    "color_hex": "bfbfb3",
+    "color_hex": "BCBEBE",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
@@ -122203,16 +122399,16 @@
     "glow": false
   },
   {
-    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)sandstone_1000_175_c",
+    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)marblesandstone_1000_175_c",
     "manufacturer": "Polymaker",
-    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Sandstone",
+    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Marble Sandstone",
     "material": "PLA",
     "density": 1.24,
     "weight": 1000.0,
     "spool_weight": 140.0,
     "spool_type": "cardboard",
     "diameter": 1.75,
-    "color_hex": "c6c781",
+    "color_hex": "C1BE97",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
@@ -122231,16 +122427,16 @@
     "glow": false
   },
   {
-    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)slategrey_1000_175_c",
+    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)marbleslategrey_1000_175_c",
     "manufacturer": "Polymaker",
-    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Slate Grey",
+    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Marble Slate Grey",
     "material": "PLA",
     "density": 1.24,
     "weight": 1000.0,
     "spool_weight": 140.0,
     "spool_type": "cardboard",
     "diameter": 1.75,
-    "color_hex": "91c2cc",
+    "color_hex": "94b9c2",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
@@ -122259,16 +122455,16 @@
     "glow": false
   },
   {
-    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)white_1000_175_c",
+    "id": "polymaker_pla_panchromamarble(formerlypolyterramarble)marblewhite_1000_175_c",
     "manufacturer": "Polymaker",
-    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) White",
+    "name": "Panchroma\u2122 Marble (Formerly PolyTerra\u2122 Marble) Marble White",
     "material": "PLA",
     "density": 1.24,
     "weight": 1000.0,
     "spool_weight": 140.0,
     "spool_type": "cardboard",
     "diameter": 1.75,
-    "color_hex": "cfccd6",
+    "color_hex": "D7D4DA",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
@@ -128049,6 +128245,1014 @@
     "spool_type": "plastic",
     "diameter": 1.75,
     "color_hex": "F3B400",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkblack_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Black",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "363538",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkblue_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "4999C9",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkbrass_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Brass",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "968162",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkbronze_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Bronze",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "AF6B4C",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkchrome_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Chrome",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "85898B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkdarkblue_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Dark Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "23599A",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkgold_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Gold",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "C49449",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkgreen_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "55B687",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkgunmetalgrey_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Gunmetal Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "676B6A",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilklightblue_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Light Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "4CC1CB",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilklime_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Lime",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "C4CF4C",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkmagenta_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Magenta",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "AA538E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkorange_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "EB6232",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkperidotgreen_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Peridot Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "7F865B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkperiwinkle_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Periwinkle",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "768EC7",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkpink_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Pink",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "FFA7C4",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkpurple_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Purple",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "786BB0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkquartzpink_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Quartz Pink",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "DBBBBB",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkred_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Red",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "C1443F",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkrose_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Rose",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "CF6076",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkrosegold_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Rose Gold",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "CBB0B1",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilksilver_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Silver",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "BCC2C8",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkteal_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Teal",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "66C2B6",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkwhite_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "DFE4E4",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasilksilkyellow_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Silk Silk Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "EEC810",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightaurora_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Aurora",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "314530",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightcomet_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Comet",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "1F312A",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightjupiter_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Jupiter",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "774718",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightmars_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Mars",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "962E31",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightmercury_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Mercury",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "33322D",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightmeteor_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Meteor",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "2F3117",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightmidnight_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Midnight",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "475A64",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightnebula_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Nebula",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "462F32",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightneptune_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Neptune",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "113148",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlightpulsar_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Pulsar",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "5C7BC1",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromastarlightstarlighttwilight_1000_175_n",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Starlight Starlight Twilight",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000,
+    "spool_weight": 140,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "1E3445",
     "color_hexes": null,
     "extruder_temp": null,
     "extruder_temp_range": [
