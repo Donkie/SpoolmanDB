@@ -1446,6 +1446,8 @@
           "name": "Reflective",
           "hex": "F5F5F5"
         }
+      ]
+    },
     {
       "name": "Light Lithophane {color_name}",
       "material": "IRIDESCENT",
