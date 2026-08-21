@@ -1451,6 +1451,7 @@
     {
       "name": "Light Lithophane {color_name}",
       "material": "IRIDESCENT",
+      "density": 1.16,
       "weights": [
         {
           "weight": 350.0,
