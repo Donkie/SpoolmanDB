@@ -1,14 +1,7 @@
 name: Auto Compile
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'filaments/**'
-      - 'materials.json'
-      - 'scripts/compile_filaments.py'
-      - '.github/workflows/auto-compile.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,12 +10,12 @@ jobs:
   compile-and-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
