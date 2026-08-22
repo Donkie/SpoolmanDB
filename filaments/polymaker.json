@@ -447,6 +447,83 @@
 	]
       },
       {
+        "name": "Polymaker™ ABS Pro {color_name}",
+        "material": "ABS",
+        "density": 1.04,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          240,
+          260
+        ],
+        "bed_temp_range": [
+          90,
+          110
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "040403"
+          },
+          {
+            "name": "White",
+            "hex": "F5F3F0"
+          },
+          {
+            "name": "Grey",
+            "hex": "8A8B90"
+          },
+          {
+            "name": "Blue",
+            "hex": "0D5CA8"
+          },
+          {
+            "name": "Red",
+            "hex": "D82E2E"
+          },
+          {
+            "name": "Green",
+            "hex": "2E8E5B"
+          },
+          {
+            "name": "Voron Red",
+            "hex": "C53A49"
+          },
+          {
+            "name": "Polymaker Teal",
+            "hex": "1FBEC7"
+          },
+          {
+            "name": "Yellow",
+            "hex": "F0C50E"
+          },
+          {
+            "name": "Orange",
+            "hex": "F07D1E"
+          },
+          {
+            "name": "Galaxy Black",
+            "hex": "0D1117"
+          },
+          {
+            "name": "Galaxy Dark Grey",
+            "hex": "4B4F54"
+          },
+          {
+            "name": "Fire Ice",
+            "hex": "A9E4F1"
+          }
+        ]
+      },
+      {
         "name": "PolyLite\u2122 ASA {color_name}",
         "material": "ASA",
         "density": 1.13,
