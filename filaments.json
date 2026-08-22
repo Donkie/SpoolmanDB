@@ -113660,6 +113660,370 @@
     "glow": false
   },
   {
+    "id": "polymaker_abs_polymakerabsproblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Black",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "040403",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsproblue_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Blue",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "0D5CA8",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprofireice_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Fire Ice",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "A9E4F1",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprogalaxyblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Galaxy Black",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "0D1117",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprogalaxydarkgrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Galaxy Dark Grey",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "4B4F54",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprogreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Green",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "2E8E5B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprogrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Grey",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "8A8B90",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsproorange_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Orange",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F07D1E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabspropolymakerteal_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Polymaker Teal",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "1FBEC7",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprored_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Red",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "D82E2E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprovoronred_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Voron Red",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "C53A49",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsprowhite_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro White",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F5F3F0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_abs_polymakerabsproyellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 ABS Pro Yellow",
+    "material": "ABS",
+    "density": 1.04,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F0C50E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      240,
+      260
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      90,
+      110
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
     "id": "polymaker_asa_polyliteasaarmybrown_1000_175_c",
     "manufacturer": "Polymaker",
     "name": "PolyLite\u2122 ASA Army Brown",
