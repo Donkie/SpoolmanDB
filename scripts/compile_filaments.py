@@ -1,7 +1,13 @@
 """This script takes in the directory of filament json files, expands them and writes them to a single output json."""
 
-from enum import StrEnum
 import json
+from enum import Enum
+
+try:
+    from enum import StrEnum
+except ImportError:
+    class StrEnum(str, Enum):
+        pass
 from pathlib import Path
 from typing import Iterator
 from typing import TypedDict, NotRequired

@@ -492,6 +492,112 @@
                     "hex": "564e44"
                 }
             ]
+        },
+        {
+            "name": "Silk Dual {color_name}",
+            "material": "PLA+",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                60
+            ],
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black White",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "FFFFFF"
+                    ]
+                },
+                {
+                    "name": "Black Green",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "06402B"
+                    ]
+                },
+                {
+                    "name": "Black Blue",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "0C4873"
+                    ]
+                },
+                {
+                    "name": "Black Purple",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "800080"
+                    ]
+                },
+                {
+                    "name": "Black Gold",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "000000",
+                        "FFD700"
+                    ]
+                },
+                {
+                    "name": "Red Blue",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "FF40FF",
+                        "0433FF"
+                    ]
+                },
+                {
+                    "name": "Red Gold",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "FF0000",
+                        "DBD800"
+                    ]
+                },
+                {
+                    "name": "Pink Gold",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "F4A4C0",
+                        "FFD700"
+                    ]
+                },
+                {
+                    "name": "Green Purple",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "00FF00",
+                        "800080"
+                    ]
+                },
+                {
+                    "name": "Blue Green",
+                    "multi_color_direction": "coaxial",
+                    "hexes": [
+                        "0008FF",
+                        "00FF00"
+                    ]
+                }
+            ]
         }
     ]
 }

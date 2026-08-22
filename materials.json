@@ -136,5 +136,254 @@
     {
         "material": "PVB",
         "density": 1.10
+    },
+    {
+        "material": "PA12-CF",
+        "density": 1.14
+    },
+
+    {
+        "material": "SOAP",
+        "density": 1.05
+    },
+    {
+        "material": "SMARTNUTRITION",
+        "density": 1.10
+    },
+    {
+        "material": "RAWSCENTEDCLEANSING",
+        "density": 1.05
+    },
+    {
+        "material": "SURVIVALEMERGENCY",
+        "density": 1.18
+    },
+    {
+        "material": "IRIDESCENT",
+        "density": 1.15
+    },
+    {
+        "material": "FISHING",
+        "density": 1.07
+    },
+    {
+        "material": "TIMEPROGRAMMED4D",
+        "density": 1.14
+    },
+    {
+        "material": "RAWESSENCE",
+        "density": 1.08
+    },
+    {
+        "material": "MEANINGFUL",
+        "density": 1.10
+    },
+    {
+        "material": "WATERSECURITY",
+        "density": 1.09
+    },
+    {
+        "material": "BIOHACKERS",
+        "density": 1.12
+    },
+    {
+        "material": "OUTDOOR",
+        "density": 1.09
+    },
+    {
+        "material": "REPAIRMAINTENANCE",
+        "density": 1.10
+    },
+    {
+        "material": "SCIENTIFICEXPLORATION",
+        "density": 1.17
+    },
+    {
+        "material": "MULTIFUNCTIONAL",
+        "density": 1.12
+    },
+    {
+        "material": "PLANTCARE",
+        "density": 1.10
+    },
+    {
+        "material": "FIRE",
+        "density": 1.18
+    },
+    {
+        "material": "OPTICAL",
+        "density": 1.16
+    },
+    {
+        "material": "AQUATIC",
+        "density": 1.07
+    },
+    {
+        "material": "RAW",
+        "density": 1.20
+    },
+    {
+        "material": "PLUS",
+        "density": 1.22
+    },
+    {
+        "material": "METALSURFACE",
+        "density": 1.18
+    },
+    {
+        "material": "PESTCONTROL",
+        "density": 1.09
+    },
+    {
+        "material": "UTILITY",
+        "density": 1.17
+    },
+    {
+        "material": "VANILLA",
+        "density": 1.08
+    },
+    {
+        "material": "CLOVE",
+        "density": 1.08
+    },
+    {
+        "material": "NUTMEG",
+        "density": 1.08
+    },
+    {
+        "material": "STARANISE",
+        "density": 1.08
+    },
+    {
+        "material": "CARDAMOM",
+        "density": 1.08
+    },
+    {
+        "material": "BLACKPEPPER",
+        "density": 1.08
+    },
+    {
+        "material": "COFFEE",
+        "density": 1.08
+    },
+    {
+        "material": "COCOA",
+        "density": 1.08
+    },
+    {
+        "material": "LAVENDER",
+        "density": 1.08
+    },
+    {
+        "material": "LEMONGRASS",
+        "density": 1.08
+    },
+    {
+        "material": "GINGER",
+        "density": 1.08
+    },
+    {
+        "material": "SUGAR",
+        "density": 1.07
+    },
+    {
+        "material": "BALL",
+        "density": 1.11
+    },
+    {
+        "material": "TOILETCOLOR",
+        "density": 1.08
+    },
+    {
+        "material": "HYDROGEL",
+        "density": 1.09
+    },
+    {
+        "material": "ACTIVE",
+        "density": 1.12
+    },
+    {
+        "material": "EXTENDED",
+        "density": 1.11
+    },
+    {
+        "material": "PASSIVE",
+        "density": 1.10
+    },
+    {
+        "material": "CORALFOOD",
+        "density": 1.08
+    },
+    {
+        "material": "FLEX",
+        "density": 1.18
+    },
+    {
+        "material": "WEAR",
+        "density": 1.10
+    },
+    {
+        "material": "TEXTURE",
+        "density": 1.10
+    },
+    {
+        "material": "PAPERSURFACE",
+        "density": 1.09
+    },
+    {
+        "material": "SUPPORT",
+        "density": 1.09
+    },
+    {
+        "material": "PASSIVECOOLING",
+        "density": 1.09
+    },
+    {
+        "material": "VINEGAR",
+        "density": 1.08
+    },
+    {
+        "material": "UVREVEAL",
+        "density": 1.11
+    },
+    {
+        "material": "BUGATTRACTOR",
+        "density": 1.10
+    },
+    {
+        "material": "THERMOCHROMATIC",
+        "density": 1.11
+    },
+    {
+        "material": "HOLOGRAPHIC",
+        "density": 1.13
+    },
+    {
+        "material": "HEATCONDUCTIVE",
+        "density": 1.13
+    },
+    {
+        "material": "FISHFOODCHROMATIC",
+        "density": 1.09
+    },
+    {
+        "material": "SUBLIMATION",
+        "density": 1.12
+    },
+    {
+        "material": "MICROWAVE",
+        "density": 1.14
+    },
+    {
+        "material": "CARBONNANOTUBE",
+        "density": 1.13
+    },
+    {
+        "material": "BABYGENDERREVEAL",
+        "density": 1.10
+    },
+    {
+        "material": "TIMEFILM",
+        "density": 1.14
     }
 ]

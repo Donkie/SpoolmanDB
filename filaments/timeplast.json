@@ -1,0 +1,1473 @@
+{
+  "manufacturer": "TimePlast",
+  "filaments": [
+    {
+      "name": "TimeMass Wax Filament {color_name}",
+      "material": "HIGHEND",
+      "density": 0.95,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Natural Wax",
+          "hex": "F3E7C9"
+        }
+      ]
+    },
+    {
+      "name": "Detergent Filament Gen 6 {color_name}",
+      "material": "SOAP",
+      "density": 1.05,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "Pink",
+          "hex": "F4A6C1"
+        },
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        },
+        {
+          "name": "Yellow",
+          "hex": "F7D54A"
+        },
+        {
+          "name": "Green",
+          "hex": "5CB85C"
+        },
+        {
+          "name": "Lilac",
+          "hex": "C8A2C8"
+        }
+      ]
+    },
+    {
+      "name": "Detergent Filament Gen 5 {color_name}",
+      "material": "SOAP",
+      "density": 1.05,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Lavender",
+          "hex": "C9A0DC"
+        },
+        {
+          "name": "Vanilla",
+          "hex": "EFD8B5"
+        },
+        {
+          "name": "Clove",
+          "hex": "7A4B2E"
+        },
+        {
+          "name": "Cinnamon",
+          "hex": "A0522D"
+        },
+        {
+          "name": "Nutmeg",
+          "hex": "6F4E37"
+        },
+        {
+          "name": "Star Anise",
+          "hex": "8B5A2B"
+        },
+        {
+          "name": "Cardamom",
+          "hex": "D2B48C"
+        },
+        {
+          "name": "Black Pepper",
+          "hex": "111111"
+        },
+        {
+          "name": "Coffee",
+          "hex": "6F4E37"
+        },
+        {
+          "name": "Cocoa",
+          "hex": "5D4037"
+        },
+        {
+          "name": "Lemongrass",
+          "hex": "7CB342"
+        },
+        {
+          "name": "Ginger",
+          "hex": "D2691E"
+        }
+      ]
+    },
+    {
+      "name": "Lawn Repair Filament {color_name}",
+      "material": "SMARTNUTRITION",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "5DAE5D"
+        }
+      ]
+    },
+    {
+      "name": "Plant Vitamin Gen 2 {color_name}",
+      "material": "SMARTNUTRITION",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "4CAF50"
+        }
+      ]
+    },
+    {
+      "name": "Glowing Plant Vitamin {color_name}",
+      "material": "SMARTNUTRITION",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "4CAF50"
+        }
+      ]
+    },
+    {
+      "name": "Fire Gen 2 {color_name}",
+      "material": "SURVIVALEMERGENCY",
+      "density": 1.18,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Orange Red",
+          "hex": "FF5733"
+        }
+      ]
+    },
+    {
+      "name": "Retroreflective Holographic Filament {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.16,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "pattern": "sparkle",
+      "colors": [
+        {
+          "name": "Holographic",
+          "hex": "F2F2F2"
+        }
+      ]
+    },
+    {
+      "name": "Light - Gen 2 {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.12,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Fish Bait {color_name}",
+      "material": "FISHING",
+      "density": 1.07,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C0C0C0"
+        }
+      ]
+    },
+    {
+      "name": "Iridescent {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.15,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "pattern": "sparkle",
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F8F8F8"
+        },
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        },
+        {
+          "name": "Green",
+          "hex": "5CB85C"
+        },
+        {
+          "name": "Pink",
+          "hex": "F4A6C1"
+        },
+        {
+          "name": "Bronze",
+          "hex": "B08D57"
+        },
+        {
+          "name": "Purple",
+          "hex": "8A2BE2"
+        },
+        {
+          "name": "Gold",
+          "hex": "D4AF37"
+        }
+      ]
+    },
+    {
+      "name": "Hygienic Detergent Gen 4 {color_name}",
+      "material": "SOAP",
+      "density": 1.05,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Glow Cleansing Filament Gen 5 {color_name}",
+      "material": "SOAP",
+      "density": 1.12,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Antibacterial Detergent Filament {color_name}",
+      "material": "SOAP",
+      "density": 1.06,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Vanilla",
+          "hex": "EFD8B5"
+        }
+      ]
+    },
+    {
+      "name": "Stick Spark Glow {color_name}",
+      "material": "GLOW",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "Multicolor",
+          "hex": "FFD700"
+        }
+      ]
+    },
+    {
+      "name": "Reflect Glow {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.16,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "pattern": "sparkle",
+      "colors": [
+        {
+          "name": "Reflective",
+          "hex": "F5F5F5"
+        }
+      ]
+    },
+    {
+      "name": "Timefilm {color_name}",
+      "material": "TIMEPROGRAMMED4D",
+      "density": 1.14,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Clear",
+          "hex": "E8F4F8"
+        }
+      ]
+    },
+    {
+      "name": "Metal Surface Gen 2 {color_name}",
+      "material": "METALSURFACE",
+      "density": 1.18,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C0C0C0"
+        }
+      ]
+    },
+    {
+      "name": "Fish Food {color_name}",
+      "material": "FISHING",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "8B5A2B"
+        }
+      ]
+    },
+    {
+      "name": "Rodent Deterrent {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "8B5A2B"
+        }
+      ]
+    },
+    {
+      "name": "Photovoltaic {color_name}",
+      "material": "PHOTOVOLTAIC",
+      "density": 1.17,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        }
+      ]
+    },
+    {
+      "name": "Vanilla (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Vanilla",
+          "hex": "EFD8B5"
+        }
+      ]
+    },
+    {
+      "name": "Clove (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "7A4B2E"
+        }
+      ]
+    },
+    {
+      "name": "Nutmeg (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "6F4E37"
+        }
+      ]
+    },
+    {
+      "name": "Star Anise (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "8B5A2B"
+        }
+      ]
+    },
+    {
+      "name": "Cardamom (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Tan",
+          "hex": "D2B48C"
+        }
+      ]
+    },
+    {
+      "name": "Black Pepper (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "111111"
+        }
+      ]
+    },
+    {
+      "name": "Coffee (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "6F4E37"
+        }
+      ]
+    },
+    {
+      "name": "Cocoa (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "5D4037"
+        }
+      ]
+    },
+    {
+      "name": "Lavender (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Lavender",
+          "hex": "C9A0DC"
+        }
+      ]
+    },
+    {
+      "name": "Lemongrass (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "7CB342"
+        }
+      ]
+    },
+    {
+      "name": "Ginger (Pure) {color_name}",
+      "material": "RAWESSENCE",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Orange",
+          "hex": "D2691E"
+        }
+      ]
+    },
+    {
+      "name": "Baby Gender Reveal {color_name}",
+      "material": "MEANINGFUL",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "F4A6C1"
+        },
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        }
+      ]
+    },
+    {
+      "name": "Insect Barrier {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "5DAE5D"
+        }
+      ]
+    },
+    {
+      "name": "Fiber {color_name}",
+      "material": "HIGHEND",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Natural",
+          "hex": "E6E6E6"
+        }
+      ]
+    },
+    {
+      "name": "Sugar {color_name}",
+      "material": "UTILITY",
+      "density": 1.07,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F7F7F7"
+        }
+      ]
+    },
+    {
+      "name": "Ball {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Toilet Color {color_name}",
+      "material": "UTILITY",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F8F8F8"
+        }
+      ]
+    },
+    {
+      "name": "Hydro Gel {color_name}",
+      "material": "WATERSECURITY",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Clear",
+          "hex": "E8F4F8"
+        }
+      ]
+    },
+    {
+      "name": "Active - Gen 2 {color_name}",
+      "material": "TIMEPROGRAMMED4D",
+      "density": 1.12,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        }
+      ]
+    },
+    {
+      "name": "Extended {color_name}",
+      "material": "TIMEPROGRAMMED4D",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "5CB85C"
+        }
+      ]
+    },
+    {
+      "name": "Passive - Gen 2 {color_name}",
+      "material": "TIMEPROGRAMMED4D",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Purple",
+          "hex": "8A2BE2"
+        }
+      ]
+    },
+    {
+      "name": "Coral Food {color_name}",
+      "material": "FISHING",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Coral",
+          "hex": "FF6F61"
+        }
+      ]
+    },
+    {
+      "name": "Flex {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.18,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "111111"
+        }
+      ]
+    },
+    {
+      "name": "Cinnamon {color_name}",
+      "material": "SMARTNUTRITION",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "A0522D"
+        }
+      ]
+    },
+    {
+      "name": "Wear {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "BDBDBD"
+        }
+      ]
+    },
+    {
+      "name": "Texture {color_name}",
+      "material": "UTILITY",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F2F2F2"
+        }
+      ]
+    },
+    {
+      "name": "Paper Surface {color_name}",
+      "material": "UTILITY",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F5F5F5"
+        }
+      ]
+    },
+    {
+      "name": "Support - Gen 2 {color_name}",
+      "material": "REPAIRMAINTENANCE",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Passive Cooling {color_name}",
+      "material": "SURVIVALEMERGENCY",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        }
+      ]
+    },
+    {
+      "name": "Vinegar {color_name}",
+      "material": "VINEGAR",
+      "density": 1.08,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Clear",
+          "hex": "F7F7F7"
+        }
+      ]
+    },
+    {
+      "name": "UV Reveal {color_name}",
+      "material": "UVREVEAL",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Clear",
+          "hex": "F0F0F0"
+        }
+      ]
+    },
+    {
+      "name": "Bug Attractor - Gen 2 {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.10,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "5CB85C"
+        }
+      ]
+    },
+    {
+      "name": "Antibacterial {color_name}",
+      "material": "RAWSCENTEDCLEANSING",
+      "density": 1.06,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "F8F8F8"
+        }
+      ]
+    },
+    {
+      "name": "Thermochromatic {color_name}",
+      "material": "SCIENTIFICEXPLORATION",
+      "density": 1.11,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Color Shift",
+          "hex": "E3F2FD"
+        }
+      ]
+    },
+    {
+      "name": "Holographic {color_name}",
+      "material": "OPTICAL",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "pattern": "sparkle",
+      "colors": [
+        {
+          "name": "Holographic",
+          "hex": "F2F2F2"
+        }
+      ]
+    },
+    {
+      "name": "TimeMass Photovoltaic {color_name}",
+      "material": "HIGHEND",
+      "density": 1.17,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "4F7CFF"
+        }
+      ]
+    },
+    {
+      "name": "Timeplast Heat Conductive Filament {color_name}",
+      "material": "SCIENTIFICEXPLORATION",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "111111"
+        }
+      ]
+    },
+    {
+      "name": "Fish Food Color Chromatic Filament {color_name}",
+      "material": "FISHING",
+      "density": 1.09,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Multicolor",
+          "hex": "F2C94C"
+        }
+      ]
+    },
+    {
+      "name": "Sublimation {color_name}",
+      "material": "HIGHEND",
+      "density": 1.12,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Microwave {color_name}",
+      "material": "HIGHEND",
+      "density": 1.14,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Gray",
+          "hex": "D3D3D3"
+        }
+      ]
+    },
+    {
+      "name": "TimeMass Carbon Nanotube {color_name}",
+      "material": "HIGHEND",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "111111"
+        }
+      ]
+    },
+    {
+      "name": "Stick & Glow {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.13,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "glow": true,
+      "colors": [
+        {
+          "name": "Multicolor",
+          "hex": "FFD700"
+        }
+      ]
+    },
+    {
+      "name": "Reflect & Glow {color_name}",
+      "material": "OUTDOOR",
+      "density": 1.16,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "pattern": "sparkle",
+      "glow": true,
+      "colors": [
+        {
+          "name": "Reflective",
+          "hex": "F5F5F5"
+        }
+      ]
+    },
+    {
+      "name": "Light Lithophane {color_name}",
+      "material": "IRIDESCENT",
+      "density": 1.16,
+      "weights": [
+        {
+          "weight": 350.0,
+          "spool_weight": 150,
+          "spool_type": "cardboard"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Clear",
+          "hex": "E8F4F8"
+        }
+      ]
+    }
+  ]
+}

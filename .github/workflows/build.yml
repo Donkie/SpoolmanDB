@@ -10,7 +10,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -18,9 +18,9 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
       - name: Install pipx
@@ -38,18 +38,26 @@ jobs:
     runs-on: ubuntu-latest
     needs: [validate]
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
       - name: Compile filaments
         run: python3 scripts/compile_filaments.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: filaments
-          path: filaments.json
-          if-no-files-found: error
+      - name: Commit updated artifacts
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f filaments.json
+          git add materials.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate compiled filament database [skip ci]"
+            git push
+          fi
 
   # Single deploy job since we're just deploying
   deploy:
@@ -64,21 +72,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Restore artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          name: filaments
-          path: public
-      - name: Copy remaining data
+          python-version: "3.11"
+      - name: Compile filaments
+        run: python3 scripts/compile_filaments.py
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: Copy generated data
         run: |
+          cp filaments.json public/
           cp materials.json public/
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: public/
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
