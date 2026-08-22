@@ -2124,6 +2124,76 @@
         ]
       },
       {
+        "name": "Panchroma™ Satin {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          },
+          {
+            "weight": 3000.0,
+            "spool_weight": 425.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Satin Black",
+            "hex": "302E30"
+          },
+          {
+            "name": "Satin White",
+            "hex": "EFEAE2"
+          },
+          {
+            "name": "Satin Grey",
+            "hex": "7E7D81"
+          },
+          {
+            "name": "Satin Orange",
+            "hex": "E77F2F"
+          },
+          {
+            "name": "Satin Yellow",
+            "hex": "EAC453"
+          },
+          {
+            "name": "Satin Green",
+            "hex": "4F8A5E"
+          },
+          {
+            "name": "Satin Polymaker Teal",
+            "hex": "49B8BE"
+          },
+          {
+            "name": "Satin Blue",
+            "hex": "2E6AAE"
+          },
+          {
+            "name": "Satin Purple",
+            "hex": "6157A9"
+          },
+          {
+            "name": "Satin Red",
+            "hex": "C64B4B"
+          }
+        ]
+      },
+      {
         "name": "Panchroma™ Matte (Formerly PolyTerra™) {color_name}",
         "material": "PLA",
         "density": 1.24,
