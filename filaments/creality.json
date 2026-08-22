@@ -320,7 +320,31 @@
                 {
                     "name": "Blue",
                     "hex": "0000FF"
+                },
+                {
+                    "name": "Transparent Blue",
+                    "hex": "06038D",
+                    "translucent": true
+                },
+                {
+                    "name": "Technology Blue",
+                    "hex": "587C8D"
+                },
+                {
+                    "name": "Transparent Green",
+                    "hex": "007436",
+                    "translucent": true
+                },
+                {
+                    "name": "Transparent Burgundy Red",
+                    "hex": "62171B",
+                    "translucent": true
+                },
+                {
+                    "name": "Purple",
+                    "hex": "B705DC"
                 }
+
             ]
         }
     ]
