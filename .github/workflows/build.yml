@@ -45,16 +45,11 @@ jobs:
           python-version: "3.11"
       - name: Compile filaments
         run: python3 scripts/compile_filaments.py
-      - uses: actions/upload-artifact@v5
-        with:
-          name: filaments
-          path: filaments.json
-          if-no-files-found: error
 
   # Single deploy job since we're just deploying
   deploy:
     if: ${{ github.event_name != 'pull_request' }}
-    needs: [compile]
+    needs: [validate]
     concurrency:
       group: "pages"
       cancel-in-progress: true
@@ -65,15 +60,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - name: Compile filaments
+        run: python3 scripts/compile_filaments.py
       - name: Setup Pages
         uses: actions/configure-pages@v6
-      - name: Restore artifacts
-        uses: actions/download-artifact@v5
-        with:
-          name: filaments
-          path: public
-      - name: Copy remaining data
+      - name: Copy generated data
         run: |
+          cp filaments.json public/
           cp materials.json public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
