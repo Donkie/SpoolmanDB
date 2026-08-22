@@ -2077,6 +2077,263 @@
         ]
       },
       {
+        "name": "Polymaker™ HT-PLA {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          200,
+          235
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "070707"
+          },
+          {
+            "name": "White",
+            "hex": "F3F3F1"
+          },
+          {
+            "name": "Grey",
+            "hex": "6C7477"
+          },
+          {
+            "name": "Blue",
+            "hex": "0F5EA0"
+          },
+          {
+            "name": "Red",
+            "hex": "AC0200"
+          },
+          {
+            "name": "Green",
+            "hex": "05AF47"
+          },
+          {
+            "name": "Yellow",
+            "hex": "F0C940"
+          },
+          {
+            "name": "Orange",
+            "hex": "DC6E38"
+          },
+          {
+            "name": "Brown",
+            "hex": "4D2D1C"
+          },
+          {
+            "name": "Teal",
+            "hex": "5FCCB7"
+          },
+          {
+            "name": "Gradient Rainbow",
+            "hexes": [
+              "AC0200",
+              "5FCCB7"
+            ],
+            "multi_color_direction": "longitudinal"
+          },
+          {
+            "name": "Gradient Tropical",
+            "hexes": [
+              "DC6E38",
+              "F0C940",
+              "05AF47"
+            ],
+            "multi_color_direction": "longitudinal"
+          },
+          {
+            "name": "Gradient Ice",
+            "hexes": [
+              "0F5EA0",
+              "F3F3F1"
+            ],
+            "multi_color_direction": "longitudinal"
+          },
+          {
+            "name": "Gradient Fire",
+            "hexes": [
+              "AC0200",
+              "DC6E38",
+              "F0C940"
+            ],
+            "multi_color_direction": "longitudinal"
+          }
+        ]
+      },
+      {
+        "name": "Polymaker™ HT-PLA-GF {color_name}",
+        "material": "PLA",
+        "density": 1.28,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          205,
+          240
+        ],
+        "bed_temp_range": [
+          30,
+          70
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "18191B"
+          },
+          {
+            "name": "White",
+            "hex": "EFF0EB"
+          },
+          {
+            "name": "Grey",
+            "hex": "91999F"
+          },
+          {
+            "name": "Blue",
+            "hex": "084989"
+          },
+          {
+            "name": "Army Green",
+            "hex": "61583C"
+          },
+          {
+            "name": "Power Tool Yellow",
+            "hex": "F6B649"
+          },
+          {
+            "name": "Power Tool Red",
+            "hex": "CA4140"
+          },
+          {
+            "name": "Power Tool Green",
+            "hex": "CECF45"
+          },
+          {
+            "name": "Power Tool Teal",
+            "hex": "215966"
+          }
+        ]
+      },
+      {
+        "name": "Polymaker™ HT-PLA Pro {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          200,
+          235
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "070707"
+          },
+          {
+            "name": "White",
+            "hex": "F3F3F1"
+          },
+          {
+            "name": "Grey",
+            "hex": "6C7477"
+          },
+          {
+            "name": "Red",
+            "hex": "AC0200"
+          },
+          {
+            "name": "Blue",
+            "hex": "0F5EA0"
+          },
+          {
+            "name": "Orange",
+            "hex": "DC6E38"
+          },
+          {
+            "name": "Polymaker Teal",
+            "hex": "5FCCB7"
+          },
+          {
+            "name": "Green",
+            "hex": "05AF47"
+          },
+          {
+            "name": "Yellow",
+            "hex": "F0C940"
+          },
+          {
+            "name": "Brown",
+            "hex": "5A3323"
+          },
+          {
+            "name": "Dark Grey",
+            "hex": "626B76"
+          },
+          {
+            "name": "Purple",
+            "hex": "7762E3"
+          },
+          {
+            "name": "Pink",
+            "hex": "FFC4DD"
+          },
+          {
+            "name": "Magenta",
+            "hex": "FF469B"
+          },
+          {
+            "name": "Burnt Orange",
+            "hex": "B7571F"
+          },
+          {
+            "name": "Army Beige",
+            "hex": "B68C61"
+          },
+          {
+            "name": "Army Green",
+            "hex": "697240"
+          },
+          {
+            "name": "3D Print General Flat Dark Earth",
+            "hex": "A8A38D"
+          }
+        ]
+      },
+      {
         "name": "Panchroma™ Silk {color_name}",
         "material": "PLA",
         "density": 1.24,
