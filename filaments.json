@@ -128263,6 +128263,566 @@
     "glow": false
   },
   {
+    "id": "polymaker_pla_panchromasatinsatinblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Black",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "302E30",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinblack_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Black",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "302E30",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinblue_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "2E6AAE",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinblue_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "2E6AAE",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatingreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "4F8A5E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatingreen_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "4F8A5E",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatingrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "7E7D81",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatingrey_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "7E7D81",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinorange_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "E77F2F",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinorange_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "E77F2F",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinpolymakerteal_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Polymaker Teal",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "49B8BE",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinpolymakerteal_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Polymaker Teal",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "49B8BE",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinpurple_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Purple",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "6157A9",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinpurple_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Purple",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "6157A9",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinred_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Red",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "C64B4B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinred_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Red",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "C64B4B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinwhite_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "EFEAE2",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinwhite_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "EFEAE2",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinyellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "EAC453",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_panchromasatinsatinyellow_3000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Panchroma\u2122 Satin Satin Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 3000.0,
+    "spool_weight": 425.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "EAC453",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      230
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
     "id": "polymaker_pla_panchromasilksilkblack_1000_175_n",
     "manufacturer": "Polymaker",
     "name": "Panchroma\u2122 Silk Silk Black",
