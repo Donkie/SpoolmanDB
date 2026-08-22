@@ -142297,6 +142297,1168 @@
     "glow": false
   },
   {
+    "id": "polymaker_pla_polymakerht-plablack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Black",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "070707",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plablue_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "0F5EA0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plabrown_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Brown",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "4D2D1C",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagradientfire_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Gradient Fire",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": null,
+    "color_hexes": [
+      "AC0200",
+      "DC6E38",
+      "F0C940"
+    ],
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": "longitudinal",
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagradientice_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Gradient Ice",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": null,
+    "color_hexes": [
+      "0F5EA0",
+      "F3F3F1"
+    ],
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": "longitudinal",
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagradientrainbow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Gradient Rainbow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": null,
+    "color_hexes": [
+      "AC0200",
+      "5FCCB7"
+    ],
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": "longitudinal",
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagradienttropical_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Gradient Tropical",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": null,
+    "color_hexes": [
+      "DC6E38",
+      "F0C940",
+      "05AF47"
+    ],
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": "longitudinal",
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "05AF47",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plagrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "6C7477",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaorange_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "DC6E38",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plapro3dprintgeneralflatdarkearth_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro 3D Print General Flat Dark Earth",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "A8A38D",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproarmybeige_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Army Beige",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "B68C61",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproarmygreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Army Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "697240",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Black",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "070707",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproblue_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Blue",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "0F5EA0",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprobrown_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Brown",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "5A3323",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproburntorange_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Burnt Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "B7571F",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprodarkgrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Dark Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "626B76",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprogreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Green",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "05AF47",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprogrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Grey",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "6C7477",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plapromagenta_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Magenta",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "FF469B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproorange_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Orange",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "DC6E38",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plapropink_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Pink",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "FFC4DD",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plapropolymakerteal_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Polymaker Teal",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "5FCCB7",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plapropurple_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Purple",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "7762E3",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprored_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Red",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "AC0200",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaprowhite_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F3F3F1",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plaproyellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Pro Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F0C940",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plared_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Red",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "AC0200",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plateal_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Teal",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "5FCCB7",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-plawhite_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA White",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F3F3F1",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-playellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA Yellow",
+    "material": "PLA",
+    "density": 1.24,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F0C940",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      200,
+      235
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      25,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfarmygreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Army Green",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "61583C",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Black",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "18191B",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfblue_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Blue",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "084989",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfgrey_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Grey",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "91999F",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfpowertoolgreen_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Power Tool Green",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "CECF45",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfpowertoolred_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Power Tool Red",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "CA4140",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfpowertoolteal_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Power Tool Teal",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "215966",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfpowertoolyellow_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF Power Tool Yellow",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "F6B649",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
+    "id": "polymaker_pla_polymakerht-pla-gfwhite_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "Polymaker\u2122 HT-PLA-GF White",
+    "material": "PLA",
+    "density": 1.28,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "EFF0EB",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      205,
+      240
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      70
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
     "id": "polymaker_pva_polydissolves1(pva)natural_750_175_c",
     "manufacturer": "Polymaker",
     "name": "PolyDissolve\u2122\u00a0S1 (PVA) Natural",
