@@ -294,7 +294,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 130.0,
+                    "spool_weight": 209.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -374,6 +374,18 @@
                     "name": "Transparent Blue",
                     "translucent": true,
                     "hex": "3A87FE"
+                },
+                {
+                    "name": "Chocolate",
+                    "hex": "793D00"
+                },
+                {
+                    "name": "Roasted Chestnut",
+                    "hex": "3C3027"
+                },
+                {
+                    "name": "Midnight",
+                    "hex": "0B1F2D"
                 }
             ]
         },
