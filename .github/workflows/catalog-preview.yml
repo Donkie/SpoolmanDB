@@ -1,0 +1,82 @@
+name: Catalog preview
+
+# Posts a comment listing the filament entries a PR would add, so the author can
+# check them against the manufacturer's catalog before a maintainer does.
+#
+# This uses pull_request_target because a PR from a fork has a read-only token
+# and cannot comment. Nothing from the PR is ever executed: the checkout is of
+# the base branch, and only *.json data files are taken from the PR head.
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "filaments/**"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: catalog-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the base branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Take the data files from the PR
+        env:
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          mkdir -p /tmp/base
+          cp filaments/*.json /tmp/base/
+          git fetch --no-tags origin "pull/$PR/head:pr-head"
+          # Restricted to a pathspec, so a PR cannot place files anywhere else.
+          git checkout pr-head -- 'filaments/*.json'
+
+      - name: Work out which files changed
+        id: changed
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          files=$(git diff --name-only --diff-filter=d "$BASE" pr-head -- 'filaments/*.json' | tr '\n' ' ')
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          echo "Changed: $files"
+
+      - name: Render the preview
+        if: steps.changed.outputs.files != ''
+        run: |
+          printf '%s\n' '<!-- catalog-preview -->' > preview.md
+          python3 scripts/preview_catalog.py \
+            --base-dir /tmp/base \
+            --out body.md \
+            ${{ steps.changed.outputs.files }}
+          cat body.md >> preview.md
+
+      - name: Post or update the comment
+        if: steps.changed.outputs.files != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          existing=$(gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq 'map(select(.body | startswith("<!-- catalog-preview -->"))) | .[0].id // empty')
+          if [ -n "$existing" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$existing" -F body=@preview.md
+            echo "Updated comment $existing"
+          else
+            gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@preview.md
+            echo "Posted a new comment"
+          fi

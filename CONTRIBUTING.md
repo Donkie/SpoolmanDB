@@ -165,8 +165,14 @@ Create `filaments/<manufacturer>.json`, lowercase, no spaces.
 pipx install check-jsonschema
 
 check-jsonschema --schemafile filaments.schema.json filaments/*
+python3 scripts/lint_filaments.py filaments/yourfile.json
 python3 scripts/compile_filaments.py
 ```
 
-Both have to pass, CI runs the same thing. The compile step catches what the
-schema can't, like duplicate IDs.
+All three have to pass, CI runs the same thing. The compile step catches what
+the schema can't, like duplicate IDs. The linter checks the conventions on this
+page, and also prints warnings that don't fail the build but are usually worth
+a look.
+
+When you open the PR, a bot comments with every entry your change would add to
+Spoolman. Read it against the manufacturer's catalog before asking for review.
