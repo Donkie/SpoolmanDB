@@ -2,6 +2,55 @@
     "manufacturer": "Polymaker",
     "filaments": [
       {
+        "name": "Fiberon\u2122 ASA-CF08 {color_name}",
+        "material": "ASA-CF",
+        "density": 1.09,
+        "weights": [
+          {
+            "weight": 500.0,
+            "spool_weight": 175.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          260,
+          280
+        ],
+        "bed_temp_range": [
+          90,
+          100
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Dark Grey",
+            "hex": "4D5E70"
+          },
+          {
+            "name": "Light Grey",
+            "hex": "ADC4D6"
+          },
+          {
+            "name": "Navy Blue",
+            "hex": "30548E"
+          },
+          {
+            "name": "Dark Red",
+            "hex": "855261"
+          },
+          {
+            "name": "Desert Sand",
+            "hex": "CEB69C"
+          }
+        ]
+      },
+      {
         "name": "Fiberon\u2122 PA12-CF10 {color_name}",
         "material": "PA",
         "density": 1.06,
