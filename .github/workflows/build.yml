@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -34,6 +36,30 @@ jobs:
         run: check-jsonschema --schemafile materials.schema.json materials.json
       - name: Validate Filaments
         run: check-jsonschema --schemafile filaments.schema.json filaments/*
+      - name: Check for generated and editor files
+        if: github.event_name == 'pull_request'
+        run: |
+          changed=$(git diff --name-only ${{ github.event.pull_request.base.sha }} HEAD)
+          bad=$(echo "$changed" | grep -E '^(filaments\.json|\.vscode/|\.idea/)|(^|/)\.DS_Store$' || true)
+          if [ -n "$bad" ]; then
+            echo "These files should not be committed:"
+            echo "$bad"
+            echo
+            echo "filaments.json is generated at build time and is gitignored."
+            echo "See CONTRIBUTING.md."
+            exit 1
+          fi
+      - name: Lint changed filament files
+        if: github.event_name == 'pull_request'
+        run: |
+          changed=$(git diff --name-only --diff-filter=d \
+            ${{ github.event.pull_request.base.sha }} HEAD -- 'filaments/*.json')
+          if [ -z "$changed" ]; then
+            echo "No filament files changed."
+            exit 0
+          fi
+          echo "$changed"
+          python3 scripts/lint_filaments.py $changed
   compile:
     runs-on: ubuntu-latest
     needs: [validate]
