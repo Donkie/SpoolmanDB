@@ -50,7 +50,11 @@ def describe_spool(entry: dict) -> str:
 
 def render(new_entries: list[dict]) -> str:
     if not new_entries:
-        return "## Catalog preview\n\nThis PR doesn't add any new filament entries.\n"
+        return (
+            "## Catalog preview\n\n"
+            "This PR doesn't add any new filament entries. It may still be "
+            "correcting existing ones, which this comment doesn't cover.\n"
+        )
 
     total = len(new_entries)
     out = [
@@ -68,17 +72,27 @@ def render(new_entries: list[dict]) -> str:
     ]
 
     new_entries.sort(key=lambda e: (e["manufacturer"], e["material"], e["name"]))
-    for e in new_entries:
-        out.append(
-            f"- {e['manufacturer']} - {e['material']} {e['name']} · {describe_spool(e)}"
-        )
-    out.append("")
+    bullets = [
+        f"- {e['manufacturer']} - {e['material']} {e['name']} · {describe_spool(e)}"
+        for e in new_entries
+    ]
 
-    text = "\n".join(out)
-    if len(text) > COMMENT_LIMIT:
-        text = (
-            text[:COMMENT_LIMIT].rsplit("\n", 1)[0]
-            + "\n\n*(list truncated, it is too long for a single comment)*\n"
+    # Keep as many entries as fit, and be explicit about any that don't.
+    header = "\n".join(out)
+    budget = COMMENT_LIMIT - len(header) - 200
+    kept = []
+    for bullet in bullets:
+        budget -= len(bullet) + 1
+        if budget < 0:
+            break
+        kept.append(bullet)
+
+    text = header + "\n".join(kept) + "\n"
+    dropped = len(bullets) - len(kept)
+    if dropped:
+        text += (
+            f"\n*Showing {len(kept)} of {len(bullets)} entries. The remaining "
+            f"{dropped} don't fit in a single comment.*\n"
         )
     return text
 
