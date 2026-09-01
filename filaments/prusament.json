@@ -101,12 +101,39 @@
                     "hex": "2B3B61"
                 },
                 {
-                    "name": "Carmine Red",
-                    "hex": "B54230"
-                },
-                {
                     "name": "Clear",
                     "hex": "dcdcdc"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Carmine Red",
+                    "hex": "B54230"
                 }
             ]
         },
