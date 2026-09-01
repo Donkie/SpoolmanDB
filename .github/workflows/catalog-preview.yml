@@ -1,0 +1,118 @@
+name: Catalog preview
+
+# Posts a comment listing the filament entries a PR would add, so the author can
+# check them against the manufacturer's catalog before a maintainer does.
+#
+# This uses pull_request_target because a PR from a fork has a read-only token
+# and cannot comment. Nothing from the PR is ever executed: the checkout is of
+# the base branch, and only the *.json data files it changed are taken from the
+# PR head.
+#
+# It can also be run by hand against one PR or every open PR, which is how
+# already-open PRs get their first comment.
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "filaments/**"
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: "PR number, or 'all' for every open PR"
+        required: true
+        default: "all"
+      dry_run:
+        description: "Render the comments but don't post them"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: catalog-preview-${{ github.event.pull_request.number || inputs.pr }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the base branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Post a preview on each PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          EVENT_PR: ${{ github.event.pull_request.number }}
+          INPUT_PR: ${{ inputs.pr }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -euo pipefail
+
+          # Whatever was checked out: the PR's base branch, or the default
+          # branch for a manual run.
+          base_sha=$(git rev-parse HEAD)
+
+          if [ -n "$EVENT_PR" ]; then
+            prs="$EVENT_PR"
+          elif [ "$INPUT_PR" = "all" ]; then
+            prs=$(gh pr list --repo "$REPO" --limit 300 --json number --jq '.[].number')
+          else
+            prs="$INPUT_PR"
+          fi
+
+          # The current state of main, used to decide which entries are new. A PR
+          # whose data someone else already merged will show up as adding little.
+          mkdir -p /tmp/base
+          cp filaments/*.json /tmp/base/
+
+          for pr in $prs; do
+            git reset -q --hard "$base_sha"
+            git clean -qfd filaments/
+            git fetch -q --no-tags --force origin "pull/$pr/head:pr-head" || {
+              echo "PR $pr: could not fetch head, skipping"; continue; }
+
+            # Diffing against the merge base keeps unrelated changes that landed
+            # on main since the PR was opened out of the list.
+            merge_base=$(git merge-base "$base_sha" pr-head)
+            files=$(git diff --name-only --diff-filter=d "$merge_base" pr-head \
+              -- 'filaments/*.json' | tr '\n' ' ')
+            if [ -z "$files" ]; then
+              echo "PR $pr: no filament files changed"
+              continue
+            fi
+
+            # Only data files are taken from the PR, and none of it is executed.
+            git checkout -q pr-head -- $files
+
+            printf '%s\n' '<!-- catalog-preview -->' > /tmp/preview.md
+            python3 scripts/preview_catalog.py --base-dir /tmp/base \
+              --out /tmp/body.md $files
+            cat /tmp/body.md >> /tmp/preview.md
+
+            if [ "${DRY_RUN:-false}" = "true" ]; then
+              echo "--- PR $pr (dry run) ---"
+              head -4 /tmp/body.md
+              continue
+            fi
+
+            existing=$(gh api "repos/$REPO/issues/$pr/comments" --paginate \
+              --jq 'map(select(.body | startswith("<!-- catalog-preview -->"))) | .[0].id // empty')
+            if [ -n "$existing" ]; then
+              gh api -X PATCH "repos/$REPO/issues/comments/$existing" -F body=@/tmp/preview.md >/dev/null
+              echo "PR $pr: updated comment $existing"
+            else
+              gh api -X POST "repos/$REPO/issues/$pr/comments" -F body=@/tmp/preview.md >/dev/null
+              echo "PR $pr: posted a new comment"
+            fi
+          done
