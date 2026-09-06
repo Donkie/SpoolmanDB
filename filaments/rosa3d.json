@@ -193,6 +193,32 @@
                     "hex": "050503"
                 }
             ]
-        }
+        },
+        
+        {
+            "name": "BioWOOD {color_name}",
+            "material": "BioWOOD",
+            "density": 1.26,
+            "diameters": [1.75],
+            "weights": [
+                {
+                "weight": 1000,
+                "spool_weight": 250,
+                "spool_type": "plastic"
+                },
+                {
+                "weight": 500,
+                "spool_weight": 250,
+                "spool_type": "plastic"
+                }
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 55,
+
+            "colors": [
+                { "name": "Natural Wood", "hex": "b2926b" },
+                { "name": "Black Oak", "hex": "292929" }
+                ]
+         }
     ]
 }
