@@ -155,7 +155,7 @@
         {
           "name": "Transparent",
           "hex": "FFFFFF",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Red",
@@ -180,37 +180,37 @@
         {
           "name": "Vivid Cyan",
           "hex": "00FFFF",
-          "glow": "true"
+          "glow": true
         },
         {
           "name": "Bright Purple",
           "hex": "D200FF",
-          "glow": "true"
+          "glow": true
         },
         {
           "name": "Fluro Lavender",
           "hex": "CC99FF",
-          "glow": "true"
+          "glow": true
         },
         {
           "name": "Bright Turquoise",
           "hex": "40E0D0",
-          "glow": "true"
+          "glow": true
         },
         {
           "name": "Ultra Violet",
           "hex": "9400D3",
-          "glow": "true"
+          "glow": true
         },
         {
           "name": "Translucent Dark Blue",
           "hex": "193153",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Dark Green",
           "hex": "81B36D",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Black",
@@ -235,62 +235,62 @@
 		{
           "name": "Neon Yellow",
           "hex": "DFFF00",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Electric Green",
           "hex": "515234",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Aquatic Blue",
           "hex": "00CFFF",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Hot Pink",
           "hex": "FF007F",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Fluro Red",
           "hex": "FF2200",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Bright Magenta",
           "hex": "FF00CC",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Translucent Black",
           "hex": "1C1C1C",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Translucent Storm Grey",
           "hex": "A1A1A0",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Translucent Purple",
           "hex": "193153",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Translucent Blood Red",
           "hex": "861A22",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Translucent Orange",
           "hex": "FF2A00",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Translucent Yellow",
           "hex": "FFFF00",
-          "translucent": "true"
+          "translucent": true
         },
 		{
           "name": "Earth Brown",
@@ -412,7 +412,7 @@
 		{
           "name": "Fluro Red",
           "hex": "FF2200",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Burnt Grey",
@@ -441,7 +441,7 @@
 		{
           "name": "Electric Green",
           "hex": "DFFF00",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Peanut",
@@ -462,7 +462,7 @@
 		{
           "name": "Neon Yellow",
           "hex": "DFFF00",
-          "glow": "true"
+          "glow": true
         },
 		{
           "name": "Aquatic Blue",
@@ -475,42 +475,42 @@
         {
           "name": "Translucent Black",
           "hex": "1C1C1C",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Yellow",
           "hex": "FFFF00",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Green",
           "hex": "81B36D",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Blood Red",
           "hex": "861A22",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Dark Blue",
           "hex": "193153",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Storm Grey",
           "hex": "A1A1A0",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Purple",
           "hex": "193153",
-          "translucent": "true"
+          "translucent": true
         },
         {
           "name": "Translucent Orange",
           "hex": "FF4B11",
-          "translucent": "true"
+          "translucent": true
         }
       ]
     },
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "name": "Wood",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.22,
       "weights": [
