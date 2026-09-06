@@ -1952,12 +1952,20 @@
             "hex": "764c99"
           },
           {
+            "name": "Emerald Green",
+            "hex": "22624f"
+          },
+          {
             "name": "Forest Green",
             "hex": "519f61"
           },
           {
             "name": "Fossil Grey",
             "hex": "6f727e"
+          },
+          {
+            "name": "Grass Green",
+            "hex": "32bc46"
           },
           {
             "name": "Lavender Purple",
@@ -1984,12 +1992,28 @@
             "hex": "656d60"
           },
           {
+            "name": "Muted Mauve",
+            "hex": "a36d82"
+          },
+          {
+            "name": "Muted Moss",
+            "hex": "92864f"
+          },
+          {
             "name": "Muted Purple",
             "hex": "7c5577"
           },
           {
             "name": "Muted Red",
             "hex": "db3e14"
+          },
+          {
+            "name": "Muted Teal",
+            "hex": "5d989e"
+          },
+          {
+            "name": "Muted Terracotta",
+            "hex": "c06443"
           },
           {
             "name": "Muted White",
@@ -2000,8 +2024,16 @@
             "hex": "f5cf6f"
           },
           {
+            "name": "Pastel Beige",
+            "hex": "e4d0b0"
+          },
+          {
             "name": "Pastel Candy",
             "hex": "dabcc8"
+          },
+          {
+            "name": "Pastel Coral",
+            "hex": "f09a7e"
           },
           {
             "name": "Pastel Ice",
@@ -2028,6 +2060,10 @@
             "hex": "e93a3f"
           },
           {
+            "name": "Raspberry Blue",
+            "hex": "5472d0"
+          },
+          {
             "name": "Sakura Pink",
             "hex": "e0a8bb"
           },
@@ -2040,12 +2076,24 @@
             "hex": "f0be02"
           },
           {
+            "name": "Seafoam Green",
+            "hex": "7dd4be"
+          },
+          {
             "name": "Sky Blue",
             "hex": "87ceeb"
           },
           {
             "name": "Sunrise Orange",
             "hex": "f78e0e"
+          },
+          {
+            "name": "Sunshine Yellow",
+            "hex": "F9DA07"
+          },
+          {
+            "name": "Wine Burgundy",
+            "hex": "753e4c"
           },
           {
             "name": "Wood Brown",
