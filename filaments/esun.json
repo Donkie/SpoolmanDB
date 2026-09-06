@@ -137,6 +137,11 @@
                     "weight": 1000,
                     "spool_weight": 170,
                     "spool_type": "cardboard"
+                },
+                {
+                    "weight": 3000,
+                    "spool_weight": 630,
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
