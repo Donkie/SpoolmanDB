@@ -1,0 +1,191 @@
+{
+    "manufacturer": "Sindoh",
+    "filaments": [
+        {
+            "name": "3DWOX Series {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 700
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 200,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFC0CB"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "800080"
+                }
+            ]
+        },
+        {
+            "name": "3DWOX Series {color_name}",
+            "material": "ABS",
+            "density": 1.06,
+            "weights": [
+                {
+                    "weight": 600
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 90,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                }
+            ]
+        },
+        {
+            "name": "3DWOX 7X {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1500
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 200,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                }
+            ]
+        },
+        {
+            "name": "3DWOX Series Flexible {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 500
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                }
+            ]
+        },
+        {
+            "name": "3DWOX Series PVA+ {color_name}",
+            "material": "PVA+",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 500
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 200,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "F5F0E1",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}
