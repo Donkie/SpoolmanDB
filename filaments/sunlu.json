@@ -278,6 +278,76 @@
         },
         {
             "name": "{color_name}",
+            "material": "TPU-95A",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "6C6C6C"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C51E25"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FB6D23"
+                }
+            ]
+        },
+        {
+            "name": "Transparent {color_name}",
+            "material": "TPU-95A",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 55,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Green",
+                    "hex": "03BC4F"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FB6D23"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
