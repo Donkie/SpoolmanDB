@@ -776,6 +776,13 @@
                         "F78F77",
                         "E4505A"
                     ]
+                },
+                {
+                    "name": "Dusk Glare",
+                    "hexes": [
+                        "ED9558",
+                        "CE4406"
+                    ]
                 }
             ]
         },
@@ -836,9 +843,99 @@
                     "name": "Aurora Purple (Blue-Purple)",
                     "multi_color_direction": "longitudinal",
                     "hexes": [
-                        "1E63BF",
-                        "713D9C"
+                        "7F3696",
+                        "006EC9"
                     ]
+                },
+                {
+                    "name": "South Beach",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "F772A4",
+                        "00918B"
+                    ]
+                },
+                {
+                    "name": "Dawn Radiance",
+                    "multi_color_direction": "longitudinal",
+                    "hexes": [
+                        "EC984C",
+                        "6CD4BC",
+                        "A66EB9",
+                        "D87694"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lite {color_name}",
+            "material": "PLA",
+            "density": 1.4,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 35,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "999D9D"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C6001A"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EFE255"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "4DAFDA"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "004EA8"
+                }
+            ]
+        },
+        {
+            "name": "Aero {color_name}",
+            "material": "PLA",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 35,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
                 }
             ]
         },
@@ -982,7 +1079,7 @@
                 },
                 {
                     "name": "Gray",
-                    "hex": "9EA2A2"
+                    "hex": "7F7E83"
                 },
                 {
                     "name": "Blue Gray",
@@ -1023,6 +1120,10 @@
                 {
                     "name": "Purple",
                     "hex": "9E007E"
+                },
+                {
+                    "name": "Dark Brown",
+                    "hex": "4F2C1D"
                 },
                 {
                     "name": "Black",
@@ -1378,7 +1479,7 @@
                 },
                 {
                     "name": "Clear Black",
-                    "hex": "5A5161"
+                    "hex": "000000"
                 },
                 {
                     "name": "Black",
