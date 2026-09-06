@@ -12,9 +12,7 @@
                     "spool_type": "cardboard"
                 }
             ],
-            "diameters": [
-                1.75
-            ],
+            "diameters": [1.75],
             "extruder_temp": 220,
             "bed_temp": 60,
             "colors": [
@@ -82,6 +80,75 @@
                 {
                     "name": "White",
                     "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 140,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [1.75],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Matte Beige",
+                    "hex": "EFD8BE"
+                },
+                {
+                    "name": "Matte Navy Blue",
+                    "hex": "000080"
+                },
+                {
+                    "name": "Matte Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Matte Blue Grey",
+                    "hex": "6699CC"
+                },
+                {
+                    "name": "Matte Gris ardoise",
+                    "hex": "989898"
+                },
+                {
+                    "name": "Matte Ice Blue",
+                    "hex": "84BDF5"
+                },
+                {
+                    "name": "Matte Mint Green",
+                    "hex": "ADEBB3"
+                },
+                {
+                    "name": "Matte Ruby Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Matte Sakura Pink",
+                    "hex": "FFB7C5"
+                },
+                {
+                    "name": "Matte Slate Grey",
+                    "hex": "B0B0B2"
+                },
+                {
+                    "name": "Matte Sunshine Yellow",
+                    "hex": "EBCA49"
+                },
+                {
+                    "name": "Matte Teal Green",
+                    "hex": "00D2D0"
+                },
+                {
+                    "name": "Matte White",
+                    "hex": "F4F4F4"
                 }
             ]
         }
