@@ -557,6 +557,30 @@
                     "hex": "564e44"
                 }
             ]
+        },
+        {	"name": "Silk Dual Color {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 130,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "bed_temp": 55,
+            "finish": "glossy",
+            "colors": [
+                {
+                    "name": "Black Blue",
+                    "hex": "0F1217, #002789"
+                }
+            ]
         }
     ]
 }
+
