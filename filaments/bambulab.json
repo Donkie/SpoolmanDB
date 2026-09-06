@@ -301,6 +301,33 @@
             ]
         },
         {
+            "name": "Aero {color_name}",
+            "material": "PLA",
+            "density": 0.74,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 40,
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "F5F1DD"
+                },
+
+                {
+                    "name": "Gray",
+                    "hex": "CECDCA"
+                }
+            ]
+        },
+        {
             "name": "Tough+ {color_name}",
             "material": "PLA",
             "density": 1.21,
