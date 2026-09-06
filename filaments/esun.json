@@ -690,6 +690,97 @@
                 }
             ]
         },
+    {
+        "name": "PLA-Matte Dual Color {color_name}",
+        "material": "PLA",
+        "density": 1.174,
+        "weights": [
+            {
+                "weight": 1000,
+                "spool_weight": 170,
+                "spool_type": "cardboard"
+            }
+        ],
+        "diameters": [
+            1.75
+        ],
+        "extruder_temp": 220,
+        "bed_temp": 60,
+        "colors": [
+            {
+                "name": "GREEN PINK",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "7dd274",
+                    "d556bd"
+                ]
+            },
+            {
+                "name": "BLUE GREEN",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "2c4772",
+                    "79b9a1"
+                ]
+            },
+            {
+                "name": "BLACK RED",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "3d3d3f",
+                    "ec4235"
+                ]
+            },
+            {
+                "name": "BLACK WHITE",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "292a2c",
+                    "dadae2"
+                ]
+            },
+            {
+                "name": "BLUE PURPLE",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "5f71f1",
+                    "c683d0"
+                ]
+            },
+            {
+                "name": "GREEN PURPLE",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "81da7e",
+                    "423270"
+                ]
+            },
+            {
+                "name": "PURPLE YELLOW",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "8d57d1",
+                    "ffcc23"
+                ]
+            },
+            {
+                "name": "RED BLUE",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "b93c44",
+                    "526be2"
+                ]
+            },
+            {
+                "name": "RED YELLOW",
+                "multi_color_direction": "coaxial",
+                "hexes": [
+                    "f9634a",
+                    "fe8f64"
+                ]
+            }
+        ]
+    },
      {
             "name": "PLA-Matte {color_name}",
             "material": "PLA",
