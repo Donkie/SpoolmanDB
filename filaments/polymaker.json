@@ -2098,6 +2098,251 @@
             "hex": "c6c781"
           }
         ]
+      },
+      {
+        "name": "Panchroma™ (Formerly PolyLite™) Starlight {color_name}",
+        "material": "PLA",
+        "pattern": "sparkle",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Neptune",
+            "hex": "113148"
+          },
+          {
+            "name": "Mercury",
+            "hex": "33322D"
+          },
+          {
+            "name": "Jupiter",
+            "hex": "774718"
+          },
+          {
+            "name": "Comet",
+            "hex": "1F312A"
+          },
+          {
+            "name": "Meteor",
+            "hex": "2F3117"
+          },
+          {
+            "name": "Aurora",
+            "hex": "314530"
+          },
+          {
+            "name": "Nebula",
+            "hex": "462F32"
+          },
+          {
+            "name": "Twilight",
+            "hex": "1E3445"
+          },
+          {
+            "name": "Mars",
+            "hex": "962E31"
+          },
+          {
+            "name": "Midnight",
+            "hex": "475A64"
+          },
+          {
+            "name": "Pulsar",
+            "hex": "5C7BC1"
+          }
+        ]
+      },
+      {
+        "name": "Panchroma™ Celestial {color_name}",
+        "material": "PLA",
+        "pattern": "sparkle",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Blue",
+            "hex": "6ADCF7"
+          },
+          {
+            "name": "Green",
+            "hex": "6FE2D2"
+          },
+          {
+            "name": "Purple",
+            "hex": "9678C8"
+          },
+          {
+            "name": "White",
+            "hex": "DCDAD0"
+          },
+          {
+            "name": "Light Yellow",
+            "hex": "D7CE89"
+          },
+          {
+            "name": "Light Pink",
+            "hex": "C3ADB8"
+          },
+          {
+            "name": "Yellow",
+            "hex": "F4C76A"
+          }
+        ]
+      },
+      {
+        "name": "Panchroma™ (Formerly PolyLite™) Silk {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "363538"
+          },
+          {
+            "name": "Purple",
+            "hex": "786BB0"
+          },
+          {
+            "name": "Magenta",
+            "hex": "AA538E"
+          },
+          {
+            "name": "Rose",
+            "hex": "CF6076"
+          },
+          {
+            "name": "Red",
+            "hex": "C1443F"
+          },
+          {
+            "name": "Rose Gold",
+            "hex": "CBB0B1"
+          },
+          {
+            "name": "Quartz Pink",
+            "hex": "DBBBBB"
+          },
+          {
+            "name": "Bronze",
+            "hex": "AF6B4C"
+          },
+          {
+            "name": "Orange",
+            "hex": "EB6232"
+          },
+          {
+            "name": "White",
+            "hex": "DFE4E4"
+          },
+          {
+            "name": "Gold",
+            "hex": "C49449"
+          },
+          {
+            "name": "Yellow",
+            "hex": "EEC810"
+          },
+                    {
+            "name": "Lime",
+            "hex": "C4CF4C"
+          },
+          {
+            "name": "Green",
+            "hex": "55B687"
+          },
+          {
+            "name": "Teal",
+            "hex": "66C2B6"
+          },
+          {
+            "name": "Light Blue",
+            "hex": "4CC1CB"
+          },
+          {
+            "name": "Blue",
+            "hex": "4999C9"
+          },
+          {
+            "name": "Chrome",
+            "hex": "85898B"
+          },
+          {
+            "name": "Silver",
+            "hex": "BCC2C8"
+          },
+          {
+            "name": "Brass",
+            "hex": "968162"
+          },
+          {
+            "name": "Peridot Green",
+            "hex": "7F865B"
+          },
+          {
+            "name": "Periwinkle",
+            "hex": "768EC7"
+          },
+          {
+            "name": "Dark Blue",
+            "hex": "23599A"
+          },
+          {
+            "name": "Gunmetal Grey",
+            "hex": "676B6A"
+          }
+        ]
       }
     ]
 }
