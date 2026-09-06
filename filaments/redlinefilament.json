@@ -1,0 +1,120 @@
+{
+    "manufacturer": "REDLINE FILAMENT",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                215
+            ],
+            "bed_temp_range": [
+                0,
+                60
+            ],
+            "colors": [
+                {"name": "Beige", "hex": "c2b078"},
+                {"name": "Maisgelb", "hex": "e3a500"},
+                {"name": "Elfenbein", "hex": "e6d2b5"},
+                {"name": "Schwefelgelb", "hex": "f5d033"},
+                {"name": "Gelb", "hex": "fad201"},
+                {"name": "Goldbraun", "hex": "a38c15"},
+                {"name": "Bronzegold", "hex": "9f8932"},
+                {"name": "Gelborange", "hex": "f0a500"},
+                {"name": "Hellorange", "hex": "ed760e"},
+                {"name": "Orange", "hex": "f3752b"},
+                {"name": "Weinrot (Braunrot)", "hex": "412227"},
+                {"name": "Rot", "hex": "cc2529"},
+                {"name": "Orientrot", "hex": "763420"},
+                {"name": "Lila", "hex": "8d7598"},
+                {"name": "Magenta", "hex": "c63678"},
+                {"name": "Lavendel", "hex": "a5154a"},
+                {"name": "Dunkelblau", "hex": "20214f"},
+                {"name": "Kobaltblau", "hex": "1d1f5b"},
+                {"name": "Himmelblau", "hex": "2271b3"},
+                {"name": "Islandblau", "hex": "6daedd", "translucent": true},
+                {"name": "Taubenblau", "hex": "6d8099"},
+                {"name": "Wasserblau", "hex": "358698"},
+                {"name": "Blattgrün", "hex": "4d7c43"},
+                {"name": "Dunkelgrün", "hex": "1e6b4a"},
+                {"name": "Apfelgrün", "hex": "36b336"},
+                {"name": "Olivgrün", "hex": "3f4030"},
+                {"name": "Leichtes Grün", "hex": "a8d8cb"},
+                {"name": "Grau", "hex": "7e8b92"},
+                {"name": "Khaki", "hex": "6a5f31"},
+                {"name": "Eisengrau", "hex": "4e5965"},
+                {"name": "Hellgrau", "hex": "d7d7d7"},
+                {"name": "Kupferbraun", "hex": "8e402a"},
+                {"name": "Braun", "hex": "59351f"},
+                {"name": "Beigebraun", "hex": "7b5141"},
+                {"name": "Crem Weiß (Perlweiß)", "hex": "fdf4e3"},
+                {"name": "Weiß", "hex": "f4f4f4"},
+                {"name": "Silber", "hex": "a5a5a5"},
+                {"name": "Schwarz", "hex": "1e1e1e"},
+                {"name": "Neon Grün", "hex": "00b140", "translucent": true},
+                {"name": "Neon Pink", "hex": "fe17a2"},
+                {"name": "Neon Orange", "hex": "fe5000", "translucent": true},
+                {"name": "Leichtes Blau", "hex": "74b2dd"},
+                {"name": "Neon Gelb", "hex": "d4ed47", "translucent": true},
+                {"name": "Gelbgold", "hex": "c9a96e"},
+                {"name": "Neon Transparent", "hex": "b8d4e8", "translucent": true},
+                {"name": "Leichtes Pink", "hex": "f9c4ba"},
+                {"name": "Blau", "hex": "1b4f8a"},
+                {"name": "Natur Transparent", "hex": "e8e4d8", "translucent": true},
+                {"name": "Glow in the Dark (Grün)", "hex": "c8e04a", "glow": true},
+                {"name": "Glow in the Dark (Blau)", "hex": "5bb8f5", "glow": true}
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA-X",
+            "density": 1.11,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 255,
+            "extruder_temp_range": [
+                235,
+                255
+            ],
+            "bed_temp_range": [
+                80,
+                90
+            ],
+            "colors": [
+                {"name": "Schwarz", "hex": "1e1e1e"},
+                {"name": "Weiß", "hex": "f4f4f4"},
+                {"name": "Rot", "hex": "cc2529"},
+                {"name": "Dunkelblau", "hex": "20214f"},
+                {"name": "Eisengrau", "hex": "4e5965"},
+                {"name": "Hellgrau", "hex": "d7d7d7"},
+                {"name": "Verkehrsblau", "hex": "2271b3"},
+                {"name": "Apfelgrün", "hex": "57a639"},
+                {"name": "Blattgrün", "hex": "4d7c43"},
+                {"name": "Dunkelsilber", "hex": "9a9697"},
+                {"name": "Orange", "hex": "f3752b"},
+                {"name": "Gelb", "hex": "fad201"},
+                {"name": "Glitzer Eisengau", "hex": "535a5e", "pattern": "sparkle"},
+                {"name": "Glitzer Oxidrot", "hex": "911e1e", "pattern": "sparkle"}
+            ]
+        }
+    ]
+}

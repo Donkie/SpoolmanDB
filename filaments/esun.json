@@ -1070,7 +1070,7 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp_rang": [230, 270],
+            "extruder_temp_range": [230, 270],
             "bed_temp_range": [100, 115],
             "colors": [
                 {"name": "Black", "hex": "000000"},

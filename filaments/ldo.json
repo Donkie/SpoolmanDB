@@ -14,7 +14,7 @@
             "diameters": [
                 1.75
             ],
-			"extruder_temp ": 260,
+			"extruder_temp": 260,
 			"bed_temp_range": [
 				90,
 				110
@@ -74,7 +74,7 @@
             "diameters": [
                 1.75
             ],
-			"extruder_temp ": 260,
+			"extruder_temp": 260,
 			"bed_temp_range": [
 				90,
 				110
