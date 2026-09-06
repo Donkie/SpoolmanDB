@@ -1,0 +1,116 @@
+{
+    "manufacturer": "Sain Smart",
+    "filaments": [
+        {
+            "name": "TPU Flexible Filament {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_material": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [200, 220],
+            "bed_temp_range": [40, 60],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Red",
+                    "hex": "ff0000"
+                },
+                {
+                    "name": "Galaxy Blue",
+                    "hex": "0000ff"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "A0A0A0",
+                    "translucent": true
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "00ff00"
+                },
+                {
+                    "name": "Neon Yellow",
+                    "hex": "ffff00"
+                },
+                {
+                    "name": "Neon Cyan",
+                    "hex": "00ffff"
+                },
+                {
+                    "name": "Neon Scarlet",
+                    "hex": "ff4500"
+                },
+                {
+                    "name": "Neon Magenta",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Caramel",
+                    "hex": "ffa500"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "ffa500"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "ffff00"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000ff"
+                },
+                {
+                    "name": "Green",
+                    "hex": "00ff00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "ff69b4"
+                },
+                {
+                    "name": "Emerald",
+                    "hex": "50c878"
+                },
+                {
+                    "name": "Peach",
+                    "hex": "ffe5b4"
+                },
+                {
+                    "name": "Violet",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Teal",
+                    "hex": "008080"
+                },
+                {
+                    "name": "Living Coral",
+                    "hex": "ff6f61"
+                }
+            ]
+        }
+    ]
+}
