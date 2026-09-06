@@ -3,7 +3,7 @@
     "filaments": [
       {
         "name": "Fiberon\u2122 PA12-CF10 {color_name}",
-        "material": "PA",
+        "material": "PA12-CF",
         "density": 1.06,
         "weights": [
           {
@@ -32,7 +32,7 @@
       },
       {
         "name": "Fiberon\u2122 PA6-CF20 {color_name}",
-        "material": "PA",
+        "material": "PA6-CF",
         "density": 1.17,
         "weights": [
           {
@@ -66,7 +66,7 @@
       },
       {
         "name": "Fiberon\u2122 PA6-GF25 {color_name}",
-        "material": "PA",
+        "material": "PA6-GF",
         "density": 1.2,
         "weights": [
           {
@@ -165,7 +165,7 @@
       },
       {
         "name": "PolyFlex\u2122\u00a0TPU90 {color_name}",
-        "material": "TPU",
+        "material": "TPU-90A",
         "density": 1.12,
         "weights": [
           {
@@ -211,7 +211,7 @@
       },
       {
         "name": "PolyFlex\u2122\u00a0TPU95 {color_name}",
-        "material": "TPU",
+        "material": "TPU-95A",
         "density": 1.22,
         "weights": [
           {
@@ -261,7 +261,7 @@
       },
       {
         "name": "PolyFlex\u2122\u00a0TPU95-HF {color_name}",
-        "material": "TPU",
+        "material": "TPU-95A",
         "density": 1.16,
         "weights": [
           {
@@ -1307,7 +1307,7 @@
       },
       {
         "name": "Polymaker PC-ABS {color_name}",
-        "material": "PC",
+        "material": "PC+ABS",
         "density": 1.1,
         "weights": [
           {
