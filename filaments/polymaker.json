@@ -1859,19 +1859,19 @@
           {
             "name": "Orange",
             "hex": "ec7626"
-          }, 
+          },
           {
             "name": "Yellow",
             "hex": "ccc93c"
-          }, 
+          },
           {
             "name": "Pink",
             "hex": "f48079"
-          }, 
+          },
           {
             "name": "Green",
             "hex": "75df69"
-          }, 
+          },
           {
             "name": "Blue",
             "hex": "419ec2"
@@ -2096,6 +2096,51 @@
           {
             "name": "Sandstone",
             "hex": "c6c781"
+          }
+        ]
+      },
+      { "name": "Panchroma™ Translucent {color_name}",
+        "material": "PLA",
+        "translucent": true,
+        "density": 1.17,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 145.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Cyan",
+            "hex": "08abfb"
+          },
+          {
+            "name": "Magenta",
+            "hex": "d93b90"
+          },
+          {
+            "name": "Yellow",
+            "hex": "f9ed3d"
+          },
+          {
+            "name": "Grey",
+            "hex": "9991a4"
+          },
+          {
+            "name": "Natural",
+            "hex": "e8e6d0"
           }
         ]
       }
