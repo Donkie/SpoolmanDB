@@ -354,7 +354,7 @@
                     "hex": "ebcfa7"
                 }
             ]
-        },        
+        },
         {
             "name": "ePLA+HS {color_name}",
             "material": "PLA+",
@@ -1145,6 +1145,49 @@
                 {
                     "name": "Change by temp",
                     "hex": "d93325"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 220,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Antique Brass",
+                    "hex": "a8918b"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "60706f"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "5f6366"
+                },
+                {
+                    "name": "Black",
+                    "hex": "2c2c2a"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "5c626e"
+                },
+                {
+                    "name": "Black Red",
+                    "hex": "423c3e"
                 }
             ]
         }
