@@ -321,6 +321,10 @@
                     "name": "Blue",
                     "hex": "0000FF"
                 }
+                {
+                    "name": "Grey",
+                    "hex": "AAA9A8"
+                }
             ]
         }
     ]
