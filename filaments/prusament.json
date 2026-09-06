@@ -490,6 +490,10 @@
                 {
                     "name": "Natural",
                     "hex": "DFDFD3"
+                },
+                {
+                    "name": "Galaxy Red",
+                    "hex": "D94A5A"
                 }
             ]
         }
