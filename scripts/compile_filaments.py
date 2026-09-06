@@ -61,6 +61,8 @@ class Filament(TypedDict):
     pattern: NotRequired[Pattern | None]
     translucent: NotRequired[bool]
     glow: NotRequired[bool]
+    sds_url: NotRequired[str]
+    tds_url: NotRequired[str]
 
 
 SPOOL_TYPE_MAP = {
@@ -108,6 +110,8 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
     pattern = data.get("pattern", None)
     translucent = data.get("translucent", False)
     glow = data.get("glow", False)
+    sds_url = data.get("sds_url", None)
+    tds_url = data.get("tds_url", None)
 
     for weight_obj in weights:
         weight = weight_obj["weight"]
@@ -192,6 +196,8 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                     "pattern": color_pattern,
                     "translucent": color_translucent,
                     "glow": color_glow,
+                    "sds_url": sds_url,
+                    "tds_url": tds_url,
                 }
 
 
