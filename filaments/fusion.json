@@ -3,19 +3,19 @@
     "filaments": 
 	[
         {
-            "name": "ABS 1.5 {color_name} (matte)",
+            "name": "ABS Matte {color_name}",
             "material": "ABS",
             "density": 1.05,
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 162
+                    "spool_weight": 150
                 }
             ],
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 280,
+            "extruder_temp": 265,
 			"bed_temp_range": [
 			90,
 			100
@@ -74,6 +74,10 @@
                     "hex": "676A6D"
                 },
 				{
+                    "name": "Mystery",
+                    "hex": "676A6D"
+                },
+				{
                     "name": "Natural",
                     "hex": "BFC4C7"
                 },
@@ -109,6 +113,10 @@
                     "name": "Seismic Red ",
                     "hex": "9D0115"
                 },
+				{
+                    "name": "Sunfire Helix",
+                    "hex": "b0661b"
+                },
                 {
                     "name": "Thorium Thilver",
                     "hex": "687074"
@@ -120,23 +128,23 @@
                 {
                     "name": "Uranium Yellow",
                     "hex": "DBDA45"
-          }
-        ]
-      },
-      {
-            "name": "ABS 2.0 {color_name} (gloss)",
+				}
+			]
+		},
+		{
+            "name": "ABS Gloss {color_name}",
             "material": "ABS",
             "density": 1.05,
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 162
+                    "spool_weight": 150
                 }
             ],
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 255,
+            "extruder_temp": 265,
 			"bed_temp_range": [
 			90,
 			100
@@ -186,9 +194,17 @@
                     "name": "Mushroom Cloud Grey",
                     "hex": "595C61"
                 },
+				{
+                    "name": "Mystery",
+                    "hex": "595C61"
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
+                },
+				{
+                    "name": "Natural",
+                    "hex": "BFC4C7"
                 },
                 {
                     "name": "Neutron Green",
@@ -214,6 +230,10 @@
                     "name": "Seismic Red",
                     "hex": "9D3026"
                 },
+				{
+                    "name": "Sunfire Helix",
+                    "hex": "b0661b"
+                },
                 {
                     "name": "Thorium Thilver",
                     "hex": "616971"
@@ -225,17 +245,17 @@
                 {
                     "name": "Uranium Yellow",
                     "hex": "A9C82F"
-          }
-        ]
-      },
-      {
+				}
+			]
+		},
+		{
             "name": "HTPLA+ {color_name}",
             "material": "PLA",
             "density": 1.22,
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 162
+                    "spool_weight": 150
                 }
             ],
             "diameters": [
@@ -313,6 +333,10 @@
                 {
                     "name": "Nuclear Winter White 2.0",
                     "hex": "DEDDD8"
+                },
+				{
+                    "name": "Plasma Burst Orange",
+                    "hex": "FF6800"
                 },
                 {
                     "name": "Plutonic Purple",
@@ -415,9 +439,17 @@
                     "name": "Mushroom Cloud Grey",
                     "hex": "676A6D"
                 },
+				{
+                    "name": "Mystery",
+                    "hex": "676A6D"
+                },
                 {
                     "name": "Nano Tube Grey",
                     "hex": "5E6A7D"
+                },
+				{
+                    "name": "Plutonic Purple",
+                    "hex": "5F0073"
                 },
                 {
                     "name": "Radioactive Orange",
@@ -446,8 +478,314 @@
                 {
                     "name": "Uranium Yellow",
                     "hex": "DBDA45"
-          }
-        ]
-      }
+				}
+			]
+		},
+		{
+            "name": "EasyASA {color_name}",
+            "material": "ASA",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 150
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+			"bed_temp_range": [
+			100,
+			110
+			],
+            "colors": [
+                {
+                    "name": "Carbon Rod Black",
+                    "hex": "262832"
+                },
+                {
+                    "name": "Cold Fusion Blue",
+                    "hex": "4B839B"
+                },
+                {
+                    "name": "Cosmic Ray Blue",
+                    "hex": "0B3D78"
+                },
+                {
+                    "name": "Electrolytic Deuterium",
+                    "hex": "29768F"
+                },
+                {
+                    "name": "Geomagnetic Mauve",
+                    "hex": "342364"
+                },
+                {
+                    "name": "Heavy Water Blue",
+                    "hex": "003671"
+                },
+                {
+                    "name": "Interstellar Emerald",
+                    "hex": "106F62"
+                },
+                {
+                    "name": "Ionized Cobalt Black",
+                    "hex": "212023"
+                },
+                {
+                    "name": "Mushroom Cloud Grey",
+                    "hex": "676A6D"
+                },
+				{
+                    "name": "Mystery",
+                    "hex": "676A6D"
+                },
+                {
+                    "name": "Nano Tube Grey",
+                    "hex": "5E6A7D"
+                },
+				{
+                    "name": "Plutonic Purple",
+                    "hex": "5F0073"
+                },
+                {
+                    "name": "Radioactive Orange",
+                    "hex": "FA8F2C"
+                },
+                {
+                    "name": "Radium Green 2.0",
+                    "hex": "40C91F"
+                },
+                {
+                    "name": "Red Dwarf",
+                    "hex": "8C1B18"
+                },
+                {
+                    "name": "Seismic Red ",
+                    "hex": "9D0115"
+                },
+                {
+                    "name": "Sievert Silver",
+                    "hex": "4F5358"
+                },
+                {
+                    "name": "Tritium Green",
+                    "hex": "1F8544"
+                },
+                {
+                    "name": "Uranium Yellow",
+                    "hex": "DBDA45"
+				}
+			]
+		},
+		{
+            "name": "HTPET+ {color_name}",
+            "material": "PET",
+            "density": 1.35,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 150
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+			275,
+			285
+			],
+			"bed_temp_range": [
+			100,
+			110
+			],
+            "colors": [
+                {
+                    "name": "Carbon Rod Black",
+                    "hex": "262832"
+                },
+                {
+                    "name": "Cold Fusion Blue",
+                    "hex": "4B839B"
+                },
+                {
+                    "name": "Cosmic Ray Blue",
+                    "hex": "0B3D78"
+                },
+				{
+                    "name": "Critical Mass Gold",
+                    "hex": "BE7A2D"
+                },
+                {
+                    "name": "Electrolytic Deuterium",
+                    "hex": "29768F"
+                },
+				{
+                    "name": "Gatekeeper Orange",
+                    "hex": "FA8F2C"
+                },
+                {
+                    "name": "Geomagnetic Mauve",
+                    "hex": "342364"
+                },
+                {
+                    "name": "Heavy Water Blue",
+                    "hex": "003671"
+                },
+                {
+                    "name": "Interstellar Emerald",
+                    "hex": "106F62"
+                },
+                {
+                    "name": "Ionized Cobalt Black",
+                    "hex": "212023"
+                },
+                {
+                    "name": "Mushroom Cloud Grey",
+                    "hex": "676A6D"
+                },
+				{
+                    "name": "Mystery",
+                    "hex": "676A6D"
+                },
+				{
+                    "name": "Natural",
+                    "hex": "DFC5AA"
+                },
+				{
+                    "name": "Neutron Green",
+                    "hex": "6BB293"
+                },
+                {
+                    "name": "Nuclear Winter White 2.0",
+                    "hex": "DEDDD8"
+                },
+				{
+                    "name": "Plutonic Purple",
+                    "hex": "5F0073"
+                },
+				{
+                    "name": "Proton Pink",
+                    "hex": "EB3A97"
+                },
+                {
+                    "name": "Radioactive Orange",
+                    "hex": "FA8F2C"
+                },
+                {
+                    "name": "Radium Green 2.0",
+                    "hex": "40C91F"
+                },
+				{
+                    "name": "Reactor Red",
+                    "hex": "750E0F"
+                },
+                {
+                    "name": "Red Dwarf",
+                    "hex": "8C1B18"
+                },
+                {
+                    "name": "Seismic Red ",
+                    "hex": "9D0115"
+                },
+                {
+                    "name": "Sievert Silver",
+                    "hex": "4F5358"
+                },
+                {
+                    "name": "Tritium Green",
+                    "hex": "1F8544"
+                }
+			]
+		},
+		{
+            "name": "PLA {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 150
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+			"bed_temp_range": [
+			50,
+			60
+			],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "040302"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "496ce8"
+                },
+                {
+                    "name": "Breakfast Blue",
+                    "hex": "aff9f3"
+                },
+                {
+                    "name": "Bubblegum",
+                    "hex": "d3667e"
+                },
+                {
+                    "name": "Green",
+                    "hex": "84e86c"
+                },
+                {
+                    "name": "Hyper Orange",
+                    "hex": "d6680e"
+                },
+                {
+                    "name": "Moondust",
+                    "hex": "939693"
+                },
+                {
+                    "name": "Mystery",
+                    "hex": "676A6D"
+                },
+				{
+                    "name": "Pickle Juice",
+                    "hex": "e4f003"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "9f40e7"
+                },
+				{
+                    "name": "Quantum Blue",
+                    "hex": "6db5f0"
+                },
+                {
+                    "name": "Red",
+                    "hex": "e6534a"
+                },
+                {
+                    "name": "Sublime",
+                    "hex": "75cd00"
+                },
+                {
+                    "name": "Tangerine Dream",
+                    "hex": "de8419"
+                },
+                {
+                    "name": "Violet Surge",
+                    "hex": "8948de"
+                },
+                {
+                    "name": "White",
+                    "hex": "eff0ed"
+                },
+                {
+                    "name": "Yellow-Gold",
+                    "hex": "e2d610"
+				}
+			]
+		}
     ]
 }
