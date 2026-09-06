@@ -443,6 +443,47 @@
             ]
         },
         {
+            "name": "High Speed Matte PLA - {color_name}",
+            "material": "PLA",
+            "density": 1.26,
+            "finish": "matte",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 220,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                260
+            ],
+            "bed_temp_range": [
+                50,
+                60
+            ],
+            "colors": [
+                { "name": "Black", "hex": "000000" },
+                { "name": "White", "hex": "ffffff" },
+                { "name": "Cherry Red", "hex": "e86b6e" },
+                { "name": "Chocolate", "hex": "b0521b" },
+                { "name": "Grey", "hex": "666c73" },
+                { "name": "Lemon Yellow", "hex": "fef966" },
+                { "name": "Mint Green", "hex": "a8d5ba" },
+                { "name": "Olive Green", "hex": "46792a" },
+                { "name": "Sakura Pink", "hex": "e3b5d9" },
+                { "name": "Sky Blue", "hex": "0cb7cc" },
+                { "name": "Sunny Orange", "hex": "ff7235" },
+                { "name": "CMYK Cyan", "hex": "88bfff" },
+                { "name": "CMYK Magenta", "hex": "da63c4" },
+                { "name": "CMYK White", "hex": "ffffff" },
+                { "name": "CMYK Yellow", "hex": "fef966" }
+            ]
+        },
+        {
             "name": "High Speed Matte PETG - {color_name}",
             "material": "PETG",
             "density": 1.26,
@@ -560,3 +601,4 @@
         }
     ]
 }
+
