@@ -103,6 +103,10 @@
                 {
                     "name": "Matte Black",
                     "hex": "000000"
+                },
+                {
+                    "name": "Matte White",
+                    "hex": "FFFFFF"
                 }
             ]
         },
@@ -226,3 +230,4 @@
         }
     ]
 }
+
