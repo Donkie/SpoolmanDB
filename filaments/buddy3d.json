@@ -1,0 +1,135 @@
+{
+  "manufacturer": "Buddy3D",
+  "filaments": [
+    {
+      "name": "Buddy3D PLA {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 215,
+      "extruder_temp_range": [200, 230],
+      "bed_temp_range": [50, 60],
+      "colors": [
+        {"name": "Beige", "hex": "F2EFBF"}
+      ]
+    },
+    {
+      "name": "Buddy3D PLA Glitter {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 215,
+      "extruder_temp_range": [200, 230],
+      "bed_temp_range": [50, 60],
+      "pattern": "sparkle",
+      "colors": [
+        {"name": "Dark Green", "hex": "42754F"},
+        {"name": "Red", "hex": "FF006A"}
+      ]
+    },
+    {
+      "name": "Buddy3D PLA Pearl {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 215,
+      "extruder_temp_range": [200, 230],
+      "bed_temp_range": [50, 60],
+      "colors": [
+        {"name": "Blue", "hex": "3548D4"},
+        {"name": "Green", "hex": "2EA656"}
+      ]
+    },
+    {
+      "name": "Buddy3D PLA Silk {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 215,
+      "extruder_temp_range": [200, 230],
+      "bed_temp_range": [50, 60],
+      "colors": [
+        {"name": "Dark gold", "hex": "DBC63D"},
+        {"name": "Ice Blue", "hex": "96DEFF"},
+        {"name": "Pink", "hex": "FC62B9"},
+        {"name": "Rose", "hex": "F08BC9"},
+        {"name": "Ultra Violet", "hex": "A328D4"}
+      ]
+    },
+    {
+      "name": "Buddy3D PLA+ {color_name}",
+      "material": "PLA+",
+      "density": 1.25,
+      "finish": "matte",
+      "weights": [
+        {
+          "weight": 1000
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp_range": [190, 210],
+      "bed_temp": 60,
+      "translucent": true,
+      "colors": [
+        {"name": "Lithophane White", "hex": "FFFFFF"}
+      ]
+    },
+    {
+      "name": "Buddy3D ABS {color_name}",
+      "material": "ABS",
+      "density": 1.04,
+      "weights": [
+        {
+          "weight": 750
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 255,
+      "extruder_temp_range": [240, 265],
+      "bed_temp": 100,
+      "bed_temp_range": [80, 110],
+      "colors": [
+        {"name": "Green", "hex": "22D133"},
+        {"name": "Natural", "hex": "EBEDDA"}
+      ]
+    },
+    {
+      "name": "Buddy3D ABS ESD {color_name}",
+      "material": "ABS+ESD",
+      "density": 1.12,
+      "weights": [
+        {
+          "weight": 750
+        }
+      ],
+      "diameters": [1.75],
+      "extruder_temp": 255,
+      "extruder_temp_range": [240, 265],
+      "bed_temp": 100,
+      "bed_temp_range": [80, 110],
+      "colors": [
+        {"name": "Black", "hex": "000000"}
+      ]
+    }
+  ]
+}
