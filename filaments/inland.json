@@ -1,0 +1,33 @@
+{
+  "manufacturer": "Inland",
+  "filaments": [
+    {
+      "name": "{color_name}",
+      "material": "PA12-CF",
+      "fill": "carbon fiber",
+      "density": 1.14,
+      "weights": [
+        {
+          "weight": 500.0
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        260,
+        300
+      ],
+      "bed_temp_range": [
+        25,
+        50
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        }
+      ]
+    }
+  ]
+}
