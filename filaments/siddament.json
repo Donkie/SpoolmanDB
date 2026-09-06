@@ -90,39 +90,39 @@
           "name": "Sunrise Orange",
           "hex": "F78E0E"
         },
-		{
+	    	{
           "name": "Pastel Peanut",
           "hex": "C29572"
         },
-		{
+	    	{
           "name": "Muted White",
           "hex": "AFA198"
         },
-		{
+	    	{
           "name": "Army Green",
           "hex": "515234"
         },
-		{
+	    	{
           "name": "Green",
           "hex": "61993B"
         },
-		{
+	    	{
           "name": "Mint Green",
           "hex": "BEC9A5"
         },
-		{
+	    	{
           "name": "Lime Green",
           "hex": "D0E740"
         },
-		{
+	    	{
           "name": "Savannah Yellow",
           "hex": "F0BE02"
         },
-		{
+	    	{
           "name": "Yellow",
           "hex": "FFFF00"
         },
-		{
+	    	{
           "name": "Earth Brown",
           "hex": "623E2A"
         }
@@ -228,71 +228,71 @@
           "name": "Purple",
           "hex": "694482"
         },
-		{
+    		{
           "name": "Yellow",
           "hex": "FFFF00"
         },
-		{
+    		{
           "name": "Neon Yellow",
           "hex": "DFFF00",
           "glow": true
         },
-		{
+    		{
           "name": "Electric Green",
           "hex": "515234",
           "glow": true
         },
-		{
+    		{
           "name": "Aquatic Blue",
           "hex": "00CFFF",
           "glow": true
         },
-		{
+    		{
           "name": "Hot Pink",
           "hex": "FF007F",
           "glow": true
         },
-		{
+    		{
           "name": "Fluro Red",
           "hex": "FF2200",
           "glow": true
         },
-		{
+	    	{
           "name": "Bright Magenta",
           "hex": "FF00CC",
           "glow": true
         },
-		{
+	    	{
           "name": "Translucent Black",
           "hex": "1C1C1C",
           "translucent": true
         },
-		{
+	    	{
           "name": "Translucent Storm Grey",
           "hex": "A1A1A0",
           "translucent": true
         },
-		{
+	    	{
           "name": "Translucent Purple",
           "hex": "193153",
           "translucent": true
         },
-		{
+	    	{
           "name": "Translucent Blood Red",
           "hex": "861A22",
           "translucent": true
         },
-		{
+	    	{
           "name": "Translucent Orange",
           "hex": "FF2A00",
           "translucent": true
         },
-		{
+	    	{
           "name": "Translucent Yellow",
           "hex": "FFFF00",
           "translucent": true
         },
-		{
+	    	{
           "name": "Earth Brown",
           "hex": "623E2A"
         }
@@ -393,78 +393,78 @@
           "name": "Pastel Yellow",
           "hex": "FFFA99"
         },
-		{
+	    	{
           "name": "Light Green",
           "hex": "A1FF99"
         },
-		{
+	    	{
           "name": "Pastel Green",
           "hex": "ECFFEB"
         },
-		{
+    		{
           "name": "Brown",
           "hex": "674230"
         },
-		{
+		    {
           "name": "Light Brown",
           "hex": "876857"
         },
-		{
+		    {
           "name": "Fluro Red",
           "hex": "FF2200",
           "glow": true
         },
-		{
+		    {
           "name": "Burnt Grey",
           "hex": "4B4F54"
         },
-		{
+		    {
           "name": "Light Grey",
           "hex": "CCCCCC"
         },
-		{
+		    {
           "name": "Off White",
           "hex": "F5F5F5"
         },
-		{
+		    {
           "name": "Blue",
           "hex": "0037FF"
         },
-		{
+		    {
           "name": "Light Pink",
           "hex": "F6A2D6"
         },
-		{
+		    {
           "name": "Pastel Pink",
           "hex": "FCE3F3"
         },
-		{
+		    {
           "name": "Electric Green",
           "hex": "DFFF00",
           "glow": true
         },
-		{
+		    {
           "name": "Peanut",
           "hex": "BF9474"
         },
-		{
+		    {
           "name": "Tool Blue",
           "hex": "007577"
         },
-		{
+		    {
           "name": "Tool Red",
           "hex": "C8102E"
         },
-		{
+		    {
           "name": "Tool Green",
           "hex": "CCDA46"
         },
-		{
+		    {
           "name": "Neon Yellow",
           "hex": "DFFF00",
           "glow": true
         },
-		{
+		    {
           "name": "Aquatic Blue",
           "hex": "00CFFF"
         },
@@ -514,7 +514,7 @@
         }
       ]
     },
-{
+    {
       "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.23,
@@ -577,7 +577,7 @@
         }
       ]
     },
-{
+    {
       "name": "Matte {color_name} V2",
       "material": "PETG",
       "density": 1.23,
@@ -956,10 +956,6 @@
         {
           "name": "Silver",
           "hex": "CBCACD"
-        },
-        {
-          "name": "Gold",
-          "hex": "7B5B42"
         }
       ]
     },
