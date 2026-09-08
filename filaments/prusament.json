@@ -107,6 +107,123 @@
             ]
         },
         {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 80,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Orange Transparent",
+                    "hex": "FF8352",
+                    "translucent": true
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "51F783"
+                },
+                {
+                    "name": "Shimmering Violet",
+                    "hex": "48064F"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "00AAFF"
+                },
+                {
+                    "name": "Electric Green",
+                    "hex": "1ED62A"
+                },
+                {
+                    "name": "Emerald Green",
+                    "hex": "00AB1F"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PETG",
+            "finish": "matte",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 80,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Noctua Beige",
+                    "hex": "E7CEB5"
+                },
+                {
+                    "name": "Noctua Brown",
+                    "hex": "551705"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 2000.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 80,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Recycled Black",
+                    "hex": "000001"
+                },
+                {
+                    "name": "Recycled",
+                    "hex": "323320"
+                }
+            ]
+        },
+        {
             "name": "PC Blend Carbon Fiber {color_name}",
             "material": "PC-CF",
             "density": 1.22,
