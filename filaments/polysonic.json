@@ -1,0 +1,115 @@
+{
+    "manufacturer": "PolySonic",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "080A0D"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "003776"
+                },
+                {
+                    "name": "Green",
+                    "hex": "2D9E59"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "8C9099"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F97429"
+                },
+                {
+                    "name": "Polymaker Teal",
+                    "hex": "50DAE4"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "6C5BB1"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "White",
+                    "hex": "E2DEDB"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F4C032"
+                }
+            ]
+        },
+        {
+            "name": "Pro {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "080A0D"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "003287"
+                },
+                {
+                    "name": "Green",
+                    "hex": "2D9E59"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "959FA1"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F97429"
+                },
+                {
+                    "name": "Polymaker Teal",
+                    "hex": "50DAE4"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "6C5BB1"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E20010"
+                },
+                {
+                    "name": "White",
+                    "hex": "E2DEDB"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F4C032"
+                }
+            ]
+        }
+    ]
+}
