@@ -1,0 +1,737 @@
+{
+    "manufacturer": "Recreus",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "PET-G CF Carbon",
+                    "hex": "545252"
+                }
+            ]
+        },
+        {
+            "name": "PET G Hf High Speed {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "292929"
+                },
+                {
+                    "name": "Copper gum",
+                    "hex": "EC6C5C"
+                },
+                {
+                    "name": "Damantium blue",
+                    "hex": "40719A"
+                },
+                {
+                    "name": "Metallic green",
+                    "hex": "B3DF3A"
+                },
+                {
+                    "name": "Navy blue",
+                    "hex": "0E21AE"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "PET-G HF Transparent",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "LW Black",
+                    "hex": "545252"
+                },
+                {
+                    "name": "LW Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Purifier",
+                    "hex": "DBD8D1"
+                },
+                {
+                    "name": "Red",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "3D {color_name}",
+            "material": "PP",
+            "density": 0.9,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PP-GF",
+            "density": 0.9,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "glass fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "Sebs Filaflex {color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "Balena Filaflex {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "F9F3E5"
+                }
+            ]
+        },
+        {
+            "name": "Conductive Filaflex {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "92A Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 60A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 60A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 70A Ultra Soft {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "Red",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 82A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Aqua",
+                    "hex": "5AEB90"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "40B6E4"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "9F563E"
+                },
+                {
+                    "name": "Fluor",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Footwearology Edition Azure",
+                    "hex": "D3E5E2"
+                },
+                {
+                    "name": "Footwearology Edition Dusk",
+                    "hex": "CEBBCF"
+                },
+                {
+                    "name": "Footwearology Edition Lavender",
+                    "hex": "DABCC8"
+                },
+                {
+                    "name": "Footwearology Edition Oat",
+                    "hex": "F9F3E5"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "F4AC23"
+                },
+                {
+                    "name": "Green",
+                    "hex": "91DB01"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "A2AAAD"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "E23288"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F07821"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F8CC00"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 95 Foamy {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "3E413F"
+                },
+                {
+                    "name": "Denim",
+                    "hex": "09048E"
+                },
+                {
+                    "name": "Footwearology Edition Azure",
+                    "hex": "C4CFC8"
+                },
+                {
+                    "name": "Footwearology Edition Dusk",
+                    "hex": "CEBBCF"
+                },
+                {
+                    "name": "Footwearology Edition Lavender",
+                    "hex": "DABCC8"
+                },
+                {
+                    "name": "Footwearology Edition Mint",
+                    "hex": "C5D5C1"
+                },
+                {
+                    "name": "Footwearology Edition Oat",
+                    "hex": "F1E6B2"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "E7B78A"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E03F26"
+                }
+            ]
+        },
+        {
+            "name": "FilaFlex 95A Medium Flex {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "40B6E4"
+                },
+                {
+                    "name": "Fluoride",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Green",
+                    "hex": "7FE200"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "Filaflex {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Foamy Black",
+                    "hex": "545252"
+                },
+                {
+                    "name": "Foamy Denim",
+                    "hex": "033877"
+                },
+                {
+                    "name": "Foamy Footwearology Edition Azure",
+                    "hex": "D3F1E9"
+                },
+                {
+                    "name": "Foamy Footwearology Edition Dusk",
+                    "hex": "CEBBCF"
+                },
+                {
+                    "name": "Foamy Footwearology Edition Lavender",
+                    "hex": "DABCC8"
+                },
+                {
+                    "name": "Foamy Footwearology Edition Mint",
+                    "hex": "C5D5C1"
+                },
+                {
+                    "name": "Foamy Footwearology Edition Oat",
+                    "hex": "F1E6B2"
+                },
+                {
+                    "name": "Foamy Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Foamy Nude",
+                    "hex": "FEC8A4"
+                },
+                {
+                    "name": "Foamy Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Purifier",
+                    "hex": "DED9D4"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "82A Footwearology edition Mint",
+                    "hex": "C5D5C1"
+                },
+                {
+                    "name": "Reciflex Black",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
