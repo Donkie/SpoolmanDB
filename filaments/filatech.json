@@ -1,0 +1,244 @@
+{
+    "manufacturer": "Filatech",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Blue (Luminous)",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Dark Green (Luminous)",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Dark Orange (Luminous)",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Dark Yellow (Luminous)",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Hyper Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Hyper Dark Orange (Luminous)",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Hyper Dark Yellow (Luminous)",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Hyper Natural White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Hyper Raven Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Hyper Red (Luminous)",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Hyper White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Natural White",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "Raven Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Red (Luminous)",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "White",
+                    "hex": "EFEFEF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Choco Brown",
+                    "hex": "A45B27"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Dark Metallic Grey",
+                    "hex": "595959"
+                },
+                {
+                    "name": "Dark Orange (Luminous)",
+                    "hex": "F55928"
+                },
+                {
+                    "name": "Dark Sky Blue",
+                    "hex": "6299DF"
+                },
+                {
+                    "name": "Dark Yellow",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Green (Luminous)",
+                    "hex": "61C680"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "D6D7D8"
+                },
+                {
+                    "name": "Hot Pink",
+                    "hex": "D48DBD"
+                },
+                {
+                    "name": "Hyper Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Hyper Bronze Gold",
+                    "hex": "6D6E4A"
+                },
+                {
+                    "name": "Hyper Dark Yellow",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Hyper Grey",
+                    "hex": "D6D7D8"
+                },
+                {
+                    "name": "Hyper Natural Transparent",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Hyper Natural White",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "Hyper Snow White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Hyper Yellow",
+                    "hex": "FFE15B"
+                },
+                {
+                    "name": "Hyper Yellow (Luminous)",
+                    "hex": "FBF942"
+                },
+                {
+                    "name": "Natural White",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "Olive Gold",
+                    "hex": "857C00"
+                },
+                {
+                    "name": "Orange (Luminous)",
+                    "hex": "FD9106"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "D55D8C"
+                },
+                {
+                    "name": "Red (Luminous)",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "949597"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Terracotta Brown",
+                    "hex": "C37C4F"
+                },
+                {
+                    "name": "White",
+                    "hex": "F0F1EA"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Yellow (Fluorescent)",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Yellow (Luminous)",
+                    "hex": "FBF942"
+                }
+            ]
+        }
+    ]
+}
