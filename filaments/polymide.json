@@ -1,0 +1,60 @@
+{
+    "manufacturer": "PolyMide",
+    "filaments": [
+        {
+            "name": "CoPa {color_name}",
+            "material": "PA6",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 750
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp_range": [
+                25,
+                50
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101820"
+                }
+            ]
+        },
+        {
+            "name": "CoPa {color_name}",
+            "material": "PA6",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp_range": [
+                25,
+                50
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "EADAC2"
+                }
+            ]
+        }
+    ]
+}
