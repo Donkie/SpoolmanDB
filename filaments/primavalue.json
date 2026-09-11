@@ -1,0 +1,123 @@
+{
+    "manufacturer": "PrimaValue",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.03,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "3F51B5"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "454545"
+                },
+                {
+                    "name": "Green",
+                    "hex": "4CAF50"
+                },
+                {
+                    "name": "Red",
+                    "hex": "D50000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "3F51B5"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "454545"
+                },
+                {
+                    "name": "Green",
+                    "hex": "4CAF50"
+                },
+                {
+                    "name": "Natrual White",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF5722"
+                },
+                {
+                    "name": "Red",
+                    "hex": "D50000"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA+",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                230
+            ],
+            "bed_temp_range": [
+                75,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Matte Black",
+                    "hex": "1A1A1A",
+                    "finish": "matte"
+                }
+            ]
+        }
+    ]
+}
