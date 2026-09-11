@@ -1,0 +1,663 @@
+{
+    "manufacturer": "Push Plastic",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bronze Metallic",
+                    "hex": "805F3C"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "694D3F"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Flat Dark Earth",
+                    "hex": "90785E"
+                },
+                {
+                    "name": "Gold Metallic",
+                    "hex": "6E5E2F"
+                },
+                {
+                    "name": "Green",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Lavender",
+                    "hex": "5C50E0"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "C5C5BF"
+                },
+                {
+                    "name": "Light Teal",
+                    "hex": "00B4BC"
+                },
+                {
+                    "name": "Lime Green",
+                    "hex": "9AED51"
+                },
+                {
+                    "name": "Maroon",
+                    "hex": "C75072"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Ocean Blue",
+                    "hex": "40B6E4"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "PC/ Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "AE00FF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Silver Metallic",
+                    "hex": "848484"
+                },
+                {
+                    "name": "Ultra Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F2DE00"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS-CF",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "4C5051",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "C5C5BF",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3",
+                    "finish": "matte"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Silver Metallic",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "HIPS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "EAECF5"
+                }
+            ]
+        },
+        {
+            "name": "PC {color_name}",
+            "material": "PBT",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Ultra Blue",
+                    "hex": "0022FF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PC-CF",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                300
+            ],
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "PBT Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PC",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                300
+            ],
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "PBT Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "PBT Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "PBT Silver Metallic",
+                    "hex": "949597"
+                },
+                {
+                    "name": "PBT White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Polycarbonate Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Polycarbonate Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Polycarbonate White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Si Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PCTG",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PEI",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                340,
+                380
+            ],
+            "bed_temp_range": [
+                120,
+                160
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "E6B535"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Carbon Fiber",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Desert Tan",
+                    "hex": "E0DABB"
+                },
+                {
+                    "name": "Green",
+                    "hex": "089A45"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "C5C5BF"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "D9D8DE"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "PUSCH Green",
+                    "hex": "2A4552"
+                },
+                {
+                    "name": "PWalt Yellow",
+                    "hex": "FFB031"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Rust",
+                    "hex": "A54830"
+                },
+                {
+                    "name": "Safety Yellow",
+                    "hex": "EEEA44"
+                },
+                {
+                    "name": "Silver Metallic",
+                    "hex": "949597"
+                },
+                {
+                    "name": "Translucent Amber",
+                    "hex": "FF9A14",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Blue",
+                    "hex": "0353BA",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Green",
+                    "hex": "00A594",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Red",
+                    "hex": "E60000",
+                    "translucent": true
+                },
+                {
+                    "name": "Ultra Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "High Heat {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Silver Metallic",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Ultra Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PMMA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Filament",
+                    "hex": "D9D8DE",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "100A",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
