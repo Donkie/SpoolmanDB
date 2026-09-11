@@ -1,0 +1,112 @@
+{
+    "manufacturer": "Dancyn 3D Prints",
+    "filaments": [
+        {
+            "name": "Basic {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                0,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Beige",
+                    "hex": "EAD8AB"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "005BD3"
+                },
+                {
+                    "name": "Emerald Green",
+                    "hex": "146630"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "D39A07"
+                },
+                {
+                    "name": "Gold Brown Sparkle",
+                    "hex": "DC7841"
+                },
+                {
+                    "name": "Green",
+                    "hex": "18D603"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Maroon Red",
+                    "hex": "B02727"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF8A00"
+                },
+                {
+                    "name": "Peanut Brown",
+                    "hex": "D29D00"
+                },
+                {
+                    "name": "Pell Blue",
+                    "hex": "D7E5F0"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "9929BD"
+                },
+                {
+                    "name": "Red",
+                    "hex": "F61F1F"
+                },
+                {
+                    "name": "Sakura Pink",
+                    "hex": "F1CBEA"
+                },
+                {
+                    "name": "Scallion Green",
+                    "hex": "00F900"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "BAC0C6"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "BDD8FA"
+                },
+                {
+                    "name": "Stessy's Hot Pink",
+                    "hex": "FF6DB3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFB00"
+                }
+            ]
+        }
+    ]
+}
