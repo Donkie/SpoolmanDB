@@ -1,0 +1,29 @@
+{
+    "manufacturer": "LOVOON",
+    "filaments": [
+        {
+            "name": "Silk Magic Color {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 200
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "colors": [
+                {
+                    "name": "Red-Yellow-Blue",
+                    "hex": "FF0000"
+                }
+            ]
+        }
+    ]
+}
