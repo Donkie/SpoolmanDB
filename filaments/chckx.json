@@ -1,0 +1,33 @@
+{
+    "manufacturer": "CHCKX",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 145
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp_range": [
+                70,
+                80
+            ],
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "80FF00"
+                }
+            ]
+        }
+    ]
+}
