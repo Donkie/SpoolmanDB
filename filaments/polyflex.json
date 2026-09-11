@@ -1,0 +1,109 @@
+{
+    "manufacturer": "PolyFlex",
+    "filaments": [
+        {
+            "name": "TPU90 {color_name}",
+            "material": "TPU",
+            "density": 1.12,
+            "weights": [
+                {
+                    "weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101820"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "DBD5D6"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "453536"
+                },
+                {
+                    "name": "Polymaker Teal",
+                    "hex": "2DCCD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "TPU95 {color_name}",
+            "material": "TPU",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101820"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0076CF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF9E1B"
+                },
+                {
+                    "name": "Red",
+                    "hex": "D6001C"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FEDD00"
+                }
+            ]
+        },
+        {
+            "name": "TPU95-HF {color_name}",
+            "material": "TPU",
+            "density": 1.16,
+            "weights": [
+                {
+                    "weight": 750
+                }
+            ],
+            "diameters": [
+                1.75,
+                2.85
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "101820"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "DBD5D6"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}
