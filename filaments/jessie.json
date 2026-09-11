@@ -1,0 +1,133 @@
+{
+    "manufacturer": "Jessie",
+    "filaments": [
+        {
+            "name": "Premium Elixir {color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 182
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Gold Rush",
+                    "hex": "CD9C47"
+                },
+                {
+                    "name": "Royal Ruby",
+                    "hex": "A8393A"
+                }
+            ]
+        },
+        {
+            "name": "Premium {color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 182
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "504F31"
+                },
+                {
+                    "name": "Beige 500",
+                    "hex": "CDBCA2"
+                },
+                {
+                    "name": "Black",
+                    "hex": "262325"
+                },
+                {
+                    "name": "Blue Moon",
+                    "hex": "192B60"
+                },
+                {
+                    "name": "Blue Whale Grey",
+                    "hex": "385C81"
+                },
+                {
+                    "name": "Design White",
+                    "hex": "CECBC6"
+                },
+                {
+                    "name": "Gun Metal Grey",
+                    "hex": "717476"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "82817E"
+                },
+                {
+                    "name": "Purple Eater",
+                    "hex": "765B9D"
+                },
+                {
+                    "name": "Quarter White",
+                    "hex": "E7E8E4"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C7312B"
+                },
+                {
+                    "name": "Tan 64",
+                    "hex": "9D8C7D"
+                },
+                {
+                    "name": "Tree Brown",
+                    "hex": "52382F"
+                },
+                {
+                    "name": "Tree Green",
+                    "hex": "287B36"
+                },
+                {
+                    "name": "Vanilla Bean Ice Cream",
+                    "hex": "A6A8AB"
+                },
+                {
+                    "name": "White",
+                    "hex": "F1F1EA"
+                },
+                {
+                    "name": "Yellow Bird",
+                    "hex": "F9C134"
+                }
+            ]
+        },
+        {
+            "name": "Premium Glitter {color_name}",
+            "material": "PLA",
+            "density": 1.19,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 182
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Golden Winner",
+                    "hex": "8F7228"
+                }
+            ]
+        }
+    ]
+}
