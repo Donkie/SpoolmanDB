@@ -2,6 +2,7 @@
 
 from enum import StrEnum
 import json
+import csv
 from pathlib import Path
 from typing import Iterator
 from typing import TypedDict, NotRequired
@@ -44,6 +45,12 @@ class Color(TypedDict):
     translucent: NotRequired[bool]
     glow: NotRequired[bool]
 
+class ManufacturerColor(TypedDict):
+    name: str
+    ral: NotRequired[str]
+    pantone: NotRequired[str]
+    hex: NotRequired[str]
+    translucent: NotRequired[bool]
 
 class Filament(TypedDict):
     name: str
@@ -90,8 +97,15 @@ def generate_id(
         " ", ""
     )
 
+def get_color_hex_from_ral(ral: str):
+    with open('ral.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            r = str(row['RAL number'].split(' ')[1])
+            if r == ral:
+                return row['sRGB 8-bit']
 
-def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
+def expand_filament_data(manufacturer: str, manufacturer_colors: list[ManufacturerColor], data: Filament) -> Iterator[dict]:
     """Expands the given filament data by generating multiple filament objects based on the weights, diameters, and colors."""
     name = data["name"]
     material = data["material"]
@@ -126,6 +140,18 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
                 color_pattern = color_obj.get("pattern", None)
                 color_translucent = color_obj.get("translucent", None)
                 color_glow = color_obj.get("glow", None)
+
+                if manufacturer_colors is not None:
+                    mf = manufacturer_colors.get(color_name, None)
+                    if mf is not None:
+                        if color_translucent is None:
+                            color_translucent = mf.get("translucent", None)
+
+                        if color_hex is None:
+                            if mf.get("ral") is not None:
+                                color_hex = get_color_hex_from_ral(mf.get("ral"))
+                            if color_hex is None and mf.get("hex") is not None:
+                                color_hex = mf.get("hex", None)
 
                 if color_finish is None:
                     color_finish = finish
@@ -198,7 +224,7 @@ def expand_filament_data(manufacturer: str, data: Filament) -> Iterator[dict]:
 def get_filaments_from_data(data: dict) -> Iterator[dict]:
     """Retrieves filaments from the provided data, assigns the manufacturer to each filament, and returns the list of filaments."""
     for filament_data in data["filaments"]:
-        yield from expand_filament_data(data["manufacturer"], filament_data)
+        yield from expand_filament_data(data["manufacturer"], data.get("colors", None), filament_data)
 
 
 def load_json(file: Path) -> dict:
