@@ -159,6 +159,26 @@
             "name": "Seafoam",
             "hex": "0a5e5e",
             "pattern":"sparkle"
+          },
+          {
+              "name": "Color Changing Blue",
+              "hex": "0353BA"
+          },
+          {
+              "name": "Dijon Yellow",
+              "hex": "FFD342"
+          },
+          {
+              "name": "Lavender",
+              "hex": "B894E2"
+          },
+          {
+              "name": "Nuclear Green",
+              "hex": "3D9441"
+          },
+          {
+              "name": "Spaceship Steel",
+              "hex": "9F9F9F"
           }
         ]
       },
@@ -221,6 +241,167 @@
           {
             "name": "Regulation Gray",
             "hex": "6d6d6d"
+          }
+        ]
+      },
+      {
+        "name": "{color_name}",
+        "material": "ASA",
+        "density": 1.07,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          235,
+          260
+        ],
+        "bed_temp_range": [
+          90,
+          110
+        ],
+        "colors": [
+          {
+            "name": "Gray",
+            "hex": "ACB1BA"
+          }
+        ]
+      },
+      {
+        "name": "{color_name}",
+        "material": "PA12",
+        "density": 1.01,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          240,
+          270
+        ],
+        "bed_temp_range": [
+          80,
+          100
+        ],
+        "colors": [
+          {
+            "name": "Natural Nylon",
+            "hex": "DFDFD3",
+            "translucent": true
+          }
+        ]
+      },
+      {
+        "name": "Biodegradable {color_name}",
+        "material": "PHA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          195,
+          210
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "1D1D1D"
+          },
+          {
+            "name": "Natural",
+            "hex": "F1E6B2"
+          }
+        ]
+      },
+      {
+        "name": "Biodegradable Flexible 95A Soft {color_name}",
+        "material": "TPU",
+        "density": 1.21,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          210,
+          240
+        ],
+        "bed_temp_range": [
+          30,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "F1E6B2"
+          }
+        ]
+      },
+      {
+        "name": "{color_name}",
+        "material": "TPU-60D",
+        "density": 1.21,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          210,
+          240
+        ],
+        "bed_temp_range": [
+          30,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Candy Red Flexible",
+            "hex": "E60000"
+          },
+          {
+            "name": "Classic Black Flexible",
+            "hex": "000000"
+          },
+          {
+            "name": "Light Blue Flexible",
+            "hex": "0378D0"
+          },
+          {
+            "name": "Natural Flexible",
+            "hex": "DFDFD3",
+            "translucent": true
+          },
+          {
+            "name": "Shamrock Flexible",
+            "hex": "144F3B"
+          },
+          {
+            "name": "Vivid Orange Flexible",
+            "hex": "FF5F2E"
           }
         ]
       }
