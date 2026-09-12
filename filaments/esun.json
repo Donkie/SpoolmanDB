@@ -876,7 +876,7 @@
             ]
         },
         {
-            "name": "PETG-Basic {color_name}",
+            "name": "Basic {color_name}",
             "material": "PETG",
             "density": 1.27,
             "extruder_temp": 260,
