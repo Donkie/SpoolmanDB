@@ -1,0 +1,77 @@
+{
+    "manufacturer": "AmeLeis",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                220
+            ],
+            "bed_temp_range": [
+                0,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Brick Red",
+                    "hex": "AA524D"
+                },
+                {
+                    "name": "Pastel Blue",
+                    "hex": "A7C7E7"
+                },
+                {
+                    "name": "Pastel Mint",
+                    "hex": "C2E5D3"
+                },
+                {
+                    "name": "Peach",
+                    "hex": "FFF0DB"
+                },
+                {
+                    "name": "Pastel Purple",
+                    "hex": "B19CD9"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 250,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                220
+            ],
+            "bed_temp_range": [
+                0,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Pastel Pink",
+                    "hex": "FFB3DE"
+                }
+            ]
+        }
+    ]
+}
