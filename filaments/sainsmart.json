@@ -2,7 +2,7 @@
     "manufacturer": "SainSmart",
     "filaments": [
         {
-            "name": "SainSmart TPU 95A {color_name}",
+            "name": "95A {color_name}",
             "material": "TPU",
             "density": 1.21,
             "weights": [
