@@ -1227,6 +1227,26 @@
                     "name": "Nerfed Orange",
                     "hex": "f69e22",
                     "translucent": true
+                },
+                {
+                        "name": "Brown",
+                        "hex": "D05E20",
+                        "translucent": true
+                },
+                {
+                        "name": "Green",
+                        "hex": "B8DF84",
+                        "translucent": true
+                },
+                {
+                        "name": "Purple",
+                        "hex": "583F65",
+                        "translucent": true
+                },
+                {
+                        "name": "Yellow",
+                        "hex": "FED839",
+                        "translucent": true
                 }
             ]
         },
@@ -2279,6 +2299,1341 @@
                 {
                     "name": "White",
                     "hex": "f7f7f7"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Joel's Highfive Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Stardust Silver Glitter",
+                    "hex": "EAECF5",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Tom's Tangerine Orange Metallic Gold",
+                    "hex": "F67405"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Amie's Blood of My Enemies",
+                    "hex": "B7293E",
+                    "translucent": true
+                },
+                {
+                    "name": "Black Recycled",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Simply Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Simply Clear",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Simply White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Static Dissipative",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                },
+                {
+                    "weight": 3000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0F0F0F"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Carbon Fiber",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Recycled Carbon Fiber",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Fiber HT Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Daffodil Wood",
+                    "hex": "CAAC78",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "949A9E",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Walnut Wood",
+                    "hex": "6A5346",
+                    "finish": "matte"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Fiber HT Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 3000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Matte Fiber Black",
+                    "hex": "29292B",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fiber Daffodil",
+                    "hex": "D5A76F",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fiber Gray",
+                    "hex": "77818A",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fiber Mahogany",
+                    "hex": "905F51",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fiber Walnut",
+                    "hex": "78635A",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fiber White",
+                    "hex": "F6F5F1",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Nebula Night HT",
+                    "hex": "A38496",
+                    "pattern": "sparkle",
+                    "translucent": true,
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "Green Glow-in-the-Dark {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Fluorescent Yellow",
+                    "hex": "E4E46D",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "High Speed {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0F0F0F"
+                },
+                {
+                    "name": "Black High Flow (HF)",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "F9EFE6"
+                },
+                {
+                    "name": "Natural High Flow (HF)",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "F7F2EC"
+                },
+                {
+                    "name": "White High Flow (HF)",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} Composite",
+            "material": "PLA",
+            "density": 1.85,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 2000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                185,
+                215
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "6D6E70"
+                }
+            ]
+        },
+        {
+            "name": "Matte Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0F0F0F",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "64676C",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Matte Fiber {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black cMatte",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gray cMatte",
+                    "hex": "697272",
+                    "finish": "matte"
+                },
+                {
+                    "name": "White cMatte",
+                    "hex": "FFFFFF",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Metal Composite {color_name}",
+            "material": "PLA",
+            "density": 2.3,
+            "weights": [
+                {
+                    "weight": 500
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                185,
+                215
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Brass",
+                    "hex": "8F7846"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "624C3E"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "995A49"
+                }
+            ]
+        },
+        {
+            "name": "Nebula {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Cotton Candy Pastel Multicolor HT",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Gold Dust Multicolor HT",
+                    "hex": "7C5577",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Rainbow Multicolor HT",
+                    "hex": "4E6A84",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Stardust Multicolor HT",
+                    "hex": "8A68B5",
+                    "pattern": "sparkle",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Artobot Electric Lemonade HT",
+                    "hex": "FBE200"
+                },
+                {
+                    "name": "Candy Apple Metallic Red HT",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Cloverleaf Metallic Green HT",
+                    "hex": "1E5A4F"
+                },
+                {
+                    "name": "Cupid's Crush Metallic Pink HT",
+                    "hex": "FF72B6",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Double Espresso Metallic Brown HT",
+                    "hex": "724E3D"
+                },
+                {
+                    "name": "For the Lulz Metallic Green HT",
+                    "hex": "FBE200",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Galactic Empire Metallic Purple HT",
+                    "hex": "6C47B2",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Good as Gold HT",
+                    "hex": "E3B145",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Heartthrob Metallic Red HT",
+                    "hex": "8B3A3A",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Joel's Highfive Blue HT Metallic Blue",
+                    "hex": "2E56F1",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Luke's Proton Purple HT",
+                    "hex": "7B4D64",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Mermaid's Tale Metallic Teal HT",
+                    "hex": "3292B2",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Nebula Silver Multicolor HT",
+                    "hex": "C75072"
+                },
+                {
+                    "name": "Second to None Silver HT",
+                    "hex": "A8B0BD",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Tom's Tangerine Orange Metallic Gold HT",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Wonder Blue Rainbow Glitter HT",
+                    "hex": "0378D0",
+                    "pattern": "sparkle",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "Stainless Steel Metal Composite {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Blue",
+                    "hex": "23668C"
+                },
+                {
+                    "name": "Burgundy",
+                    "hex": "863938"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "ACA078"
+                }
+            ]
+        },
+        {
+            "name": "Steel Metal Composite {color_name}",
+            "material": "PLA",
+            "density": 2.3,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 2000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                195,
+                225
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "7E7E7C"
+                }
+            ]
+        },
+        {
+            "name": "Still Colorful Recycled {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "022",
+                    "hex": "B894E2"
+                },
+                {
+                    "name": "023",
+                    "hex": "15817B"
+                },
+                {
+                    "name": "024",
+                    "hex": "7659B5"
+                },
+                {
+                    "name": "028",
+                    "hex": "983B4E"
+                },
+                {
+                    "name": "029",
+                    "hex": "3292B2"
+                },
+                {
+                    "name": "030",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "031",
+                    "hex": "CCD6E2"
+                },
+                {
+                    "name": "032",
+                    "hex": "CB4726"
+                },
+                {
+                    "name": "033",
+                    "hex": "0353BA"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Amber Alchemy HT",
+                    "hex": "BE6730",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Amethyst Aria Multicolor HT",
+                    "hex": "B33174"
+                },
+                {
+                    "name": "Amie's Blood of My Enemies HT",
+                    "hex": "AD0028",
+                    "translucent": true
+                },
+                {
+                    "name": "Aqua Ice Translucent HT",
+                    "hex": "00B4BC",
+                    "translucent": true
+                },
+                {
+                    "name": "Atikam Teal HT",
+                    "hex": "178B9F"
+                },
+                {
+                    "name": "Atomic Age Gray Glitter HT",
+                    "hex": "C5C5BF",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Autumn Orange Thermochromic HT",
+                    "hex": "FFC946"
+                },
+                {
+                    "name": "Beach Bum Beige HT",
+                    "hex": "DAC7A0"
+                },
+                {
+                    "name": "Black Opaque HT",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue Ice Translucent HT",
+                    "hex": "39B9DB",
+                    "translucent": true
+                },
+                {
+                    "name": "Blue Opaque HT",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Bluish Opaque Purple HT",
+                    "hex": "2C3294"
+                },
+                {
+                    "name": "Bobbi's Purple Iris HT",
+                    "hex": "7142A3",
+                    "translucent": true
+                },
+                {
+                    "name": "Bottle Brown Translucent HT",
+                    "hex": "AB713E",
+                    "translucent": true
+                },
+                {
+                    "name": "Brass-filled Metal Composite HT",
+                    "hex": "A6884C"
+                },
+                {
+                    "name": "Bronze-filled Metal Composite HT",
+                    "hex": "8C7354"
+                },
+                {
+                    "name": "Candle Light White HT with Gold Glitter",
+                    "hex": "EAD7B8",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Candy Rainbow Multicolor HT",
+                    "hex": "91C500",
+                    "translucent": true
+                },
+                {
+                    "name": "Chlorophylled Thermochromic HT",
+                    "hex": "FFD342"
+                },
+                {
+                    "name": "Citrus Sunrise Orange Multicolor HT",
+                    "hex": "FF5F2E",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Copper-filled Metal Composite HT",
+                    "hex": "C06341"
+                },
+                {
+                    "name": "Derek's Good Old Gray HT",
+                    "hex": "7A838E"
+                },
+                {
+                    "name": "Derek's Olive Drab HT",
+                    "hex": "737254"
+                },
+                {
+                    "name": "Dragon Scale Purple HT",
+                    "hex": "8873C7",
+                    "translucent": true
+                },
+                {
+                    "name": "Dragonfruit Smoothie HT",
+                    "hex": "DA445A",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Dusty Smoke HT",
+                    "hex": "9F9F9F",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Ecto Ooze Green HT",
+                    "hex": "95D05C",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Erratic Indigo Multicolor HT",
+                    "hex": "AAB1FF"
+                },
+                {
+                    "name": "Fading Rainbow Multicolor HT",
+                    "hex": "9EF9FF",
+                    "translucent": true
+                },
+                {
+                    "name": "Fiber HT - Mahogany Wood",
+                    "hex": "A35A4B"
+                },
+                {
+                    "name": "Filafetti Confetti Frosting HT",
+                    "hex": "E3E0D3",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Fleck 'n Fire Red Glitter HT",
+                    "hex": "D32E1A",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Fleck 'n Forest Green Glitter HT",
+                    "hex": "1E5A4F",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Fluorescent Yellow HT",
+                    "hex": "EBFF57"
+                },
+                {
+                    "name": "Gloop! Purple HT",
+                    "hex": "663D7E",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Gold Dust HT",
+                    "hex": "DDB95D",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Holiday Pine HT 2023 Special Edition",
+                    "hex": "935C34"
+                },
+                {
+                    "name": "Iridescent Ice Clear Translucent HT",
+                    "hex": "EAECF5",
+                    "translucent": true
+                },
+                {
+                    "name": "Just Peachy Thermochromic HT",
+                    "hex": "F3C102"
+                },
+                {
+                    "name": "Kermie Green Multicolor HT",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Lab Coat White HT",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Lootsef Green HT",
+                    "hex": "9AED51"
+                },
+                {
+                    "name": "Mango Medley Multicolor HT",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Marine Dream Blue Multicolor HT",
+                    "hex": "00A594",
+                    "translucent": true
+                },
+                {
+                    "name": "Midnight Multicolor HT",
+                    "hex": "818FA0",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Moonstruck White Satin HT",
+                    "hex": "F0EBE5"
+                },
+                {
+                    "name": "Nerfed Translucent Orange HT",
+                    "hex": "FF9A14",
+                    "translucent": true
+                },
+                {
+                    "name": "Nice 'n Navy Blue HT",
+                    "hex": "062B4D"
+                },
+                {
+                    "name": "Night Before Blue HT with Silver Glitter",
+                    "hex": "1E2F5A",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Obsidian HT",
+                    "hex": "55555E",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Orange Papaya Smoothie HT",
+                    "hex": "FF8E24",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Out of Darts Orange HT",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Partly Cloudy Blue Multicolor HT",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "Partly Sunny Yellow Multicolor HT",
+                    "hex": "FBE200"
+                },
+                {
+                    "name": "Pineapple Banana Smoothie HT",
+                    "hex": "FAD61B",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Pretty in Pink Pearl HT",
+                    "hex": "F092B3"
+                },
+                {
+                    "name": "Red Hot Cinnamon HT",
+                    "hex": "641501"
+                },
+                {
+                    "name": "Scarlet Symphony Multicolor HT",
+                    "hex": "FF5786"
+                },
+                {
+                    "name": "Seafoam Green Multicolor HT",
+                    "hex": "40E0D0"
+                },
+                {
+                    "name": "Soda Green Translucent HT",
+                    "hex": "3D9441",
+                    "translucent": true
+                },
+                {
+                    "name": "Sophy's Aqua Phresh HT",
+                    "hex": "A6DDD3"
+                },
+                {
+                    "name": "Sparkling Spruce HT",
+                    "hex": "0B6A2F",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Stardust Silver Glitter HT",
+                    "hex": "C9D0D4",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Steel-filled Metal Composite",
+                    "hex": "6F727E"
+                },
+                {
+                    "name": "Stef's Rose Gold HT",
+                    "hex": "E69E7A"
+                },
+                {
+                    "name": "Stratocumulus Multicolor HT",
+                    "hex": "D7EDE6",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Summertime Green HT",
+                    "hex": "62E480",
+                    "translucent": true
+                },
+                {
+                    "name": "Tropical Palm Green HT",
+                    "hex": "317C2E"
+                },
+                {
+                    "name": "Watermelon Crush Red HT",
+                    "hex": "E24749",
+                    "translucent": true
+                },
+                {
+                    "name": "What Karat? Smooth Gold HT",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Winter Blue Glitter Flake HT",
+                    "hex": "0099E6",
+                    "pattern": "sparkle"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                },
+                {
+                    "weight": 3000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0F0F0F"
+                },
+                {
+                    "name": "Dark",
+                    "hex": "4E555B"
+                },
+                {
+                    "name": "Light",
+                    "hex": "AFBDC6"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black Carbon Fiber Composite HT",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Gray Carbon Fiber Composite HT",
+                    "hex": "394658"
+                },
+                {
+                    "name": "Light Gray Carbon Fiber Composite HT",
+                    "hex": "BAC4C4"
+                },
+                {
+                    "name": "Recycled Carbon Fiber",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Static Dissipative Carbon Fiber",
+                    "hex": "000000"
+                },
+                {
+                    "name": "The Original Carbon Fiber Composite",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "010204"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black Flexible",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Clear Flexible",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Clear Rigid",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "White Rigid",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 500
+                },
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "F7F7F7"
                 }
             ]
         }
