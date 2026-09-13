@@ -1,0 +1,205 @@
+{
+    "manufacturer": "OVV3D",
+    "filaments": [
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Rainbow Macaron",
+                    "hex": "BBDB4B",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Rainbow Macaron Blue Purple",
+                    "hex": "BED9EB",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Rainbow Tri-Color Red Yellow Blue",
+                    "hex": "FBE200",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Teak Wood",
+                    "hex": "D2A273",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Tri-Color Macaron",
+                    "hex": "FCE575",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Wood Cherry",
+                    "hex": "8E5850",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Wood Oak",
+                    "hex": "DBC9AD",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Metal Silver",
+                    "hex": "C9D0D4"
+                },
+                {
+                    "name": "Walnut Wood",
+                    "hex": "81615D"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black Blue",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Green",
+                    "hex": "11784F"
+                },
+                {
+                    "name": "Black Purple",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Metal Copper",
+                    "hex": "C66547"
+                },
+                {
+                    "name": "Metal Gold",
+                    "hex": "FFCB47"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "8846AE"
+                },
+                {
+                    "name": "Rainbow",
+                    "hex": "FCE575"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "5FEFF9"
+                },
+                {
+                    "name": "Tri-color Black Blue Purple",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Tri-color Blue Green Orange",
+                    "hex": "FF8133"
+                },
+                {
+                    "name": "Tri-color Red Blue Green",
+                    "hex": "386DFF"
+                },
+                {
+                    "name": "Tri-color Red Blue Yellow",
+                    "hex": "FBE200"
+                },
+                {
+                    "name": "Tri-color Sky Blue & Pink & Yellow",
+                    "hex": "FFC946"
+                },
+                {
+                    "name": "Tri-color Sky Blue & Rose Red & Green",
+                    "hex": "5FEFF9"
+                },
+                {
+                    "name": "Two-color Blue Green",
+                    "hex": "62E480"
+                },
+                {
+                    "name": "Two-color Blue Red",
+                    "hex": "ED1536"
+                },
+                {
+                    "name": "Two-color Green+ Purple",
+                    "hex": "B645A9"
+                },
+                {
+                    "name": "Two-color Red Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Two-color Red Gold",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Two-color Sky Blue+ Pink",
+                    "hex": "F06E92"
+                },
+                {
+                    "name": "Two-color Sky Blue+ Purple",
+                    "hex": "1ADAFB"
+                },
+                {
+                    "name": "Two-color Sky Blue+ Rose Red",
+                    "hex": "0078BF"
+                }
+            ]
+        }
+    ]
+}
