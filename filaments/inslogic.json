@@ -2,7 +2,7 @@
     "manufacturer": "Inslogic",
     "filaments": [
         {
-            "name": "PLA Pro {color_name}",
+            "name": "Pro {color_name}",
             "material": "PLA",
             "density": 1.2,
             "weights": [
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "name": "Matte PLA {color_name}",
+            "name": "Matte {color_name}",
             "material": "PLA",
             "density": 1.3,
             "weights": [
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "name": "PETG Pro {color_name}",
+            "name": "Pro {color_name}",
             "material": "PETG",
             "density": 1.26,
             "weights": [
@@ -195,7 +195,7 @@
             ]
         },
         {
-            "name": "High-Speed PLA Pro {color_name}",
+            "name": "High-Speed Pro {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -247,7 +247,7 @@
             ]
         },
         {
-            "name": "ASA {color_name}",
+            "name": "{color_name}",
             "material": "ASA",
             "density": 1.05,
             "weights": [
