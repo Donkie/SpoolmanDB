@@ -1,0 +1,44 @@
+{
+    "manufacturer": "iSangHu",
+    "filaments": [
+        {
+            "name": "Gradiant {color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Yellow Orange Brown",
+                    "hex": "CD7710"
+                }
+            ]
+        },
+        {
+            "name": "High Speed Translucent {color_name}",
+            "material": "PETG",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Gradiant Blue-Purple",
+                    "hex": "6A5ACD",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}
