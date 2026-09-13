@@ -1,0 +1,372 @@
+{
+    "manufacturer": "FiberThree",
+    "filaments": [
+        {
+            "name": "F3 PA Lite {color_name}",
+            "material": "PA12-CF",
+            "density": 1.01,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                270
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA Pure Lite {color_name}",
+            "material": "PA12",
+            "density": 1.01,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                270
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "E3E0D3"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA {color_name}",
+            "material": "PA6-CF",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA ESD {color_name}",
+            "material": "PA6",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA {color_name}",
+            "material": "PA6-GF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "glass fiber",
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "F2EFE9"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA {color_name}",
+            "material": "PA6-GF30",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "glass fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Red",
+                    "hex": "AC1A17"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EA9E3F"
+                }
+            ]
+        },
+        {
+            "name": "F3 PA Ortho {color_name}",
+            "material": "PA6",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "F2EFE9",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "F3 PA Pure {color_name}",
+            "material": "PA6",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "E3E0D3"
+                }
+            ]
+        },
+        {
+            "name": "F3 150 {color_name}",
+            "material": "PC-CF",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                300
+            ],
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 {color_name}",
+            "material": "PLA-GF",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "fill": "glass fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 25 {color_name}",
+            "material": "PP-GF",
+            "density": 0.9,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "fill": "glass fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "F3 80A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Red",
+                    "hex": "AC1A17"
+                }
+            ]
+        },
+        {
+            "name": "F3 98A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
