@@ -230,7 +230,7 @@
             "colors": [
                 {
                     "name": "Grey",
-                    "hex": "6C6C6C"
+                    "hex": "75787b"
                 },
                 {
                     "name": "Black",
@@ -242,42 +242,27 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "C51E25"
+                    "hex": "bc2726"
                 },
                 {
-                    "name": "Orange",
-                    "hex": "FB6D23"
+                    "name": "Sunny Orange",
+                    "hex": "ed7334"
                 }
-            ]
-        },
-        {
-            "name": "Transparent {color_name}",
-            "material": "TPU-95A",
-            "density": 1.23,
-            "weights": [
                 {
-                    "weight": 1000.0,
-                    "spool_weight": 130,
-                    "spool_type": "plastic"
-                }
-            ],
-            "diameters": [
-                1.75
-            ],
-            "extruder_temp": 220,
-            "bed_temp": 55,
-            "colors": [
-                {
-                    "name": "White",
-                    "hex": "FFFFFF"
+                    "name": "Azure",
+                    "hex": "008be4"
                 },
                 {
                     "name": "Green",
-                    "hex": "03BC4F"
+                    "hex": "1daa27"
                 },
                 {
-                    "name": "Orange",
-                    "hex": "FB6D23"
+                    "name": "Yellow",
+                    "hex": "fce300"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "f57eb6"
                 }
             ]
         },
