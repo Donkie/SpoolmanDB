@@ -1209,6 +1209,350 @@
 					"multi_color_direction": "longitudinal"
                 }
             ]
+		},
+		{
+		 "name": "Matte {color_name}",
+		 "material": "ABS",
+		 "density": 1.03,
+		 "weights": [
+		  {
+		   "weight": 1000,
+		   "spool_weight": 130
+		  }
+		 ],
+		 "diameters": [
+		  1.75
+		 ],
+		 "extruder_temp_range": [
+		  230,
+		  265
+		 ],
+		 "bed_temp_range": [
+		  75,
+		  115
+		 ],
+		 "colors": [
+		  {
+		   "name": "Black",
+		   "hex": "25282A",
+		   "finish": "matte"
+		  },
+		  {
+		   "name": "British Racing Green",
+		   "hex": "2D6467",
+		   "finish": "matte"
+		  },
+		  {
+		   "name": "Galactic Black",
+		   "hex": "454546",
+		   "finish": "matte",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Grey Abyss",
+		   "hex": "4B4747",
+		   "finish": "matte"
+		  },
+		  {
+		   "name": "Hot Pink",
+		   "hex": "FA008A",
+		   "finish": "matte"
+		  },
+		  {
+		   "name": "Voron Red",
+		   "hex": "A12336",
+		   "finish": "matte"
+		  }
+		 ]
+		},
+		{
+		 "name": "Galactic {color_name}",
+		 "material": "ASA",
+		 "density": 1.08,
+		 "weights": [
+		  {
+		   "weight": 1000,
+		   "spool_weight": 130
+		  }
+		 ],
+		 "diameters": [
+		  1.75
+		 ],
+		 "extruder_temp_range": [
+		  230,
+		  260
+		 ],
+		 "bed_temp_range": [
+		  100,
+		  115
+		 ],
+		 "colors": [
+		  {
+		   "name": "Armored Turtle Green",
+		   "hex": "0E945B",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Black Multi Color Glitter",
+		   "hex": "000000",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Black",
+		   "hex": "352F38",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Glow",
+		   "hex": "00ED60",
+		   "pattern": "sparkle",
+		   "glow": true
+		  },
+		  {
+		   "name": "Galactic Grape",
+		   "hex": "A82A82",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Green",
+		   "hex": "0AF53D",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Grey",
+		   "hex": "79797B",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Holiday Green",
+		   "hex": "C8D639",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Holiday Red",
+		   "hex": "EF2D1D",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Hot Pink",
+		   "hex": "FF3486",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Midnight Meteorite",
+		   "hex": "40298E",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Pink",
+		   "hex": "FF54AE",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Planetary Blue",
+		   "hex": "23ADE9",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Quadra Teal",
+		   "hex": "22AAC9",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Santa's Robe",
+		   "hex": "FC3629",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Super Blue",
+		   "hex": "2055E0",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Super Red",
+		   "hex": "EE3329",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Voron Red",
+		   "hex": "BC2421",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Yellow",
+		   "hex": "D2DC22",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Skin Rash (Light)",
+		   "hex": "CE9E7E",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Supernova Black",
+		   "hex": "2A292E",
+		   "pattern": "sparkle"
+		  }
+		 ]
+		},
+		{
+		 "name": "{color_name}",
+		 "material": "PC+ABS",
+		 "density": 1.14,
+		 "weights": [
+		  {
+		   "weight": 1000,
+		   "spool_weight": 130
+		  }
+		 ],
+		 "diameters": [
+		  1.75
+		 ],
+		 "extruder_temp_range": [
+		  250,
+		  280
+		 ],
+		 "bed_temp_range": [
+		  100,
+		  115
+		 ],
+		 "colors": [
+		  {
+		   "name": "Black",
+		   "hex": "000000"
+		  },
+		  {
+		   "name": "Galactic Black",
+		   "hex": "000002",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Grey",
+		   "hex": "79797B",
+		   "pattern": "sparkle"
+		  }
+		 ]
+		},
+		{
+		 "name": "Galactic {color_name}",
+		 "material": "PLA",
+		 "density": 1.25,
+		 "weights": [
+		  {
+		   "weight": 1000,
+		   "spool_weight": 130
+		  }
+		 ],
+		 "diameters": [
+		  1.75
+		 ],
+		 "extruder_temp_range": [
+		  190,
+		  220
+		 ],
+		 "bed_temp_range": [
+		  0,
+		  65
+		 ],
+		 "colors": [
+		  {
+		   "name": "Armored Turtle Green",
+		   "hex": "0E945B",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Glow Blue",
+		   "hex": "09D6EB",
+		   "pattern": "sparkle",
+		   "glow": true
+		  },
+		  {
+		   "name": "Galactic Glow Green",
+		   "hex": "00ED60",
+		   "pattern": "sparkle",
+		   "glow": true
+		  },
+		  {
+		   "name": "Galactic Grape",
+		   "hex": "A82A82",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Green",
+		   "hex": "0AF53D",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Grey",
+		   "hex": "79797B",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Hot Pink",
+		   "hex": "FA008A",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Midnight Meteorite",
+		   "hex": "40298E",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Pink",
+		   "hex": "FF54AE",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Planetary Blue",
+		   "hex": "23ADE9",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Quadra Teal",
+		   "hex": "009CA6",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Super Blue",
+		   "hex": "2055E0",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Velvet Black",
+		   "hex": "000000",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Voron Red",
+		   "hex": "BC2421",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Galactic Yellow",
+		   "hex": "D2DC22",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Holiday Green",
+		   "hex": "C8D639",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Holiday Red",
+		   "hex": "EF2D1D",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Santa's Robe",
+		   "hex": "FC3629",
+		   "pattern": "sparkle"
+		  },
+		  {
+		   "name": "Supernova Black",
+		   "hex": "2A292E",
+		   "pattern": "sparkle"
+		  }
+		 ]
 		}
 	]
 }
