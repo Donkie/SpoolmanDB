@@ -1,0 +1,302 @@
+{
+    "manufacturer": "American Filament",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PCTG",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Blizzard White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Gunmetal Gray",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Obsidian Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "American Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "American Red",
+                    "hex": "AC1A17"
+                },
+                {
+                    "name": "Amethyst Purple",
+                    "hex": "6C47B2"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Chocolate Brown",
+                    "hex": "503529"
+                },
+                {
+                    "name": "Classic Lithophane White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Cool Lithophane Gray",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Coyote Brown",
+                    "hex": "C0894D"
+                },
+                {
+                    "name": "Coyote Tan",
+                    "hex": "E2C077"
+                },
+                {
+                    "name": "Crisp Lithophane Gray",
+                    "hex": "C5C5BF"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Dandelion Yellow",
+                    "hex": "EFDC4C"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "214327"
+                },
+                {
+                    "name": "Desert Tan FDE",
+                    "hex": "A79E82"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "358B49"
+                },
+                {
+                    "name": "Gunmetal Gray",
+                    "hex": "5C5B59"
+                },
+                {
+                    "name": "Honey Gold",
+                    "hex": "E3B145"
+                },
+                {
+                    "name": "Ice White",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Icy Blue",
+                    "hex": "94A7B7"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "FBE9B8"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "C80181"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "62E480"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Neon Pink",
+                    "hex": "EB0075"
+                },
+                {
+                    "name": "Onyx Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Outdoor Green",
+                    "hex": "144F3B"
+                },
+                {
+                    "name": "Primer Gray",
+                    "hex": "E0E0DC"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "771B6B"
+                },
+                {
+                    "name": "Sepia Lithophane",
+                    "hex": "D8BA64"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Teal",
+                    "hex": "00B4BC"
+                },
+                {
+                    "name": "Warm Lithophane White",
+                    "hex": "E6DDDB"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EEEA44"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Amethyst Purple",
+                    "hex": "8D65C7"
+                },
+                {
+                    "name": "Arctic White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Emerald Green",
+                    "hex": "0CCF81"
+                },
+                {
+                    "name": "Graphite",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "62E480"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "F6A25C"
+                },
+                {
+                    "name": "Neon Pink",
+                    "hex": "F092B3"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "CE92CE"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FC8397"
+                },
+                {
+                    "name": "Rose Gold",
+                    "hex": "E69E7A"
+                },
+                {
+                    "name": "Teal",
+                    "hex": "00B4BC"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EFDC4C"
+                }
+            ]
+        }
+    ]
+}
