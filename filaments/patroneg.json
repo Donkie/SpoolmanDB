@@ -1,0 +1,49 @@
+{
+    "manufacturer": "Patron EG",
+    "filaments": [
+        {
+            "name": "Marble {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                60,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Baby Blue Marble",
+                    "hex": "7DDBFF",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Mocha Marble",
+                    "hex": "F1D3AD",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Turquoise Marble",
+                    "hex": "73E9F4",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "White Marble",
+                    "hex": "FFFFFF",
+                    "pattern": "marble"
+                }
+            ]
+        }
+    ]
+}
