@@ -1,0 +1,261 @@
+{
+    "manufacturer": "NinjaTek",
+    "filaments": [
+        {
+            "name": "Cheetah {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Fire Red",
+                    "hex": "C00000"
+                },
+                {
+                    "name": "Flamingo Pink",
+                    "hex": "F06E92"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Lava Orange",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Midnight Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Sapphire Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Steel Gray",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Sun Yellow",
+                    "hex": "FFE15B"
+                },
+                {
+                    "name": "Water Translucent",
+                    "hex": "F2EFE9",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "Chinchilla {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Steel Gray",
+                    "hex": "AFAEAB"
+                }
+            ]
+        },
+        {
+            "name": "Edge {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Cheetah - Neon Glow",
+                    "hex": "F0EBE5"
+                },
+                {
+                    "name": "NinjaFlex - Neon Glow",
+                    "hex": "F0EBE5"
+                }
+            ]
+        },
+        {
+            "name": "NinjaFlex {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Fire Red",
+                    "hex": "D33D3D"
+                },
+                {
+                    "name": "Flamingo Pink",
+                    "hex": "F06E92"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Lava Orange",
+                    "hex": "FF7A33"
+                },
+                {
+                    "name": "Midnight Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Sapphire Blue",
+                    "hex": "0022FF"
+                },
+                {
+                    "name": "Snow White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Steel Gray",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Sun Yellow",
+                    "hex": "FFE15B"
+                },
+                {
+                    "name": "Water Translucent",
+                    "hex": "F2EFE9",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "NinjaTek Eel - Midnight Black",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
