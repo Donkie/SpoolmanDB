@@ -2,8 +2,8 @@
     "manufacturer": "VANYO",
     "filaments": [
         {
-            "name": "PLA+ {color_name}",
-            "material": "PLA",
+            "name": "{color_name}",
+            "material": "PLA+",
             "density": 1.24,
             "weights": [
                 {
@@ -17,7 +17,7 @@
             "bed_temp": 60,
             "colors": [
                 {
-                    "name": "Avodado Green",
+                    "name": "Avocado Green",
                     "hex": "7A8B36"
                 },
                 {
@@ -143,11 +143,19 @@
                 {
                     "name": "Wood",
                     "hex": "BA8C63"
+                },
+                {
+                    "name": "Blue White Rainbow",
+                    "hexes": [
+                        "1565C0",
+                        "FFFFFF"
+                    ],
+                    "multi_color_direction": "longitudinal"
                 }
             ]
         },
         {
-            "name": "PLA Matte Pro {color_name}",
+            "name": "Matte Pro {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -218,7 +226,7 @@
                     "hex": "F06292"
                 },
                 {
-                    "name": "Light_Blue",
+                    "name": "Light Blue",
                     "hex": "9BD1F5"
                 },
                 {
@@ -253,7 +261,7 @@
             "finish": "matte"
         },
         {
-            "name": "PLA Silk {color_name}",
+            "name": "Silk {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -315,7 +323,7 @@
             "finish": "glossy"
         },
         {
-            "name": "PLA Metallic {color_name}",
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -353,7 +361,7 @@
             "finish": "glossy"
         },
         {
-            "name": "PLA Glow-in-the-Dark {color_name}",
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -379,7 +387,7 @@
             "glow": true
         },
         {
-            "name": "PLA Fluorescent {color_name}",
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -408,7 +416,7 @@
             ]
         },
         {
-            "name": "PLA Dual-Color Silk {color_name}",
+            "name": "Dual-Color Silk {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -462,7 +470,7 @@
             "multi_color_direction": "coaxial"
         },
         {
-            "name": "PETG {color_name}",
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
             "weights": [
@@ -527,7 +535,7 @@
             ]
         },
         {
-            "name": "PETG-CF {color_name}",
+            "name": "{color_name}",
             "material": "PETG-CF",
             "density": 1.29,
             "weights": [
@@ -564,7 +572,7 @@
             ]
         },
         {
-            "name": "ASA {color_name}",
+            "name": "{color_name}",
             "material": "ASA",
             "density": 1.07,
             "weights": [
@@ -605,7 +613,7 @@
             ]
         },
         {
-            "name": "TPU-95A {color_name}",
+            "name": "95A {color_name}",
             "material": "TPU",
             "density": 1.21,
             "weights": [
