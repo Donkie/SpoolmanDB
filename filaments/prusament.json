@@ -405,7 +405,7 @@
             "density": 1.07,
             "weights": [
                 {
-                    "weight": 800.0,
+                    "weight": 850.0,
                     "spool_weight": 193.0,
                     "spool_type": "plastic"
                 }
@@ -426,39 +426,66 @@
             "colors": [
                 {
                     "name": "Natural",
-                    "hex": "DFDFD3"
+                    "hex": "D6D6CB"
                 },
                 {
                     "name": "Lipstick Red",
-                    "hex": "D02F37"
+                    "hex": "D03036"
                 },
                 {
                     "name": "Signal White",
-                    "hex": "E3DFD9"
+                    "hex": "E3DFD7"
                 },
                 {
                     "name": "Prusa Orange",
-                    "hex": "EA5E1A"
+                    "hex": "F55927"
                 },
                 {
                     "name": "Jet Black",
-                    "hex": "24292A"
+                    "hex": "292824"
                 },
                 {
-                    "name": "Galaxy Black",
-                    "hex": "3D3E3D"
-                },
-                {
-                    "name": "Prusa Pro Green",
-                    "hex": "5AECCB"
+                    "name": "Prusa Galaxy Black",
+                    "hex": "3E413E"
                 },
                 {
                     "name": "Sapphire Blue",
-                    "hex": "3B4468"
-                },
-			    {
+                    "hex": "3B4467"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_weight": 193.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                105,
+                115
+            ],
+            "colors": [
+                {
                     "name": "Olive Green",
-                    "hex": "636B2F"
+                    "hex": "617512"
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "00FA9A"
                 }
             ]
         },
@@ -469,7 +496,7 @@
             "weights": [
                 {
                     "weight": 800.0,
-                    "spool_weight": 280.0,
+                    "spool_weight": 278.0,
                     "spool_type": "plastic"
                 }
             ],
@@ -489,39 +516,39 @@
             "colors": [
                 {
                     "name": "Natural",
-                    "hex": "DFDFD3"
+                    "hex": "D6D6CB"
                 },
                 {
                     "name": "Lipstick Red",
-                    "hex": "D02F37"
+                    "hex": "D03036"
                 },
                 {
                     "name": "Signal White",
-                    "hex": "E3DFD9"
+                    "hex": "E3DFD7"
                 },
                 {
                     "name": "Prusa Orange",
-                    "hex": "EA5E1A"
+                    "hex": "F55927"
                 },
                 {
                     "name": "Jet Black",
-                    "hex": "24292A"
+                    "hex": "292824"
                 },
                 {
-                    "name": "Galaxy Black",
-                    "hex": "3D3E3D"
+                    "name": "Prusa Galaxy Black",
+                    "hex": "3E413E"
                 },
                 {
                     "name": "Prusa Pro Green",
-                    "hex": "5AECCB"
+                    "hex": "00FA9A"
                 },
                 {
                     "name": "Sapphire Blue",
-                    "hex": "3B4468"
+                    "hex": "3B4467"
                 },
 			    {
                     "name": "Olive Green",
-                    "hex": "636B2F"
+                    "hex": "617512"
                 }
             ]
         },
