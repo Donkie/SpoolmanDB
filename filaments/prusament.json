@@ -1671,6 +1671,38 @@
         },
         {
             "name": "{color_name} (NFC)",
+            "material": "PP-GF",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 850.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "extruder_temp_range": [
+                235,
+                255
+            ],
+            "bed_temp": 95,
+            "bed_temp_range": [
+                85,
+                105
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "FFFFFF",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
             "material": "TPU-95A",
             "density": 1.23,
             "weights": [
