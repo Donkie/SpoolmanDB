@@ -945,6 +945,88 @@
             ]
         },
         {
+            "name": "Blend {color_name} (NFC)",
+            "material": "PC",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 900.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "extruder_temp_range": [
+                265,
+                285
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "AEB0AE"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD1"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EA5E19"
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "5AECCB"
+                },
+                {
+                    "name": "Urban Grey",
+                    "hex": "999595"
+                }
+            ]
+        },
+        {
+            "name": "Blend {color_name} (NFC)",
+            "material": "PC",
+            "density": 1.22,
+            "weights": [
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 370.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 275,
+            "extruder_temp_range": [
+                265,
+                285
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                }
+            ]
+        },
+        {
             "name": "Space Grade {color_name} (NFC)",
             "material": "PC-CF",
             "density": 1.21,
