@@ -1731,6 +1731,45 @@
                     "hex": "232323"
                 }
             ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "WOOD",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 195,
+            "extruder_temp_range": [
+                185,
+                205
+            ],
+            "bed_temp": 60,
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Chocolate Brown",
+                    "hex": "543C27"
+                },
+                {
+                    "name": "Linden Light",
+                    "hex": "DFBF9F"
+                },
+                {
+                    "name": "Pastel Brown",
+                    "hex": "916E47"
+                }
+            ]
         }
     ]
 }
