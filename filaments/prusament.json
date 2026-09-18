@@ -896,6 +896,37 @@
                     "hex": "DEE2D8"
                 }
             ]
+        },
+        {
+            "name": "Space Grade {color_name} (NFC)",
+            "material": "PC-CF",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 850.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 290,
+            "extruder_temp_range": [
+                280,
+                300
+            ],
+            "bed_temp": 120,
+            "bed_temp_range": [
+                110,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
         }
     ]
 }
