@@ -561,7 +561,110 @@
                     "weight": 1000.0,
                     "spool_weight": 193.0,
                     "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "extruder_temp_range": [
+                205,
+                225
+            ],
+            "bed_temp": 50,
+            "bed_temp_range": [
+                40,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Prusa Galaxy Black",
+                    "hex": "3D3E3C"
                 },
+                {
+                    "name": "Galaxy Silver",
+                    "hex": "999A9F"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "D03036"
+                },
+                {
+                    "name": "Azure Blue",
+                    "hex": "0682AC"
+                },
+                {
+                    "name": "Pearl Mouse",
+                    "hex": "A49D8D"
+                },
+                {
+                    "name": "Vanilla White",
+                    "hex": "D9D4C4"
+                },
+                {
+                    "name": "Gentleman's Grey",
+                    "hex": "354046"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "5E6344"
+                },
+                {
+                    "name": "Galaxy Purple",
+                    "hex": "0F0939"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "24292A"
+                },
+                {
+                    "name": "Opal Green",
+                    "hex": "075B49"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "FE6E31"
+                },
+                {
+                    "name": "Pineapple Yellow",
+                    "hex": "EFD006"
+                },
+                {
+                    "name": "Gravity Grey",
+                    "hex": "9FA4A7"
+                },
+                {
+                    "name": "Simply Green",
+                    "hex": "70A640"
+                },
+                {
+                    "name": "Marble Grey",
+                    "hex": "B0B4B4"
+                },
+                {
+                    "name": "Galaxy Green",
+                    "hex": "426639"
+                },
+                {
+                    "name": "Pristine White",
+                    "hex": "E6EAED"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3DD",
+                    "translucent": true
+                },
+                {
+                    "name": "Galaxy Red",
+                    "hex": "DE0D0D"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
                 {
                     "weight": 2000.0,
                     "spool_weight": 219.0,
@@ -583,84 +686,20 @@
             ],
             "colors": [
                 {
-                    "name": "Galaxy Black",
-                    "hex": "3D3E3D"
-                },
-                {
-                    "name": "Galaxy Silver",
-                    "hex": "999AA0"
-                },
-                {
-                    "name": "Lipstick Red",
-                    "hex": "D02F37"
-                },
-                {
-                    "name": "Azure Blue",
-                    "hex": "0082AD"
-                },
-                {
-                    "name": "Pearl Mouse",
-                    "hex": "A49D8E"
-                },
-                {
-                    "name": "Vanilla White",
-                    "hex": "D9D4C6"
+                    "name": "Prusa Galaxy Black",
+                    "hex": "3D3E3C"
                 },
                 {
                     "name": "Gentleman's Grey",
-                    "hex": "354047"
+                    "hex": "354046"
                 },
                 {
                     "name": "Army Green",
-                    "hex": "5E6345"
-                },
-                {
-                    "name": "Galaxy Purple",
-                    "hex": "453A72"
-                },
-                {
-                    "name": "Jet Black",
-                    "hex": "24292A"
-                },
-                {
-                    "name": "Opal Green",
-                    "hex": "065B4A"
+                    "hex": "5E6344"
                 },
                 {
                     "name": "Prusa Orange",
-                    "hex": "EA5E1A"
-                },
-                {
-                    "name": "Pineapple Yellow",
-                    "hex": "EFD00B"
-                },
-                {
-                    "name": "Gravity Grey",
-                    "hex": "9FA4A8"
-                },
-                {
-                    "name": "Simply Green",
-                    "hex": "70A641"
-                },
-                {
-                    "name": "Marble Grey",
-                    "hex": "B0B4B5"
-                },
-                {
-                    "name": "Galaxy Green",
-                    "hex": "42663A"
-                },
-                {
-                    "name": "Pristine White",
-                    "hex": "E6EAEF"
-                },
-                {
-                    "name": "Natural",
-                    "hex": "DFDFD3"
-                },
-                {
-                    "name": "Galaxy Red",
-                    "hex": "D94A5A"
+                    "hex": "FE6E31"
                 }
             ]
         },
