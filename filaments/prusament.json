@@ -1609,6 +1609,37 @@
         },
         {
             "name": "{color_name} (NFC)",
+            "material": "PA11-CF",
+            "density": 1.11,
+            "weights": [
+                {
+                    "weight": 800.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 285,
+            "extruder_temp_range": [
+                275,
+                295
+            ],
+            "bed_temp": 110,
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "0D250D"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
             "material": "TPU-95A",
             "density": 1.23,
             "weights": [
