@@ -584,6 +584,318 @@
                     "hex": "D94A5A"
                 }
             ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Matte Black",
+                    "hex": "303635"
+                },
+                {
+                    "name": "Anthracite Grey",
+                    "hex": "3F4646"
+                },
+                {
+                    "name": "Prusa Galaxy Black",
+                    "hex": "494546"
+                },
+                {
+                    "name": "Urban Grey",
+                    "hex": "95908C"
+                },
+                {
+                    "name": "Chalky Blue",
+                    "hex": "6F9AA9"
+                },
+                {
+                    "name": "Jungle Green",
+                    "hex": "007248"
+                },
+                {
+                    "name": "Neon Green Transparent",
+                    "hex": "A6EC5E",
+                    "translucent": true
+                },
+                {
+                    "name": "Ocean Blue",
+                    "hex": "1A4C54"
+                },
+                {
+                    "name": "Pistachio Green",
+                    "hex": "93A682"
+                },
+                {
+                    "name": "Terracotta Light",
+                    "hex": "B87F69"
+                },
+                {
+                    "name": "Yellow Gold",
+                    "hex": "9A8523"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "292B2B"
+                },
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EB5403"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "E5E0E1"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "BB2E32"
+                },
+                {
+                    "name": "Mango Yellow",
+                    "hex": "F2B706"
+                },
+                {
+                    "name": "Ultramarine Blue Transparent",
+                    "hex": "2B3B60",
+                    "translucent": true
+                },
+                {
+                    "name": "Clear",
+                    "hex": "E4E7E3",
+                    "translucent": true
+                },
+                {
+                    "name": "Carmine Red Transparent",
+                    "hex": "B5422F",
+                    "translucent": true
+                },
+                {
+                    "name": "Prusa Orange Transparent",
+                    "hex": "F17230",
+                    "translucent": true
+                },
+                {
+                    "name": "Prusa Pro Green",
+                    "hex": "00FA9A"
+                },
+                {
+                    "name": "Shimmering Violet",
+                    "hex": "1D1991"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "346CE3"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 370.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EB5403"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "292B2B"
+                },
+                {
+                    "name": "Urban Grey",
+                    "hex": "95908C"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "E5E0E1"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "E4E7E3",
+                    "translucent": true
+                },
+                {
+                    "name": "Anthracite Grey",
+                    "hex": "3F4646"
+                },
+                {
+                    "name": "Prusa Galaxy Black",
+                    "hex": "494546"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 370.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Recycled",
+                    "hex": "0D210C"
+                },
+                {
+                    "name": "Recycled Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Magnetite 40% {color_name} (NFC)",
+            "material": "PETG",
+            "density": 1.82,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 270,
+            "extruder_temp_range": [
+                265,
+                275
+            ],
+            "bed_temp": 100,
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "272E29"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "PETG",
+            "density": 4.0,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp": 80,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Tungsten 75%",
+                    "hex": "545251"
+                }
+            ]
+        },
+        {
+            "name": "V0 {color_name} (NFC)",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp": 80,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Jet Black",
+                    "hex": "363331"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DEE2D8"
+                }
+            ]
         }
     ]
 }
