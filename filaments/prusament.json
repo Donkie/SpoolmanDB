@@ -10,11 +10,6 @@
                     "weight": 1000.0,
                     "spool_weight": 193.0,
                     "spool_type": "plastic"
-                },
-                {
-                    "weight": 2000.0,
-                    "spool_weight": 219.0,
-                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -37,72 +32,133 @@
                 },
                 {
                     "name": "Anthracite Grey",
-                    "hex": "3F4647"
+                    "hex": "3F4646"
                 },
                 {
-                    "name": "Galaxy Black",
-                    "hex": "3D3E3D"
+                    "name": "Prusa Galaxy Black",
+                    "hex": "494546"
                 },
                 {
                     "name": "Urban Grey",
-                    "hex": "999596"
+                    "hex": "95908C"
                 },
                 {
                     "name": "Chalky Blue",
-                    "hex": "6F9AAA"
+                    "hex": "6F9AA9"
                 },
                 {
                     "name": "Jungle Green",
-                    "hex": "007249"
+                    "hex": "007248"
                 },
                 {
                     "name": "Neon Green Transparent",
-                    "hex": "A6EC5F",
+                    "hex": "A6EC5E",
                     "translucent": true
                 },
                 {
                     "name": "Ocean Blue",
-                    "hex": "194C55"
+                    "hex": "1A4C54"
                 },
                 {
                     "name": "Pistachio Green",
-                    "hex": "93A683"
+                    "hex": "93A682"
                 },
                 {
                     "name": "Terracotta Light",
-                    "hex": "B87F6A"
+                    "hex": "B87F69"
                 },
                 {
                     "name": "Yellow Gold",
-                    "hex": "9A8524"
+                    "hex": "9A8523"
                 },
                 {
                     "name": "Jet Black",
-                    "hex": "24292A"
+                    "hex": "292B2B"
                 },
                 {
                     "name": "Prusa Orange",
-                    "hex": "EA5E1A"
+                    "hex": "EB5403"
                 },
                 {
                     "name": "Signal White",
-                    "hex": "E3DFD9"
+                    "hex": "E5E0E1"
                 },
                 {
                     "name": "Lipstick Red",
-                    "hex": "D02F37"
+                    "hex": "BB2E32"
                 },
                 {
                     "name": "Mango Yellow",
-                    "hex": "F2B70A"
+                    "hex": "F2B706"
                 },
                 {
-                    "name": "Ultramarine Blue",
-                    "hex": "2B3B61"
+                    "name": "Ultramarine Blue Transparent",
+                    "hex": "2B3B60",
+                    "translucent": true
                 },
                 {
                     "name": "Clear",
-                    "hex": "dcdcdc"
+                    "hex": "E4E7E3",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 2000.0,
+                    "spool_weight": 219.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Prusa Orange",
+                    "hex": "EB5403"
+                },
+                {
+                    "name": "Jet Black",
+                    "hex": "292B2B"
+                },
+                {
+                    "name": "Urban Grey",
+                    "hex": "95908C"
+                },
+                {
+                    "name": "Yellow Gold",
+                    "hex": "9A8523"
+                },
+                {
+                    "name": "Signal White",
+                    "hex": "E5E0E1"
+                },
+                {
+                    "name": "Pistachio Green",
+                    "hex": "93A682"
+                },
+                {
+                    "name": "Terracotta Light",
+                    "hex": "B87F69"
+                },
+                {
+                    "name": "Jungle Green",
+                    "hex": "007248"
                 }
             ]
         },
@@ -132,8 +188,9 @@
             ],
             "colors": [
                 {
-                    "name": "Carmine Red",
-                    "hex": "B54230"
+                    "name": "Carmine Red Transparent",
+                    "hex": "B5422F",
+                    "translucent": true
                 }
             ]
         },
