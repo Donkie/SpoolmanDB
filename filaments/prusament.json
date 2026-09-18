@@ -1770,6 +1770,37 @@
                     "hex": "916E47"
                 }
             ]
+        },
+        {
+            "name": "1010 {color_name} (NFC)",
+            "material": "PEI",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 410,
+            "extruder_temp_range": [
+                400,
+                420
+            ],
+            "bed_temp": 150,
+            "bed_temp_range": [
+                140,
+                160
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "FFFFFF"
+                }
+            ]
         }
     ]
 }
