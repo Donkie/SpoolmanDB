@@ -1408,6 +1408,37 @@
         },
         {
             "name": "{color_name} (NFC)",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 265,
+            "extruder_temp_range": [
+                250,
+                270
+            ],
+            "bed_temp": 90,
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "3B3539"
+                }
+            ]
+        },
+        {
+            "name": "{color_name} (NFC)",
             "material": "PVB",
             "density": 1.09,
             "weights": [
