@@ -950,6 +950,63 @@
             ]
         },
         {
+            "name": "{color_name} (NFC)",
+            "material": "PVB",
+            "density": 1.09,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 215,
+            "extruder_temp_range": [
+                205,
+                225
+            ],
+            "bed_temp": 75,
+            "bed_temp_range": [
+                70,
+                80
+            ],
+            "colors": [
+                {
+                    "name": "Bright Green Transparent",
+                    "hex": "96D35F",
+                    "translucent": true
+                },
+                {
+                    "name": "Dark Blue Transparent",
+                    "hex": "0A4DA5",
+                    "translucent": true
+                },
+                {
+                    "name": "Light Yellow Transparent",
+                    "hex": "FFFFEC",
+                    "translucent": true
+                },
+                {
+                    "name": "Natural Transparent",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Prusa Orange Transparent",
+                    "hex": "FFF38A",
+                    "translucent": true
+                },
+                {
+                    "name": "Smoky Black Transparent",
+                    "hex": "ADADAD",
+                    "translucent": true
+                }
+            ]
+        },
+        {
             "name": "Blend {color_name} (NFC)",
             "material": "PC",
             "density": 1.22,
