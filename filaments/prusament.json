@@ -1056,6 +1056,37 @@
                     "hex": "000000"
                 }
             ]
+        },
+        {
+            "name": "{color_name} (NFC)",
+            "material": "TPU-95A",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 500.0,
+                    "spool_weight": 278.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp": 65,
+            "bed_temp_range": [
+                55,
+                75
+            ],
+            "colors": [
+                {
+                    "name": "Jet Black",
+                    "hex": "232323"
+                }
+            ]
         }
     ]
 }
