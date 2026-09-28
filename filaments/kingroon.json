@@ -1,0 +1,49 @@
+{
+    "manufacturer": "Kingroon",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.26,
+            "weights": [
+                { "weight": 1000.0, "spool_weight": 142.0, "spool_type": "plastic" }
+            ],
+            "diameters": [1.75],
+			"extruder_temp_range": [230, 250],
+			"bed_temp_range": [70, 90],
+            "colors": [
+                {"name": "White", "hex": "FFFFFF"},
+                {"name": "Black","hex": "050505"},
+                {"name": "Gray","hex": "A1A1A1"},
+                {"name": "Red","hex": "ED2C2C"},
+                {"name": "Yellow","hex": "E2B930"},
+                {"name": "Blue","hex": "2153B5"},
+                {"name": "Sky Blue","hex": "45C4EF"},
+                {"name": "Green","hex": "19A973"},
+                {"name": "Pink","hex": "E2B2B0"},
+                {"name": "Orange","hex": "FF9300"},
+                {"name": "Silver","hex": "A4B2BC"},
+                {"name": "Transparent","hex": "FFFFFF", "translucent": true},
+                {"name": "Grass Green","hex": "0B7E48"},
+                {"name": "Mint Green","hex": "009B7F"},
+                {"name": "Light Apricot","hex": "C8C3C1"},
+                {"name": "Cyan","hex": "1C83D4"},
+                {"name": "Light Pink","hex": "BE9DA4"},
+                {"name": "Peony Pink","hex": "EF76A3"},
+                {"name": "Lemon Yellow","hex": "E1CF36"},
+                {"name": "Wood Color","hex": "A3806A"},
+                {"name": "Carrot Orange","hex": "D9631D"},
+                {"name": "Ocean Blue","hex": "17426F"},
+                {"name": "Porcelain Blue","hex": "097478"},
+                {"name": "Bamboo Green","hex": "389620"},
+                {"name": "Olive Green","hex": "4C552C"},
+                {"name": "Navy Blue","hex": "0E6ACE"},
+                {"name": "Dark Green","hex": "2A3625"},
+                {"name": "Skin","hex": "FDDDBF"},
+                {"name": "Brown","hex": "563D00"},
+                {"name": "Transparent Pink","hex": "733435", "translucent": true},
+                {"name": "Purple","hex": "670C79"}
+            ]
+        }
+    ]
+}
