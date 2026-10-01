@@ -864,6 +864,20 @@
                         "A66EB9",
                         "D87694"
                     ]
+                },
+                {
+                    "name": "Phantom Blue (Blue-Black)",
+                    "hexes": [
+                        "00629B",
+                        "000000"
+                    ]
+                },
+                {
+                    "name": "Mystic Magenta (Green-Purple)",
+                    "hexes": [
+                        "720062",
+                        "3A913F"
+                    ]
                 }
             ]
         },
