@@ -505,7 +505,7 @@
             "weights": [
                 {
                     "weight": 1000,
-                    "spool_weight": 180,
+                    "spool_weight": 189,
                     "spool_type": "plastic"
                 }
             ],
