@@ -1187,6 +1187,57 @@
             ]
         },
         {
+            "name": "Matte {color_name}",
+            "material": "PETG",
+            "density": 1.37,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 245,
+            "bed_temp": 70,
+            "translucent": false,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FABBCB"
+                },
+                {
+                    "name": "Violet",
+                    "hex": "A7A4E0"
+                },
+                {
+                    "name": "Baby Blue",
+                    "hex": "B9D9EB"
+                },
+                {
+                    "name": "Avocado Green",
+                    "hex": "BCE194"
+                },
+                {
+                    "name": "Lime",
+                    "hex": "C0DF16"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "7F7E83"
+                }
+            ]
+        },                
+        {
             "name": "HF {color_name}",
             "material": "PETG",
             "density": 1.28,
