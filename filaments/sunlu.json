@@ -541,7 +541,7 @@
             ]
         },
         {
-            "name": "{color_name} Wood",
+            "name": "{color_name}",
             "material": "WOOD",
             "density": 1.25,
             "weights": [
