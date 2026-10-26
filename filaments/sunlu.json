@@ -41,11 +41,11 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "FF0000"
+                    "hex": "BC2726"
                 },
                 {
-                    "name": "Blue",
-                    "hex": "0000FF"
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
                 },
                 {
                     "name": "Orange",
@@ -65,7 +65,7 @@
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "75787B"
                 },
                 {
                     "name": "Mint Green",
@@ -126,6 +126,18 @@
                 {
                     "name": "Sunny Orange",
                     "hex": "FC743A"
+                },
+                {   
+                    "name": "Midnight",
+                    "hex": "28334A"
+                },
+                {
+                    "name": "Coffee Brown",
+                    "hex": "362111"
+                },
+                {
+                    "name": "Roasted Chestnut",
+                    "hex": "1D0E07"
                 }
             ]
         },
@@ -155,15 +167,15 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "FF0000"
+                    "hex": "BC2726"
                 },
                 {
-                    "name": "Blue",
-                    "hex": "0000FF"
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "75787B"
                 },
                 {
                     "name": "Green",
@@ -439,11 +451,11 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "FF0000"
+                    "hex": "BC2726"
                 },
                 {
-                    "name": "Blue",
-                    "hex": "0000FF"
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
                 },
                 {
                     "name": "Orange",
@@ -463,7 +475,7 @@
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "75787B"
                 },
                 {
                     "name": "Transparent",
