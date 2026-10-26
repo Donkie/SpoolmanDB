@@ -13,7 +13,7 @@ To limit the amount of duplication needed in the source files, each combination 
 entries or you can split up the filament object into multiple ones.
 
 #### Source file fields
- * **name** - The product name. Should probably contain the format code `{color_name}` to automatically insert the color name.
+ * **name** - The product name. Use `{color_name}` to automatically insert the color name. It is required when `colors` contains multiple entries; with exactly one color entry, a fixed name such as `eMarble` is also allowed.
  * **material** - The material name, e.g. PLA.
  * **density** - The density of the material in g/cm3.
  * **weights** - An array of objects with `weight`, `spool_weight` and `spool_type` fields. Specify multiple here if the manufacturer sells the filament in e.g. 1 kg and 5 kg spools. `spool_weight` is optional but recommended. `spool_type` is optional and can be any of "plastic", "cardboard" or "metal".
