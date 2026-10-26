@@ -691,6 +691,53 @@
             ]
         },
         {
+            "name": "2.0 {color_name}",
+            "material": "PLA+",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "extruder_temp_range": [
+                205,
+                245
+            ],
+            "bed_temp": 55,
+            "bed_temp_range": [
+                50,
+                60
+            ],
+            "colors": [
+                { "name": "Black", "hex": "000000" },
+                { "name": "White", "hex": "ffffff" },
+                { "name": "Grey", "hex": "75787b" },
+                { "name": "Red", "hex": "bc2726" },
+                { "name": "Blue (Klein Blue)", "hex": "1729ab" },
+                { "name": "Yellow", "hex": "fff13f" },
+                { "name": "Vivid Yellow", "hex": "eac642" },
+                { "name": "Green", "hex": "1daa27" },
+                { "name": "Cyan", "hex": "00a3e0" },
+                { "name": "Beige", "hex": "f0e0d6" },
+                { "name": "Ceramic White", "hex": "f4f9ff" },
+                { "name": "Bone White", "hex": "eee7d4" },
+                { "name": "Oak", "hex": "c2b29a" },
+                { "name": "Coffee Brown", "hex": "362111" },
+                { "name": "Magenta", "hex": "c52e79" },
+                { "name": "Roasted Chestnut", "hex": "1d0e07" },
+                { "name": "Olive Green", "hex": "5a6d3d" },
+                { "name": "Sunny Orange", "hex": "ed7334" },
+                { "name": "Midnight", "hex": "28334a" },
+                { "name": "Lavender Purple", "hex": "685bc7" }
+            ]
+        },
+        {
             "name": "Meta {color_name}",
             "material": "PLA",
             "density": 1.22,
