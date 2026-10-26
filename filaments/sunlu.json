@@ -3,6 +3,431 @@
     "filaments": [
         {
             "name": "{color_name}",
+            "material": "PA6-CF",
+            "density": 1.12,
+            "fill": "carbon fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                270,
+                290
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PC",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                280
+            ],
+            "bed_temp_range": [
+                100,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "fefeff"
+                }
+            ]
+        },
+        {
+            "name": "2.0 {color_name}",
+            "material": "PP",
+            "density": 1.01,
+            "weights": [
+                {
+                    "weight": 800,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 55,
+            "bed_temp_range": [
+                40,
+                55
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PA6-GF",
+            "density": 1.269,
+            "fill": "glass fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                270,
+                290
+            ],
+            "bed_temp_range": [
+                60,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "6e7174"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PA12-CF",
+            "density": 1.08,
+            "fill": "carbon fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                280
+            ],
+            "bed_temp_range": [
+                60,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Easy {color_name}",
+            "material": "PA",
+            "density": 1.1,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                280
+            ],
+            "bed_temp_range": [
+                30,
+                50
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "f6f2e8"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PC+ABS",
+            "density": 1.081,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                280
+            ],
+            "bed_temp_range": [
+                100,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "f9f8f4"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "FR {color_name}",
+            "material": "ABS",
+            "density": 1.15,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "f6f2e8"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS-GF",
+            "density": 1.016,
+            "fill": "glass fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                260,
+                280
+            ],
+            "bed_temp_range": [
+                90,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.23,
+            "fill": "carbon fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                250
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.23,
+            "fill": "carbon fiber",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                215,
+                245
+            ],
+            "bed_temp_range": [
+                50,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PEEK",
+            "density": 1.1965,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                390,
+                420
+            ],
+            "bed_temp_range": [
+                110,
+                120
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "c8bca5"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU-90A",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "75787b"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Red",
+                    "hex": "bc2726"
+                },
+                {
+                    "name": "Green",
+                    "hex": "1daa27"
+                },
+                {
+                    "name": "Sunny Orange",
+                    "hex": "ed7334"
+                },
+                {
+                    "name": "Azure",
+                    "hex": "008be4"
+                },
+                {
+                    "name": "White",
+                    "hex": "ffffff"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
             "material": "PLA+",
             "density": 1.21,
             "weights": [
