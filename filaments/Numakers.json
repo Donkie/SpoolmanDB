@@ -330,7 +330,7 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp_Range": [
+            "extruder_temp_range": [
                 210,
                 240
             ],

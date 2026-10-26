@@ -21,6 +21,43 @@
                 {
                     "name": "Black",
                     "hex": "383435"
+                },
+                {
+                        "name": "Blue",
+                        "hex": "2E56F1"
+                },
+                {
+                        "name": "Crystal Clear",
+                        "hex": "E4E7E5",
+                        "translucent": true
+                },
+                {
+                        "name": "Green",
+                        "hex": "32A584"
+                },
+                {
+                        "name": "Grey",
+                        "hex": "9DB6D4"
+                },
+                {
+                        "name": "Orange",
+                        "hex": "FF8133"
+                },
+                {
+                        "name": "Red",
+                        "hex": "E20010"
+                },
+                {
+                        "name": "Silver",
+                        "hex": "C9D0D4"
+                },
+                {
+                        "name": "White",
+                        "hex": "FFFFFF"
+                },
+                {
+                        "name": "Yellow",
+                        "hex": "F5E457"
                 }
             ]
         }, 
@@ -52,7 +89,83 @@
                {
                     "name": "Fire Engine Red",
                     "hex": "8D0823"
-                }
+                },
+               {
+                      "name": "Army Green",
+                      "hex": "6E8451"
+               },
+               {
+                      "name": "Cool White",
+                      "hex": "EFEFEF"
+               },
+               {
+                      "name": "Dark Purple",
+                      "hex": "6C47B2"
+               },
+               {
+                      "name": "Fire Orange",
+                      "hex": "F67405"
+               },
+               {
+                      "name": "Forest Green",
+                      "hex": "32A584"
+               },
+               {
+                      "name": "Gold",
+                      "hex": "E3B145"
+               },
+               {
+                      "name": "Ice Clear",
+                      "hex": "E4E7E5"
+               },
+               {
+                      "name": "Lavender Purple",
+                      "hex": "AAB1FF"
+               },
+               {
+                      "name": "Magenta",
+                      "hex": "F2306E"
+               },
+               {
+                      "name": "Pink",
+                      "hex": "F87FB5"
+               },
+               {
+                      "name": "Silver",
+                      "hex": "AABCCF"
+               },
+               {
+                      "name": "Sky Blue",
+                      "hex": "39B9DB"
+               },
+               {
+                      "name": "Voxel Black",
+                      "hex": "000000"
+               },
+               {
+                      "name": "Voxel Grey",
+                      "hex": "C3CCD5"
+               },
+               {
+                      "name": "VOXEL Phantom Blue",
+                      "hex": "003287"
+               },
+               {
+                      "name": "Voxel Royal Blue",
+                      "hex": "2E56F1"
+               },
+               {
+                      "name": "Witch Green",
+                      "hex": "58C91B"
+               },
+               {
+                      "name": "Wood",
+                      "hex": "DBC9AD"
+               },
+               {
+                      "name": "Yellow",
+                      "hex": "FBE200"
+               }
             ]
         }   
     ]

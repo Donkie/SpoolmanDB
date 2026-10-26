@@ -4,6 +4,7 @@ A centralized place to store information about 3D printing filaments and their m
 The database is hosted using GitHub Pages, you can browse it at: [https://donkie.github.io/SpoolmanDB/](https://donkie.github.io/SpoolmanDB/)
 
 You can contribute to this database by adding/editing files and submitting pull requests in this repository.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## Filaments
 The source files are in the `filaments` folder. When this database is deployed, they will be expanded/compiled into a single JSON file called `filaments.json`.

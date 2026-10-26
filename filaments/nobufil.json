@@ -1,0 +1,132 @@
+{
+	"manufacturer": "Nobufil",
+	"filaments": [
+		{
+			"name": "{color_name}",
+			"material": "PETG",
+			"density": 1.27,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_weight": 234
+				}
+			],
+			"diameters": [
+				1.75
+			],
+			"extruder_temp": 235,
+			"bed_temp": 75,
+			"colors": [
+				{
+					"name": "Yellow",
+					"hex": "FFFF00"
+				},
+				{
+					"name": "Brown",
+					"hex": "A52A2A"
+				},
+				{
+					"name": "Black",
+					"hex": "000000"
+				},
+				{
+					"name": "White",
+					"hex": "FFFFFF"
+				},
+				{
+					"name": "Green",
+					"hex": "00FF00"
+				},
+				{
+					"name": "Blue",
+					"hex": "0000FF"
+				},
+				{
+					"name": "Classic Grey",
+					"hex": "e9e9e9"
+				},
+				{
+					"name": "Industrial Dark Grey",
+					"hex": "909090"
+				}
+			]
+		},
+		{
+			"name": "Matte {color_name}",
+			"material": "PLAX",
+			"density": 1.19,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_weight": 234
+				}
+			],
+			"diameters": [
+				1.75
+			],
+			"extruder_temp": 225,
+			"bed_temp": 65,
+			"finish": "matte",
+			"colors": [
+				{
+					"name": "White",
+					"hex": "FFFFFF"
+				},
+				{
+					"name": "Black",
+					"hex": "000000"
+				},
+				{
+					
+					"name": "Artist Grey",
+					"hex": "BAC3CD"
+				}
+			]
+		},
+		{
+			"name": "Matte {color_name}",
+			"material": "PETG",
+			"density": 1.27,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_weight": 234
+				}
+			],
+			"diameters": [
+				1.75
+			],
+			"extruder_temp": 235,
+			"bed_temp": 75,
+			"finish": "matte",
+			"colors": [
+				{
+					"name": "Black",
+					"hex": "000000"
+				}
+			]
+		},
+		{
+			"name": "{color_name}",
+			"material": "PLA-CF",
+			"density": 1.19,
+			"weights": [
+				{
+					"weight": 1000,
+					"spool_weight": 234
+				}
+			],
+			"diameters": [
+				1.75
+			],
+			"extruder_temp": 225,
+			"bed_temp": 65,
+			"colors": [
+				{
+					"name": "Black",
+					"hex": "000000"
+				}
+			]
+		}
+	]
+}
