@@ -36,6 +36,8 @@ jobs:
         run: check-jsonschema --schemafile materials.schema.json materials.json
       - name: Validate Filaments
         run: check-jsonschema --schemafile filaments.schema.json filaments/*
+      - name: Test filament compilation
+        run: python3 scripts/test_compile_filaments.py
       - name: Test the catalog preview script
         run: python3 scripts/test_preview_catalog.py
       - name: Test filament name validation

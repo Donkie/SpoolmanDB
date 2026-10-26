@@ -27,6 +27,10 @@ entries or you can split up the filament object into multiple ones.
  * **glow** *(optional)* - Boolean true/false if this filament has a glow-in-the-dark effect.
  * **colors** - An array of objects with `name` and `hex` fields. Name should be what the manufacturer calls it. Hex should be the hex code of the color, can include an alpha channel if it's a transparent color. If it's a multi-color filament, specify `hexes` instead of `hex` and provide a list of hex codes. You can also set the `finish`, `multi_color_direction`, `pattern`, `translucent` and `glow` fields here if the specific color is different from the others.
 
+Colors also support an optional **transmission_distance**: a positive number in mm describing light penetration through the printed material (TD, as used by [HueForge](https://shop.thehueforge.com/blogs/news/what-is-hueforge)). Set it on each color, for example `{"name": "Black", "hex": "1A1A1A", "transmission_distance": 0.5}`. Use a measured or manufacturer-published value; leave it out if unknown. The compiled entry has `transmission_distance: null` when omitted.
+
+TD describes the printed material, rather than the diameter of the unprinted filament. A color's value applies to every listed weight and diameter. If different diameters have different measured TD values, split them into separate filament objects with their own colors and TD values.
+
 ## Materials
 All materials are found in the `materials.json` file.
 

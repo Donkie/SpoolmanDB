@@ -180,6 +180,11 @@
                                     "type": "string",
                                     "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
                                 },
+                                "transmission_distance": {
+                                    "$comment": "Transmission distance (TD) of this color in mm, describing light penetration through the printed material.",
+                                    "type": "number",
+                                    "exclusiveMinimum": 0
+                                },
                                 "hexes": {
                                     "$comment": "For a multi-color filament.",
                                     "type": "array",
