@@ -59,6 +59,11 @@ leave that filament for someone who can.
 
 Spell it the way the manufacturer does, including their capitalisation.
 
+`{color_name}` is required when `colors` contains multiple entries. With exactly
+one color entry, a fixed product name such as `"name": "eMarble"` is also allowed.
+Keep the color entry and its hex value; its name is only added to the product
+name when you use the placeholder.
+
 ## The material field
 
 `material` is the plastic, not the branding. It's used to group and filter across

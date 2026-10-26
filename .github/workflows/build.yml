@@ -38,6 +38,8 @@ jobs:
         run: check-jsonschema --schemafile filaments.schema.json filaments/*
       - name: Test the catalog preview script
         run: python3 scripts/test_preview_catalog.py
+      - name: Test filament name validation
+        run: python3 scripts/test_filament_names.py
       - name: Check for generated and editor files
         if: github.event_name == 'pull_request'
         run: |

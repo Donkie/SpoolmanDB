@@ -87,13 +87,13 @@ def check_keys(rep, where, obj, permitted, kind):
         )
 
 
-def check_name(rep, where, name, material, manufacturer):
-    if PLACEHOLDER not in name:
+def check_name(rep, where, name, material, manufacturer, color_count):
+    if color_count > 1 and PLACEHOLDER not in name:
         rep.error(where, f"name {name!r} is missing the {PLACEHOLDER} placeholder")
         return
 
-    if name != name.strip() or "  " in name:
-        rep.error(where, f"name {name!r} has leading, trailing or doubled whitespace")
+    if not name or name != name.strip() or "  " in name:
+        rep.error(where, f"name {name!r} is empty or has leading, trailing or doubled whitespace")
 
     remainder = name.replace(PLACEHOLDER, "")
 
@@ -254,7 +254,8 @@ def lint_file(path: Path, keysets) -> Report:
         if not {"name", "material", "colors", "weights", "diameters", "density"} <= set(filament):
             continue  # schema validation reports missing required fields
 
-        check_name(rep, where, filament["name"], filament["material"], manufacturer)
+        check_name(rep, where, filament["name"], filament["material"], manufacturer,
+                   len(filament["colors"]))
         check_colors(rep, where, filament)
         check_numbers(rep, where, filament)
 
