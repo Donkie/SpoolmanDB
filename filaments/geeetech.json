@@ -195,6 +195,46 @@
                 { "name": "White", "hex": "fcfefb" },
                 { "name": "Yellow", "hex": "feea00" }
             ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS+",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 180.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                95,
+                110
+            ],
+            "colors": [
+                { "name": "Apple", "hex": "daeb2e" },
+                { "name": "Black", "hex": "000000" },
+                { "name": "Blue", "hex": "0067ea" },
+                { "name": "Brown", "hex": "b56b58" },
+                { "name": "Dark Gray", "hex": "484848" },
+                { "name": "Green", "hex": "1c8c04" },
+                { "name": "Orange", "hex": "f65d33" },
+                { "name": "Pink", "hex": "ec58b8" },
+                { "name": "Purple", "hex": "6a24b6" },
+                { "name": "Red", "hex": "e31f2b" },
+                { "name": "Silver", "hex": "e7ecf0" },           
+                { "name": "Skin", "hex": "ffc8a9" },
+                { "name": "Water Blue", "hex": "02b4f2" },
+                { "name": "White", "hex": "fcfefb" },
+                { "name": "Yellow", "hex": "feea00" } 
+            ]
         }
     ]
 }

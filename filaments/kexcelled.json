@@ -1,0 +1,61 @@
+{
+    "manufacturer": "kexcelled",
+    "filaments": [
+        {
+            "name": "The K5 T {color_name}",
+            "material": "ABS",
+            "density": 1.08,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                250,
+                290
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Transparent Clear Blue",
+                    "hex": "69B6F8"
+                },
+                {
+                    "name": "Transparent Clear Clear Green",
+                    "hex": "4CE169"
+                }
+            ]
+        },
+        {
+            "name": "The K8 64D {color_name}",
+            "material": "TPU",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                215,
+                235
+            ],
+            "colors": [
+                {
+                    "name": "Transparent White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}

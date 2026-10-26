@@ -22,16 +22,26 @@
                     "diameters",
                     "colors"
                 ],
+                "if": {
+                    "properties": {
+                        "colors": { "minItems": 2 }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "name": { "pattern": "\\{color_name\\}" }
+                    }
+                },
                 "properties": {
                     "name": {
-                        "$comment": "Name of the filament, must contain {color_name}",
+                        "$comment": "Name of the filament; {color_name} is optional with exactly one color entry.",
                         "type": "string",
-                        "pattern": "\\{"
+                        "minLength": 1
                     },
                     "material": {
-                        "$comment": "Valid materials must be uppercase letters and numbers, optionally separated by + or -. Optionally ends with -CF or -GF followed by a number. Examples: ABS, ABS-CF, PC+ABS, PC+ABS-CF10.",
+                        "$comment": "Valid materials must be uppercase letters and numbers, optionally separated by + or -. Optionally ends with -CF or -GF followed by a number, or a single-letter variant suffix (-X, -T). Examples: ABS, ABS-CF, ABS-T, ASA-X, PC+ABS, PC+ABS-CF10.",
                         "type": "string",
-                        "pattern": "^[A-Z0-9]+(\\+[A-Z0-9]+)*(-(CF\\d{0,2}|GF\\d{0,2}|\\d{2}[AD]))?\\+?$"
+                        "pattern": "^[A-Z0-9]+(\\+[A-Z0-9]+)*(-(CF\\d{0,2}|GF\\d{0,2}|\\d{2}[AD]|X|T))?\\+?$"
                     },
                     "density": {
                         "type": "number",
@@ -169,6 +179,11 @@
                                     "$comment": "For a single-color filament.",
                                     "type": "string",
                                     "pattern": "^[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+                                },
+                                "transmission_distance": {
+                                    "$comment": "Transmission distance (TD) of this color in mm, describing light penetration through the printed material.",
+                                    "type": "number",
+                                    "exclusiveMinimum": 0
                                 },
                                 "hexes": {
                                     "$comment": "For a multi-color filament.",

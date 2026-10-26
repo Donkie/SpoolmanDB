@@ -1,0 +1,787 @@
+{
+    "manufacturer": "Zyltech",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "3B3E3F"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Eggshell",
+                    "hex": "E6DDDB",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "A9A8A0",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Green",
+                    "hex": "4DFF64",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Texas Size Spool",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bright Green",
+                    "hex": "58C91B"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "935C34"
+                },
+                {
+                    "name": "Brown Texas Size Spool",
+                    "hex": "724E3D"
+                },
+                {
+                    "name": "Clear Texas Size Spool",
+                    "hex": "E4E7E5"
+                },
+                {
+                    "name": "Deep Blue",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Deep Blue Texas Size Spool",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "Gray Texas Size Spool",
+                    "hex": "A9A8A0"
+                },
+                {
+                    "name": "Green",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Gun Metal Silver Texas Size Spool",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Maroon",
+                    "hex": "8B3A3A"
+                },
+                {
+                    "name": "Maroon Texas Size Spool",
+                    "hex": "8A2D40"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Orange Texas Size Spool",
+                    "hex": "FF7A33"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "6802BC"
+                },
+                {
+                    "name": "Purple Texas Size Spool",
+                    "hex": "7142A3"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Red Texas Size Spool",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Uncle Jessy's Gun Metal Silver",
+                    "hex": "A8B0BD"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "White Texas Size Spool",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFB00"
+                },
+                {
+                    "name": "Yellow Texas Size Spool",
+                    "hex": "FFFB00"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Composite",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Haunted Embor Glow in Dark Luminous",
+                    "hex": "FF9A14",
+                    "glow": true
+                },
+                {
+                    "name": "Rainbow Galaxy Glow in Dark Luminous",
+                    "hex": "F0EBE5",
+                    "glow": true
+                },
+                {
+                    "name": "Stardust Glow Glow in Dark Luminous",
+                    "hex": "11784F",
+                    "pattern": "sparkle",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Kings Cake Dual Color",
+                    "hex": "B645A9",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Bahama Blue",
+                    "hex": "00E3E2"
+                },
+                {
+                    "name": "Ceramic White",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Clear/Natural",
+                    "hex": "EADAC2"
+                },
+                {
+                    "name": "Cobalt Blue Metallic",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Cocoa Brown",
+                    "hex": "A35A4B"
+                },
+                {
+                    "name": "Cookie Love Pink",
+                    "hex": "FB6066"
+                },
+                {
+                    "name": "Cosmic Sparkle (Clear w/ Glitter Flakes)",
+                    "hex": "E4E7E5",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "018E63"
+                },
+                {
+                    "name": "Deep Blue",
+                    "hex": "062B4D"
+                },
+                {
+                    "name": "Fluorescent Blue",
+                    "hex": "386DFF"
+                },
+                {
+                    "name": "Fluorescent Red/Hot Pink",
+                    "hex": "FC496D"
+                },
+                {
+                    "name": "Fortress Gray",
+                    "hex": "4C5051"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "Green",
+                    "hex": "70FA00"
+                },
+                {
+                    "name": "Green Texas Size Spool",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Highlighter Fluorescent Green",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Lipstick Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Majestic Purple",
+                    "hex": "6802BC"
+                },
+                {
+                    "name": "Maroon",
+                    "hex": "8B3A3A"
+                },
+                {
+                    "name": "Milky White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Panhandle Khaki",
+                    "hex": "938E6D"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFBDD1"
+                },
+                {
+                    "name": "Pumpkin Spice",
+                    "hex": "FF7A33"
+                },
+                {
+                    "name": "Sea Glass Teal",
+                    "hex": "70F0F1"
+                },
+                {
+                    "name": "Taro Purple",
+                    "hex": "C7BCF8"
+                },
+                {
+                    "name": "Uncle Jessy's Gun Metal Silver",
+                    "hex": "ABACB0"
+                },
+                {
+                    "name": "Wood+ Composite",
+                    "hex": "CAAC78"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFB00"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Amber Oxide Tri-Color",
+                    "hex": "3B3E3F"
+                },
+                {
+                    "name": "Aqua Serenity Dual Color",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Black New Made In USA Premium Composite",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue New Made In USA Premium Composite",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Bronze Metallic",
+                    "hex": "A98C4B"
+                },
+                {
+                    "name": "Burnished Brilliance Dual Color",
+                    "hex": "4C5051"
+                },
+                {
+                    "name": "Candy Skies 2024 Rainbow Series",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Celestial Cascade 2024 Rainbow Series",
+                    "hex": "1E5A4F"
+                },
+                {
+                    "name": "Coinage Metals Tri-Color",
+                    "hex": "E0E0DC"
+                },
+                {
+                    "name": "Coral Dream Dual Gradient",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Crimson Noir Dual Color",
+                    "hex": "C00000"
+                },
+                {
+                    "name": "Electric Dream Tri-Color",
+                    "hex": "FFD342"
+                },
+                {
+                    "name": "Emerald Water Dual Color",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Exotic Orchid Dual Color",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Forest Palette 2024 Rainbow Series",
+                    "hex": "67B357"
+                },
+                {
+                    "name": "Glossy Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gold New Made In USA Premium Composite",
+                    "hex": "FFCB47"
+                },
+                {
+                    "name": "Golden Halo Dual Color",
+                    "hex": "ACB1BA"
+                },
+                {
+                    "name": "Green New Made In USA Premium Composite",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Kaleidoscope Tri-Color",
+                    "hex": "02A76B"
+                },
+                {
+                    "name": "Lemonade Breeze Dual Color",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Lucky Clover Tri-Color",
+                    "hex": "C3CCD5"
+                },
+                {
+                    "name": "Macaron Medley 2024 Rainbow Series",
+                    "hex": "BB5152"
+                },
+                {
+                    "name": "Midnight Plum Dual Gradient",
+                    "hex": "9F6979"
+                },
+                {
+                    "name": "New Rainbow 2024 Rainbow Series",
+                    "hex": "AE96D4"
+                },
+                {
+                    "name": "Nikko's Hot Rod Red New Made In USA Premium Composite",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Pink New Made In USA Premium Composite",
+                    "hex": "FFBDD1"
+                },
+                {
+                    "name": "Psychedelic 2024 Rainbow Series",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Purple New Made In USA Premium Composite",
+                    "hex": "6C47B2"
+                },
+                {
+                    "name": "Rainbow Radiance 2024 Rainbow Series",
+                    "hex": "6C47B2"
+                },
+                {
+                    "name": "Regal Vineyard Tri-Color",
+                    "hex": "3D9441"
+                },
+                {
+                    "name": "Shadow Blade Dual Color",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Silver Sky Dual Color",
+                    "hex": "ACB1BA"
+                },
+                {
+                    "name": "Stellar Flare Dual Gradient",
+                    "hex": "15817B"
+                },
+                {
+                    "name": "Sunny Indigo Tri-Color",
+                    "hex": "5FBCDD"
+                },
+                {
+                    "name": "Sunset Serenade Dual Color",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Technicolor Twist 2024 Rainbow Series",
+                    "hex": "9FEC41"
+                },
+                {
+                    "name": "Texas Sky Dual Color",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Tiger's Eye Dual Gradient",
+                    "hex": "1D1D1D"
+                },
+                {
+                    "name": "Tropical Breeze Tri-Color",
+                    "hex": "60AB61"
+                },
+                {
+                    "name": "Uncle Jessy's Gun Metal Silver Metallic",
+                    "hex": "C5C5BF"
+                },
+                {
+                    "name": "Vibrant Treasures Tri-Color",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Vivid Fusion 2024 Rainbow Series",
+                    "hex": "4F7BBB"
+                },
+                {
+                    "name": "White New Made In USA Premium Composite",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Texas Twister Series Multi Color Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Marble",
+                    "hex": "000000",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Texas Twister Series Multi Color {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Everglade Essence",
+                    "hex": "06B100"
+                }
+            ]
+        },
+        {
+            "name": "Texas Twister Series Multi Color Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Lime Ripple",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Sapphire Moon",
+                    "hex": "E0E0DC"
+                },
+                {
+                    "name": "Sterling Wave",
+                    "hex": "4C5051"
+                },
+                {
+                    "name": "Twisted Carnival",
+                    "hex": "E72F1D"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                }
+            ]
+        }
+    ]
+}

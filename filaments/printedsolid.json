@@ -1,0 +1,231 @@
+{
+  "manufacturer": "Printed Solid",
+  "filaments": [
+    {
+      "name": "Jessie {color_name} PLA",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 297,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 205,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "2A242D"
+        },
+        {
+          "name": "White",
+          "hex": "EFEFE8"
+        },
+        {
+          "name": "Gun Metal Grey",
+          "hex": "89908E"
+        },
+        {
+          "name": "Soul Black Glitter",
+          "hex": "292823"
+        },
+        {
+          "name": "Yellow Bird",
+          "hex": "FDC22E"
+        },
+        {
+          "name": "PS Red",
+          "hex": "C2403B"
+        },
+        {
+          "name": "Quarter White",
+          "hex": "E5E7E1"
+        },
+        {
+          "name": "3DPN Vanilla Bean Ice Cream",
+          "hex": "9FA8A9"
+        },
+        {
+          "name": "Tree Green",
+          "hex": "3A853B"
+        },
+        {
+          "name": "Bold Blue",
+          "hex": "0851A6"
+        },
+        {
+          "name": "Beige 500",
+          "hex": "DBD0BC"
+        },
+        {
+          "name": "Blue Ice",
+          "hex": "034C73"
+        },
+        {
+          "name": "Pure Cyan",
+          "hex": "0686B2"
+        },
+        {
+          "name": "Mystery Orange",
+          "hex": "F56232"
+        },
+        {
+          "name": "Purple Eater",
+          "hex": "8E4FAF"
+        },
+        {
+          "name": "Design White",
+          "hex": "D0CDC7"
+        },
+        {
+          "name": "Blood Red Light Glitter",
+          "hex": "A23C33"
+        },
+        {
+          "name": "Red Ice",
+          "hex": "862E26"
+        },
+        {
+          "name": "Tree Brown",
+          "hex": "584136"
+        },
+        {
+          "name": "Golden Winner Glitter",
+          "hex": "906E30"
+        },
+        {
+          "name": "Blue Moon",
+          "hex": "221E89"
+        },
+        {
+          "name": "Tan 64",
+          "hex": "9B8978"
+        },
+        {
+          "name": "Safety Orange",
+          "hex": "F66A1F"
+        },
+        {
+          "name": "Pure Magenta",
+          "hex": "EEB4D7"
+        },
+        {
+          "name": "Green Ice",
+          "hex": "365926"
+        },
+        {
+          "name": "Blue Whale Grey",
+          "hex": "36608D"
+        },
+        {
+          "name": "Limer Green",
+          "hex": "52AB2B"
+        },
+        {
+          "name": "Army Green",
+          "hex": "524D28"
+        },
+        {
+          "name": "Purple Ice",
+          "hex": "8C41AE"
+        },
+        {
+          "name": "Orange Glitter",
+          "hex": "DB5532"
+        },
+        {
+          "name": "Neon Pink",
+          "hex": "FD636A"
+        },
+        {
+          "name": "Deep Purple",
+          "hex": "5D4F5D"
+        },
+        {
+          "name": "Neon Green",
+          "hex": "B0DA00"
+        },
+        {
+          "name": "Green Slime Glitter",
+          "hex": "8D9222"
+        },
+        {
+          "name": "Neon Yellow",
+          "hex": "D3E500"
+        }
+      ]
+    },
+    {
+      "name": "Jessie {color_name} PETG",
+      "material": "PETG",
+      "density": 1.27,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 297,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 240,
+      "bed_temp": 80,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "221E21"
+        },
+        {
+          "name": "Soul Black Glitter",
+          "hex": "292823"
+        },
+        {
+          "name": "Gun Metal Grey",
+          "hex": "99999A"
+        },
+        {
+          "name": "White",
+          "hex": "ECEBE8"
+        },
+        {
+          "name": "Mystery Orange",
+          "hex": "F56232"
+        },
+        {
+          "name": "PS Red",
+          "hex": "BE2F2A"
+        },
+        {
+          "name": "Bold Blue",
+          "hex": "054A98"
+        },
+        {
+          "name": "Clear",
+          "hex": "BBC7CC"
+        },
+        {
+          "name": "Tree Green",
+          "hex": "217E3E"
+        },
+        {
+          "name": "Pure Cyan",
+          "hex": "078BBA"
+        },
+        {
+          "name": "Yellow Bird",
+          "hex": "EFBC2F"
+        },
+        {
+          "name": "Neon Yellow",
+          "hex": "E3DF00"
+        }
+      ]
+    }
+  ]
+}
