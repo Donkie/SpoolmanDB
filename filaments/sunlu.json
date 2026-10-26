@@ -565,6 +565,54 @@
             ]
         },
         {
+            "name": "2.0 {color_name}",
+            "material": "PETG",
+            "density": 1.22,
+            "finish": "matte",
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 189,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "extruder_temp_range": [
+                230,
+                270
+            ],
+            "bed_temp": 70,
+            "bed_temp_range": [
+                70,
+                80
+            ],
+            "colors": [
+                { "name": "White", "hex": "eff0f1" },
+                { "name": "Black", "hex": "000000" },
+                { "name": "Grey", "hex": "75787b" },
+                { "name": "Red", "hex": "cd001a" },
+                { "name": "Blue (Klein Blue)", "hex": "1729ab" },
+                { "name": "Green", "hex": "1daa27" },
+                { "name": "Bone White", "hex": "eee7d4" },
+                { "name": "Coffee Brown", "hex": "362111" },
+                { "name": "Vivid Yellow", "hex": "f1c400" },
+                { "name": "Cyan", "hex": "00a3e0" },
+                { "name": "Lavender Purple", "hex": "685bc7" },
+                { "name": "Magenta", "hex": "d9027d" },
+                { "name": "Beige", "hex": "f3dfd5" },
+                { "name": "Oak", "hex": "c2b29a" },
+                { "name": "Olive Green", "hex": "5a6d3d" },
+                { "name": "Sunny Orange", "hex": "ff6a14" },
+                { "name": "Yellow", "hex": "fedd00" },
+                { "name": "Aqua Blue", "hex": "00adad" },
+                { "name": "Blush Pink", "hex": "f9c5c2" },
+                { "name": "Peach Pink", "hex": "ff9a8d" }
+            ]
+        },
+        {
             "name": "High Speed {color_name} Marble",
             "material": "PLA",
             "density": 1.25,
