@@ -13,6 +13,7 @@ To limit the amount of duplication needed in the source files, each combination 
 entries or you can split up the filament object into multiple ones.
 
 #### Source file fields
+ * **country_of_origin** *(optional, filaments only)* - Manufacturing country as an uppercase ISO 3166-1 alpha-2 code, e.g. `DE`, `US`, or `CN`. Only assigned codes are accepted; country names, lowercase codes and unassigned values such as `ZZ` are invalid. Omit this field when unknown; do not infer it from the brand's location. The compiler preserves it on each variant and emits `null` when omitted. It does not affect public IDs.
  * **name** - The product name. Use `{color_name}` to automatically insert the color name. It is required when `colors` contains multiple entries; with exactly one color entry, a fixed name such as `eMarble` is also allowed.
  * **material** - The material name, e.g. PLA.
  * **density** - The density of the material in g/cm3.
