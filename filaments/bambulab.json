@@ -787,7 +787,7 @@
             ]
         },
         {
-            "name": "Silk Multi-Color {color_name}",
+            "name": "Silk {color_name}",
             "material": "PLA",
             "density": 1.32,
             "weights": [
