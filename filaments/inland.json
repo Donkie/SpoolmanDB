@@ -1,0 +1,737 @@
+{
+  "manufacturer": "Inland",
+  "filaments": [
+    {
+      "name": "{color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 215,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "0000FF"
+        },
+        {
+          "name": "Blue (834598)",
+          "hex": "03168A"
+        },
+        {
+          "name": "Blue (841288)",
+          "hex": "2834A4"
+        },
+        {
+          "name": "Bone White",
+          "hex": "D5C0AF"
+        },
+        {
+          "name": "Brown",
+          "hex": "895129"
+        },
+        {
+          "name": "Brown (827295)",
+          "hex": "964B00"
+        },
+        {
+          "name": "Cool White",
+          "hex": "E8E8F1"
+        },
+        {
+          "name": "Coral",
+          "hex": "FF4040"
+        },
+        {
+          "name": "Cornflower Blue",
+          "hex": "1D78A5"
+        },
+        {
+          "name": "Cosplay",
+          "hex": "8D9296"
+        },
+        {
+          "name": "Dandelion",
+          "hex": "C99B33"
+        },
+        {
+          "name": "Dark Red",
+          "hex": "970000"
+        },
+        {
+          "name": "Egyptian Blue",
+          "hex": "005AAD"
+        },
+        {
+          "name": "Glass Light Blue",
+          "hex": "329EEC"
+        },
+        {
+          "name": "Glass Watermelon",
+          "hex": "D7192C"
+        },
+        {
+          "name": "Gold",
+          "hex": "FFD22B"
+        },
+        {
+          "name": "Grass Green",
+          "hex": "0B3F39"
+        },
+        {
+          "name": "Gray",
+          "hex": "505558"
+        },
+        {
+          "name": "Green",
+          "hex": "1F7A31"
+        },
+        {
+          "name": "Grey",
+          "hex": "BCBECB"
+        },
+        {
+          "name": "Inland Blue",
+          "hex": "0AC0F5"
+        },
+        {
+          "name": "Light Blue (834705)",
+          "hex": "3BA4B9"
+        },
+        {
+          "name": "Light Brown",
+          "hex": "BF9C81"
+        },
+        {
+          "name": "Light Olive",
+          "hex": "BAB864"
+        },
+        {
+          "name": "True Green",
+          "hex": "068F18"
+        },
+        {
+          "name": "Military Brown",
+          "hex": "585436"
+        },
+        {
+          "name": "Military Green",
+          "hex": "5B6D38"
+        },
+        {
+          "name": "Natural",
+          "hex": "E5D3BF"
+        },
+        {
+          "name": "Olive Brown",
+          "hex": "729871"
+        },
+        {
+          "name": "Orange",
+          "hex": "FF9A35"
+        },
+        {
+          "name": "Peak Green",
+          "hex": "83F28F"
+        },
+        {
+          "name": "Pink",
+          "hex": "FF80FF"
+        },
+        {
+          "name": "Pink (834689)",
+          "hex": "FC97B0"
+        },
+        {
+          "name": "Pink Marble",
+          "hex": "F0DFF1"
+        },
+        {
+          "name": "Purple",
+          "hex": "A020F0"
+        },
+        {
+          "name": "Red",
+          "hex": "C43221"
+        },
+        {
+          "name": "Red Raspberry",
+          "hex": "C63527"
+        },
+        {
+          "name": "Sand",
+          "hex": "FDF4D3"
+        },
+        {
+          "name": "Sand (LRV 70)",
+          "hex": "EAD8B2"
+        },
+        {
+          "name": "Silk Grey",
+          "hex": "BBC6CE"
+        },
+        {
+          "name": "Silver",
+          "hex": "AAA08C"
+        },
+        {
+          "name": "True Red",
+          "hex": "933530"
+        },
+        {
+          "name": "Turqoise",
+          "hex": "40E0D0"
+        },
+        {
+          "name": "Twinkling Gold",
+          "hex": "A08A66"
+        },
+        {
+          "name": "Violet",
+          "hex": "7F00FF"
+        },
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "White Marble",
+          "hex": "D6DBD3"
+        },
+        {
+          "name": "winter",
+          "hex": "38D3EC"
+        },
+        {
+          "name": "Yellow",
+          "hex": "FEDD00"
+        }
+      ]
+    },
+    {
+      "name": "Matte {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 215,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Army Beige",
+          "hex": "E6CCB1"
+        },
+        {
+          "name": "Army Purple",
+          "hex": "2C002B"
+        },
+        {
+          "name": "Ash Grey",
+          "hex": "3B4045"
+        },
+        {
+          "name": "Banana",
+          "hex": "CECC88"
+        },
+        {
+          "name": "Black",
+          "hex": "202125"
+        },
+        {
+          "name": "Black (LRV 3)",
+          "hex": "2D2F2E"
+        },
+        {
+          "name": "Black-Orange",
+          "hex": "775C3E"
+        },
+        {
+          "name": "Black-Red",
+          "hex": "390F00"
+        },
+        {
+          "name": "Blue",
+          "hex": "6CBEF9"
+        },
+        {
+          "name": "Blue-Red",
+          "hex": "633B45"
+        },
+        {
+          "name": "Brick Red",
+          "hex": "800000"
+        },
+        {
+          "name": "Brown",
+          "hex": "303030"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "785646"
+        },
+        {
+          "name": "Clay Rainbow",
+          "hex": "DDCEB5"
+        },
+        {
+          "name": "Denim",
+          "hex": "4F88B0"
+        },
+        {
+          "name": "Frosty Amethyst",
+          "hex": "C48CF3"
+        },
+        {
+          "name": "Green",
+          "hex": "03FC86"
+        },
+        {
+          "name": "Grey",
+          "hex": "C0C0C0"
+        },
+        {
+          "name": "Inland Blue",
+          "hex": "1C81F0"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "B4E7F9"
+        },
+        {
+          "name": "Light Pink",
+          "hex": "D3B6A6"
+        },
+        {
+          "name": "Mint Green",
+          "hex": "BDFFCD"
+        },
+        {
+          "name": "Orange",
+          "hex": "FF9D5C"
+        },
+        {
+          "name": "Pastel Pink",
+          "hex": "FFA8A8"
+        },
+        {
+          "name": "Peach",
+          "hex": "F2B67A"
+        },
+        {
+          "name": "Pink",
+          "hex": "F291A5"
+        },
+        {
+          "name": "Purple",
+          "hex": "AA89C4"
+        },
+        {
+          "name": "Red",
+          "hex": "C43221"
+        },
+        {
+          "name": "Red Heather",
+          "hex": "D95D5D"
+        },
+        {
+          "name": "Turquoise",
+          "hex": "53D5FD"
+        },
+        {
+          "name": "White",
+          "hex": "E0E3E5"
+        },
+        {
+          "name": "Wood Brown",
+          "hex": "D2B48C"
+        },
+        {
+          "name": "Yellow",
+          "hex": "F8D00D"
+        }
+      ]
+    },
+    {
+      "name": "Silk {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 230,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Army Green",
+          "hex": "3F5758"
+        },
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Cool Pink",
+          "hex": "E7BFFC"
+        },
+        {
+          "name": "Copper",
+          "hex": "914221"
+        },
+        {
+          "name": "Cyan",
+          "hex": "0084BD"
+        },
+        {
+          "name": "Dark Yellow",
+          "hex": "D4A625"
+        },
+        {
+          "name": "Frosty Evergreen",
+          "hex": "074B31"
+        },
+        {
+          "name": "Gold",
+          "hex": "D7B537"
+        },
+        {
+          "name": "Green",
+          "hex": "04D57C"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "4781B8"
+        },
+        {
+          "name": "Light Coral",
+          "hex": "C16062"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "D3D3D3"
+        },
+        {
+          "name": "Magenta",
+          "hex": "FF00FF"
+        },
+        {
+          "name": "Orange",
+          "hex": "FF8000"
+        },
+        {
+          "name": "Pewter",
+          "hex": "787E82"
+        },
+        {
+          "name": "Pink",
+          "hex": "FF8FCA"
+        },
+        {
+          "name": "Purple",
+          "hex": "8000FF"
+        },
+        {
+          "name": "Red",
+          "hex": "FF0059"
+        },
+        {
+          "name": "Silk Grey",
+          "hex": "B6B3A8"
+        },
+        {
+          "name": "Silk White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "Silk Yellow",
+          "hex": "FFFC41"
+        },
+        {
+          "name": "Silver",
+          "hex": "B5C1C6"
+        },
+        {
+          "name": "Violet",
+          "hex": "82266E"
+        }
+      ]
+    },
+    {
+      "name": "Tough {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 225,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "0544FF"
+        },
+        {
+          "name": "Brown",
+          "hex": "6E432D"
+        },
+        {
+          "name": "Cold White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "1D65A0"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "696969"
+        },
+        {
+          "name": "Gray",
+          "hex": "ACACAC"
+        },
+        {
+          "name": "Green",
+          "hex": "047106"
+        },
+        {
+          "name": "Illuminated Blue",
+          "hex": "0095FF"
+        },
+        {
+          "name": "Khaki",
+          "hex": "BFB688"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "81D3F8"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "E1E1E1"
+        },
+        {
+          "name": "Light Olive",
+          "hex": "C6CD34"
+        },
+        {
+          "name": "Metallic Bronze",
+          "hex": "935100"
+        },
+        {
+          "name": "Metallic Dark Red",
+          "hex": "8B3A3A"
+        },
+        {
+          "name": "Metallic Dk Blue",
+          "hex": "043B62"
+        },
+        {
+          "name": "Metallic Gold",
+          "hex": "DE9B3B"
+        },
+        {
+          "name": "Metallic Silver",
+          "hex": "B2B2B0"
+        },
+        {
+          "name": "Military Green",
+          "hex": "5B6D38"
+        },
+        {
+          "name": "Orange",
+          "hex": "FF8000"
+        },
+        {
+          "name": "Pearl White",
+          "hex": "F1F5F9"
+        },
+        {
+          "name": "Pink",
+          "hex": "FC97B0"
+        },
+        {
+          "name": "Purple",
+          "hex": "7832E2"
+        },
+        {
+          "name": "Raspberry Red",
+          "hex": "DF0C16"
+        },
+        {
+          "name": "Red",
+          "hex": "B53322"
+        },
+        {
+          "name": "True Red",
+          "hex": "B13137"
+        },
+        {
+          "name": "White",
+          "hex": "E0E3E5"
+        },
+        {
+          "name": "White Marble",
+          "hex": "BDBDBD"
+        },
+        {
+          "name": "Yellow",
+          "hex": "FFBB3F"
+        }
+      ]
+    },
+    {
+      "name": "High Speed {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 240,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Brown",
+          "hex": "935100"
+        },
+        {
+          "name": "Green",
+          "hex": "07AB46"
+        },
+        {
+          "name": "Red",
+          "hex": "F60909"
+        },
+        {
+          "name": "Silk Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Silk Rose-Gold",
+          "hex": "EFCFB1"
+        },
+        {
+          "name": "Silk Shadow",
+          "hex": "737373"
+        },
+        {
+          "name": "Silk White",
+          "hex": "FFFFFF"
+        },
+        {
+          "name": "Silk Yellow",
+          "hex": "FFFF00"
+        },
+        {
+          "name": "True Red",
+          "hex": "FF0000"
+        },
+        {
+          "name": "Violet",
+          "hex": "7F00FF"
+        },
+        {
+          "name": "Yellow",
+          "hex": "FDC700"
+        }
+      ]
+    },
+    {
+      "name": "Translucent {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 150
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp": 215,
+      "bed_temp": 60,
+      "colors": [
+        {
+          "name": "Autumn Orange Grey",
+          "hex": "73521E"
+        },
+        {
+          "name": "Blue / Purple",
+          "hex": "311BDA"
+        },
+        {
+          "name": "Blue/Green",
+          "hex": "00FFFF"
+        },
+        {
+          "name": "Glass Light Blue",
+          "hex": "1056C6"
+        },
+        {
+          "name": "Glass Orange",
+          "hex": "FF9500"
+        },
+        {
+          "name": "Glass Purple",
+          "hex": "800080"
+        },
+        {
+          "name": "Glass Watermelon",
+          "hex": "ED333B"
+        },
+        {
+          "name": "Glass watermelon red",
+          "hex": "DC1E70"
+        },
+        {
+          "name": "Glass Yellow",
+          "hex": "FFF824"
+        },
+        {
+          "name": "Winter",
+          "hex": "00FDFF"
+        }
+      ]
+    }
+  ]
+}

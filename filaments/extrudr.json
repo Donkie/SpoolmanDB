@@ -24,7 +24,7 @@
                     "hex": "F4F4F4"
                 },
                 {
-                    "name": "Jet Black ",
+                    "name": "Jet Black",
                     "hex": "282828"
                 },
                 {
@@ -98,7 +98,7 @@
                     "hex": "F4F4F4"
                 },
                 {
-                    "name": "Black ",
+                    "name": "Black",
                     "hex": "1E1E1E"
                 },
                 {
@@ -165,7 +165,7 @@
             "bed_temp": 110,
             "colors": [
                 {
-                    "name": "Black ",
+                    "name": "Black",
                     "hex": "1E1E1E"
                 },
                 {
@@ -517,7 +517,7 @@
                     "hex": "F4F4F4"
                 },
                 {
-                    "name": "Black ",
+                    "name": "Black",
                     "hex": "1E1E1E"
                 },
                 {
@@ -576,7 +576,7 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "Black ",
+                    "name": "Black",
                     "hex": "1E1E1E"
                 },
                 {
@@ -754,12 +754,12 @@
                     "hex": "F4F4F4"
                 },
                 {
-                    "name": "Transparent ",
+                    "name": "Transparent",
                     "hex": "FFFFFF",
                     "translucent": true
                 },
                 {
-                    "name": "Black ",
+                    "name": "Black",
                     "hex": "1E1E1E"
                 },
                 {
@@ -781,6 +781,130 @@
                 {
                     "name": "CMYK Lithocyan",
                     "hex": "84C3BE"
+                }
+            ]
+        },
+        {
+            "name": "HS - {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 260.0,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 65,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "1E1E1E",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Anthracite",
+                    "hex": "293133",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Metallic Grey",
+                    "hex": "828282",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "A5A5A5",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "CAC4B0",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Military Green",
+                    "hex": "424632",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Turquoise",
+                    "hex": "3F888F",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "1D1E33",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "3B83BD",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Hellfire Red",
+                    "hex": "F80000",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "FF2301",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F54021",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FAD201",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Neon Yellow",
+                    "hex": "FFFF00",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "59351F",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Military Beige",
+                    "hex": "C2B078",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "White",
+                    "hex": "F4F4F4",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Red",
+                    "hex": "A52019",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "98FA42",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Pastel Green",
+                    "hex": "A5D0B7",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Pastel Blue",
+                    "hex": "A7C9E5",
+                    "finish": "glossy"
                 }
             ]
         },
@@ -888,7 +1012,7 @@
                     "finish": "matte"
                 },
                 {
-                    "name": "Hellfire Red ",
+                    "name": "Hellfire Red",
                     "hex": "F80000",
                     "finish": "matte"
                 },
@@ -932,7 +1056,7 @@
         {
             "name": "{color_name}",
             "material": "PETG",
-            "density": 1.3,
+            "density": 1.29,
             "weights": [
                 {
                     "weight": 1100.0,
@@ -1051,7 +1175,7 @@
                     "hex": "F80000"
                 },
                 {
-                    "name": "Hellfire Red ",
+                    "name": "Hellfire Red",
                     "hex": "F80000"
                 },
                 {
@@ -1379,7 +1503,7 @@
                     "hex": "F80000"
                 },
                 {
-                    "name": "Hellfire Red ",
+                    "name": "Hellfire Red",
                     "hex": "F80000"
                 },
                 {

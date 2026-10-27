@@ -1,0 +1,39 @@
+{
+    "manufacturer": "UniTak3D",
+    "filaments": [
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 217
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                50,
+                65
+            ],
+            "colors": [
+                {
+                    "name": "Charcoal",
+                    "hex": "36454F",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "FFFFF0",
+                    "finish": "matte"
+                }
+            ]
+        }
+    ]
+}

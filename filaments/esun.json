@@ -129,7 +129,7 @@
             ]
         },
         {
-            "name": "PLA+ {color_name}",
+            "name": "{color_name}",
             "material": "PLA+",
             "density": 1.23,
             "weights": [
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "name": "PLA {color_name}",
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.1,
             "weights": [
@@ -354,7 +354,7 @@
                     "hex": "ebcfa7"
                 }
             ]
-        },        
+        },
         {
             "name": "ePLA+HS {color_name}",
             "material": "PLA+",
@@ -690,7 +690,7 @@
                 }
             ]
         },
-     {
+        {
             "name": "PLA-Matte {color_name}",
             "material": "PLA",
             "density": 1.329,
@@ -725,7 +725,7 @@
                 },
                 {
                     "name": "MORANDI PURPLE",
-                    "hex": "90ba66"
+                    "hex": "C77B87"
                 },
                 {
                     "name": "MORANDI GREEN",
@@ -849,7 +849,6 @@
             "extruder_temp": 220,
             "bed_temp": 60,
             "colors": [
-
                 {
                     "name": "Cored Luminous Orange",
                     "hex": "ff977f"
@@ -873,6 +872,42 @@
                 {
                     "name": "Luminous Blue",
                     "hex": "2c95cc"
+                }
+            ]
+        },
+        {
+            "name": "Basic {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "extruder_temp": 260,
+            "extruder_temp_range": [
+                250,
+                265
+            ],
+            "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                80
+            ],
+            "fill": null,
+            "finish": null,
+            "pattern": null,
+            "translucent": true,
+            "glow": false,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 160,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Translucent Orange",
+                    "hex": "ff8126"
                 }
             ]
         },
@@ -1070,12 +1105,27 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp_rang": [230, 270],
-            "bed_temp_range": [100, 115],
+            "extruder_temp_range": [
+                230,
+                270
+            ],
+            "bed_temp_range": [
+                100,
+                115
+            ],
             "colors": [
-                {"name": "Black", "hex": "000000"},
-                {"name": "White", "hex": "ffffff"},
-                {"name": "Natural", "hex": "beb8ac"}
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "ffffff"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "beb8ac"
+                }
             ]
         },
         {
@@ -1145,6 +1195,49 @@
                 {
                     "name": "Change by temp",
                     "hex": "d93325"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.26,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 220,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 250,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Antique Brass",
+                    "hex": "a8918b"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "60706f"
+                },
+                {
+                    "name": "Dark Grey",
+                    "hex": "5f6366"
+                },
+                {
+                    "name": "Black",
+                    "hex": "2c2c2a"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "5c626e"
+                },
+                {
+                    "name": "Black Red",
+                    "hex": "423c3e"
                 }
             ]
         }

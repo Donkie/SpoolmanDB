@@ -756,6 +756,27 @@
             ]
         },
         {
+            "name": "Hyper Speed {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 235,
+            "bed_temp": 70,
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "013C02"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PCTG",
             "density": 1.29,

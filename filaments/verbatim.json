@@ -1,0 +1,252 @@
+{
+    "manufacturer": "Verbatim",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Aluminium Grey",
+                    "hex": "9F9F9F"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2C3294"
+                },
+                {
+                    "name": "Green",
+                    "hex": "739549"
+                },
+                {
+                    "name": "Natural/Milky",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "BVOH",
+            "density": 1.14,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2C3294"
+                },
+                {
+                    "name": "Blue Transparent",
+                    "hex": "0099E6",
+                    "translucent": true
+                },
+                {
+                    "name": "Clear",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Green Transparent",
+                    "hex": "58C91B",
+                    "translucent": true
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Red Transparent",
+                    "hex": "E60000",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Aluminium Grey",
+                    "hex": "9F9F9F"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "2C3294"
+                },
+                {
+                    "name": "Green",
+                    "hex": "739549"
+                },
+                {
+                    "name": "Natural/Transparent",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PP",
+            "density": 0.9,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "Tefabloc {color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}

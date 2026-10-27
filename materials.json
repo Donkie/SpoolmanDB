@@ -64,6 +64,10 @@
         "density": 1.05
     },
     {
+        "material": "ASA-X",
+        "density": 1.11
+    },
+    {
         "material": "Polypropylene (PP)",
         "density": 0.9
     },
