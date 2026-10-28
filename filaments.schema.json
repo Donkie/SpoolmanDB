@@ -8,6 +8,10 @@
         "manufacturer": {
             "type": "string"
         },
+        "colors": {
+            "type": "object",
+            "additionalProperties": true
+        },
         "filaments": {
             "type": "array",
             "minItems": 1,
