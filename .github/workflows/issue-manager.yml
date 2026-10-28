@@ -32,7 +32,7 @@ jobs:
                 "message": "It seems the issue was answered, closing this now."
               },
               "waiting": {
-                "delay": 60400,
+                "delay": 604800,
                 "message": "Closing after 7 days of waiting for the additional info requested."
               }
             }
