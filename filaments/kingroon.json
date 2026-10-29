@@ -2,6 +2,46 @@
     "manufacturer": "Kingroon",
     "filaments": [
         {
+            "name": "Basic {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                { "weight": 1000, "spool_weight": 142 }
+            ],
+            "diameters": [1.75],
+            "extruder_temp_range": [190, 210],
+            "bed_temp_range": [50, 70],
+            "colors": [
+                { "name": "White", "hex": "DDDDDD" },
+                { "name": "Orange", "hex": "CB8B21" },
+                { "name": "Black", "hex": "141515" },
+                { "name": "Gray", "hex": "797979" },
+                { "name": "Red", "hex": "C01F0E" },
+                { "name": "Blue", "hex": "1F64BB" },
+                { "name": "Skin", "hex": "CCAC8A" },
+                { "name": "Pink", "hex": "CFA4A0" },
+                { "name": "Silver", "hex": "5B6063" },
+                { "name": "Yellow", "hex": "DCC72F" },
+                { "name": "Purple", "hex": "692F94" },
+                { "name": "Transparent", "hex": "FFFFFF", "translucent": true },
+                { "name": "Green", "hex": "01B378" },
+                { "name": "Brown", "hex": "C38552" },
+                { "name": "Cyan", "hex": "2A94CE" },
+                { "name": "Light Apricot", "hex": "D2C8BA" },
+                { "name": "Light Pink", "hex": "C19498" },
+                { "name": "Sakura Pink", "hex": "C75358" },
+                { "name": "Sea Blue", "hex": "148FD1" },
+                { "name": "Vibrant Orange", "hex": "D9691D" },
+                { "name": "Apple Green", "hex": "B8C048" },
+                { "name": "Mint Green", "hex": "03AA92" },
+                { "name": "Turquoise Green", "hex": "01A096" },
+                { "name": "Lilac Purple", "hex": "625697" },
+                { "name": "Meteor Silver", "hex": "696D71" },
+                { "name": "Retro Red", "hex": "623538" },
+                { "name": "Wood", "hex": "766950" }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PETG",
             "density": 1.26,
