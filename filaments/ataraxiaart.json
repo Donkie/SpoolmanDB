@@ -1,0 +1,397 @@
+{
+    "manufacturer": "ATARAXIA ART",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "332120"
+                },
+                {
+                    "name": "Copper Mix Gold",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Green",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "E5C7BB"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7A33"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "7142A3"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C00000"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFC946"
+                },
+                {
+                    "name": "Yellow Gold",
+                    "hex": "CE8D00"
+                }
+            ]
+        },
+        {
+            "name": "Flexible 89A {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "C6AD74"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FC6D8E"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Slate Gray",
+                    "hex": "91A0B6"
+                },
+                {
+                    "name": "Violet",
+                    "hex": "F300EA"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFD342"
+                }
+            ]
+        },
+        {
+            "name": "High Speed {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Turbo Red",
+                    "hex": "E72F1D"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Macaron Fast Color Change Rainbow",
+                    "hex": "F5CF6F",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Airless Bouncy B-Flexible Brown",
+                    "hex": "543C27"
+                },
+                {
+                    "name": "Airless Bouncy B-Flexible Ivory White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Airless Bouncy B-Flexible Orange",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Airless Bouncy B-Flexible Sky Blue",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "AnotherCustomthing",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bouncy B-Flexible Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Comet",
+                    "hex": "567BAC"
+                },
+                {
+                    "name": "Flexible Brown",
+                    "hex": "7E472A"
+                },
+                {
+                    "name": "Glitter Fast Color Change Rainbow",
+                    "hex": "41A840",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Green",
+                    "hex": "58C91B"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "C6AD74"
+                },
+                {
+                    "name": "Mercury",
+                    "hex": "6299DF"
+                },
+                {
+                    "name": "Metallic Gold",
+                    "hex": "ACA078"
+                },
+                {
+                    "name": "Multicolor Fast Color Change Rainbow",
+                    "hex": "00A594"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7A33"
+                },
+                {
+                    "name": "Polished Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Polished White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Violet Grape Purple",
+                    "hex": "F300EA"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Wood Brick Red",
+                    "hex": "B54230"
+                },
+                {
+                    "name": "Wood Natural",
+                    "hex": "CAAC78"
+                },
+                {
+                    "name": "Wood Walnut",
+                    "hex": "D99773"
+                },
+                {
+                    "name": "Wood White Pine",
+                    "hex": "E6D1BD"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FAD61B"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Ice Blue",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Plus Fire Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Rainbow Shiny Fast Multicolor",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Shiny Triple Color Blue Green Orange",
+                    "hex": "2E56F1"
+                },
+                {
+                    "name": "Shiny Triple Color Blue Yellow Fuchsia",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Tri-Color Gold-Copper-Black",
+                    "hex": "E3B145"
+                },
+                {
+                    "name": "Tricolor Blue Green Red",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Tricolor Gold Copper Blue",
+                    "hex": "E3B145"
+                },
+                {
+                    "name": "Tricolor Rainbow Gold Green Fuchsia",
+                    "hex": "E3B145"
+                },
+                {
+                    "name": "Triple Color Blue Yellow Purple",
+                    "hex": "0353BA"
+                }
+            ]
+        }
+    ]
+}
