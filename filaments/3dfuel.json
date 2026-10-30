@@ -178,6 +178,711 @@
                "hex":"DBDADD"
             }
          ]
+      },
+      {
+        "name": "Pro {color_name}",
+        "material": "ABS",
+        "density": 1.04,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          230,
+          260
+        ],
+        "bed_temp_range": [
+          90,
+          110
+        ],
+        "colors": [
+          {
+            "name": "Brightest White",
+            "hex": "FFFFFF"
+          },
+          {
+            "name": "Glow-in-the-Dark",
+            "hex": "000000",
+            "glow": true
+          },
+          {
+            "name": "LulzBot Green",
+            "hex": "BBDB4B"
+          },
+          {
+            "name": "Metallic Gold",
+            "hex": "E3B145"
+          },
+          {
+            "name": "Metallic Silver",
+            "hex": "ABACB0"
+          },
+          {
+            "name": "Midnight Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "F2EFE9",
+            "translucent": true
+          },
+          {
+            "name": "Snow White",
+            "hex": "F5F5F4"
+          }
+        ]
+      },
+      {
+        "name": "Pro {color_name}",
+        "material": "PCTG",
+        "density": 1.23,
+        "weights": [
+          {
+            "weight": 1000,
+            "spool_weight": 250
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          230,
+          260
+        ],
+        "bed_temp_range": [
+          70,
+          90
+        ],
+        "colors": [
+          {
+            "name": "Brightest White",
+            "hex": "FFFFFF"
+          },
+          {
+            "name": "Bubblegum Pink",
+            "hex": "F4A0B1"
+          },
+          {
+            "name": "Charcoal Gray",
+            "hex": "4C5975"
+          },
+          {
+            "name": "Chocolate Brown",
+            "hex": "5D342C"
+          },
+          {
+            "name": "Cobalt Blue",
+            "hex": "0E21AE"
+          },
+          {
+            "name": "Daffodil Yellow",
+            "hex": "FFC946"
+          },
+          {
+            "name": "Desert Tan",
+            "hex": "A79E82"
+          },
+          {
+            "name": "Fire Engine Red",
+            "hex": "E72F1D"
+          },
+          {
+            "name": "Flat Dark Earth",
+            "hex": "B38F6E"
+          },
+          {
+            "name": "Grape Purple",
+            "hex": "6000B0"
+          },
+          {
+            "name": "Grass Green",
+            "hex": "62E480"
+          },
+          {
+            "name": "Industrial Gray",
+            "hex": "91A0B6"
+          },
+          {
+            "name": "Iron Red",
+            "hex": "98282F"
+          },
+          {
+            "name": "LulzBot Green",
+            "hex": "BBDB4B"
+          },
+          {
+            "name": "Matte Black",
+            "hex": "000000",
+            "finish": "matte"
+          },
+          {
+            "name": "Metallic Copper",
+            "hex": "C66547"
+          },
+          {
+            "name": "Metallic Gold",
+            "hex": "E3B145"
+          },
+          {
+            "name": "Metallic Silver",
+            "hex": "A8B0BD"
+          },
+          {
+            "name": "Midnight Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "DFDFD3",
+            "translucent": true
+          },
+          {
+            "name": "Ocean Blue",
+            "hex": "0266BB"
+          },
+          {
+            "name": "Olive Green",
+            "hex": "98AA7A"
+          },
+          {
+            "name": "Snow White",
+            "hex": "EAECF5"
+          },
+          {
+            "name": "Tangerine Orange",
+            "hex": "FF8133"
+          },
+          {
+            "name": "Toolbox Green",
+            "hex": "C3BD60"
+          },
+          {
+            "name": "Toolbox Orange",
+            "hex": "C86744"
+          }
+        ]
+      },
+      {
+        "name": "Pro {color_name}",
+        "material": "PETG",
+        "density": 1.27,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          220,
+          250
+        ],
+        "bed_temp_range": [
+          70,
+          90
+        ],
+        "colors": [
+          {
+            "name": "Brightest White",
+            "hex": "FFFFFF"
+          },
+          {
+            "name": "Charcoal Gray",
+            "hex": "4C5975"
+          },
+          {
+            "name": "Clearly Natural",
+            "hex": "DFDFD3",
+            "translucent": true
+          },
+          {
+            "name": "Fjord Blue",
+            "hex": "386DFF"
+          },
+          {
+            "name": "Forest Green",
+            "hex": "267F67"
+          },
+          {
+            "name": "Glow-in-the-Dark",
+            "hex": "000000",
+            "glow": true
+          },
+          {
+            "name": "Harvest Gold",
+            "hex": "F6C500"
+          },
+          {
+            "name": "LulzBot Green",
+            "hex": "BBDB4B"
+          },
+          {
+            "name": "Metallic Silver",
+            "hex": "ABACB0"
+          },
+          {
+            "name": "Midnight Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "DFDFD3",
+            "translucent": true
+          },
+          {
+            "name": "Olive Green",
+            "hex": "4D5D4C"
+          },
+          {
+            "name": "Snow White",
+            "hex": "EFEFEF"
+          }
+        ]
+      },
+      {
+        "name": "Matte {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          50,
+          70
+        ],
+        "colors": [
+          {
+            "name": "filamento",
+            "hex": "000000",
+            "finish": "matte"
+          }
+        ]
+      },
+      {
+        "name": "Silk {color_name}",
+        "material": "PLA+",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          50,
+          70
+        ],
+        "colors": [
+          {
+            "name": "Black Hills Gold",
+            "hex": "F5BB91"
+          },
+          {
+            "name": "Goldenrod",
+            "hex": "FFCB47"
+          },
+          {
+            "name": "Royal Navy Blue",
+            "hex": "0099E6"
+          },
+          {
+            "name": "Silverbell",
+            "hex": "ECEFED"
+          },
+          {
+            "name": "Vine Leaf Green",
+            "hex": "67D8BC"
+          }
+        ]
+      },
+      {
+        "name": "Standard {color_name}",
+        "material": "PLA+",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          50,
+          70
+        ],
+        "colors": [
+          {
+            "name": "Almond",
+            "hex": "000000"
+          },
+          {
+            "name": "Aquamarine",
+            "hex": "63D6D6"
+          },
+          {
+            "name": "Autumn Orange",
+            "hex": "FF5F2E"
+          },
+          {
+            "name": "Bone White",
+            "hex": "E3E0D3"
+          },
+          {
+            "name": "Brightest White",
+            "hex": "FFFFFF"
+          },
+          {
+            "name": "Bubblegum Pink",
+            "hex": "F4A0B1"
+          },
+          {
+            "name": "Caribbean Blue",
+            "hex": "0099E6"
+          },
+          {
+            "name": "Castle Gray",
+            "hex": "55657C"
+          },
+          {
+            "name": "Charcoal Gray",
+            "hex": "4C5975"
+          },
+          {
+            "name": "Chocolate Brown",
+            "hex": "5D342C"
+          },
+          {
+            "name": "Cobalt Blue",
+            "hex": "0E21AE"
+          },
+          {
+            "name": "Daffodil Yellow",
+            "hex": "F3C102"
+          },
+          {
+            "name": "Desert Tan",
+            "hex": "A79E82"
+          },
+          {
+            "name": "Electric Blue",
+            "hex": "1ADAFB"
+          },
+          {
+            "name": "Fire Engine Red",
+            "hex": "E20010"
+          },
+          {
+            "name": "Fjord Blue",
+            "hex": "0095FF"
+          },
+          {
+            "name": "Flat Dark Earth",
+            "hex": "BA8960"
+          },
+          {
+            "name": "Fluorescent Green",
+            "hex": "84D18B"
+          },
+          {
+            "name": "Fluorescent Orange",
+            "hex": "FF8133"
+          },
+          {
+            "name": "Fluorescent Yellow",
+            "hex": "E4FF33"
+          },
+          {
+            "name": "Forest Green",
+            "hex": "267F67"
+          },
+          {
+            "name": "Glow in the Dark",
+            "hex": "000000",
+            "glow": true
+          },
+          {
+            "name": "Grape Purple",
+            "hex": "6000B0"
+          },
+          {
+            "name": "Grass Green",
+            "hex": "62E480"
+          },
+          {
+            "name": "Harvest Gold",
+            "hex": "F6C500"
+          },
+          {
+            "name": "Industrial Gray",
+            "hex": "B1B3C5"
+          },
+          {
+            "name": "Iron Red",
+            "hex": "BF1D2D"
+          },
+          {
+            "name": "Island Fuchsia",
+            "hex": "C80181"
+          },
+          {
+            "name": "LulzBot® Green",
+            "hex": "BBDB4B"
+          },
+          {
+            "name": "Metallic Copper",
+            "hex": "C25C56"
+          },
+          {
+            "name": "Metallic Gold",
+            "hex": "E3B145"
+          },
+          {
+            "name": "Metallic Silver",
+            "hex": "A8B0BD"
+          },
+          {
+            "name": "Midnight Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "DFDFD3"
+          },
+          {
+            "name": "Ocean Blue",
+            "hex": "2E56F1"
+          },
+          {
+            "name": "Olive Green",
+            "hex": "4D5D4C"
+          },
+          {
+            "name": "Pistachio Green",
+            "hex": "ADEBB3"
+          },
+          {
+            "name": "Snow White",
+            "hex": "EFEFEF"
+          },
+          {
+            "name": "Tangerine Orange",
+            "hex": "F67405"
+          },
+          {
+            "name": "Warm Bisque",
+            "hex": "FFCCCD"
+          }
+        ]
+      },
+      {
+        "name": "Tough Pro {color_name}",
+        "material": "PLA+",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          50,
+          70
+        ],
+        "colors": [
+          {
+            "name": "Almond",
+            "hex": "E6D1BD"
+          },
+          {
+            "name": "Aquamarine",
+            "hex": "63D6D6"
+          },
+          {
+            "name": "Autumn Orange",
+            "hex": "CF4520"
+          },
+          {
+            "name": "Bone White",
+            "hex": "E3E0D3"
+          },
+          {
+            "name": "Brightest White",
+            "hex": "FFFFFF"
+          },
+          {
+            "name": "Bubblegum Pink",
+            "hex": "F4A0B1"
+          },
+          {
+            "name": "Caribbean Blue",
+            "hex": "0099E6"
+          },
+          {
+            "name": "Castle Gray",
+            "hex": "8C9099"
+          },
+          {
+            "name": "Charcoal Gray",
+            "hex": "4C5975"
+          },
+          {
+            "name": "Chocolate Brown",
+            "hex": "5D342C"
+          },
+          {
+            "name": "Cobalt Blue",
+            "hex": "0E21AE"
+          },
+          {
+            "name": "Daffodil Yellow",
+            "hex": "F3C102"
+          },
+          {
+            "name": "Desert Tan",
+            "hex": "A79E82"
+          },
+          {
+            "name": "Electric Blue",
+            "hex": "39B9DB"
+          },
+          {
+            "name": "Fire Engine Red",
+            "hex": "E20010"
+          },
+          {
+            "name": "Fjord Blue",
+            "hex": "0095FF"
+          },
+          {
+            "name": "Flat Dark Earth",
+            "hex": "B38F6E"
+          },
+          {
+            "name": "Fluorescent Green",
+            "hex": "62E480"
+          },
+          {
+            "name": "Fluorescent Orange",
+            "hex": "FF8133"
+          },
+          {
+            "name": "Fluorescent Yellow",
+            "hex": "E4FF33"
+          },
+          {
+            "name": "Forest Green",
+            "hex": "267F67"
+          },
+          {
+            "name": "Glow In The Dark",
+            "hex": "000000",
+            "glow": true
+          },
+          {
+            "name": "Grape Purple",
+            "hex": "6000B0"
+          },
+          {
+            "name": "Grass Green",
+            "hex": "62E480"
+          },
+          {
+            "name": "Harvest Gold",
+            "hex": "FFCB47"
+          },
+          {
+            "name": "Industrial Gray",
+            "hex": "91A0B6"
+          },
+          {
+            "name": "Iron Red",
+            "hex": "AD0028"
+          },
+          {
+            "name": "Island Fuchsia",
+            "hex": "CC00E3"
+          },
+          {
+            "name": "LulzBot Green",
+            "hex": "BBDB4B"
+          },
+          {
+            "name": "Metallic Copper",
+            "hex": "C25C56"
+          },
+          {
+            "name": "Metallic Gold",
+            "hex": "E3B145"
+          },
+          {
+            "name": "Metallic Silver",
+            "hex": "ABACB0"
+          },
+          {
+            "name": "Midnight Black",
+            "hex": "000000"
+          },
+          {
+            "name": "Natural",
+            "hex": "F1E6B2",
+            "translucent": true
+          },
+          {
+            "name": "Ocean Blue",
+            "hex": "2E56F1"
+          },
+          {
+            "name": "Olive Green",
+            "hex": "7F9C85"
+          },
+          {
+            "name": "Pistachio Green",
+            "hex": "ADEBB3"
+          },
+          {
+            "name": "Snow White",
+            "hex": "EFEFEF"
+          },
+          {
+            "name": "Tangerine Orange",
+            "hex": "F67405"
+          },
+          {
+            "name": "Warm Bisque",
+            "hex": "EAC2B7"
+          }
+        ]
       }
     ]
 }
