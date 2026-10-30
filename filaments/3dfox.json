@@ -1,0 +1,64 @@
+{
+    "manufacturer": "3DFOX",
+    "filaments": [
+        {
+            "name": "REFILL {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                },
+                {
+                    "weight": 3000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "060909"
+                },
+                {
+                    "name": "White",
+                    "hex": "F3F5F0"
+                }
+            ]
+        },
+        {
+            "name": "REFILL {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
+                {
+                    "name": "Blue",
+                    "hex": "0087BD"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "757D7F"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008A2F"
+                },
+                {
+                    "name": "Red",
+                    "hex": "AD0510"
+                }
+            ]
+        }
+    ]
+}
