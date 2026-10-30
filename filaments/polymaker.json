@@ -1859,19 +1859,19 @@
           {
             "name": "Orange",
             "hex": "ec7626"
-          }, 
+          },
           {
             "name": "Yellow",
             "hex": "ccc93c"
-          }, 
+          },
           {
             "name": "Pink",
             "hex": "f48079"
-          }, 
+          },
           {
             "name": "Green",
             "hex": "75df69"
-          }, 
+          },
           {
             "name": "Blue",
             "hex": "419ec2"
@@ -2389,6 +2389,36 @@
           {
             "name": "Gunmetal Grey",
             "hex": "676B6A"
+          }
+        ]
+      },
+      {
+        "name": "Polymaker HT-PLA-CF {color_name}",
+        "material": "HT-PLA-CF",
+        "density": 1.34,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          210,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Grey",
+            "hex": "91999f",
+            "finish": "matte"
           }
         ]
       }
