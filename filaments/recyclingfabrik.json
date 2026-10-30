@@ -1,0 +1,299 @@
+{
+    "manufacturer": "RecyclingFabrik",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Bloody Orange (Red Orange)",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Caribbean Sea (Blue)",
+                    "hex": "005DA4",
+                    "translucent": true
+                },
+                {
+                    "name": "Curved Banana (Yellow)",
+                    "hex": "F5E457"
+                },
+                {
+                    "name": "Dancing Flame (Orange-Transparent)",
+                    "hex": "E03F26",
+                    "translucent": true
+                },
+                {
+                    "name": "Frosty Rose (Pink-Transparent)",
+                    "hex": "C80181",
+                    "translucent": true
+                },
+                {
+                    "name": "Frothy Cappuccino (Beige)",
+                    "hex": "C3C199"
+                },
+                {
+                    "name": "Good Night (Black)",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Mystical Emerald (Green-Transparent)",
+                    "hex": "217165",
+                    "translucent": true
+                },
+                {
+                    "name": "Royal Amethyst (Violet-Transparent)",
+                    "hex": "492972",
+                    "translucent": true
+                },
+                {
+                    "name": "Sour Apple (Green)",
+                    "hex": "95D05C"
+                },
+                {
+                    "name": "Whole Carrot (Orange)",
+                    "hex": "FF7A33"
+                }
+            ]
+        },
+        {
+            "name": "Matte {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Misty Night (Black-Satin )",
+                    "hex": "000000",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Calming Lavender (Violet)",
+                    "hex": "8D5984"
+                },
+                {
+                    "name": "Cooling Lemon (Yellow)",
+                    "hex": "F5E457"
+                },
+                {
+                    "name": "Creamy Coffee (Beige)",
+                    "hex": "D4B6A3"
+                },
+                {
+                    "name": "Dark Ivy",
+                    "hex": "214327"
+                },
+                {
+                    "name": "Deep Ocean (Dark Blue)",
+                    "hex": "34695A"
+                },
+                {
+                    "name": "Delicate Peach (Orange)",
+                    "hex": "F6A25C"
+                },
+                {
+                    "name": "Falling Leaves (Brown)",
+                    "hex": "6E4325"
+                },
+                {
+                    "name": "Flottes Veilchen (purple)",
+                    "hex": "E8BEDD"
+                },
+                {
+                    "name": "Fluffy Sheep (White)",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Fresh Meadow (Light Green)",
+                    "hex": "9DBD8B"
+                },
+                {
+                    "name": "Gentle Blossom (Pink)",
+                    "hex": "FC6D8E"
+                },
+                {
+                    "name": "Liquid Asphalt (Dark Gray)",
+                    "hex": "63646B"
+                },
+                {
+                    "name": "Mild Sea Buckthorn (Orange)",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Milky Glass (Transparent)",
+                    "hex": "F0EBE5",
+                    "translucent": true
+                },
+                {
+                    "name": "RAL 3000 Fire Red",
+                    "hex": "C01616"
+                },
+                {
+                    "name": "RAL 3001 Signal Red",
+                    "hex": "AC1A17"
+                },
+                {
+                    "name": "Rotten Avocado (Green)",
+                    "hex": "606935"
+                },
+                {
+                    "name": "Shallow Breeze (Light Blue)",
+                    "hex": "9DB6D4"
+                },
+                {
+                    "name": "Shallow water (blue)",
+                    "hex": "23668C"
+                },
+                {
+                    "name": "Shimmering Candle",
+                    "hex": "8A2D40"
+                },
+                {
+                    "name": "Shimmering Crown",
+                    "hex": "9A8524"
+                },
+                {
+                    "name": "Shimmering fir tree",
+                    "hex": "4C645B"
+                },
+                {
+                    "name": "Shimmering Night",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Shimmering Pearl",
+                    "hex": "1E606C"
+                },
+                {
+                    "name": "Shimmering Plum",
+                    "hex": "A38496"
+                },
+                {
+                    "name": "Shimmering Statue",
+                    "hex": "613B3A"
+                },
+                {
+                    "name": "Shimmering Sword",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Sleepy Koala (Gray)",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Smart Mouse (Light Gray)",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Sparkling Fir (Green Glitter)",
+                    "hex": "AA0101",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Sparkling Night (Black Glitter)",
+                    "hex": "000000",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Special Rainbow",
+                    "hex": "436176"
+                },
+                {
+                    "name": "Squeezed lime (light green)",
+                    "hex": "7AB352"
+                },
+                {
+                    "name": "Sweet Cherry (Red)",
+                    "hex": "C60F3E"
+                },
+                {
+                    "name": "Wet Elephant (Gray)",
+                    "hex": "697272"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Polished Glass (Transparent)",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}
