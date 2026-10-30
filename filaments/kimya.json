@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Kimya",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "S White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}
