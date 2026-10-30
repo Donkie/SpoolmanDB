@@ -1,0 +1,108 @@
+{
+    "manufacturer": "3DE",
+    "filaments": [
+        {
+            "name": "Premium {color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 165
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp_range": [
+                40,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Solid Blue",
+                    "hex": "1B5FAA"
+                },
+                {
+                    "name": "Solid White",
+                    "hex": "F2F0EB"
+                }
+            ]
+        },
+        {
+            "name": "Premium {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                35,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Cold White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Flame Orange",
+                    "hex": "FC8A17"
+                },
+                {
+                    "name": "Lether Brown",
+                    "hex": "924B28"
+                },
+                {
+                    "name": "Signal Yellow",
+                    "hex": "F1DD61"
+                }
+            ]
+        },
+        {
+            "name": "Premium Silk {color_name}",
+            "material": "PLA",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                220
+            ],
+            "bed_temp_range": [
+                35,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Mix Red-Sapphire Blue",
+                    "hex": "7A2F2C"
+                },
+                {
+                    "name": "Tricolor Gold Green Pinkish",
+                    "hex": "E1E07D"
+                }
+            ]
+        }
+    ]
+}
