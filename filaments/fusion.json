@@ -786,6 +786,39 @@
                     "hex": "e2d610"
 				}
 			]
-		}
+		},
+        {
+            "name": "{color_name}",
+            "material": "PCTG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 200
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                240,
+                260
+            ],
+            "bed_temp": 70,
+            "colors": [
+                {
+                    "name": "Atomic Orange",
+                    "hex": "FF3300"
+                },
+                {
+                    "name": "Cold Fusion Blue",
+                    "hex": "00CED1"
+                },
+                {
+                    "name": "Reactor Red",
+                    "hex": "FF0000"
+                }
+            ]
+        }
     ]
 }
