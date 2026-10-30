@@ -1,0 +1,136 @@
+{
+    "manufacturer": "Slic3D",
+    "filaments": [
+        {
+            "name": "Basic {color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 115
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                65,
+                75
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "022CAC"
+                },
+                {
+                    "name": "Brown",
+                    "hex": "522100"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "ADAEB1"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF7214"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Space Grey",
+                    "hex": "4F4F4F"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "D6D6D6"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                }
+            ]
+        },
+        {
+            "name": "Basic {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                35,
+                65
+            ],
+            "colors": [
+                {
+                    "name": "Apple Green",
+                    "hex": "C8FD77"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "F6E2C4"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Cocoa Brown",
+                    "hex": "322F2F"
+                },
+                {
+                    "name": "Green",
+                    "hex": "00FF44"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "666666"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFB0D8"
+                },
+                {
+                    "name": "Red",
+                    "hex": "C80000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FFFF00"
+                }
+            ]
+        }
+    ]
+}
