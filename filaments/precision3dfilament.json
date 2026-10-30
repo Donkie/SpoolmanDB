@@ -1,0 +1,186 @@
+{
+    "manufacturer": "Precision 3D Filament",
+    "filaments": [
+        {
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "In The Dark [Translucent]",
+                    "hex": "06B100",
+                    "translucent": true,
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Amethyst Purple",
+                    "hex": "6C47B2"
+                },
+                {
+                    "name": "Bay Horse Brown",
+                    "hex": "A54830"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bronco Orange",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Butterscotch",
+                    "hex": "FF9A14"
+                },
+                {
+                    "name": "Carolina Blue",
+                    "hex": "8CC6E4"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "Flamingo Pink",
+                    "hex": "FC6D8E"
+                },
+                {
+                    "name": "Forest Green [Translucent]",
+                    "hex": "34695A",
+                    "translucent": true
+                },
+                {
+                    "name": "Gecko Green [Translucent]",
+                    "hex": "98FBCB",
+                    "translucent": true
+                },
+                {
+                    "name": "Gun Metal Gray",
+                    "hex": "26272B"
+                },
+                {
+                    "name": "Halloween Orange",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Indigo [Translucent]",
+                    "hex": "09048E",
+                    "translucent": true
+                },
+                {
+                    "name": "Keystone Blue [Translucent]",
+                    "hex": "2C3294",
+                    "translucent": true
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "EFDC4C"
+                },
+                {
+                    "name": "Lilac",
+                    "hex": "988DE7"
+                },
+                {
+                    "name": "Lime",
+                    "hex": "9AED51"
+                },
+                {
+                    "name": "Lipstick Pink",
+                    "hex": "F14147"
+                },
+                {
+                    "name": "Mellow Yellow",
+                    "hex": "C6F666"
+                },
+                {
+                    "name": "Midnight [Dark Purple]",
+                    "hex": "492972"
+                },
+                {
+                    "name": "Militia Green",
+                    "hex": "4E7642"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "98FBCB"
+                },
+                {
+                    "name": "Natural Clear [Translucent]",
+                    "hex": "D9D8DE",
+                    "translucent": true
+                },
+                {
+                    "name": "Powder Blue",
+                    "hex": "A5D6D5"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "6711F2"
+                },
+                {
+                    "name": "Rose Gold",
+                    "hex": "CAAA99"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "999AA0"
+                },
+                {
+                    "name": "Starship Gray",
+                    "hex": "697272"
+                },
+                {
+                    "name": "Turquoise",
+                    "hex": "5FBCDD"
+                },
+                {
+                    "name": "Victory Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}
