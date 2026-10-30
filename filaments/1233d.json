@@ -1,0 +1,88 @@
+{
+    "manufacturer": "123-3D",
+    "filaments": [
+        {
+            "name": "Filament {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 216
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                0,
+                50
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Light Brown Wood",
+                    "hex": "C7873D"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FB8232"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "75CAFF"
+                },
+                {
+                    "name": "Strawberry Pink",
+                    "hex": "FFA3CB"
+                }
+            ]
+        },
+        {
+            "name": "Filament {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 216
+                },
+                {
+                    "weight": 3000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                0,
+                50
+            ],
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "999999"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FB1313"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        }
+    ]
+}
