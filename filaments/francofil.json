@@ -1,0 +1,597 @@
+{
+    "manufacturer": "Francofil",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Rose FME PMUC",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "EFEADF"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blanc",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Gris",
+                    "hex": "6F727E"
+                },
+                {
+                    "name": "Rose FME PMUC",
+                    "hex": "E80078"
+                },
+                {
+                    "name": "Rouge",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "F9F3E5"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.3,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Carbon",
+                    "hex": "232323"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "183681"
+                },
+                {
+                    "name": "Detectable M-XR",
+                    "hex": "436176"
+                },
+                {
+                    "name": "ESD Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "6F727E"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Rose FME PMUC",
+                    "hex": "E80078"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Virgin ESD",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "White",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "White PTFE",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Phosphorescent Green",
+                    "hex": "8CFF96",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Anthracite RAL 7016",
+                    "hex": "3F4647"
+                },
+                {
+                    "name": "Anthracite Violet",
+                    "hex": "6D102E"
+                },
+                {
+                    "name": "Beer - Co-produced",
+                    "hex": "A54830"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Metal Glitter",
+                    "hex": "232323",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Black | PMUC Certified",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bleu Pastel - Le Glacier",
+                    "hex": "BED9EB"
+                },
+                {
+                    "name": "Blue A 110",
+                    "hex": "005DA4"
+                },
+                {
+                    "name": "Blue RAL 5002",
+                    "hex": "2941BD"
+                },
+                {
+                    "name": "Blue RAL 5015",
+                    "hex": "0078BF"
+                },
+                {
+                    "name": "Bois - Co-produced",
+                    "hex": "DC9C43"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "B26E3E"
+                },
+                {
+                    "name": "Café - Coproduced",
+                    "hex": "3E2617"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "C06341"
+                },
+                {
+                    "name": "Fluorescent Yellow RAL 1026",
+                    "hex": "FFFC25"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Granite Grey",
+                    "hex": "D6D7D8",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Granite Red",
+                    "hex": "CB4726"
+                },
+                {
+                    "name": "Granite Vanilla",
+                    "hex": "F1E6B2"
+                },
+                {
+                    "name": "Granite White",
+                    "hex": "ECEFED",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Granite Yellow",
+                    "hex": "F2B70A"
+                },
+                {
+                    "name": "Green Iridescent Glitter",
+                    "hex": "84D18B"
+                },
+                {
+                    "name": "Green | PMUC Certified",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Green RAL 6000",
+                    "hex": "008059"
+                },
+                {
+                    "name": "Green RAL 6018",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Grey RAL 7000",
+                    "hex": "545F67"
+                },
+                {
+                    "name": "Grey RAL 7001",
+                    "hex": "7D8EAA"
+                },
+                {
+                    "name": "Grey RAL 7040",
+                    "hex": "BDC8C8"
+                },
+                {
+                    "name": "Mould - Co-product",
+                    "hex": "E3B899"
+                },
+                {
+                    "name": "Orange RAL 2003",
+                    "hex": "F55928"
+                },
+                {
+                    "name": "Oyster - Co-produced",
+                    "hex": "A88D5D"
+                },
+                {
+                    "name": "Pastel Pink - Cotton Candy",
+                    "hex": "F9C9D4"
+                },
+                {
+                    "name": "Pastel Violet - Lilac",
+                    "hex": "D3C6FF"
+                },
+                {
+                    "name": "Pastel Yellow - Lemon Meringue",
+                    "hex": "FCE575"
+                },
+                {
+                    "name": "Peacock Blue",
+                    "hex": "005DA4"
+                },
+                {
+                    "name": "Pink - RAL 4003",
+                    "hex": "FF5786"
+                },
+                {
+                    "name": "Pistachio Green - RAL 6019",
+                    "hex": "98AA7A"
+                },
+                {
+                    "name": "Red | PMUC Certified",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Red RAL 3020",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Saint-Jacques - Coproduced",
+                    "hex": "EFE8D8"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "848484"
+                },
+                {
+                    "name": "Silver Pink",
+                    "hex": "C9C1C8"
+                },
+                {
+                    "name": "Slate - Coproduced",
+                    "hex": "232323"
+                },
+                {
+                    "name": "Terre Battue - Coproduced",
+                    "hex": "A54830"
+                },
+                {
+                    "name": "Translucent Blue",
+                    "hex": "183681",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Green",
+                    "hex": "206233",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Orange",
+                    "hex": "F55928",
+                    "translucent": true
+                },
+                {
+                    "name": "Turquoise Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Violet Halloween",
+                    "hex": "B797DB"
+                },
+                {
+                    "name": "Violet RAL 4009",
+                    "hex": "D48DBD"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "FADCA4",
+                    "translucent": true
+                },
+                {
+                    "name": "Wheat - Co-product",
+                    "hex": "E6BA83"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "White | PMUC Certified",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Yellow RAL 1018",
+                    "hex": "F8CC00"
+                },
+                {
+                    "name": "Yellow Translucent",
+                    "hex": "C7B91F",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "name": "88A {color_name}",
+            "material": "TPE",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Gray",
+                    "hex": "A2AAAD"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "F9F3E5"
+                }
+            ]
+        },
+        {
+            "name": "95A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "183681"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "5A696C"
+                },
+                {
+                    "name": "Red",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        },
+        {
+            "name": "98A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Red",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Virgin",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                }
+            ]
+        }
+    ]
+}
