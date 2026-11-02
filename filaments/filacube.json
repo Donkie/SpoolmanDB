@@ -1,0 +1,176 @@
+{
+    "manufacturer": "FilaCube",
+    "filaments": [
+        {
+            "name": "Greenery {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Yoda Green",
+                    "hex": "BBDB4B"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black 2",
+                    "hex": "545252"
+                },
+                {
+                    "name": "Blue Mint",
+                    "hex": "C6F3FD"
+                },
+                {
+                    "name": "Brown (coffee color) 2",
+                    "hex": "AE9D7E"
+                },
+                {
+                    "name": "Burnt Orange 2",
+                    "hex": "FF8E24"
+                },
+                {
+                    "name": "Classic Blue 2",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "Engineering Gray (light grey) 2",
+                    "hex": "C5C7C4"
+                },
+                {
+                    "name": "Gray grey 2",
+                    "hex": "B2B8B8"
+                },
+                {
+                    "name": "Grayish Brown 2",
+                    "hex": "B38F6E"
+                },
+                {
+                    "name": "Green 2",
+                    "hex": "61C680"
+                },
+                {
+                    "name": "Hot Pink 2",
+                    "hex": "F27E81"
+                },
+                {
+                    "name": "Iced Coffee 2",
+                    "hex": "C6AD74"
+                },
+                {
+                    "name": "International Harvester Red Color 2",
+                    "hex": "BB2E33"
+                },
+                {
+                    "name": "Ivory White 2",
+                    "hex": "F2EFE9"
+                },
+                {
+                    "name": "John Deere Green Color 2",
+                    "hex": "50A100"
+                },
+                {
+                    "name": "Leather Brown 2",
+                    "hex": "BB6D48"
+                },
+                {
+                    "name": "Living Coral 2",
+                    "hex": "E08071"
+                },
+                {
+                    "name": "Maroon 2",
+                    "hex": "6F2A41"
+                },
+                {
+                    "name": "Mint Green 2",
+                    "hex": "ADEBB3"
+                },
+                {
+                    "name": "Olive Green (Dark Yellowish-Green) 2",
+                    "hex": "748C45"
+                },
+                {
+                    "name": "Orange 2",
+                    "hex": "F55928"
+                },
+                {
+                    "name": "Pink 2",
+                    "hex": "FFBDD1"
+                },
+                {
+                    "name": "Process Cyan 2",
+                    "hex": "66DCF8"
+                },
+                {
+                    "name": "Purple 2",
+                    "hex": "B894E2"
+                },
+                {
+                    "name": "Red 2",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Sapphire Blue 2",
+                    "hex": "6299DF"
+                },
+                {
+                    "name": "Silver 2",
+                    "hex": "A8B0BD"
+                },
+                {
+                    "name": "Skin/Flesh 2",
+                    "hex": "F6DFB7"
+                },
+                {
+                    "name": "Ultra Violet 2",
+                    "hex": "8178C8"
+                },
+                {
+                    "name": "White (Pure white) 2",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Yellow 2",
+                    "hex": "F6FB38"
+                }
+            ]
+        }
+    ]
+}
