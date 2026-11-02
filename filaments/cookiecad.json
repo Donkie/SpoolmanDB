@@ -1,0 +1,572 @@
+{
+    "manufacturer": "Cookiecad",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Dark Magic",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Green Apple Elixir",
+                    "hex": "70FA00"
+                },
+                {
+                    "name": "Mermaid",
+                    "hex": "5AEB90"
+                },
+                {
+                    "name": "Pixie Dust",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Sunrise Elixir",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Sunset Elixir",
+                    "hex": "567BAC"
+                },
+                {
+                    "name": "Unicorn (pink → blue → purple)",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Witches Blue",
+                    "hex": "6000B0"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Dark Magic",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Unicorn Elixir",
+                    "hex": "FF72B6"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Blue Star Stuff",
+                    "hex": "39B9DB",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Dark Magic",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Fairy Floss",
+                    "hex": "E65FE2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Funfetti",
+                    "hex": "E4E7E5",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Green Apple Elixir",
+                    "hex": "70FA00"
+                },
+                {
+                    "name": "Lavender",
+                    "hex": "E65FE2"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "98FBCB"
+                },
+                {
+                    "name": "Pink Star Stuff",
+                    "hex": "FF00A2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Pixie Dust",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Purple Star Stuff",
+                    "hex": "E65FE2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Witchcraft",
+                    "hex": "AE00FF"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Bubblegum Elixir",
+                    "hex": "F19DCD"
+                },
+                {
+                    "name": "Dark Magic",
+                    "hex": "375680"
+                },
+                {
+                    "name": "Mermaid Elixir (purple → blue → green)",
+                    "hex": "BE2ED6"
+                },
+                {
+                    "name": "Mint Green Elixir",
+                    "hex": "98FBCB"
+                },
+                {
+                    "name": "Nightshade",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Pale Blue Elixir",
+                    "hex": "82E3EC"
+                },
+                {
+                    "name": "Pale Pink Elixir",
+                    "hex": "FFCCCD"
+                },
+                {
+                    "name": "Pastel Rainbow Elixir",
+                    "hex": "FD9191"
+                },
+                {
+                    "name": "Pink Pearl",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Purple Ombré Elixir",
+                    "hex": "6000B0"
+                },
+                {
+                    "name": "Solar Flare",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Sunrise Elixir (pink → orange → yellow)",
+                    "hex": "FF5786"
+                },
+                {
+                    "name": "Sunset Elixir (blue → purple → magenta)",
+                    "hex": "4921C1"
+                },
+                {
+                    "name": "Teal Elixir",
+                    "hex": "98FBCB"
+                },
+                {
+                    "name": "Unicorn Elixir (pink → purple → blue)",
+                    "hex": "FD64B3"
+                },
+                {
+                    "name": "Witchcraft",
+                    "hex": "AE00FF"
+                },
+                {
+                    "name": "Witches Blue",
+                    "hex": "6000B0"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Star Stuff",
+                    "hex": "1D1D1D",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Blue Chip Marble",
+                    "hex": "8ED9F9",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Blue Ombré",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Blue Ombré Elixir",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Blue Pearl",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Blue Star Stuff",
+                    "hex": "36DBE7",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Bubblegum Pink",
+                    "hex": "F19DCD"
+                },
+                {
+                    "name": "Candy Apple Red",
+                    "hex": "FF2C29"
+                },
+                {
+                    "name": "Coral",
+                    "hex": "FF5A00"
+                },
+                {
+                    "name": "Fairy Floss (pink → purple → blue)",
+                    "hex": "FF00A2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Funfetti Clear with Rainbow Glitter",
+                    "hex": "DFDFD3",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Gold Dust Clear with Gold Glitter",
+                    "hex": "DDB95D",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Granite Mixer",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Gray Ombré",
+                    "hex": "88899D"
+                },
+                {
+                    "name": "Green Apple",
+                    "hex": "B3FF94"
+                },
+                {
+                    "name": "Hot Pink",
+                    "hex": "FF5786"
+                },
+                {
+                    "name": "Lavender Chip Marble",
+                    "hex": "E65FE2",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Lavender Elixir",
+                    "hex": "F19DCD"
+                },
+                {
+                    "name": "Lavender \\ Purple",
+                    "hex": "E65FE2"
+                },
+                {
+                    "name": "Magenta Elixir",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Mermaid Mixer",
+                    "hex": "E65FE2"
+                },
+                {
+                    "name": "Mint Chip Marble",
+                    "hex": "98FBCB",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Mint Star Stuff",
+                    "hex": "98FBCB",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Moonstone",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Pale Blue Dot",
+                    "hex": "8ED9F9"
+                },
+                {
+                    "name": "Pale Yellow",
+                    "hex": "F5EC97"
+                },
+                {
+                    "name": "Pink Chip Marble",
+                    "hex": "F4E3E5",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Pink Ombré",
+                    "hex": "F09BB5"
+                },
+                {
+                    "name": "Pink Ombré Elixir",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Pink Star Stuff",
+                    "hex": "FF00A2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Purple Ombré",
+                    "hex": "6C47B2"
+                },
+                {
+                    "name": "Purple Star Stuff",
+                    "hex": "C63DBA",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Ruby Red Elixir",
+                    "hex": "FF4F4D"
+                },
+                {
+                    "name": "Star Dust Glitter Black",
+                    "hex": "1D1D1D",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Sunrise Mixer",
+                    "hex": "EB0075"
+                },
+                {
+                    "name": "Sunrise (pink → orange → yellow)",
+                    "hex": "D85165"
+                },
+                {
+                    "name": "Sunset (dark blue → purple → magenta)",
+                    "hex": "324485"
+                },
+                {
+                    "name": "Sunset Mixer",
+                    "hex": "D93382"
+                },
+                {
+                    "name": "Unicorn Mixer",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Unicorn (pink → blue → purple)",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Vanilla Blueberry",
+                    "hex": "EAECF5",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Vanilla Redberry",
+                    "hex": "EAECF5",
+                    "pattern": "marble"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU-95A",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Blue Star Stuff",
+                    "hex": "178B9F",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Dark Magic",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Fairy Floss",
+                    "hex": "FF72B6",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Funfetti",
+                    "hex": "E4E7E5",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Green Apple Elixir",
+                    "hex": "70FA00"
+                },
+                {
+                    "name": "Lavender Elixir",
+                    "hex": "E65FE2"
+                },
+                {
+                    "name": "Mermaid",
+                    "hex": "69EBB6"
+                },
+                {
+                    "name": "Mint Star Stuff",
+                    "hex": "98FBCB",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Pale Blue Elixir",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Pale Pink Elixir",
+                    "hex": "EE8881"
+                },
+                {
+                    "name": "Pixie Dust",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Ruby Red Elixir",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Sunrise",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Sunset",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Unicorn",
+                    "hex": "8D65C7"
+                },
+                {
+                    "name": "Witches Blue",
+                    "hex": "0353BA"
+                }
+            ]
+        }
+    ]
+}
