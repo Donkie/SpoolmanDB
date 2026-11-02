@@ -1,0 +1,92 @@
+{
+    "manufacturer": "LOCYFENS",
+    "filaments": [
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Dual Color Black Green",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dual Color Black Purple",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dual Color Black Red",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dual Color Blue Green",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Dual Color Pink and Sky Blue",
+                    "hex": "FC8397"
+                },
+                {
+                    "name": "Dual Color Red Blue",
+                    "hex": "C80181"
+                },
+                {
+                    "name": "Gold Shiny Red Black",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Green Shiny Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Rainbow",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Shiny Color Change Rainbow",
+                    "hex": "0E21AE"
+                },
+                {
+                    "name": "Silver Shiny Blue",
+                    "hex": "C9D0D4"
+                },
+                {
+                    "name": "Tri Color Black Purple Blue",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Tri-color Red Blue Green",
+                    "hex": "C80181"
+                },
+                {
+                    "name": "Tri Color Red Yellow Blue",
+                    "hex": "C80181"
+                },
+                {
+                    "name": "Tri Color Sky Blue Yellow Rose Red",
+                    "hex": "5FEFF9"
+                },
+                {
+                    "name": "Vintage Metal Rainbow",
+                    "hex": "CE8D00"
+                }
+            ]
+        }
+    ]
+}
