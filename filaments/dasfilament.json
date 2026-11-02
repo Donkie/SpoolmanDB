@@ -590,13 +590,13 @@
                 },
                 {
                     "name": "Natur",
-                    "hex": "E4E7E5",
+                    "hex": "E4E7E5"
                 },
                 {
                     "name": "Weiß",
                     "hex": "FFFFFF"
                 }
             ]
-        },
+        }
     ]
 }
