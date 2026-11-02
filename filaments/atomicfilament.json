@@ -1,0 +1,990 @@
+{
+    "manufacturer": "Atomic Filament",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "5E6345"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bright White",
+                    "hex": "F5F5F4"
+                },
+                {
+                    "name": "Dark Cherry Red",
+                    "hex": "520B0F"
+                },
+                {
+                    "name": "FLAME RETARDANT Sabic FR15U Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Gun Metal Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "E8EBCE",
+                    "translucent": true
+                },
+                {
+                    "name": "Neon Green UV Reactive",
+                    "hex": "58C91B"
+                },
+                {
+                    "name": "Neon Yellow UV Reactive",
+                    "hex": "FFFB00"
+                },
+                {
+                    "name": "Perfect Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Perfect Orange",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Perfect Red",
+                    "hex": "E20010"
+                },
+                {
+                    "name": "Royal Blue",
+                    "hex": "2E56F1"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS-CF",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Ultra Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Army Green",
+                    "hex": "8E8D71"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Cool Gray",
+                    "hex": "26272B"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Neon Green UV Reactive Opaque",
+                    "hex": "01E041"
+                },
+                {
+                    "name": "Perfect Orange",
+                    "hex": "F78E0E"
+                },
+                {
+                    "name": "Perfect Yellow",
+                    "hex": "EEEA44"
+                },
+                {
+                    "name": "Royal Blue",
+                    "hex": "2E56F1"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F4"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA-CF",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Dark Blue CARBON FIBER Extreme",
+                    "hex": "3B3F6B"
+                },
+                {
+                    "name": "Dark Cherry CARBON FIBER Extreme",
+                    "hex": "520B0F"
+                },
+                {
+                    "name": "Extreme Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Smoke Blue CARBON FIBER Extreme",
+                    "hex": "4D6383"
+                },
+                {
+                    "name": "Stone Gray CARBON FIBER Extreme",
+                    "hex": "9FA4A8"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Amethyst Violet Gemstone Translucent v2",
+                    "hex": "B1407F",
+                    "translucent": true
+                },
+                {
+                    "name": "Aqua Translucent",
+                    "hex": "36DBE7",
+                    "translucent": true
+                },
+                {
+                    "name": "Baby Blue v2",
+                    "hex": "5FBCDD"
+                },
+                {
+                    "name": "Black Marble",
+                    "hex": "000000",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Bright White Opaque",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Bronze Metallic",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bug Eyes Shade-Shifting",
+                    "hex": "214327"
+                },
+                {
+                    "name": "Candy Apple Golden Pearl",
+                    "hex": "98282F"
+                },
+                {
+                    "name": "Chameleon Coastline Shade-Shifting",
+                    "hex": "488D94"
+                },
+                {
+                    "name": "Cosmic Graphite v2",
+                    "hex": "26272B"
+                },
+                {
+                    "name": "Crystal Clear / Natural",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Dark Cherry Red",
+                    "hex": "520B0F"
+                },
+                {
+                    "name": "Deep Black Opaque",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Emerald Green Translucent",
+                    "hex": "34695A",
+                    "translucent": true
+                },
+                {
+                    "name": "Extreme JET Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Galactic Blue Translucent Iridescent",
+                    "hex": "565670",
+                    "translucent": true
+                },
+                {
+                    "name": "Galactic Purple Translucent Iridescent",
+                    "hex": "A2918D",
+                    "translucent": true
+                },
+                {
+                    "name": "Gemstone Ruby Red Translucent",
+                    "hex": "E20010",
+                    "translucent": true
+                },
+                {
+                    "name": "Golden Blood Diamond Translucent",
+                    "hex": "C01616",
+                    "translucent": true
+                },
+                {
+                    "name": "Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Gun Metal Gray Opaque",
+                    "hex": "26272B"
+                },
+                {
+                    "name": "Hot Pink Opaque",
+                    "hex": "E23288"
+                },
+                {
+                    "name": "Indigo Golden Sparkle v3 Translucent",
+                    "hex": "6C47B2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Iridescent Bubblegum",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Kandy Blast",
+                    "hex": "F14147",
+                    "translucent": true
+                },
+                {
+                    "name": "Khaki",
+                    "hex": "938E6D"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "C5C7C4"
+                },
+                {
+                    "name": "Majestic Brown",
+                    "hex": "503529"
+                },
+                {
+                    "name": "Marble v2",
+                    "hex": "C3CCD5",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Metallic Silver v2",
+                    "hex": "ABACB0"
+                },
+                {
+                    "name": "Minty Green",
+                    "hex": "ADEBB3"
+                },
+                {
+                    "name": "Mysterious Abyss v2 Pearl",
+                    "hex": "363C32"
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "3A0A8C"
+                },
+                {
+                    "name": "Neon Green UV Reactive Opaque",
+                    "hex": "00CC00"
+                },
+                {
+                    "name": "Neon Orange UV Reactive Opaque",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Neon Yellow UV Reactive Opaque",
+                    "hex": "FFFB00"
+                },
+                {
+                    "name": "Olive Drab Green",
+                    "hex": "606935"
+                },
+                {
+                    "name": "Pastel Lilac",
+                    "hex": "6C5BB1"
+                },
+                {
+                    "name": "Pearlescent Blue Opaque",
+                    "hex": "2C3294"
+                },
+                {
+                    "name": "Pearlescent Translucent Neon Green V2",
+                    "hex": "58C91B",
+                    "translucent": true
+                },
+                {
+                    "name": "Perfect Blue Opaque",
+                    "hex": "0E21AE"
+                },
+                {
+                    "name": "Perfect Orange Opaque",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Perfect Purple",
+                    "hex": "8846AE"
+                },
+                {
+                    "name": "Perfect Red Opaque",
+                    "hex": "E20010"
+                },
+                {
+                    "name": "Perfect Yellow",
+                    "hex": "FBE200"
+                },
+                {
+                    "name": "Pine Green v2",
+                    "hex": "214327"
+                },
+                {
+                    "name": "RepRap Green",
+                    "hex": "317C2E"
+                },
+                {
+                    "name": "Rose Gold Metallic Translucent",
+                    "hex": "D48DBD",
+                    "translucent": true
+                },
+                {
+                    "name": "Royal Blue Opaque",
+                    "hex": "4921C1"
+                },
+                {
+                    "name": "Starlight Gray",
+                    "hex": "26272B",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Starry Night Translucent v3",
+                    "hex": "09048E",
+                    "translucent": true
+                },
+                {
+                    "name": "Too Good to be Blue Shade-Shifting",
+                    "hex": "23668C"
+                },
+                {
+                    "name": "Translucent Bright Orange",
+                    "hex": "F67405",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Fluorescent Neon Green",
+                    "hex": "7FE200",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Neon Hot Pink - UV REACTIVE",
+                    "hex": "ED1536",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Neon Yellow - UV Reactive",
+                    "hex": "E4FF33",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Sapphire Blue",
+                    "hex": "0022FF",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Smoke Black",
+                    "hex": "000000",
+                    "translucent": true
+                },
+                {
+                    "name": "Tropical Sea Iridescent Translucent",
+                    "hex": "00B4BC",
+                    "translucent": true
+                },
+                {
+                    "name": "True Gold v2",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Turquoise",
+                    "hex": "15817B"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA-CF",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Extreme Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Amethyst Violet Gemstone Translucent",
+                    "hex": "C80181",
+                    "translucent": true
+                },
+                {
+                    "name": "Aqua Gemstone Translucent",
+                    "hex": "36DBE7",
+                    "translucent": true
+                },
+                {
+                    "name": "Baby Blue v2",
+                    "hex": "5FBCDD"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Hi-Flow",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Marble",
+                    "hex": "000000",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Bright White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Bronze Metallic",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bug Eyes Shade-Shifting",
+                    "hex": "144F3B"
+                },
+                {
+                    "name": "Candy Apple Golden Pearl",
+                    "hex": "98282F"
+                },
+                {
+                    "name": "Chameleon Coastline Shade-Shifting",
+                    "hex": "488D94"
+                },
+                {
+                    "name": "Clear / Natural Filament \"NO YELLOW HUE\"",
+                    "hex": "E4E7E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Cosmic Graphite v2",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Dark Cherry Red",
+                    "hex": "520B0F"
+                },
+                {
+                    "name": "Emerald Green Gemstone Translucent",
+                    "hex": "267F67",
+                    "translucent": true
+                },
+                {
+                    "name": "Extreme Impact Gun Metal Gray",
+                    "hex": "26272B"
+                },
+                {
+                    "name": "Extreme Impact Gun Metal Gray v2",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Extreme Impact Modified Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Extreme JET Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Fluorescent Translucent Neon Hot Pink",
+                    "hex": "E72F1D",
+                    "translucent": true
+                },
+                {
+                    "name": "Galactic Blue Translucent Iridescent",
+                    "hex": "565670",
+                    "translucent": true
+                },
+                {
+                    "name": "Galactic Purple Translucent Iridescent",
+                    "hex": "A2918D",
+                    "translucent": true
+                },
+                {
+                    "name": "Gemstone Ruby Red Translucent",
+                    "hex": "E20010",
+                    "translucent": true
+                },
+                {
+                    "name": "Golden Blood Diamond Translucent",
+                    "hex": "C01616",
+                    "translucent": true
+                },
+                {
+                    "name": "Gray",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Groovy Purple Shade-Shifting",
+                    "hex": "CC00E3"
+                },
+                {
+                    "name": "Gun Metal Gray v2",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Gun Metal Gray v2 Filament",
+                    "hex": "55555E"
+                },
+                {
+                    "name": "Hot Pink",
+                    "hex": "F06E92"
+                },
+                {
+                    "name": "Illusion Cherry Iridescent",
+                    "hex": "DF3303"
+                },
+                {
+                    "name": "Indigo Golden Sparkle v3 Translucent",
+                    "hex": "6C47B2",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Iridescent Bubblegum",
+                    "hex": "FF5786"
+                },
+                {
+                    "name": "Iridescent Orange Translucent",
+                    "hex": "F67405",
+                    "translucent": true
+                },
+                {
+                    "name": "Kandy Blast",
+                    "hex": "F14147"
+                },
+                {
+                    "name": "Khaki",
+                    "hex": "B8AF99"
+                },
+                {
+                    "name": "Light Gray Hi-Flow",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Light Gray v2",
+                    "hex": "AFAEAB"
+                },
+                {
+                    "name": "Majestic Brown",
+                    "hex": "55331A"
+                },
+                {
+                    "name": "Marble",
+                    "hex": "EDF0F2",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "MeltMiser Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "MeltMiser White",
+                    "hex": "F5F5F4"
+                },
+                {
+                    "name": "Metallic Silver V2",
+                    "hex": "ABACB0"
+                },
+                {
+                    "name": "Minty Green",
+                    "hex": "ADEBB3"
+                },
+                {
+                    "name": "Mysterious Abyss v2 Pearl",
+                    "hex": "224C5D",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "480199"
+                },
+                {
+                    "name": "Neon Green UV Reactive v2",
+                    "hex": "83E665"
+                },
+                {
+                    "name": "Neon Orange UV Reactive",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Neon Yellow UV Reactive",
+                    "hex": "EBFF57"
+                },
+                {
+                    "name": "Olive Drab Green",
+                    "hex": "606935"
+                },
+                {
+                    "name": "Pastel Lilac",
+                    "hex": "AE96D4"
+                },
+                {
+                    "name": "Pearlescent Blue",
+                    "hex": "6D8DFD"
+                },
+                {
+                    "name": "Pearlescent Translucent Neon Green V2",
+                    "hex": "83E665",
+                    "translucent": true
+                },
+                {
+                    "name": "Pearlescent Translucent Neon Yellow",
+                    "hex": "EBFF57",
+                    "translucent": true
+                },
+                {
+                    "name": "Pearly Peach",
+                    "hex": "E2DEDB"
+                },
+                {
+                    "name": "Perfect Blue",
+                    "hex": "5C50E0"
+                },
+                {
+                    "name": "Perfect Orange",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Perfect Purple",
+                    "hex": "7F068C"
+                },
+                {
+                    "name": "Perfect Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Perfect Yellow",
+                    "hex": "FBE200"
+                },
+                {
+                    "name": "Pine Green v2",
+                    "hex": "206233"
+                },
+                {
+                    "name": "RepRap Green",
+                    "hex": "089A45"
+                },
+                {
+                    "name": "Rose Gold Metallic Translucent",
+                    "hex": "BF7473",
+                    "translucent": true
+                },
+                {
+                    "name": "Royal Blue",
+                    "hex": "0E21AE"
+                },
+                {
+                    "name": "Shamrock Sparkle",
+                    "hex": "1D7C6A"
+                },
+                {
+                    "name": "Starlight Gray",
+                    "hex": "55555E",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Starry Night Translucent v3",
+                    "hex": "5E1490",
+                    "translucent": true
+                },
+                {
+                    "name": "Too Good to be Blue Shade-Shifting",
+                    "hex": "0E21AE"
+                },
+                {
+                    "name": "Translucent Bright Orange",
+                    "hex": "F67405",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Cosmic Ray Blue",
+                    "hex": "2E56F1",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Flamingo Sunset",
+                    "hex": "FD4E6F",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Midnight Blue",
+                    "hex": "3F017F",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Neon Green v2 - UV REACTIVE",
+                    "hex": "0BD10B",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Neon Yellow - UV REACTIVE",
+                    "hex": "EBFF57",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Sapphire Blue",
+                    "hex": "0022FF",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Smoke Black",
+                    "hex": "000000",
+                    "translucent": true
+                },
+                {
+                    "name": "Tropical Sea Iridescent Translucent v2",
+                    "hex": "36DBE7",
+                    "translucent": true
+                },
+                {
+                    "name": "True Gold v2",
+                    "hex": "CE8D00"
+                },
+                {
+                    "name": "Turquoise",
+                    "hex": "00A594"
+                },
+                {
+                    "name": "Ultra Impact Modified White v2",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Aqua",
+                    "hex": "82E3EC"
+                },
+                {
+                    "name": "Electric Blue v2",
+                    "hex": "2E56F1"
+                },
+                {
+                    "name": "Extreme Bright Neon Green",
+                    "hex": "9FEC41"
+                },
+                {
+                    "name": "Extreme Bright Neon Pink",
+                    "hex": "FF72B6"
+                },
+                {
+                    "name": "Offshore Mist",
+                    "hex": "5A7D5A"
+                },
+                {
+                    "name": "Periwinkle",
+                    "hex": "7894F2"
+                },
+                {
+                    "name": "Sea Green v2",
+                    "hex": "00A594"
+                },
+                {
+                    "name": "Sunset",
+                    "hex": "DC9C43"
+                }
+            ]
+        }
+    ]
+}
