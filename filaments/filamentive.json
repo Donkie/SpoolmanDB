@@ -1,0 +1,73 @@
+{
+    "manufacturer": "Filamentive",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "292929"
+                },
+                {
+                    "name": "Dark Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Green",
+                    "hex": "91DB01"
+                },
+                {
+                    "name": "Grey",
+                    "hex": "7A838E"
+                },
+                {
+                    "name": "Light Grey",
+                    "hex": "D6D7D8"
+                },
+                {
+                    "name": "Natural Transparent",
+                    "hex": "F9F3E5",
+                    "translucent": true
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFB031"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "AEB8C1"
+                },
+                {
+                    "name": "White",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F8CC00"
+                }
+            ]
+        }
+    ]
+}
