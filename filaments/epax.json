@@ -1,0 +1,609 @@
+{
+    "manufacturer": "EPAX",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        },
+        {
+            "name": "High Speed {color_name}",
+            "material": "PETG",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                220,
+                250
+            ],
+            "bed_temp_range": [
+                70,
+                90
+            ],
+            "colors": [
+                {
+                    "name": "Blueberry Sparkle",
+                    "hex": "0E21AE",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "D9D8DE",
+                    "translucent": true
+                },
+                {
+                    "name": "Deep Space",
+                    "hex": "2C365E"
+                },
+                {
+                    "name": "Glass Blue",
+                    "hex": "0E21AE",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Gray",
+                    "hex": "686D93",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Green",
+                    "hex": "26A648",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Light Blue",
+                    "hex": "39B9DB",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Orange",
+                    "hex": "FA8423",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Purple",
+                    "hex": "6C47B2",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Red-Orange",
+                    "hex": "C01616",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Ruby Red",
+                    "hex": "AD0028",
+                    "translucent": true
+                },
+                {
+                    "name": "Metallic Blue",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Metallic Gold",
+                    "hex": "DDB95D"
+                },
+                {
+                    "name": "Metallic Gray",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Metallic Green",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Metallic Purple",
+                    "hex": "C63DBA"
+                },
+                {
+                    "name": "Metallic Red",
+                    "hex": "BB264D"
+                },
+                {
+                    "name": "Metallic Silver",
+                    "hex": "C5C5BF"
+                },
+                {
+                    "name": "Mulberry Sparkle",
+                    "hex": "87366B",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Nebula Purple",
+                    "hex": "4921C1"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "70FA00"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "FF520E"
+                },
+                {
+                    "name": "Neon Yellow",
+                    "hex": "D7F988"
+                },
+                {
+                    "name": "Solid Black",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Solid White",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F8CC00"
+                }
+            ]
+        },
+        {
+            "name": "High Speed {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Apricot",
+                    "hex": "FBE9B8"
+                },
+                {
+                    "name": "Aurora Green",
+                    "hex": "00935C"
+                },
+                {
+                    "name": "Aurora Red",
+                    "hex": "C01616"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "4921C1"
+                },
+                {
+                    "name": "Bone",
+                    "hex": "E3E0D3"
+                },
+                {
+                    "name": "Candy Rainbow",
+                    "hex": "F8CC00"
+                },
+                {
+                    "name": "Candy Red",
+                    "hex": "E31A1F"
+                },
+                {
+                    "name": "Citrus Rainbow",
+                    "hex": "91DB01"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "D9D8DE",
+                    "translucent": true
+                },
+                {
+                    "name": "Cool White",
+                    "hex": "EFEFEF"
+                },
+                {
+                    "name": "Cosmic Plum (Galaxy Shimmer)",
+                    "hex": "D5447E"
+                },
+                {
+                    "name": "Crystal Candy Rainbow",
+                    "hex": "D93382",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Crystal Icicle",
+                    "hex": "ACB1BA",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Crystal Spring",
+                    "hex": "F5E457",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Crystal Sugarplum",
+                    "hex": "0353BA",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Crystal Tropical Dream",
+                    "hex": "F5E457",
+                    "pattern": "sparkle",
+                    "translucent": true
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Dark Chocolate Brown",
+                    "hex": "503529"
+                },
+                {
+                    "name": "Deep Space (Galaxy Shimmer)",
+                    "hex": "3B4468",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Fire Engine Red",
+                    "hex": "CA0230"
+                },
+                {
+                    "name": "Glass Blue",
+                    "hex": "4921C1",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Green",
+                    "hex": "70FA00",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Light Blue",
+                    "hex": "39B9DB",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Orange",
+                    "hex": "FF8133",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Purple",
+                    "hex": "7F068C",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Red",
+                    "hex": "C01616",
+                    "translucent": true
+                },
+                {
+                    "name": "Glass Yellow",
+                    "hex": "F8CC00",
+                    "translucent": true
+                },
+                {
+                    "name": "Gray",
+                    "hex": "88899D"
+                },
+                {
+                    "name": "Lavender",
+                    "hex": "B894E2"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "BA8960"
+                },
+                {
+                    "name": "Magenta (Hot Pink)",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Marble",
+                    "hex": "ECEFED",
+                    "pattern": "marble"
+                },
+                {
+                    "name": "Military Green (Army Green)",
+                    "hex": "6E8451"
+                },
+                {
+                    "name": "Natural Translucent",
+                    "hex": "DEE2DA",
+                    "translucent": true
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "3B3F6B"
+                },
+                {
+                    "name": "Nebula Purple (Galaxy Shimmer)",
+                    "hex": "7F068C",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Neutral White",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF520E"
+                },
+                {
+                    "name": "Orange Dawn",
+                    "hex": "C01616",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Pale Yellow",
+                    "hex": "D7F988"
+                },
+                {
+                    "name": "Pastel Mint",
+                    "hex": "00E1C5"
+                },
+                {
+                    "name": "Pastel Orange",
+                    "hex": "FBD1A7"
+                },
+                {
+                    "name": "Pine Green",
+                    "hex": "37823F"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "F19DCD"
+                },
+                {
+                    "name": "Pink Ombré",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "A000CA"
+                },
+                {
+                    "name": "Purple Dusk",
+                    "hex": "D5447E",
+                    "pattern": "sparkle"
+                },
+                {
+                    "name": "Purple Peony (Galaxy Shimmer)",
+                    "hex": "DB3FA9"
+                },
+                {
+                    "name": "Solar Flare (Galaxy Shimmer)",
+                    "hex": "F07821"
+                },
+                {
+                    "name": "Warm White",
+                    "hex": "E5F1EA"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "E4FF33"
+                }
+            ]
+        },
+        {
+            "name": "Luminous High Speed Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "70FA00",
+                    "glow": true
+                },
+                {
+                    "name": "Rainbow",
+                    "hex": "62E480",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "Matte High Speed {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Fast + Black",
+                    "hex": "24292A",
+                    "finish": "matte"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Bayou (Blue / Green / Rose Gold)",
+                    "hex": "2941BD"
+                },
+                {
+                    "name": "Blue Lagoon (Aqua Blue / Green)",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Coral Sunrise (Coral Pink / Gold)",
+                    "hex": "D85165"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "F6C500"
+                },
+                {
+                    "name": "Mermaid (Blue / Purple / Lime Green)",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Mystic Forest (Blue / Green / Purple)",
+                    "hex": "4921C1"
+                },
+                {
+                    "name": "Patina (Green / Purple / Copper)",
+                    "hex": "26A648"
+                },
+                {
+                    "name": "Peacock (Light Maroon / Blue / Green)",
+                    "hex": "B7293E"
+                },
+                {
+                    "name": "Prism (Pink / Blue / Gold)",
+                    "hex": "FF00A2"
+                },
+                {
+                    "name": "Regal Rainbow",
+                    "hex": "15817B"
+                },
+                {
+                    "name": "Royal Harvest (Gold / Copper / Purple)",
+                    "hex": "DDB95D"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "A8B0BD"
+                },
+                {
+                    "name": "Tarnished Copper (Gunmetal Gray / Copper)",
+                    "hex": "999AA0"
+                },
+                {
+                    "name": "Techno (Fuchsia / Blue)",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Treasure (Gold / Silver / Copper)",
+                    "hex": "DDB95D"
+                }
+            ]
+        },
+        {
+            "name": "95A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Candy Rainbow",
+                    "hex": "7659B5"
+                },
+                {
+                    "name": "Glass Candy Rainbow",
+                    "hex": "62E480",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}
