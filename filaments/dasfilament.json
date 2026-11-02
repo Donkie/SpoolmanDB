@@ -568,6 +568,35 @@
                     "translucent": true
                 }
             ]
-        }
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU",
+            "density": 1.23,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 214
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "colors": [
+                {
+                    "name": "Schwarz",
+                    "hex": "0A0A0A"
+                },
+                {
+                    "name": "Natur",
+                    "hex": "E4E7E5",
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
     ]
 }
