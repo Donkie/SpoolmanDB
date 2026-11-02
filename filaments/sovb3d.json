@@ -1,0 +1,288 @@
+{
+    "manufacturer": "SOVB 3D",
+    "filaments": [
+        {
+            "name": "Fil {color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Aluminium",
+                    "hex": "ACB1BA"
+                },
+                {
+                    "name": "Blanc",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Blanc Crème",
+                    "hex": "E2DEDB"
+                },
+                {
+                    "name": "Blanc Gris",
+                    "hex": "D6D7D8"
+                },
+                {
+                    "name": "Bleu Ciel",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Bleu Clair",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Bleu Nuit",
+                    "hex": "2941BD"
+                },
+                {
+                    "name": "Bleu Turquoise",
+                    "hex": "40B6E4"
+                },
+                {
+                    "name": "Gris",
+                    "hex": "818FA0"
+                },
+                {
+                    "name": "Jaune",
+                    "hex": "F5E457"
+                },
+                {
+                    "name": "Jaune Fluo",
+                    "hex": "E4FF33"
+                },
+                {
+                    "name": "Naturel",
+                    "hex": "F9F3E5"
+                },
+                {
+                    "name": "Noir",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Noir Alumine",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F67405"
+                },
+                {
+                    "name": "Orange Fluo",
+                    "hex": "FFB031"
+                },
+                {
+                    "name": "Rose",
+                    "hex": "D85165"
+                },
+                {
+                    "name": "Rouge",
+                    "hex": "EC0000"
+                },
+                {
+                    "name": "Vert Clair",
+                    "hex": "58C91B"
+                },
+                {
+                    "name": "Vert Foncé",
+                    "hex": "15817B"
+                },
+                {
+                    "name": "Vert Mai",
+                    "hex": "00CC00"
+                },
+                {
+                    "name": "Violet",
+                    "hex": "9D00B1"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Fil Phosphorescent",
+                    "hex": "70FA00",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "Fil {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Beige Nacré",
+                    "hex": "E6BA83"
+                },
+                {
+                    "name": "Beige Nacré Alumine",
+                    "hex": "E9CB9B"
+                },
+                {
+                    "name": "Blanc",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Bleu ciel",
+                    "hex": "0378D0"
+                },
+                {
+                    "name": "Bleu Nacré",
+                    "hex": "0066D9"
+                },
+                {
+                    "name": "Bleu Nacré Alumine",
+                    "hex": "2941BD"
+                },
+                {
+                    "name": "Bleu nuit",
+                    "hex": "1E2C73"
+                },
+                {
+                    "name": "Bleu nuit alumine",
+                    "hex": "09048E"
+                },
+                {
+                    "name": "Bleu Turquoise",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "6B5F37"
+                },
+                {
+                    "name": "Gris aluminium",
+                    "hex": "B1B3C5"
+                },
+                {
+                    "name": "Gris argent",
+                    "hex": "737282"
+                },
+                {
+                    "name": "Jaune",
+                    "hex": "FFFB00"
+                },
+                {
+                    "name": "Marron clair",
+                    "hex": "AD7032"
+                },
+                {
+                    "name": "Marron foncé",
+                    "hex": "A45B27"
+                },
+                {
+                    "name": "Naturel",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Noir",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Noir alumine",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Noir Bleuté",
+                    "hex": "232834"
+                },
+                {
+                    "name": "Orange Fluo",
+                    "hex": "EB5405"
+                },
+                {
+                    "name": "Rouge",
+                    "hex": "AB2614"
+                },
+                {
+                    "name": "Rouge alumine",
+                    "hex": "AB2614"
+                },
+                {
+                    "name": "Vert Fluo",
+                    "hex": "69EE00"
+                },
+                {
+                    "name": "Vert mai",
+                    "hex": "06B100"
+                },
+                {
+                    "name": "Vert mai alumine",
+                    "hex": "509F45"
+                },
+                {
+                    "name": "Vert militaire",
+                    "hex": "6E8451"
+                },
+                {
+                    "name": "Vert Nacré",
+                    "hex": "23668C"
+                },
+                {
+                    "name": "Vert Nacré Alumine",
+                    "hex": "23668C"
+                },
+                {
+                    "name": "Violet",
+                    "hex": "963877"
+                },
+                {
+                    "name": "Violet alumine",
+                    "hex": "7F068C"
+                }
+            ]
+        }
+    ]
+}
