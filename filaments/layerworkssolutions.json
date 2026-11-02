@@ -1,0 +1,33 @@
+{
+    "manufacturer": "LayerWorks Solutions",
+    "filaments": [
+        {
+            "name": "LayerWorks WORKS series {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                220
+            ],
+            "bed_temp_range": [
+                20,
+                65
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                }
+            ]
+        }
+    ]
+}
