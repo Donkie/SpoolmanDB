@@ -1,0 +1,720 @@
+{
+    "manufacturer": "COEX 3D",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Aqua Blue",
+                    "hex": "36DBE7"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "09048E"
+                },
+                {
+                    "name": "Flame Retardant Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Inferno Orange",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "FADB24"
+                },
+                {
+                    "name": "Metallic Silver",
+                    "hex": "ABACB0"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "hex": "183681"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Salsa Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Shamrock Green",
+                    "hex": "3D9441"
+                },
+                {
+                    "name": "Stone Gray",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Metallic Silver Prime",
+                    "hex": "848484"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA",
+            "density": 1.07,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                235,
+                260
+            ],
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
+                {
+                    "name": "Aqua Blue Prime",
+                    "hex": "178B9F"
+                },
+                {
+                    "name": "Black Prime",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Cobalt Blue Prime",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Inferno Orange Prime",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Lemon Yellow Prime",
+                    "hex": "EFDC4C"
+                },
+                {
+                    "name": "Midnight Blue Prime",
+                    "hex": "1E2C73"
+                },
+                {
+                    "name": "Natural Prime",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "Salsa Red Prime",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Shamrock Green Prime",
+                    "hex": "41A840"
+                },
+                {
+                    "name": "Stone Gray Prime",
+                    "hex": "808080"
+                },
+                {
+                    "name": "White Prime",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Glow {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Green",
+                    "hex": "06B100",
+                    "glow": true
+                }
+            ]
+        },
+        {
+            "name": "Silk {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Black Chrome",
+                    "hex": "2A3940"
+                },
+                {
+                    "name": "Copper",
+                    "hex": "C88582"
+                },
+                {
+                    "name": "Electric Blue",
+                    "hex": "4F7BBB"
+                },
+                {
+                    "name": "Frost White",
+                    "hex": "F0EBE5"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "BCA463"
+                },
+                {
+                    "name": "Lipstick Pink",
+                    "hex": "E23288"
+                },
+                {
+                    "name": "Metallic Gunmetal Silver",
+                    "hex": "494C56"
+                },
+                {
+                    "name": "Metallic Silver Prime",
+                    "hex": "848484"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "A8B0BD"
+                }
+            ]
+        },
+        {
+            "name": "VO3D High Impact {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Bright White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "09048E"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "0B6A2F"
+                },
+                {
+                    "name": "Midnight Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Scarlet Red",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Space Gray",
+                    "hex": "1D1D1D"
+                },
+                {
+                    "name": "Stone Gray",
+                    "hex": "91A0B6"
+                },
+                {
+                    "name": "Taxicab Yellow",
+                    "hex": "FFD342"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                230
+            ],
+            "bed_temp_range": [
+                50,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Aqua Blue",
+                    "hex": "39B9DB"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Army Green Prime",
+                    "hex": "515234"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Black Prime",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Bone Brown",
+                    "hex": "A47C48"
+                },
+                {
+                    "name": "C♻EXNext",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "Chocolate Brown",
+                    "hex": "452F25"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Cobalt Blue Prime",
+                    "hex": "0353BA"
+                },
+                {
+                    "name": "Construction Yellow",
+                    "hex": "9C7320"
+                },
+                {
+                    "name": "Construction Yellow Prime",
+                    "hex": "9C7320"
+                },
+                {
+                    "name": "Desert Tan",
+                    "hex": "A79E82"
+                },
+                {
+                    "name": "Desert Tan Prime",
+                    "hex": "A79E82"
+                },
+                {
+                    "name": "Fog Gray",
+                    "hex": "C3CCD5"
+                },
+                {
+                    "name": "Galaxy Blue",
+                    "hex": "062B4D"
+                },
+                {
+                    "name": "Gamer Green (Chartreuse)",
+                    "hex": "DBFC00"
+                },
+                {
+                    "name": "Glacier Blue",
+                    "hex": "005DA4",
+                    "translucent": true
+                },
+                {
+                    "name": "Green Bay Green",
+                    "hex": "0B6A2F"
+                },
+                {
+                    "name": "Green Bay Yellow",
+                    "hex": "F3B400"
+                },
+                {
+                    "name": "Green Bay Yellow Prime",
+                    "hex": "F3B400"
+                },
+                {
+                    "name": "Gunmetal Gray",
+                    "hex": "6A6C6E"
+                },
+                {
+                    "name": "Iced Amethyst",
+                    "hex": "645B6E"
+                },
+                {
+                    "name": "Inferno Orange",
+                    "hex": "E03F26"
+                },
+                {
+                    "name": "Legion Gray",
+                    "hex": "697272"
+                },
+                {
+                    "name": "Lilac Purple",
+                    "hex": "5C50E0"
+                },
+                {
+                    "name": "Lilac Purple Prime",
+                    "hex": "AE96D4"
+                },
+                {
+                    "name": "Magenta Pink",
+                    "hex": "C80181"
+                },
+                {
+                    "name": "Maroon Red",
+                    "hex": "983B4E"
+                },
+                {
+                    "name": "Metallic Gunmetal Silver Prime",
+                    "hex": "5A696C"
+                },
+                {
+                    "name": "Metallic Silver",
+                    "hex": "818184"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Natural Prime",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Navy Blue",
+                    "hex": "253F56"
+                },
+                {
+                    "name": "Neon Green",
+                    "hex": "69EE00"
+                },
+                {
+                    "name": "Ocean Blue",
+                    "hex": "0099E6"
+                },
+                {
+                    "name": "Olive Drab Green",
+                    "hex": "857C00"
+                },
+                {
+                    "name": "Plum Purple",
+                    "hex": "492972"
+                },
+                {
+                    "name": "Pumpkin Orange",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Pumpkin Orange Prime",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Salsa Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Scarlet Red",
+                    "hex": "F00C00"
+                },
+                {
+                    "name": "Scarlet Red Prime",
+                    "hex": "E60000"
+                },
+                {
+                    "name": "Stone Gray",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "Stone Gray Prime",
+                    "hex": "949A9E"
+                },
+                {
+                    "name": "Taxicab Yellow",
+                    "hex": "FFC946"
+                },
+                {
+                    "name": "Taxicab Yellow Prime",
+                    "hex": "FFD342"
+                },
+                {
+                    "name": "Translucent Blood Red",
+                    "hex": "932721",
+                    "translucent": true
+                },
+                {
+                    "name": "Translucent Blood Red Prime",
+                    "hex": "641501",
+                    "translucent": true
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "White Prime",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Coexflex 30D {color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Coexflex 40D {color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Coexflex 60D {color_name}",
+            "material": "TPE",
+            "density": 1.2,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Coexflex 60A {color_name}",
+            "material": "TPU",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "DFDFD3"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Hytrel 3D4000FL {color_name}",
+            "material": "TPU-40D",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                210,
+                240
+            ],
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "BK513",
+                    "hex": "000000"
+                },
+                {
+                    "name": "NC010",
+                    "hex": "DFDFD3"
+                }
+            ]
+        }
+    ]
+}
