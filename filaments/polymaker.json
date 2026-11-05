@@ -1023,8 +1023,98 @@
           {
             "name": "Chameleon (Teal-Yellow)",
             "hexes": [
-              "5AABB1",
-              "F0BE02"
+              "61BCC3",
+              "F3C432"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Shadow Black (White-Black)",
+            "hexes": [
+              "F4EFEB",
+              "2F2E30"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Shadow Red (Black-Red)",
+            "hexes": [
+              "2F2E30",
+              "ED2F2E"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Shadow Orange (Orange-Black)",
+            "hexes": [
+              "F88B17",
+              "2F2E30"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Foggy Orange (Grey-Orange)",
+            "hexes": [
+              "8A8C94",
+              "F88B17"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Foggy Purple (Grey-Purple)",
+            "hexes": [
+              "8A8C94",
+              "9572BF"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Glacier Blue (Ice-Blue)",
+            "hexes": [
+              "A4D0DF",
+              "0163A6"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Flamingo (Pink-Red)",
+            "hexes": [
+              "EAADBD",
+              "ED2F2E"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Sunrise (Red-Yellow)",
+            "hexes": [
+              "ED2F2E",
+              "F3C432"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Camouflage (Dark Green-Brown)",
+            "hexes": [
+              "5F6244",
+              "795A4D"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Mixed Berries (Red-Dark Blue)",
+            "hexes": [
+              "BF312E",
+              "2E4462"
             ],
             "finish": "matte",
             "multi_color_direction": "coaxial"
