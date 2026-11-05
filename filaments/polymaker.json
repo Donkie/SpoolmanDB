@@ -1925,7 +1925,7 @@
         ]
       },
       {
-        "name": "Panchroma™ (Formerly PolyLite™) Luminous {color_name}",
+        "name": "Panchroma™ Luminous {color_name}",
         "material": "PLA",
         "density": 1.24,
         "weights": [
@@ -1969,7 +1969,7 @@
         ]
       },
       {
-        "name": "Panchroma™ Matte (Formerly PolyTerra™) {color_name}",
+        "name": "Panchroma™ Matte {color_name}",
         "material": "PLA",
         "density": 1.24,
         "weights": [
@@ -2196,7 +2196,7 @@
         ]
       },
       {
-        "name": "Panchroma™ Marble (Formerly PolyTerra™ Marble) {color_name}",
+        "name": "Panchroma™ Marble {color_name}",
         "material": "PLA",
         "pattern": "marble",
         "density": 1.24,
@@ -2242,7 +2242,7 @@
         ]
       },
       {
-        "name": "Panchroma™ (Formerly PolyLite™) Starlight {color_name}",
+        "name": "Panchroma™ Starlight {color_name}",
         "material": "PLA",
         "pattern": "sparkle",
         "density": 1.24,
@@ -2366,7 +2366,7 @@
         ]
       },
       {
-        "name": "Panchroma™ (Formerly PolyLite™) Silk {color_name}",
+        "name": "Panchroma™ Silk {color_name}",
         "material": "PLA",
         "density": 1.24,
         "weights": [
