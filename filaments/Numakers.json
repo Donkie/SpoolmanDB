@@ -162,6 +162,30 @@
                 {
                     "name": "Beige Brown",
                     "hex": "986E52"
+                },
+                {
+                    "name": "Chocolate Brown",
+                    "hex": "4C2B20"
+                },
+                {
+                    "name": "Simply Silver",
+                    "hex": "8B97A3"
+                },
+                {
+                    "name": "Light Gray",
+                    "hex": "8C969D"
+                },
+                {
+                    "name": "Dark Gray",
+                    "hex": "52595D"
+                },
+                {
+                    "name": "Midnight Gray",
+                    "hex": "383F44"
+                },
+                {
+                    "name": "Pitch Black",
+                    "hex": "0E0E10"
                 }
             ]
         }
