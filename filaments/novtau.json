@@ -7,7 +7,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -187,7 +187,7 @@
             "finish": "matte",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -291,7 +291,7 @@
             "finish": "glossy",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -379,7 +379,7 @@
             "translucent": true,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -466,7 +466,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -507,7 +507,7 @@
             "multi_color_direction": "coaxial",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -632,7 +632,7 @@
             "multi_color_direction": "longitudinal",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -694,7 +694,7 @@
             "pattern": "marble",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -726,7 +726,7 @@
             "fill": "wood",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -774,7 +774,7 @@
             "glow": true,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -802,7 +802,7 @@
             "fill": "carbon fiber",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -849,7 +849,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -888,7 +888,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -919,7 +919,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -952,7 +952,7 @@
             "multi_color_direction": "coaxial",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1006,7 +1006,7 @@
             "density": 1.27,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1190,7 +1190,7 @@
             "translucent": true,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1249,7 +1249,7 @@
             "density": 1.28,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1325,7 +1325,7 @@
             "fill": "carbon fiber",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1349,7 +1349,7 @@
             "multi_color_direction": "coaxial",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1411,7 +1411,7 @@
             "finish": "glossy",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1443,7 +1443,7 @@
             "pattern": "sparkle",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1475,7 +1475,7 @@
             "pattern": "marble",
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
@@ -1498,7 +1498,7 @@
             "density": 1.04,
             "weights": [
                 {
-                    "weight": 855,
+                    "weight": 1000,
                     "spool_weight": 145,
                     "spool_type": "plastic"
                 }
