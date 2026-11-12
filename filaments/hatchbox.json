@@ -51,6 +51,10 @@
                     "name": "Transparent Red",
                     "hex": "9A232D",
                     "translucent": true
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
                 }
 
             ]
