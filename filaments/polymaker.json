@@ -1396,7 +1396,7 @@
         ]
       },
       {
-        "name": "Polymaker {color_name}",
+        "name": "{color_name}",
         "material": "PC+ABS",
         "density": 1.1,
         "weights": [
@@ -1430,8 +1430,8 @@
         ]
       },
       {
-        "name": "Polymaker {color_name}",
-        "material": "PC-PBT",
+        "name": "{color_name}",
+        "material": "PC+PBT",
         "density": 1.2,
         "weights": [
           {
@@ -1516,7 +1516,7 @@
       },
       {
         "name": "PolyMax™ {color_name}",
-        "material": "PC-FR",
+        "material": "PC+FR",
         "density": 1.2,
         "weights": [
           {
