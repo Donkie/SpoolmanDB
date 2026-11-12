@@ -178,10 +178,6 @@
           "hex": "EAD8B2"
         },
         {
-          "name": "Silk Grey",
-          "hex": "BBC6CE"
-        },
-        {
           "name": "Silver",
           "hex": "AAA08C"
         },
@@ -458,15 +454,15 @@
           "hex": "FF0059"
         },
         {
-          "name": "Silk Grey",
+          "name": "Grey",
           "hex": "B6B3A8"
         },
         {
-          "name": "Silk White",
+          "name": "White",
           "hex": "FFFFFF"
         },
         {
-          "name": "Silk Yellow",
+          "name": "Yellow",
           "hex": "FFFC41"
         },
         {
