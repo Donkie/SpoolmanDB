@@ -430,7 +430,23 @@
                 {
                     "name": "Concrete",
                     "hex": "B0B0B0"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 180
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "colors": [
                 {
                     "name": "Marble",
                     "hex": "D6D6D6"
@@ -763,7 +779,24 @@
                 {
                     "name": "Maple",
                     "hex": "EAD2A0"
-                },
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PLA",
+            "density": 1.21,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 180
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "fill": "wood",
+            "colors": [
                 {
                     "name": "Wood",
                     "hex": "B1874F"
