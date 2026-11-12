@@ -29,7 +29,7 @@ def test_format_file():
             '            ]\n'
             '        }\n'
             '    ]\n'
-            '}'
+            '}\n'
         )
         assert path.read_bytes() == formatted.encode("utf-8")
         assert format_file(path, check=True)

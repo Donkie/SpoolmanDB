@@ -8,9 +8,8 @@ FILAMENTS_DIR = Path("filaments")
 
 
 def format_json(source: str) -> str:
-    """Return JSON with preserved key order, four-space indentation, and LF endings."""
     data = json.loads(source)
-    return json.dumps(data, ensure_ascii=False, indent=4)
+    return json.dumps(data, ensure_ascii=False, indent=4) + "\n"
 
 
 def format_file(path: Path, check: bool) -> bool:
