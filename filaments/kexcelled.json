@@ -34,8 +34,8 @@
             ]
         },
         {
-            "name": "The K8 64D {color_name}",
-            "material": "TPU",
+            "name": "The K8 {color_name}",
+            "material": "TPU-64D",
             "density": 1.24,
             "weights": [
                 {

@@ -2,7 +2,7 @@
   "manufacturer": "Soleyin",
   "filaments": [
     {
-      "name": "Ultra PLA {color_name}",
+      "name": "Ultra {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [

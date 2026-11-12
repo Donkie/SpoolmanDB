@@ -2,8 +2,8 @@
   "manufacturer": "CC3D",
   "filaments": [
     {
-      "name": "ABS+ {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS+",
       "density": 1.08,
       "weights": [
         {

@@ -2,7 +2,7 @@
     "manufacturer": "SMARTFIL",
     "filaments": [
         {
-            "name": "PLA-Basic {color_name}",
+            "name": "Basic {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
