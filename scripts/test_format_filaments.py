@@ -12,7 +12,7 @@ from format_filaments import format_file
 def test_format_file():
     with tempfile.TemporaryDirectory() as directory:
         path = Path(directory) / "filament.json"
-        original = '{"manufacturer":"Über Filaments","filaments":[{"diameters":[1.75]}]}'
+        original = '{"manufacturer":"\u00dcber Filaments","filaments":[{"diameters":[1.75]}]}'
         path.write_bytes(original.encode("utf-8"))
 
         assert not format_file(path, check=True)
