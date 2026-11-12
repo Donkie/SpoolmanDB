@@ -24,136 +24,168 @@
             ],
             "colors": [
                 {
-                    "name": "Pitch Black",
-                    "hex": "343338"
+                    "name": "Pure White",
+                    "hex": "F1ECE1"
                 },
                 {
-                    "name": "Pure White",
-                    "hex": "EFF1F0"
+                    "name": "Cool White",
+                    "hex": "EEF3F8"
+                },
+                {
+                    "name": "Bone White",
+                    "hex": "ACA79D"
+                },
+                {
+                    "name": "Ivory White",
+                    "hex": "E6D2B5"
+                },
+                {
+                    "name": "Transparent",
+                    "hex": "F5F5F5"
+                },
+                {
+                    "name": "Light Beige",
+                    "hex": "D7CAAB"
+                },
+                {
+                    "name": "Apricot",
+                    "hex": "E6BAA8"
                 },
                 {
                     "name": "Lemon Yellow",
-                    "hex": "E7AC29"
+                    "hex": "F9A800"
                 },
                 {
-                    "name": "Mauve Purple",
-                    "hex": "8B4B83"
+                    "name": "Fluorescent Yellow",
+                    "hex": "FFF600"
                 },
                 {
-                    "name": "Nuclear Red",
-                    "hex": "B22433"
+                    "name": "Bahama Yellow",
+                    "hex": "FFCC33"
+                },
+                {
+                    "name": "Fluorescent Orange",
+                    "hex": "FF4D08"
                 },
                 {
                     "name": "Outrageous Orange",
-                    "hex": "DB6937"
+                    "hex": "E25303"
+                },
+                {
+                    "name": "Terracotta Orange",
+                    "hex": "D67842"
+                },
+                {
+                    "name": "Rust Copper",
+                    "hex": "8D4931"
+                },
+                {
+                    "name": "Nuclear Red",
+                    "hex": "BB1E10"
+                },
+                {
+                    "name": "Imperial Red",
+                    "hex": "6E0B05"
+                },
+                {
+                    "name": "Cotton Candy Pink",
+                    "hex": "F2B3C0"
                 },
                 {
                     "name": "Atomic Pink",
-                    "hex": "EAA9B3"
+                    "hex": "D8A0A6"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "CC3366"
+                },
+                {
+                    "name": "Mauve Purple",
+                    "hex": "844C82"
+                },
+                {
+                    "name": "Lavender Violet",
+                    "hex": "76689A"
+                },
+                {
+                    "name": "Thanos Purple",
+                    "hex": "6843B4"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "041732"
                 },
                 {
                     "name": "Royal Blue",
-                    "hex": "1F3575"
-                },
-                {
-                    "name": "Light Grey",
-                    "hex": "96A2AA"
+                    "hex": "00387B"
                 },
                 {
                     "name": "Light Blue",
-                    "hex": "0081C0"
+                    "hex": "007CB0"
+                },
+                {
+                    "name": "Water Blue",
+                    "hex": "1A7585"
+                },
+                {
+                    "name": "Lagoon Blue",
+                    "hex": "048B8C"
+                },
+                {
+                    "name": "Teal Blue",
+                    "hex": "7EBAB5"
+                },
+                {
+                    "name": "Fluorescent Green",
+                    "hex": "00B51B"
+                },
+                {
+                    "name": "Ryobix Green",
+                    "hex": "CCDA46"
                 },
                 {
                     "name": "Grass Green",
-                    "hex": "6EA244"
+                    "hex": "61993B"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "008351"
+                },
+                {
+                    "name": "Army Green",
+                    "hex": "50533C"
+                },
+                {
+                    "name": "Military Khaki",
+                    "hex": "755F3E"
                 },
                 {
                     "name": "Beige Brown",
                     "hex": "986E52"
                 },
                 {
-                    "name": "Teal Blue",
-                    "hex": "86CCCC"
-                },
-                {
-                    "name": "Army Green",
-                    "hex": "585B4E"
-                },
-                {
-                    "name": "Dark Grey",
-                    "hex": "6C737A"
-                },
-                {
-                    "name": "Ivory White",
-                    "hex": "E4DBCC"
-                },
-                {
-                    "name": "Rust Copper",
-                    "hex": "AE6861"
-                },
-                {
-                    "name": "Apricot",
-                    "hex": "E5B7A4"
-                },
-                {
-                    "name": "Lagoon Blue",
-                    "hex": "4CB7A5"
-                },
-                {
-                    "name": "Forest Green",
-                    "hex": "014325"
-                },
-                {
-                    "name": "Flourescent Orange",
-                    "hex": "FF7800"
-                },
-                {
-                    "name": "Flourescent Green",
-                    "hex": "06ea54"
-                },
-                {
-                    "name": "Flourescent Yellow",
-                    "hex": "DAF412"
-                },
-                {
-                    "name": "Transparent",
-                    "hex": "f8f9f5"
-                },
-                {
-                    "name": "Lavendar Violet",
-                    "hex": "767BA5"
-                },
-                {
-                    "name": "Ryobix Green",
-                    "hex": "A7CD42"
-                },
-                {
                     "name": "Chocolate Brown",
-                    "hex": "614A3B"
-                },
-                {
-                    "name": "Fuscia/Magenta",
-                    "hex": "B6486B"
-                },
-                {
-                    "name": "Bahama Yellow",
-                    "hex": "F9E04B"
-                },
-                {
-                    "name": "Cool (Lithophane) White",
-                    "hex": "EAF0E7"
+                    "hex": "4C2B20"
                 },
                 {
                     "name": "Simply Silver",
-                    "hex": "BFBFB7"
+                    "hex": "8B97A3"
                 },
                 {
-                    "name": "Midnight Grey",
-                    "hex": "212121"
+                    "name": "Light Gray",
+                    "hex": "8C969D"
                 },
                 {
-                    "name": "Thanos Purple",
-                    "hex": "663399"
+                    "name": "Dark Gray",
+                    "hex": "52595D"
+                },
+                {
+                    "name": "Midnight Gray",
+                    "hex": "383F44"
+                },
+                {
+                    "name": "Pitch Black",
+                    "hex": "0E0E10"
                 }
             ]
         },
