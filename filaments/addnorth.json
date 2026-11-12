@@ -139,7 +139,7 @@
             ]
         },
         {
-            "name": "PC Blend HT LCF - {color_name}",
+            "name": "Blend HT LCF - {color_name}",
             "material": "PC",
             "density": 1.30,
             "weights": [
@@ -167,7 +167,7 @@
             ]
         },
         {
-            "name": "ESD PETG - {color_name}",
+            "name": "ESD - {color_name}",
             "material": "PETG",
             "density": 1.30,
             "weights": [
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "name": "PETG - {color_name}",
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
             "weights": [
@@ -255,7 +255,7 @@
             ]
         },
         {
-            "name": "PETG - {color_name}",
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
             "weights": [
@@ -282,7 +282,7 @@
             ]
         },
         {
-            "name": "PETG - {color_name}",
+            "name": "{color_name}",
             "material": "PETG",
             "density": 1.27,
             "weights": [
@@ -305,7 +305,7 @@
             ]
         },
         {
-            "name": "PETG Economy - {color_name}",
+            "name": "Economy - {color_name}",
             "material": "PETG",
             "density": 1.24,
             "weights": [
@@ -336,7 +336,7 @@
             ]
         },
         {
-            "name": "PETG Flame Retardant V0 - {color_name}",
+            "name": "Flame Retardant V0 - {color_name}",
             "material": "PETG",
             "density": 1.25,
             "weights": [
@@ -367,7 +367,7 @@
             ]
         },
         {
-            "name": "PETG PRO Matte - {color_name}",
+            "name": "PRO Matte - {color_name}",
             "material": "PETG",
             "density": 1.27,
             "finish": "matte",
@@ -532,7 +532,7 @@
             ]
         },
         {
-            "name": "E-PLA - {color_name}",
+            "name": "E - {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -654,7 +654,7 @@
             ]
         },
         {
-            "name": "E-PLA - {color_name}",
+            "name": "E - {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -685,7 +685,7 @@
             ]
         },
         {
-            "name": "HT-PLA Pro Matte - {color_name}",
+            "name": "HT Pro Matte - {color_name}",
             "material": "PLA",
             "density": 1.37,
             "weights": [
@@ -742,7 +742,7 @@
             ]
         },
         {
-            "name": "PLA Economy - {color_name}",
+            "name": "Economy - {color_name}",
             "material": "PLA",
             "density": 1.24,
             "weights": [
@@ -773,7 +773,7 @@
             ]
         },
         {
-            "name": "PLA Premium Silk - {color_name}",
+            "name": "Premium Silk - {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -813,7 +813,7 @@
             ]
         },
         {
-            "name": "PLA Wood - {color_name}",
+            "name": "Wood - {color_name}",
             "material": "PLA+WOOD",
             "density": 1.15,
             "weights": [
@@ -921,7 +921,7 @@
             ]
         },
         {
-            "name": "X-PLA - {color_name}",
+            "name": "X - {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -984,7 +984,7 @@
             ]
         },
         {
-            "name": "X-PLA - {color_name}",
+            "name": "X - {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -1015,7 +1015,7 @@
             ]
         },
         {
-            "name": "X-PLA - {color_name}",
+            "name": "X - {color_name}",
             "material": "PLA",
             "density": 1.26,
             "weights": [
@@ -1042,7 +1042,7 @@
             ]
         },
         {
-            "name": "X-PLA High Speed - {color_name}",
+            "name": "X High Speed - {color_name}",
             "material": "PLA",
             "density": 1.25,
             "weights": [
@@ -1092,7 +1092,7 @@
             ]
         },
         {
-            "name": "PLA CF - {color_name}",
+            "name": "{color_name}",
             "material": "PLA-CF",
             "density": 1.25,
             "weights": [
@@ -1175,7 +1175,7 @@
             ]
         },
         {
-            "name": "TPU Pro Matte 85A - {color_name}",
+            "name": "Pro Matte - {color_name}",
             "material": "TPU-85A",
             "density": 1.10,
             "weights": [
@@ -1203,7 +1203,7 @@
             ]
         },
         {
-            "name": "TPU Pro Matte 85A - {color_name}",
+            "name": "Pro Matte - {color_name}",
             "material": "TPU-85A",
             "density": 1.10,
             "weights": [
@@ -1231,7 +1231,7 @@
             ]
         },
         {
-            "name": "TPU Pro Matte 95A - {color_name}",
+            "name": "Pro Matte - {color_name}",
             "material": "TPU-95A",
             "density": 1.10,
             "weights": [
@@ -1255,7 +1255,7 @@
             ]
         },
         {
-            "name": "TPU Pro Matte 95A - {color_name}",
+            "name": "Pro Matte - {color_name}",
             "material": "TPU-95A",
             "density": 1.10,
             "weights": [
