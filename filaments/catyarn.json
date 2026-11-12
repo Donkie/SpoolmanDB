@@ -1,7 +1,7 @@
 {
     "manufacturer": "Printy Please",
     "filaments": [
-         {
+        {
             "name": "{color_name}",
             "material": "ABS",
             "density": 1.09,
@@ -42,11 +42,9 @@
                     "name": "Salem Black",
                     "hex": "4C473F"
                 },
-
                 {
                     "name": "Void Black",
                     "hex": "000000"
-
                 }
             ]
         }

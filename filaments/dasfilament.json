@@ -7,7 +7,7 @@
             "density": 1.24,
             "weights": [
                 {
-                    "weight":1000,
+                    "weight": 1000,
                     "spool_weight": 214
                 }
             ],
@@ -316,8 +316,7 @@
                 {
                     "name": "Beige",
                     "hex": "bda791"
-                }
-                ,
+                },
                 {
                     "name": "Militär-Grün",
                     "hex": "394807"
@@ -464,8 +463,7 @@
                 {
                     "name": "Beige",
                     "hex": "bda791"
-                }
-                ,
+                },
                 {
                     "name": "Militär-Grün",
                     "hex": "394807"

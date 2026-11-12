@@ -1,114 +1,114 @@
 {
-  "manufacturer": "Soleyin",
-  "filaments": [
-    {
-      "name": "Ultra PLA {color_name}",
-      "material": "PLA",
-      "density": 1.25,
-      "weights": [
+    "manufacturer": "Soleyin",
+    "filaments": [
         {
-          "weight": 1000,
-          "spool_weight": 290,
-          "spool_type": "plastic"
+            "name": "Ultra PLA {color_name}",
+            "material": "PLA",
+            "density": 1.25,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 290,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "bed_temp": 50,
+            "colors": [
+                {
+                    "name": "Almond Purple",
+                    "hex": "D9B8F1"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Gray",
+                    "hex": "9EA2A2"
+                },
+                {
+                    "name": "Greenery",
+                    "hex": "B2BA81"
+                },
+                {
+                    "name": "Light Green",
+                    "hex": "B8F1CC"
+                },
+                {
+                    "name": "Ocean Blue",
+                    "hex": "B8F1ED"
+                },
+                {
+                    "name": "Pineapple Yellow",
+                    "hex": "FFE543"
+                },
+                {
+                    "name": "Rosehip",
+                    "hex": "FD7D36"
+                },
+                {
+                    "name": "Strawberry Milk",
+                    "hex": "F16D7A"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Matte Black",
+                    "hex": "000000",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Fluorite",
+                    "hexes": [
+                        "69F793",
+                        "6DC1FD",
+                        "E290F9"
+                    ],
+                    "finish": "matte",
+                    "multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Matte Greenery",
+                    "hex": "6F907C",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Grey",
+                    "hex": "929292",
+                    "finish": "matte"
+                },
+                {
+                    "name": "Matte Moonstone",
+                    "hexes": [
+                        "DC8ADD",
+                        "99C1F1",
+                        "F9F06B"
+                    ],
+                    "finish": "matte",
+                    "multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Matte Rose Stone",
+                    "hexes": [
+                        "67B9F4",
+                        "F1A6F7",
+                        "B861FF"
+                    ],
+                    "finish": "matte",
+                    "multi_color_direction": "coaxial"
+                },
+                {
+                    "name": "Matte White",
+                    "hex": "FFFFFF",
+                    "finish": "matte"
+                }
+            ]
         }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 210,
-      "bed_temp": 50,
-      "colors": [
-        {
-          "name": "Almond Purple",
-          "hex": "D9B8F1"
-        },
-        {
-          "name": "Black",
-          "hex": "000000"
-        },
-        {
-          "name": "Gray",
-          "hex": "9EA2A2"
-        },
-        {
-          "name": "Greenery",
-          "hex": "B2BA81"
-        },
-        {
-          "name": "Light Green",
-          "hex": "B8F1CC"
-        },
-        {
-          "name": "Ocean Blue",
-          "hex": "B8F1ED"
-        },
-        {
-          "name": "Pineapple Yellow",
-          "hex": "FFE543"
-        },
-        {
-          "name": "Rosehip",
-          "hex": "FD7D36"
-        },
-        {
-          "name": "Strawberry Milk",
-          "hex": "F16D7A"
-        },
-        {
-          "name": "White",
-          "hex": "FFFFFF"
-        },
-        {
-          "name": "Matte Black",
-          "hex": "000000",
-          "finish": "matte"
-        },
-        {
-          "name": "Matte Fluorite",
-          "hexes": [
-            "69F793",
-            "6DC1FD",
-            "E290F9"
-          ],
-          "finish": "matte",
-          "multi_color_direction": "coaxial"
-        },
-        {
-          "name": "Matte Greenery",
-          "hex": "6F907C",
-          "finish": "matte"
-        },
-        {
-          "name": "Matte Grey",
-          "hex": "929292",
-          "finish": "matte"
-        },
-        {
-          "name": "Matte Moonstone",
-          "hexes": [
-            "DC8ADD",
-            "99C1F1",
-            "F9F06B"
-          ],
-          "finish": "matte",
-          "multi_color_direction": "coaxial"
-        },
-        {
-          "name": "Matte Rose Stone",
-          "hexes": [
-            "67B9F4",
-            "F1A6F7",
-            "B861FF"
-          ],
-          "finish": "matte",
-          "multi_color_direction": "coaxial"
-        },
-        {
-          "name": "Matte White",
-          "hex": "FFFFFF",
-          "finish": "matte"
-        }
-      ]
-    }
-  ]
+    ]
 }

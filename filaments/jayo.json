@@ -34,7 +34,7 @@
                     "name": "Yellow",
                     "hex": "E4AB00"
                 },
-				{
+                {
                     "name": "Pure Yellow",
                     "hex": "F2D00D"
                 },
@@ -230,4 +230,3 @@
         }
     ]
 }
-
