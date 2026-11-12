@@ -12,7 +12,9 @@
                     "spool_type": "cardboard"
                 }
             ],
-            "diameters": [1.75],
+            "diameters": [
+                1.75
+            ],
             "extruder_temp": 220,
             "bed_temp": 60,
             "colors": [
@@ -94,7 +96,9 @@
                     "spool_type": "cardboard"
                 }
             ],
-            "diameters": [1.75],
+            "diameters": [
+                1.75
+            ],
             "extruder_temp": 220,
             "bed_temp": 60,
             "colors": [
@@ -163,7 +167,9 @@
                     "spool_type": "plastic"
                 }
             ],
-            "diameters": [1.75],
+            "diameters": [
+                1.75
+            ],
             "extruder_temp_range": [
                 190,
                 230

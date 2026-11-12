@@ -21,71 +21,72 @@
                 {
                     "name": "White",
                     "hex": "FFFFFF"
-                },{
+                },
+                {
                     "name": "Black",
                     "hex": "000000"
                 },
-{
-"name": "Metallic Brown",
-"hex": "816300"
-},
-{
-"name": "Metallic Rose Gold",
-"hex": "976344"
-},
-{
-"name": "Metallic Silver",
-"hex": "949597"
-},
-{
-"name": "Metallic Space Grey",
-"hex": "5C5B59"
-},
-{
-"name": "Rapid Apple Green",
-"hex": "BBDB4B"
-},
-{
-"name": "Rapid Cold white",
-"hex": "EAECF5"
-},
-{
-"name": "Rapid Magenta",
-"hex": "E23288"
-},
-{
-"name": "Rapid Orange",
-"hex": "FA8423"
-},
-{
-"name": "Rapid Pure Green",
-"hex": "509F45"
-},
-{
-"name": "Rapid Red",
-"hex": "E72F1D"
-},
-{
-"name": "Rapid Regular Silver",
-"hex": "A8B0BD"
-},
-{
-"name": "Rapid Royal Blue",
-"hex": "2941BD"
-},
-{
-"name": "Rapid Sky Blue",
-"hex": "40B6E4"
-},
-{
-"name": "Rapid Transparent",
-"hex": "DFDFD3",
-"translucent": true
-},
-{
-"name": "Rapid Yellow",
-"hex": "F2DE00"
-}
+                {
+                    "name": "Metallic Brown",
+                    "hex": "816300"
+                },
+                {
+                    "name": "Metallic Rose Gold",
+                    "hex": "976344"
+                },
+                {
+                    "name": "Metallic Silver",
+                    "hex": "949597"
+                },
+                {
+                    "name": "Metallic Space Grey",
+                    "hex": "5C5B59"
+                },
+                {
+                    "name": "Rapid Apple Green",
+                    "hex": "BBDB4B"
+                },
+                {
+                    "name": "Rapid Cold white",
+                    "hex": "EAECF5"
+                },
+                {
+                    "name": "Rapid Magenta",
+                    "hex": "E23288"
+                },
+                {
+                    "name": "Rapid Orange",
+                    "hex": "FA8423"
+                },
+                {
+                    "name": "Rapid Pure Green",
+                    "hex": "509F45"
+                },
+                {
+                    "name": "Rapid Red",
+                    "hex": "E72F1D"
+                },
+                {
+                    "name": "Rapid Regular Silver",
+                    "hex": "A8B0BD"
+                },
+                {
+                    "name": "Rapid Royal Blue",
+                    "hex": "2941BD"
+                },
+                {
+                    "name": "Rapid Sky Blue",
+                    "hex": "40B6E4"
+                },
+                {
+                    "name": "Rapid Transparent",
+                    "hex": "DFDFD3",
+                    "translucent": true
+                },
+                {
+                    "name": "Rapid Yellow",
+                    "hex": "F2DE00"
+                }
             ]
         },
         {
