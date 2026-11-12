@@ -232,6 +232,14 @@
         {
           "name": "Marble",
           "hex": "B1B6B6"
+        },
+        {
+          "name": "Marble Brick Red",
+          "hex": "6E1C20"
+        },
+        {
+          "name": "Marble Cement Grey",
+          "hex": "696969"
         }
       ]
     },
