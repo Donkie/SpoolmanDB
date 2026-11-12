@@ -45,7 +45,7 @@
             ]
         },
         {
-            "name": "Rock PLA {color_name}",
+            "name": "Rock {color_name}",
             "material": "PLA",
             "density": 1.30,
             "finish": "matte",
@@ -62,15 +62,15 @@
             "extruder_temp": 210,
             "bed_temp": 60,
             "colors": [
-                {"name": "Rock White","hex": "FFFFFF","pattern": "marble"},
+                {"name": "White","hex": "FFFFFF","pattern": "marble"},
                 {"name": "Fossil Rock","hex": "C2C0BA","pattern": "marble"},
                 {"name": "Sedimentary Rock","hex": "C4B199"},
                 {"name": "Mars Red","hex": "D76D3B"},
                 {"name": "Glacier Blue","multi_color_direction": "longitudinal","hexes": ["A3EAFF", "FFFFFF"]},
-                {"name": "Rock Rainbow","multi_color_direction": "longitudinal","hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]}
+                {"name": "Rainbow","multi_color_direction": "longitudinal","hexes": ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "8B00FF"]}
             ]},
         {
-            "name": "Silk PLA {color_name}",
+            "name": "Silk {color_name}",
             "material": "PLA",
             "density": 1.19,
             "weights": [
@@ -94,14 +94,14 @@
                 {"name": "Green","hex": "018E63"},
                 {"name": "Blue","hex": "0353BA"},
                 {"name": "Red","hex": "DA445A"},
-                {"name": "Silk Purple","hex": "7769BC"},
+                {"name": "Purple","hex": "7769BC"},
                 {"name": "Silver","hex": "818FA0"},
                 {"name": "Fresh Red","hex": "CC0201"},
                 {"name": "Christmas Red","hex": "CE5D4C"}
             ]    
         },
         {
-            "name": "Matte PLA {color_name}",
+            "name": "Matte {color_name}",
             "material": "PLA",
             "density": 1.30,
             "finish": "matte",
@@ -209,8 +209,8 @@
             ]          
         },
         {
-            "name": "High Speed 95A {color_name}",
-            "material": "TPU",
+            "name": "High Speed {color_name}",
+            "material": "TPU-95A",
             "density": 1.19,
             "finish": "glossy",
             "weights": [
