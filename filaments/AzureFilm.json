@@ -982,30 +982,30 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "Prime WHITE",
+                    "name": "WHITE",
                     "hex": "E5E5E5"
                 },
                 {
-                    "name": "Prime RED",
+                    "name": "RED",
                     "hex": "DC4C43"
                 },
                 {
-                    "name": "Prime DARK BLUE",
+                    "name": "DARK BLUE",
                     "hex": "4871AF"
                 },
                 {
-                    "name": "Prime SILVER",
+                    "name": "SILVER",
                     "hex": "9B999A"
                 },
                 {
-                    "name": "Prime BLACK",
+                    "name": "BLACK",
                     "hex": "323232"
                 }
             ]
         },
         {
-            "name": "85A {color_name}",
-            "material": "TPU",
+            "name": "{color_name}",
+            "material": "TPU-85A",
             "density": 1.12,
             "weights": [
                 {
@@ -1020,43 +1020,43 @@
             "bed_temp": 60,
             "colors": [
                 {
-                    "name": "85A TRANSPARENT",
+                    "name": "TRANSPARENT",
                     "hex": "EBEEEF",
                     "translucent": true
                 },
                 {
-                    "name": "85A WHITE",
+                    "name": "WHITE",
                     "hex": "EDF6F2"
                 },
                 {
-                    "name": "85A NEON YELLOW",
+                    "name": "NEON YELLOW",
                     "hex": "D1DD5E"
                 },
                 {
-                    "name": "85A NEON ORANGE",
+                    "name": "NEON ORANGE",
                     "hex": "EAA150"
                 },
                 {
-                    "name": "85A RED",
+                    "name": "RED",
                     "hex": "BC3635"
                 },
                 {
-                    "name": "85A NEON GREEN",
+                    "name": "NEON GREEN",
                     "hex": "7CBA56"
                 },
                 {
-                    "name": "85A BLUE",
+                    "name": "BLUE",
                     "hex": "4059A6"
                 },
                 {
-                    "name": "85A BLACK",
+                    "name": "BLACK",
                     "hex": "101313"
                 }
             ]
         },
         {
-            "name": "98A {color_name}",
-            "material": "TPU",
+            "name": "{color_name}",
+            "material": "TPU-98A",
             "density": 1.16,
             "weights": [
                 {
@@ -1071,43 +1071,43 @@
             "bed_temp": 60,
             "colors": [
                 {
-                    "name": "98A TRANSPARENT",
+                    "name": "TRANSPARENT",
                     "hex": "EBEEEF",
                     "translucent": true
                 },
                 {
-                    "name": "98A WHITE",
+                    "name": "WHITE",
                     "hex": "EDF6F2"
                 },
                 {
-                    "name": "98A NEON YELLOW",
+                    "name": "NEON YELLOW",
                     "hex": "D1DD5E"
                 },
                 {
-                    "name": "98A NEON ORANGE",
+                    "name": "NEON ORANGE",
                     "hex": "EAA150"
                 },
                 {
-                    "name": "98A RED",
+                    "name": "RED",
                     "hex": "BC3635"
                 },
                 {
-                    "name": "98A NEON GREEN",
+                    "name": "NEON GREEN",
                     "hex": "7CBA56"
                 },
                 {
-                    "name": "98A BLUE",
+                    "name": "BLUE",
                     "hex": "4059A6"
                 },
                 {
-                    "name": "98A BLACK",
+                    "name": "BLACK",
                     "hex": "101313"
                 }
             ]
         },
         {
-            "name": "Carbon Fiber {color_name}",
-            "material": "CF",
+            "name": "{color_name}",
+            "material": "PETG-CF",
             "density": 1.4,
             "weights": [
                 {
@@ -1122,14 +1122,14 @@
             "bed_temp": 85,
             "colors": [
                 {
-                    "name": "PET",
+                    "name": "Onyx Black",
                     "hex": "2F2F2D"
                 }
             ]
         },
         {
-            "name": "Carbon Fiber {color_name}",
-            "material": "CF",
+            "name": "{color_name}",
+            "material": "PA-CF",
             "density": 1.24,
             "weights": [
                 {
@@ -1144,14 +1144,14 @@
             "bed_temp": 110,
             "colors": [
                 {
-                    "name": "PAHT",
+                    "name": "Onyx Black",
                     "hex": "1D1D1C"
                 }
             ]
         },
         {
-            "name": "PC ABS {color_name}",
-            "material": "PC",
+            "name": "{color_name}",
+            "material": "PC+ABS",
             "density": 1.04,
             "weights": [
                 {
