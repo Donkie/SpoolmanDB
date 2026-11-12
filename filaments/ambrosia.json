@@ -527,7 +527,7 @@
         {
             "name": "{color_name}",
             "material": "ASA-GF",
-            "density": 1.10,
+            "density": 1.1,
             "weights": [
                 {
                     "weight": 1000,

@@ -2,7 +2,7 @@
     "manufacturer": "Polymaker",
     "filaments": [
         {
-            "name": "Fiberon\u2122 PA12-CF10 {color_name}",
+            "name": "Fiberon™ PA12-CF10 {color_name}",
             "material": "PA",
             "density": 1.06,
             "weights": [
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "name": "Fiberon\u2122 PA6-CF20 {color_name}",
+            "name": "Fiberon™ PA6-CF20 {color_name}",
             "material": "PA",
             "density": 1.17,
             "weights": [
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "Fiberon\u2122 PA6-GF25 {color_name}",
+            "name": "Fiberon™ PA6-GF25 {color_name}",
             "material": "PA",
             "density": 1.2,
             "weights": [
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "name": "PolyCast\u2122 {color_name}",
+            "name": "PolyCast™ {color_name}",
             "material": "PVB",
             "density": 1.1,
             "weights": [
@@ -134,7 +134,7 @@
             ]
         },
         {
-            "name": "PolyDissolve\u2122\u00a0S1 (PVA) {color_name}",
+            "name": "PolyDissolve™ S1 (PVA) {color_name}",
             "material": "PVA",
             "density": 1.13,
             "weights": [
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "name": "PolyFlex\u2122\u00a0TPU90 {color_name}",
+            "name": "PolyFlex™ TPU90 {color_name}",
             "material": "TPU",
             "density": 1.12,
             "weights": [
@@ -210,7 +210,7 @@
             ]
         },
         {
-            "name": "PolyFlex\u2122\u00a0TPU95 {color_name}",
+            "name": "PolyFlex™ TPU95 {color_name}",
             "material": "TPU",
             "density": 1.22,
             "weights": [
@@ -260,7 +260,7 @@
             ]
         },
         {
-            "name": "PolyFlex\u2122\u00a0TPU95-HF {color_name}",
+            "name": "PolyFlex™ TPU95-HF {color_name}",
             "material": "TPU",
             "density": 1.16,
             "weights": [
@@ -298,7 +298,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122\u00a0ABS {color_name}",
+            "name": "PolyLite™ ABS {color_name}",
             "material": "ABS",
             "density": 1.12,
             "weights": [
@@ -446,7 +446,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122 ASA {color_name}",
+            "name": "PolyLite™ ASA {color_name}",
             "material": "ASA",
             "density": 1.13,
             "weights": [
@@ -634,7 +634,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122\u00a0LW-PLA {color_name}",
+            "name": "PolyLite™ LW-PLA {color_name}",
             "material": "PLA",
             "density": 0.8,
             "weights": [
@@ -691,7 +691,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122 PC {color_name}",
+            "name": "PolyLite™ PC {color_name}",
             "material": "PC",
             "density": 1.19,
             "weights": [
@@ -726,7 +726,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122 PETG {color_name}",
+            "name": "PolyLite™ PETG {color_name}",
             "material": "PETG",
             "density": 1.25,
             "weights": [
@@ -846,7 +846,7 @@
             ]
         },
         {
-            "name": "Panchroma\u2122 Regular {color_name}",
+            "name": "Panchroma™ Regular {color_name}",
             "material": "PLA",
             "density": 1.19,
             "weights": [
@@ -997,7 +997,7 @@
             ]
         },
         {
-            "name": "Panchroma\u2122 Dual {color_name}",
+            "name": "Panchroma™ Dual {color_name}",
             "material": "PLA",
             "density": 1.37,
             "weights": [
@@ -1121,7 +1121,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122 PLA Pro {color_name}",
+            "name": "PolyLite™ PLA Pro {color_name}",
             "material": "PLA",
             "density": 1.22,
             "weights": [
@@ -1249,7 +1249,7 @@
             ]
         },
         {
-            "name": "PolyLite\u2122 PLA {color_name}",
+            "name": "PolyLite™ PLA {color_name}",
             "material": "PLA",
             "density": 1.17,
             "weights": [
@@ -1462,7 +1462,7 @@
             ]
         },
         {
-            "name": "PolyMax\u2122 PC {color_name}",
+            "name": "PolyMax™ PC {color_name}",
             "material": "PC",
             "density": 1.19,
             "weights": [
@@ -1513,7 +1513,7 @@
             ]
         },
         {
-            "name": "PolyMax\u2122\u00a0PC-FR {color_name}",
+            "name": "PolyMax™ PC-FR {color_name}",
             "material": "PC",
             "density": 1.2,
             "weights": [
@@ -1546,7 +1546,7 @@
             ]
         },
         {
-            "name": "PolyMax\u2122\u00a0PETG {color_name}",
+            "name": "PolyMax™ PETG {color_name}",
             "material": "PETG",
             "density": 1.24,
             "weights": [
@@ -1580,7 +1580,7 @@
             ]
         },
         {
-            "name": "PolyMax\u2122 PLA {color_name}",
+            "name": "PolyMax™ PLA {color_name}",
             "material": "PLA",
             "density": 1.21,
             "weights": [
@@ -1659,7 +1659,7 @@
             ]
         },
         {
-            "name": "PolyMide\u2122\u00a0CoPA {color_name}",
+            "name": "PolyMide™ CoPA {color_name}",
             "material": "PA",
             "density": 1.12,
             "weights": [
@@ -1689,7 +1689,7 @@
             ]
         },
         {
-            "name": "PolySmooth\u2122 {color_name}",
+            "name": "PolySmooth™ {color_name}",
             "material": "PVB",
             "density": 1.1,
             "weights": [
@@ -1763,7 +1763,7 @@
             ]
         },
         {
-            "name": "PolySonic\u2122 PLA {color_name}",
+            "name": "PolySonic™ PLA {color_name}",
             "material": "PLA",
             "density": 1.23,
             "weights": [
@@ -1828,7 +1828,7 @@
             ]
         },
         {
-            "name": "PolySonic\u2122 PLA Pro {color_name}",
+            "name": "PolySonic™ PLA Pro {color_name}",
             "material": "PLA",
             "density": 1.23,
             "weights": [
@@ -1893,7 +1893,7 @@
             ]
         },
         {
-            "name": "PolyWood\u2122 {color_name}",
+            "name": "PolyWood™ {color_name}",
             "material": "PLA",
             "density": 0.8,
             "weights": [
