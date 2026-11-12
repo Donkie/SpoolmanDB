@@ -78,7 +78,7 @@
 			]
 		},
 		{
-			"name": "PETG-Tough {color_name}",
+			"name": "Tough {color_name}",
 			"material": "PETG",
 			"density": 1.24,
 			"weights": [
@@ -1293,8 +1293,8 @@
 		 ]
 		},
 		{
-		 "name": "95A HF {color_name}",
-		 "material": "TPU",
+		 "name": "HF {color_name}",
+		 "material": "TPU-95A",
 		 "density": 1.21,
 		 "weights": [
 		  {

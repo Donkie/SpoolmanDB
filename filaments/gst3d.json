@@ -214,8 +214,8 @@
       ]
     },
     {
-      "name": "{color_name} 93A",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-93A",
       "density": 1.21,
       "weights": [
         {

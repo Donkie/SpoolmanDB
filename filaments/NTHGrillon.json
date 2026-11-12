@@ -2,7 +2,7 @@
     "manufacturer": "NTH Grillon",
     "filaments": [
         {
-            "name": "grillon3 PLA | {color_name}",
+            "name": "grillon3 {color_name}",
             "material": "PLA",
             "density": 1.25,
             "weights": [
