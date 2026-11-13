@@ -1667,6 +1667,64 @@
             ]
         },
         {
+            "name": "{color_name}",
+            "material": "TPU-75A",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 30,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "7CCC6C"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "617354"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E4002B"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FABBCB"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "AD96DC"
+                },
+                {
+                    "name": "Dark Ivory",
+                    "hex": "F1E6B2"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "FBDB65"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "00A3E1"
+                },
+                {
+                    "name": "Mandarin Orange",
+                    "hex": "FFA06A"
+                }
+            ]
+        },
+        {
             "name": "For AMS {color_name}",
             "material": "TPU",
             "density": 1.26,
