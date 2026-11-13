@@ -140,6 +140,44 @@
             ]
         },
         {
+            "name": "Palette {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Cyan",
+                    "hex": "0090DA"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "E24585"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FCE300"
+                },
+                {
+                    "name": "Key",
+                    "hex": "000000"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                }
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "PLA+WOOD",
             "density": 1.21,
@@ -1625,6 +1663,64 @@
                 {
                     "name": "Black",
                     "hex": "101820"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "TPU-75A",
+            "density": 1.17,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 250
+                }
+            ],
+            "diameters": [
+                2.85
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 30,
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "7CCC6C"
+                },
+                {
+                    "name": "Dark Green",
+                    "hex": "617354"
+                },
+                {
+                    "name": "Red",
+                    "hex": "E4002B"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FABBCB"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "AD96DC"
+                },
+                {
+                    "name": "Dark Ivory",
+                    "hex": "F1E6B2"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "FBDB65"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "00A3E1"
+                },
+                {
+                    "name": "Mandarin Orange",
+                    "hex": "FFA06A"
                 }
             ]
         },
