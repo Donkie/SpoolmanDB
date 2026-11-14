@@ -2601,11 +2601,11 @@
             "bed_temp": 90,
             "colors": [
                 {
-                    "name": "ABS Black",
+                    "name": "Black",
                     "hex": "313130"
                 },
                 {
-                    "name": "ABS White",
+                    "name": "White",
                     "hex": "E3E1D5"
                 },
                 {
@@ -2613,15 +2613,15 @@
                     "hex": "067940"
                 },
                 {
-                    "name": "ABS Tangerine Yellow",
+                    "name": "Tangerine Yellow",
                     "hex": "E8B20B"
                 },
                 {
-                    "name": "ABS Red",
+                    "name": "Red",
                     "hex": "D91527"
                 },
                 {
-                    "name": "ABS Blue",
+                    "name": "Blue",
                     "hex": "1B3595"
                 },
                 {
