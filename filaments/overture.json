@@ -45,6 +45,153 @@
             ]
         },
         {
+            "name": "Easy {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 155,
+                    "spool_type": "cardboard"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp": 60,
+            "bed_temp_range": [
+                25,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Caramel",
+                    "hex": "A88D5D"
+                },
+                {
+                    "name": "Space Gray",
+                    "hex": "B2B8B8"
+                },
+                {
+                    "name": "Rock White",
+                    "hex": "EDF0F2"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "CCCCCC"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF2C29"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FF5F2E"
+                },
+                {
+                    "name": "Green",
+                    "hex": "4DFF64"
+                },
+                {
+                    "name": "Digital Blue",
+                    "hex": "0696EF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "FCFF66"
+                },
+                {
+                    "name": "Yolk Yellow",
+                    "hex": "FFE357"
+                },
+                {
+                    "name": "Pumpkin Orange",
+                    "hex": "FF8D5C"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "FD3DB5"
+                },
+                {
+                    "name": "Pink",
+                    "hex": "FFC0CB"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "F7F6ED"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "7B49A2"
+                },
+                {
+                    "name": "Pine Green",
+                    "hex": "00A5A8"
+                },
+                {
+                    "name": "Cobalt Blue",
+                    "hex": "274DA0"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "3BC9ED"
+                },
+                {
+                    "name": "Shimmer Bronze",
+                    "hex": "81BA6D",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Shimmer Purple",
+                    "hex": "906482",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Shimmer Dark Green",
+                    "hex": "008059",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Shimmer Silver Green",
+                    "hex": "9ECB86",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Glow Orange",
+                    "hex": "FF9C66",
+                    "glow": true
+                },
+                {
+                    "name": "Glow Blue",
+                    "hex": "5EB7D4",
+                    "glow": true
+                },
+                {
+                    "name": "Glow Yellow",
+                    "hex": "EBFF6B",
+                    "glow": true
+                },
+                {
+                    "name": "Glow Red",
+                    "hex": "FF7D7A",
+                    "glow": true
+                }
+            ]
+        },
+        {
             "name": "Rock PLA {color_name}",
             "material": "PLA",
             "density": 1.30,
