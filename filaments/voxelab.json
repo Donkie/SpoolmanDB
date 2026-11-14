@@ -46,6 +46,14 @@
             "diameters": [
                 1.75
             ],
+            "extruder_temp_range": [
+                190,
+                240
+            ],
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -126,6 +134,14 @@
             ],
             "diameters": [
                 1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                240
+            ],
+            "bed_temp_range": [
+                25,
+                60
             ],
             "colors": [
                 {
