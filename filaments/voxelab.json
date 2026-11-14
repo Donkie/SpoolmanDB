@@ -1,0 +1,323 @@
+{
+    "manufacturer": "VOXELAB",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "PLA+",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                220
+            ],
+            "bed_temp_range": [
+                25,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "61187C"
+                }
+            ]
+        },
+        {
+            "name": "HS {color_name}",
+            "material": "PLA+",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                240
+            ],
+            "bed_temp_range": [
+                25,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "3D4FC8"
+                },
+                {
+                    "name": "Ice Blue",
+                    "hex": "89CFF0"
+                },
+                {
+                    "name": "Iron Grey",
+                    "hex": "646D70"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "CF569E"
+                },
+                {
+                    "name": "Pure Green",
+                    "hex": "2F9E51"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "8B5EA9"
+                },
+                {
+                    "name": "Ruby Red",
+                    "hex": "8F181E"
+                },
+                {
+                    "name": "White",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "F5D925"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "60C8E2"
+                },
+                {
+                    "name": "Light Brown",
+                    "hex": "E1AA85"
+                },
+                {
+                    "name": "Light Pink",
+                    "hex": "DCACB8"
+                },
+                {
+                    "name": "Natural",
+                    "hex": "EEEEEE",
+                    "finish": "glossy"
+                },
+                {
+                    "name": "Olive Green",
+                    "hex": "878647"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "D8592F"
+                }
+            ]
+        },
+        {
+            "name": "HS {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                240
+            ],
+            "bed_temp_range": [
+                25,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Ruby Red",
+                    "hex": "831100"
+                },
+                {
+                    "name": "Aurora Blue",
+                    "hex": "1065CD"
+                },
+                {
+                    "name": "Aurora Purple",
+                    "hex": "55238A"
+                },
+                {
+                    "name": "Aurora Red",
+                    "hex": "A71A1D"
+                },
+                {
+                    "name": "Deep Sea Realm",
+                    "hexes": [
+                        "612571",
+                        "FEB9ED"
+                    ],
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Luminous Blue",
+                    "hex": "5FAAC9",
+                    "glow": true
+                },
+                {
+                    "name": "Luminous Green",
+                    "hex": "93D87C",
+                    "glow": true
+                },
+                {
+                    "name": "Mint Slush",
+                    "hexes": [
+                        "09A697",
+                        "7FE2E4"
+                    ],
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Pink Dolphin",
+                    "hexes": [
+                        "E3BBCD",
+                        "A386C9"
+                    ],
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Abyssal Red",
+                    "hex": "4D172F"
+                },
+                {
+                    "name": "Aurora Green",
+                    "hex": "207C5F"
+                },
+                {
+                    "name": "Luminous Melody",
+                    "hexes": [
+                        "FEA8AA",
+                        "FDD176",
+                        "A1D7C8",
+                        "C1E8A7"
+                    ],
+                    "glow": true,
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Luminous Purple",
+                    "hex": "A984BE",
+                    "glow": true
+                },
+                {
+                    "name": "Luminous Yellow",
+                    "hex": "DDCE61",
+                    "glow": true
+                },
+                {
+                    "name": "Oz Wizard Green",
+                    "hexes": [
+                        "A0E3DA",
+                        "FBD351"
+                    ],
+                    "multi_color_direction": "longitudinal"
+                },
+                {
+                    "name": "Summer Night Fireflies",
+                    "hexes": [
+                        "DBD422",
+                        "518E55"
+                    ],
+                    "multi_color_direction": "longitudinal"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG-CF",
+            "density": 1.27,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                200,
+                240
+            ],
+            "bed_temp_range": [
+                60,
+                80
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Midnight Blue",
+                    "hex": "000E1C"
+                },
+                {
+                    "name": "Marsala",
+                    "hex": "4E3B3D"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Grass Green",
+                    "hex": "698D7A"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ASA-CF",
+            "density": 1.05,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                285,
+                290
+            ],
+            "bed_temp_range": [
+                100,
+                120
+            ],
+            "fill": "carbon fiber",
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "000000"
+                },
+                {
+                    "name": "Marsala",
+                    "hex": "4E3B3D"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "hex": "032C49"
+                }
+            ]
+        }
+    ]
+}
