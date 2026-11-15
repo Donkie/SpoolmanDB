@@ -1,7 +1,6 @@
 {
     "manufacturer": "LDO",
-    "filaments": 
-	[
+    "filaments": [
         {
             "name": "{color_name}",
             "material": "ABS",
@@ -14,11 +13,11 @@
             "diameters": [
                 1.75
             ],
-			"extruder_temp": 260,
-			"bed_temp_range": [
-				90,
-				110
-			],
+            "extruder_temp": 260,
+            "bed_temp_range": [
+                90,
+                110
+            ],
             "colors": [
                 {
                     "name": "Dark Teal",
@@ -60,9 +59,9 @@
                     "name": "Smoke Gray",
                     "hex": "75787B"
                 }
-			]
-		},
-	{
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "ASA",
             "density": 1.08,
@@ -74,12 +73,12 @@
             "diameters": [
                 1.75
             ],
-			"extruder_temp": 260,
-			"bed_temp_range": [
-				90,
-				110
-			],
-				"colors": [
+            "extruder_temp": 260,
+            "bed_temp_range": [
+                90,
+                110
+            ],
+            "colors": [
                 {
                     "name": "Orange",
                     "hex": "f93822"
@@ -88,12 +87,12 @@
                     "name": "Olive Green",
                     "hex": "4b5e23"
                 }
-			]
-		},
-		{
+            ]
+        },
+        {
             "name": "{color_name}",
             "material": "ASA-CF",
-            "density": 1.10,
+            "density": 1.1,
             "weights": [
                 {
                     "weight": 1000
@@ -102,20 +101,20 @@
             "diameters": [
                 1.75
             ],
-			"extruder_temp_range": [
-				230,
-				260
-			],
-			"bed_temp_range": [
-				80,
-				100
-			],
-				"colors": [
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                80,
+                100
+            ],
+            "colors": [
                 {
                     "name": "Black",
                     "hex": "2D2926"
                 }
             ]
-		}
-	]
+        }
+    ]
 }

@@ -1,364 +1,364 @@
 {
-  "manufacturer": "Filament Unger",
-  "filaments": [
-    {
-      "name": "{color_name}",
-      "material": "PLA+",
-      "density": 1.28,
-      "weights": [
+    "manufacturer": "Filament Unger",
+    "filaments": [
         {
-          "weight": 1000
+            "name": "{color_name}",
+            "material": "PLA+",
+            "density": 1.28,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "colors": [
+                {
+                    "name": "Anthrazitsilber",
+                    "hex": "393B3E"
+                },
+                {
+                    "name": "Braun",
+                    "hex": "311611"
+                },
+                {
+                    "name": "Elfenbein",
+                    "hex": "E6D3B5"
+                },
+                {
+                    "name": "Flip Flop Grün Gold",
+                    "hex": "13324B"
+                },
+                {
+                    "name": "Flittergrün",
+                    "hex": "00694B"
+                },
+                {
+                    "name": "Flitterlila",
+                    "hex": "3B3A8F"
+                },
+                {
+                    "name": "Glimmer Blau",
+                    "hex": "6097FF"
+                },
+                {
+                    "name": "Glimmer Pink",
+                    "hex": "FF046A"
+                },
+                {
+                    "name": "Glimmer Rot",
+                    "hex": "E95445"
+                },
+                {
+                    "name": "Glow in the Dark Grün",
+                    "hex": "D6DEC5"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "BB9936"
+                },
+                {
+                    "name": "Gelb",
+                    "hex": "F7B500"
+                },
+                {
+                    "name": "Grün",
+                    "hex": "00694C"
+                },
+                {
+                    "name": "Haselnussbraun",
+                    "hex": "AC8C6C"
+                },
+                {
+                    "name": "Himmelblau",
+                    "hex": "4097DB"
+                },
+                {
+                    "name": "Kupfer",
+                    "hex": "593F1C"
+                },
+                {
+                    "name": "Leuchtgelb",
+                    "hex": "FFF600"
+                },
+                {
+                    "name": "Leuchtgrün",
+                    "hex": "00AB32"
+                },
+                {
+                    "name": "Leuchthellrot",
+                    "hex": "FF2A1B"
+                },
+                {
+                    "name": "Leuchtorange",
+                    "hex": "FF4324"
+                },
+                {
+                    "name": "Limette",
+                    "hex": "A4FF00"
+                },
+                {
+                    "name": "Lila",
+                    "hex": "76689A"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "BB3F76"
+                },
+                {
+                    "name": "Marmor",
+                    "hex": "BAC1C6"
+                },
+                {
+                    "name": "Metallic Aubergine",
+                    "hex": "6B2D5D"
+                },
+                {
+                    "name": "Mintgrün",
+                    "hex": "35BDB2"
+                },
+                {
+                    "name": "Oliv",
+                    "hex": "50533C"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "F67829"
+                },
+                {
+                    "name": "Orientrot",
+                    "hex": "A53035"
+                },
+                {
+                    "name": "Pastellblau",
+                    "hex": "98BCEA"
+                },
+                {
+                    "name": "Pastellpink",
+                    "hex": "DCBDC1"
+                },
+                {
+                    "name": "Perlblau",
+                    "hex": "005B8A"
+                },
+                {
+                    "name": "Perlrot",
+                    "hex": "9B2220"
+                },
+                {
+                    "name": "Perlweiß",
+                    "hex": "E3D9C5"
+                },
+                {
+                    "name": "Rapunzelsilber",
+                    "hex": "999B9B"
+                },
+                {
+                    "name": "Signalgrau",
+                    "hex": "9A9A9B"
+                },
+                {
+                    "name": "Signalweiß",
+                    "hex": "ECECE8"
+                },
+                {
+                    "name": "Ultramarinblau",
+                    "hex": "314E82"
+                },
+                {
+                    "name": "Vanille",
+                    "hex": "FFF59B"
+                },
+                {
+                    "name": "Verkehrsrot",
+                    "hex": "B81B0E"
+                },
+                {
+                    "name": "Verkehrsschwarz",
+                    "hex": "222020"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "PETG",
+            "density": 1.29,
+            "weights": [
+                {
+                    "weight": 1000
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 230,
+            "bed_temp": 80,
+            "colors": [
+                {
+                    "name": "Anthrazitsilber",
+                    "hex": "393B3E"
+                },
+                {
+                    "name": "Bronze",
+                    "hex": "AF8B5D"
+                },
+                {
+                    "name": "Edelstahl",
+                    "hex": "7D7E7C"
+                },
+                {
+                    "name": "Elfenbein",
+                    "hex": "E6D3B5"
+                },
+                {
+                    "name": "Himmelblau",
+                    "hex": "4097DB"
+                },
+                {
+                    "name": "Leuchtblau",
+                    "hex": "0095FF"
+                },
+                {
+                    "name": "Leuchtgelb",
+                    "hex": "FFF600"
+                },
+                {
+                    "name": "Leuchtgrün",
+                    "hex": "00AB32"
+                },
+                {
+                    "name": "Leuchthellrot",
+                    "hex": "FF3730"
+                },
+                {
+                    "name": "Limette",
+                    "hex": "A4FF00"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "BB3F76"
+                },
+                {
+                    "name": "Marmor",
+                    "hex": "BAC1C6"
+                },
+                {
+                    "name": "Oliv",
+                    "hex": "50533C"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "E65300"
+                },
+                {
+                    "name": "Perlgold",
+                    "hex": "B39013"
+                },
+                {
+                    "name": "Rapunzelsilber",
+                    "hex": "999B9B"
+                },
+                {
+                    "name": "Signalgrau ",
+                    "hex": "9A9A9B"
+                },
+                {
+                    "name": "Signalweiß",
+                    "hex": "ECECE8"
+                },
+                {
+                    "name": "Tiefschwarz",
+                    "hex": "0A0C10"
+                },
+                {
+                    "name": "Ultramarinblau",
+                    "hex": "314E82"
+                },
+                {
+                    "name": "Verkehrsrot",
+                    "hex": "B81B0E"
+                },
+                {
+                    "name": "Wasserblau",
+                    "hex": "007475"
+                }
+            ]
+        },
+        {
+            "name": "{color_name}",
+            "material": "ABS+",
+            "density": 1.02,
+            "weights": [
+                {
+                    "weight": 800
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 260,
+            "bed_temp": 100,
+            "colors": [
+                {
+                    "name": "Leuchtgelb",
+                    "hex": "FFF600"
+                },
+                {
+                    "name": "Leuchtgrün",
+                    "hex": "00AB32"
+                },
+                {
+                    "name": "Leuchtorange",
+                    "hex": "FF4324"
+                },
+                {
+                    "name": "Weiß",
+                    "hex": "ECECE8"
+                },
+                {
+                    "name": "Schwarz",
+                    "hex": "0A0C10"
+                },
+                {
+                    "name": "Gelb",
+                    "hex": "F7B500"
+                },
+                {
+                    "name": "Blau",
+                    "hex": "005187"
+                },
+                {
+                    "name": "Rot",
+                    "hex": "B81B0E"
+                },
+                {
+                    "name": "Hellgrau",
+                    "hex": "B0B1A8"
+                },
+                {
+                    "name": "Dunkelgrau",
+                    "hex": "596163"
+                },
+                {
+                    "name": "Grün",
+                    "hex": "00694C"
+                },
+                {
+                    "name": "Oliv",
+                    "hex": "50533C"
+                },
+                {
+                    "name": "Wasserblau",
+                    "hex": "007475"
+                },
+                {
+                    "name": "Marmor",
+                    "hex": "BAC1C6"
+                }
+            ]
         }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 60,
-      "colors": [
-        {
-          "name": "Anthrazitsilber",
-          "hex": "393B3E"
-        },
-        {
-          "name": "Braun",
-          "hex": "311611"
-        },
-        {
-          "name": "Elfenbein",
-          "hex": "E6D3B5"
-        },
-        {
-          "name": "Flip Flop Grün Gold",
-          "hex": "13324B"
-        },
-        {
-          "name": "Flittergrün",
-          "hex": "00694B"
-        },
-        {
-          "name": "Flitterlila",
-          "hex": "3B3A8F"
-        },
-        {
-          "name": "Glimmer Blau",
-          "hex": "6097FF"
-        },
-        {
-          "name": "Glimmer Pink",
-          "hex": "FF046A"
-        },
-        {
-          "name": "Glimmer Rot",
-          "hex": "E95445"
-        },
-        {
-          "name": "Glow in the Dark Grün",
-          "hex": "D6DEC5"
-        },
-        {
-          "name": "Gold",
-          "hex": "BB9936"
-        },
-        {
-          "name": "Gelb",
-          "hex": "F7B500"
-        },
-        {
-          "name": "Grün",
-          "hex": "00694C"
-        },
-        {
-          "name": "Haselnussbraun",
-          "hex": "AC8C6C"
-        },
-        {
-          "name": "Himmelblau",
-          "hex": "4097DB"
-        },
-        {
-          "name": "Kupfer",
-          "hex": "593F1C"
-        },
-        {
-          "name": "Leuchtgelb",
-          "hex": "FFF600"
-        },
-        {
-          "name": "Leuchtgrün",
-          "hex": "00AB32"
-        },
-        {
-          "name": "Leuchthellrot",
-          "hex": "FF2A1B"
-        },
-        {
-          "name": "Leuchtorange",
-          "hex": "FF4324"
-        },
-        {
-          "name": "Limette",
-          "hex": "A4FF00"
-        },
-        {
-          "name": "Lila",
-          "hex": "76689A"
-        },
-        {
-          "name": "Magenta",
-          "hex": "BB3F76"
-        },
-        {
-          "name": "Marmor",
-          "hex": "BAC1C6"
-        },
-        {
-          "name": "Metallic Aubergine",
-          "hex": "6B2D5D"
-        },
-        {
-          "name": "Mintgrün",
-          "hex": "35BDB2"
-        },
-        {
-          "name": "Oliv",
-          "hex": "50533C"
-        },
-        {
-          "name": "Orange",
-          "hex": "F67829"
-        },
-        {
-          "name": "Orientrot",
-          "hex": "A53035"
-        },
-        {
-          "name": "Pastellblau",
-          "hex": "98BCEA"
-        },
-        {
-          "name": "Pastellpink",
-          "hex": "DCBDC1"
-        },
-        {
-          "name": "Perlblau",
-          "hex": "005B8A"
-        },
-        {
-          "name": "Perlrot",
-          "hex": "9B2220"
-        },
-        {
-          "name": "Perlweiß",
-          "hex": "E3D9C5"
-        },
-        {
-          "name": "Rapunzelsilber",
-          "hex": "999B9B"
-        },
-        {
-          "name": "Signalgrau",
-          "hex": "9A9A9B"
-        },
-        {
-          "name": "Signalweiß",
-          "hex": "ECECE8"
-        },
-        {
-          "name": "Ultramarinblau",
-          "hex": "314E82"
-        },
-        {
-          "name": "Vanille",
-          "hex": "FFF59B"
-        },
-        {
-          "name": "Verkehrsrot",
-          "hex": "B81B0E"
-        },
-        {
-          "name": "Verkehrsschwarz",
-          "hex": "222020"
-        }
-      ]
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.29,
-      "weights": [
-        {
-          "weight": 1000
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 230,
-      "bed_temp": 80,
-      "colors": [
-        {
-          "name": "Anthrazitsilber",
-          "hex": "393B3E"
-        },
-        {
-          "name": "Bronze",
-          "hex": "AF8B5D"
-        },
-        {
-          "name": "Edelstahl",
-          "hex": "7D7E7C"
-        },
-        {
-          "name": "Elfenbein",
-          "hex": "E6D3B5"
-        },
-        {
-          "name": "Himmelblau",
-          "hex": "4097DB"
-        },
-        {
-          "name": "Leuchtblau",
-          "hex": "0095FF"
-        },
-        {
-          "name": "Leuchtgelb",
-          "hex": "FFF600"
-        },
-        {
-          "name": "Leuchtgrün",
-          "hex": "00AB32"
-        },
-        {
-          "name": "Leuchthellrot",
-          "hex": "FF3730"
-        },
-        {
-          "name": "Limette",
-          "hex": "A4FF00"
-        },
-        {
-          "name": "Magenta",
-          "hex": "BB3F76"
-        },
-        {
-          "name": "Marmor",
-          "hex": "BAC1C6"
-        },
-        {
-          "name": "Oliv",
-          "hex": "50533C"
-        },
-        {
-          "name": "Orange",
-          "hex": "E65300"
-        },
-        {
-          "name": "Perlgold",
-          "hex": "B39013"
-        },
-        {
-          "name": "Rapunzelsilber",
-          "hex": "999B9B"
-        },
-        {
-          "name": "Signalgrau ",
-          "hex": "9A9A9B"
-        },
-        {
-          "name": "Signalweiß",
-          "hex": "ECECE8"
-        },
-        {
-          "name": "Tiefschwarz",
-          "hex": "0A0C10"
-        },
-        {
-          "name": "Ultramarinblau",
-          "hex": "314E82"
-        },
-        {
-          "name": "Verkehrsrot",
-          "hex": "B81B0E"
-        },
-        {
-          "name": "Wasserblau",
-          "hex": "007475"
-        }
-      ]
-    },
-    {
-      "name": "{color_name}",
-      "material": "ABS+",
-      "density": 1.02,
-      "weights": [
-        {
-          "weight": 800
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
-        {
-          "name": "Leuchtgelb",
-          "hex": "FFF600"
-        },
-        {
-          "name": "Leuchtgrün",
-          "hex": "00AB32"
-        },
-        {
-          "name": "Leuchtorange",
-          "hex": "FF4324"
-        },
-        {
-          "name": "Weiß",
-          "hex": "ECECE8"
-        },
-        {
-          "name": "Schwarz",
-          "hex": "0A0C10"
-        },
-        {
-          "name": "Gelb",
-          "hex": "F7B500"
-        },
-        {
-          "name": "Blau",
-          "hex": "005187"
-        },
-        {
-          "name": "Rot",
-          "hex": "B81B0E"
-        },
-        {
-          "name": "Hellgrau",
-          "hex": "B0B1A8"
-        },
-        {
-          "name": "Dunkelgrau",
-          "hex": "596163"
-        },
-        {
-          "name": "Grün",
-          "hex": "00694C"
-        },
-        {
-          "name": "Oliv",
-          "hex": "50533C"
-        },
-        {
-          "name": "Wasserblau",
-          "hex": "007475"
-        },
-        {
-          "name": "Marmor",
-          "hex": "BAC1C6"
-        }
-      ]
-    }
-  ]
+    ]
 }
