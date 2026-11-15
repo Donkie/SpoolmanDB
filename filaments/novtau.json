@@ -255,91 +255,91 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Matte Ivory White",
+                    "name": "Ivory White",
                     "hex": "CCCAC9"
                 },
                 {
-                    "name": "Matte Lemon Yellow",
+                    "name": "Lemon Yellow",
                     "hex": "E5BD15"
                 },
                 {
-                    "name": "Matte Mandarin Orange",
+                    "name": "Mandarin Orange",
                     "hex": "F35416"
                 },
                 {
-                    "name": "Matte Sakura Pink",
+                    "name": "Sakura Pink",
                     "hex": "D78295"
                 },
                 {
-                    "name": "Matte Lilac purple",
+                    "name": "Lilac purple",
                     "hex": "743EA1"
                 },
                 {
-                    "name": "Matte Scarlet Red",
+                    "name": "Scarlet Red",
                     "hex": "D22423"
                 },
                 {
-                    "name": "Matte Apple Green",
+                    "name": "Apple Green",
                     "hex": "098A4B"
                 },
                 {
-                    "name": "Matte Ice Blue",
+                    "name": "Ice Blue",
                     "hex": "2B9DE2"
                 },
                 {
-                    "name": "Matte Desert Tan",
+                    "name": "Desert Tan",
                     "hex": "C5A38A"
                 },
                 {
-                    "name": "Matte Latte Brown",
+                    "name": "Latte Brown",
                     "hex": "C3A288"
                 },
                 {
-                    "name": "Matte Caramel",
+                    "name": "Caramel",
                     "hex": "A15131"
                 },
                 {
-                    "name": "Matte Ash Gray",
+                    "name": "Ash Gray",
                     "hex": "6D6F75"
                 },
                 {
-                    "name": "Matte Nardo Gray",
+                    "name": "Nardo Gray",
                     "hex": "5C5B5E"
                 },
                 {
-                    "name": "Matte Charcoal",
+                    "name": "Charcoal",
                     "hex": "292929"
                 },
                 {
-                    "name": "Matte Olive Green",
+                    "name": "Olive Green",
                     "hex": "6D7552"
                 },
                 {
-                    "name": "Matte Navy Blue",
+                    "name": "Navy Blue",
                     "hex": "33455E"
                 },
                 {
-                    "name": "Matte Aqua Blue",
+                    "name": "Aqua Blue",
                     "hex": "23A3CE"
                 },
                 {
-                    "name": "Matte Mint Green",
+                    "name": "Mint Green",
                     "hex": "8CD5CD"
                 },
                 {
-                    "name": "Matte Bone",
+                    "name": "Bone",
                     "hex": "C2AC90"
                 },
                 {
-                    "name": "Matte Terracotta Red",
+                    "name": "Terracotta Red",
                     "hex": "AE705F"
                 },
                 {
-                    "name": "Matte Deep Pink",
+                    "name": "Deep Pink",
                     "hex": "DF5080"
                 },
                 {
-                    "name": "Matte Ochre",
+                    "name": "Ochre",
                     "hex": "C5A05A"
                 }
             ]
@@ -407,19 +407,19 @@
                     "hex": "C28934"
                 },
                 {
-                    "name": "Silk Rose Red",
+                    "name": "Rose Red",
                     "hex": "D03569"
                 },
                 {
-                    "name": "Silk Bronze",
+                    "name": "Bronze",
                     "hex": "867E4E"
                 },
                 {
-                    "name": "Silk Yellow",
+                    "name": "Yellow",
                     "hex": "E4B716"
                 },
                 {
-                    "name": "Silk Black",
+                    "name": "Black",
                     "hex": "2B2B2B"
                 },
                 {
@@ -519,11 +519,11 @@
                     "hex": "BC9FCF"
                 },
                 {
-                    "name": "Translucent Pink-White",
+                    "name": "Pink-White",
                     "hex": "E4A3B8"
                 },
                 {
-                    "name": "Translucent Blue-White-Orange",
+                    "name": "Blue-White-Orange",
                     "hex": "D3CA9E"
                 },
                 {
@@ -543,7 +543,7 @@
                     "hex": "68D1CF"
                 },
                 {
-                    "name": "Translucent Green",
+                    "name": "Green",
                     "hex": "17BAB2"
                 },
                 {
@@ -551,23 +551,23 @@
                     "hex": "C9C9CA"
                 },
                 {
-                    "name": "Translucent Black",
+                    "name": "Black",
                     "hex": "343434"
                 },
                 {
-                    "name": "Translucent Yellow-Green",
+                    "name": "Yellow-Green",
                     "hex": "B7DC37"
                 },
                 {
-                    "name": "Translucent Lime Green",
+                    "name": "Lime Green",
                     "hex": "6CC23F"
                 },
                 {
-                    "name": "Translucent Purple",
+                    "name": "Deep Purple",
                     "hex": "6C2F88"
                 },
                 {
-                    "name": "Translucent Deep Blue",
+                    "name": "Deep Blue",
                     "hex": "1D439B"
                 },
                 {
@@ -579,7 +579,7 @@
                     "hex": "9DB1E2"
                 },
                 {
-                    "name": "Translucent Smoke Gray",
+                    "name": "Smoke Gray",
                     "hex": "9C9D9E"
                 },
                 {
@@ -599,7 +599,7 @@
                     "hex": "8ADDBD"
                 },
                 {
-                    "name": "Translucent Mint",
+                    "name": "Mint",
                     "hex": "8DD8C4"
                 }
             ]
@@ -1282,31 +1282,31 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Slate Gray Sparkle",
+                    "name": "Slate Gray",
                     "hex": "76807E"
                 },
                 {
-                    "name": "Crimson Red Sparkle",
+                    "name": "Crimson Red",
                     "hex": "9D2317"
                 },
                 {
-                    "name": "Onyx Black Sparkle",
+                    "name": "Onyx Black",
                     "hex": "252525"
                 },
                 {
-                    "name": "Classic Gold Sparkle",
+                    "name": "Classic Gold",
                     "hex": "CB8B23"
                 },
                 {
-                    "name": "White Gold Sparkle",
+                    "name": "White Gold",
                     "hex": "DBBE9E"
                 },
                 {
-                    "name": "Blue Gold Sparkle",
+                    "name": "Blue Gold",
                     "hex": "2B679A"
                 },
                 {
-                    "name": "Black Green Sparkle",
+                    "name": "Black Green",
                     "hex": "2B382F"
                 }
             ]
@@ -1330,15 +1330,15 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Copper Brown Metallic",
+                    "name": "Copper Brown",
                     "hex": "634738"
                 },
                 {
-                    "name": "Iron Gray Metallic",
+                    "name": "Iron Gray",
                     "hex": "4B4945"
                 },
                 {
-                    "name": "Steel Gray Metallic",
+                    "name": "Steel Gray",
                     "hex": "6C6B6B"
                 }
             ]
@@ -1366,15 +1366,15 @@
                     "hex": "A53E2C"
                 },
                 {
-                    "name": "White Marble",
+                    "name": "White",
                     "hex": "C1BFC0"
                 },
                 {
-                    "name": "Granite Marble",
+                    "name": "Granite",
                     "hex": "9F8E83"
                 },
                 {
-                    "name": "Cream White Marble",
+                    "name": "Cream White",
                     "hex": "D0CAC2"
                 }
             ]
@@ -1402,7 +1402,7 @@
                     "hex": "49322A"
                 },
                 {
-                    "name": "Cherry Wood",
+                    "name": "Cherry",
                     "hex": "774737"
                 },
                 {
@@ -1414,7 +1414,7 @@
                     "hex": "B46031"
                 },
                 {
-                    "name": "Wood Tone",
+                    "name": "Tone",
                     "hex": "B99677"
                 },
                 {
@@ -1430,15 +1430,15 @@
                     "hex": "C28D5D"
                 },
                 {
-                    "name": "Light Wood",
+                    "name": "Light",
                     "hex": "C6AA89"
                 },
                 {
-                    "name": "Black Wood",
+                    "name": "Black",
                     "hex": "404040"
                 },
                 {
-                    "name": "Olive Wood",
+                    "name": "Olive",
                     "hex": "706D50"
                 },
                 {
@@ -1466,23 +1466,23 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Glow Green",
+                    "name": "Green",
                     "hex": "54D387"
                 },
                 {
-                    "name": "Glow Orange",
+                    "name": "Orange",
                     "hex": "EAAA6F"
                 },
                 {
-                    "name": "Glow Yellow",
+                    "name": "Yellow",
                     "hex": "E3F160"
                 },
                 {
-                    "name": "Glow Blue",
+                    "name": "Blue",
                     "hex": "71C5E7"
                 },
                 {
-                    "name": "Glow Natural",
+                    "name": "Natural",
                     "hex": "CDD1BE"
                 },
                 {
@@ -1494,59 +1494,59 @@
                     "hex": "18BDC7"
                 },
                 {
-                    "name": "Glow Rainbow Earth",
+                    "name": "Rainbow Earth",
                     "hex": "8C9060"
                 },
                 {
-                    "name": "Glow Rainbow Spectrum",
+                    "name": "Rainbow Spectrum",
                     "hex": "84B3A8"
                 },
                 {
-                    "name": "White Glow Blue",
+                    "name": "White Blue",
                     "hex": "0988E5"
                 },
                 {
-                    "name": "White Glow Red",
+                    "name": "White Red",
                     "hex": "DF3C45"
                 },
                 {
-                    "name": "White Glow Rainbow",
+                    "name": "White Rainbow",
                     "hex": "C2BBA0"
                 },
                 {
-                    "name": "Glow Purple",
+                    "name": "Purple",
                     "hex": "9878DC"
                 },
                 {
-                    "name": "Glow Sky Blue",
+                    "name": "Sky Blue",
                     "hex": "01BAFD"
                 },
                 {
-                    "name": "Glow Deep Blue",
+                    "name": "Deep Blue",
                     "hex": "17A3ED"
                 },
                 {
-                    "name": "Glow Light Green",
+                    "name": "Light Green",
                     "hex": "A6EC2A"
                 },
                 {
-                    "name": "Glow Violet",
+                    "name": "Violet",
                     "hex": "815CE8"
                 },
                 {
-                    "name": "Glow Rainbow No.5",
+                    "name": "Rainbow No.5",
                     "hex": "A2B6CA"
                 },
                 {
-                    "name": "Glow Rainbow No.2",
+                    "name": "Rainbow No.2",
                     "hex": "B3BEDA"
                 },
                 {
-                    "name": "Glow Rainbow Crystal",
+                    "name": "Rainbow Crystal",
                     "hex": "C4B89A"
                 },
                 {
-                    "name": "Glow Rainbow No.6",
+                    "name": "Rainbow No.6",
                     "hex": "97A78B"
                 }
             ]
@@ -1617,23 +1617,23 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Pearl Pink",
+                    "name": "Pink",
                     "hex": "E38EAA"
                 },
                 {
-                    "name": "Pearl Purple",
+                    "name": "Purple",
                     "hex": "885CBF"
                 },
                 {
-                    "name": "Pearl Green",
+                    "name": "Green",
                     "hex": "93CAB7"
                 },
                 {
-                    "name": "Pearl Blue",
+                    "name": "Blue",
                     "hex": "78CFE4"
                 },
                 {
-                    "name": "Pearl Yellow",
+                    "name": "Yellow",
                     "hex": "EECC38"
                 }
             ]
@@ -1744,14 +1744,14 @@
             "bed_temp": 55,
             "colors": [
                 {
-                    "name": "Matte Dopamine",
+                    "name": "Dopamine",
                     "hexes": [
                         "AEC7E1",
                         "8987A4"
                     ]
                 },
                 {
-                    "name": "Matte Macaron",
+                    "name": "Macaron",
                     "hexes": [
                         "DCCFA5",
                         "83CEBD"
@@ -2264,11 +2264,11 @@
             "bed_temp": 70,
             "colors": [
                 {
-                    "name": "Translucent Teal",
+                    "name": "Teal",
                     "hex": "1BB19B"
                 },
                 {
-                    "name": "Translucent Light Blue",
+                    "name": "Light Blue",
                     "hex": "72D1E5"
                 },
                 {
@@ -2276,27 +2276,27 @@
                     "hex": "CFCDCC"
                 },
                 {
-                    "name": "Translucent Orange",
+                    "name": "Orange",
                     "hex": "FBA019"
                 },
                 {
-                    "name": "Translucent Pink",
+                    "name": "Pink",
                     "hex": "EEACC5"
                 },
                 {
-                    "name": "Translucent Purple",
+                    "name": "Purple",
                     "hex": "B392D2"
                 },
                 {
-                    "name": "Translucent Green-White",
+                    "name": "Green-White",
                     "hex": "8CD8B0"
                 },
                 {
-                    "name": "Translucent Blue-White-Orange",
+                    "name": "Blue-White-Orange",
                     "hex": "BCD1B6"
                 },
                 {
-                    "name": "Translucent Blue-Green",
+                    "name": "Blue-Green",
                     "hex": "2ABCB7"
                 },
                 {
@@ -2308,31 +2308,31 @@
                     "hex": "DAB88D"
                 },
                 {
-                    "name": "Translucent Black",
+                    "name": "Black",
                     "hex": "3B3B39"
                 },
                 {
-                    "name": "Translucent Rose Pink",
+                    "name": "Rose Pink",
                     "hex": "D67F94"
                 },
                 {
-                    "name": "Translucent Green",
+                    "name": "Green",
                     "hex": "6EB937"
                 },
                 {
-                    "name": "Translucent Blue",
+                    "name": "Blue",
                     "hex": "1B64B2"
                 },
                 {
-                    "name": "Translucent Yellow",
+                    "name": "Yellow",
                     "hex": "C3D93A"
                 },
                 {
-                    "name": "Translucent Red",
+                    "name": "Red",
                     "hex": "C51B2D"
                 },
                 {
-                    "name": "Translucent Violet",
+                    "name": "Violet",
                     "hex": "A03B92"
                 }
             ]
@@ -2546,15 +2546,15 @@
             "bed_temp": 70,
             "colors": [
                 {
-                    "name": "Sparkle Red",
+                    "name": "Red",
                     "hex": "B93147"
                 },
                 {
-                    "name": "Sparkle Green",
+                    "name": "Green",
                     "hex": "ADC818"
                 },
                 {
-                    "name": "Sparkle Blue",
+                    "name": "Blue",
                     "hex": "1073BC"
                 }
             ]
@@ -2578,7 +2578,7 @@
             "bed_temp": 70,
             "colors": [
                 {
-                    "name": "Marble",
+                    "name": "Light Gray",
                     "hex": "B0B0B2"
                 }
             ]
@@ -2837,7 +2837,7 @@
             ]
         },
         {
-            "name": "95A High-Flow {color_name}",
+            "name": "High-Flow {color_name}",
             "material": "TPU-95A",
             "density": 1.24,
             "weights": [
