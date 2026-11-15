@@ -69,11 +69,14 @@ name when you use the placeholder.
 `material` is the plastic, not the branding. It's used to group and filter across
 every manufacturer, so it has to mean the same thing everywhere.
 
-| They call it | You write                                             |
-| ------------ | ----------------------------------------------------- |
-| PETG-Tough   | `"material": "PETG"`, `"name": "Tough {color_name}"`  |
-| PETG HF      | `"material": "PETG"`, `"name": "HF {color_name}"`     |
-| TPU for AMS  | `"material": "TPU"`, `"name": "{color_name} for AMS"` |
+| They call it      | You write                                                   |
+| ----------------- | ----------------------------------------------------------- |
+| PETG-Tough        | `"material": "PETG"`, `"name": "Tough {color_name}"`        |
+| PETG HF           | `"material": "PETG"`, `"name": "HF {color_name}"`           |
+| TPU for AMS       | `"material": "TPU"`, `"name": "{color_name} for AMS"`       |
+| TPU 95A           | `"material": "TPU-95A"`, `"name": "{color_name}"`           |
+| PLA-CF High Speed | `"material": "PLA-CF"`, `"name": "High Speed {color_name}"` |
+| PC-FR             | `"material": "PC+FR"`, `"name": "{color_name}"`             |
 
 `-CF` and `-GF` mean a real carbon or glass fiber additive: `PETG-CF`, `ASA-GF`,
 `PETG-CF10`. `-95A` and `-55D` on TPU are shore hardness. Don't use that pattern
@@ -129,8 +132,8 @@ temperature out if none is needed.
 - Don't commit editor files like `.vscode/` or `.DS_Store`.
 - Don't change the workflows, schema or compile script in a data PR. If the
   schema needs changing, open a separate PR and say why.
-- Watch your line endings. Some files are CRLF and a Windows editor converting
-  one to LF rewrites every line.
+- Filament files use LF line endings, four-space indentation, and no final
+  newline. Run `python3 scripts/format_filaments.py` to format them.
 - Spell the field names exactly. Unknown keys pass validation and then get
   dropped silently, so `extruder_temp_rang` or a trailing space means your data
   never lands.
@@ -179,15 +182,16 @@ Create `filaments/<manufacturer>.json`, lowercase, no spaces.
 ```bash
 pipx install check-jsonschema
 
+python3 scripts/format_filaments.py
 check-jsonschema --schemafile filaments.schema.json filaments/*
 python3 scripts/lint_filaments.py filaments/yourfile.json
 python3 scripts/compile_filaments.py
 ```
 
-All three have to pass, CI runs the same thing. The compile step catches what
-the schema can't, like duplicate IDs. The linter checks the conventions on this
-page, and also prints warnings that don't fail the build but are usually worth
-a look.
+Formatting and all three validation commands have to pass; CI runs the same
+checks. The compile step catches what the schema can't, like duplicate IDs.
+The linter checks the conventions on this page, and also prints warnings that
+don't fail the build but are usually worth a look.
 
 When you open the PR, a bot comments with every entry your change would add to
 Spoolman. Read it against the manufacturer's catalog before asking for review.
