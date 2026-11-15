@@ -25,11 +25,11 @@
       ],
       "colors": [
         {
-          "name": "Bruin",
+          "name": "Brown",
           "hex": "422d00"
         },
         {
-          "name": "Rood",
+          "name": "Red",
           "hex": "ff0000"
         }
       ]
@@ -62,7 +62,7 @@
           "hex": "3ccf2c"
         },
         {
-          "name": "Wit",
+          "name": "White",
           "hex": "ffffff"
         },
         {
