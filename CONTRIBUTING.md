@@ -69,11 +69,14 @@ name when you use the placeholder.
 `material` is the plastic, not the branding. It's used to group and filter across
 every manufacturer, so it has to mean the same thing everywhere.
 
-| They call it | You write                                             |
-| ------------ | ----------------------------------------------------- |
-| PETG-Tough   | `"material": "PETG"`, `"name": "Tough {color_name}"`  |
-| PETG HF      | `"material": "PETG"`, `"name": "HF {color_name}"`     |
-| TPU for AMS  | `"material": "TPU"`, `"name": "{color_name} for AMS"` |
+| They call it      | You write                                                   |
+| ----------------- | ----------------------------------------------------------- |
+| PETG-Tough        | `"material": "PETG"`, `"name": "Tough {color_name}"`        |
+| PETG HF           | `"material": "PETG"`, `"name": "HF {color_name}"`           |
+| TPU for AMS       | `"material": "TPU"`, `"name": "{color_name} for AMS"`       |
+| TPU 95A           | `"material": "TPU-95A"`, `"name": "{color_name}"`           |
+| PLA-CF High Speed | `"material": "PLA-CF"`, `"name": "High Speed {color_name}"` |
+| PC-FR             | `"material": "PC+FR"`, `"name": "{color_name}"`             |
 
 `-CF` and `-GF` mean a real carbon or glass fiber additive: `PETG-CF`, `ASA-GF`,
 `PETG-CF10`. `-95A` and `-55D` on TPU are shore hardness. Don't use that pattern
