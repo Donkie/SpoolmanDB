@@ -1,0 +1,30 @@
+{
+    "manufacturer": "Machi",
+    "filaments": [
+        {
+            "name": "{color_name}",
+            "material": "ABS",
+            "density": 1.04,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 150,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                250
+            ],
+            "colors": [
+                {
+                    "name": "Grey",
+                    "hex": "8E9DA2"
+                }
+            ]
+        }
+    ]
+}
