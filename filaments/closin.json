@@ -80,13 +80,11 @@
                     "name": "Fluo Yellow",
                     "hex": "a8ac21",
                     "translucent": true
-
                 },
                 {
                     "name": "Fluo Green",
                     "hex": "51e53c",
                     "translucent": true
-
                 },
                 {
                     "name": "Lemon Green",
@@ -96,13 +94,11 @@
                     "name": "Fluo Rose",
                     "hex": "d64d66",
                     "translucent": true
-
                 },
                 {
                     "name": "Transparente",
                     "hex": "f1f8f7",
                     "translucent": true
-
                 },
                 {
                     "name": "Laranja",
