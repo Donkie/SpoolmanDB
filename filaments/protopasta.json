@@ -975,11 +975,11 @@
             "finish": "matte",
             "colors": [
                 {
-                    "name": "Matte Fiber Black",
+                    "name": "Black",
                     "hex": "29292b"
                 },
                 {
-                    "name": "Matte Fiber White",
+                    "name": "White",
                     "hex": "f6f5f1"
                 }
             ]
@@ -1008,19 +1008,19 @@
             "finish": "matte",
             "colors": [
                 {
-                    "name": "Matte Fiber Daffodil",
+                    "name": "Daffodil",
                     "hex": "d5a76f"
                 },
                 {
-                    "name": "Matte Fiber Gray",
+                    "name": "Gray",
                     "hex": "77818a"
                 },
                 {
-                    "name": "Matte Fiber Mahogany",
+                    "name": "Mahogany",
                     "hex": "905f51"
                 },
                 {
-                    "name": "Matte Fiber Walnut",
+                    "name": "Walnut",
                     "hex": "78635a"
                 }
             ]
@@ -1049,11 +1049,11 @@
             "finish": "matte",
             "colors": [
                 {
-                    "name": "Matte Fiber White",
+                    "name": "White",
                     "hex": "f6f5f1"
                 },
                 {
-                    "name": "Matte Fiber Black",
+                    "name": "Black",
                     "hex": "29292b"
                 }
             ]
@@ -1253,11 +1253,11 @@
             "glow": false,
             "colors": [
                 {
-                    "name": "Iridescent Ice Translucent",
+                    "name": "Iridescent Ice",
                     "hex": "ffffff"
                 },
                 {
-                    "name": "Silver Smoke Translucent",
+                    "name": "Silver Smoke",
                     "hex": "b7b1a9"
                 }
             ]
