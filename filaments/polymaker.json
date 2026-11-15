@@ -1122,6 +1122,112 @@
         ]
       },
       {
+        "name": "Panchroma\u2122 Dual Silk {color_name}",
+        "material": "PLA",
+        "density": 1.24,
+        "weights": [
+          {
+            "weight": 1000.0,
+            "spool_weight": 140.0,
+            "spool_type": "cardboard"
+          }
+        ],
+        "diameters": [
+          1.75
+        ],
+        "extruder_temp_range": [
+          190,
+          230
+        ],
+        "bed_temp_range": [
+          25,
+          60
+        ],
+        "colors": [
+          {
+            "name": "Aubergine (Lime-Magenta)",
+            "hexes": [
+              "C4CF4C",
+              "AA538E"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Beluga (Silver-Blue)",
+            "hexes": [
+              "BCC2C8",
+              "4999C9"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Chameleon (Yellow-Blue)",
+            "hexes": [
+              "EEC810",
+              "4999C9"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Caribbean Sea (Blue-Green)",
+            "hexes": [
+              "4999C9",
+              "55B687"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Crown (Gold-Silver)",
+            "hexes": [
+              "C49449",
+              "BCC2C8"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Sovereign (Gold-Purple)",
+            "hexes": [
+              "C49449",
+              "786BB0"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": " Banquet (Gold-Magenta)",
+            "hexes": [
+              "C49449",
+              "AA538E"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },
+          {
+            "name": "Jadeite (Green-Chrome)",
+            "hexes": [
+              "55B687",
+              "85898B"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          },		  
+         {
+            "name": "Sunset (Gold-Red)",
+            "hexes": [
+              "C49449",
+              "CF6076"
+            ],
+            "finish": "matte",
+            "multi_color_direction": "coaxial"
+          }
+        ]
+      },
+      {
         "name": "PolyLite\u2122 PLA Pro {color_name}",
         "material": "PLA",
         "density": 1.22,
