@@ -241,7 +241,8 @@
         {
           "name": "Pearl White",
           "hex": "DFE4E4"
-        },{
+        },
+        {
           "name": "Gold",
           "hex": "F6CE1B"
         },
@@ -1224,9 +1225,9 @@
       ]
     },
     {
-      "name": "Rainbow {color_name}",
+      "name": "{color_name} Rainbow",
       "material": "PLA",
-      "density": 1.24,
+      "density": 1.31,
       "weights": [
         {
           "weight": 1000,
@@ -1243,7 +1244,16 @@
         {
           "name": "Pastel",
           "hexes": [
-            "E72F1D", "F97429", "F8F81C", "2D9E59", "0066D9", "6C5BB1"
+            "71D9F2",
+            "77CEF0",
+            "9AC5FB",
+            "B5ACFF",
+            "E29CE6",
+            "FF9ED1",
+            "FFC89B",
+            "FBF4A3",
+            "C6F5B5",
+            "A1E7E3"
           ],
           "multi_color_direction": "longitudinal"
         }
