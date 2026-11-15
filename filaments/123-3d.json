@@ -1,0 +1,75 @@
+{
+  "manufacturer": "123-3D",
+  "filaments": [
+    {
+      "name": "Jupiter Series {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 215.0,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        195,
+        220
+      ],
+      "bed_temp_range": [
+        50,
+        60
+      ],
+      "colors": [
+        {
+          "name": "Bruin",
+          "hex": "422d00"
+        },
+        {
+          "name": "Rood",
+          "hex": "ff0000"
+        }
+      ]
+    },
+    {
+      "name": "Jupiter Series {color_name}",
+      "material": "PETG",
+      "density": 1.27,
+      "weights": [
+        {
+          "weight": 1000.0,
+          "spool_weight": 215.0,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        230,
+        250
+      ],
+      "bed_temp_range": [
+        70,
+        85
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "3ccf2c"
+        },
+        {
+          "name": "Wit",
+          "hex": "ffffff"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "56b7e6"
+        }
+      ]
+    }
+  ]
+}
