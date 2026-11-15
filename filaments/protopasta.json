@@ -4,7 +4,7 @@
         {
             "name": "{color_name} Metallic",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 500,
@@ -58,7 +58,7 @@
         {
             "name": "{color_name} Translucent",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 500,
@@ -88,7 +88,7 @@
         {
             "name": "{color_name} Glitter",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 500,
@@ -118,7 +118,7 @@
         {
             "name": "{color_name} Carbon Fiber",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 500,
@@ -155,7 +155,7 @@
         {
             "name": "Simply {color_name}",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 1000,
@@ -190,7 +190,7 @@
         {
             "name": "Simply {color_name}",
             "material": "PETG",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 1000,
@@ -436,7 +436,7 @@
         {
             "name": "Composite Steel {color_name}",
             "material": "PLA",
-            "density": 2.30,
+            "density": 2.3,
             "weights": [
                 {
                     "weight": 100,
@@ -513,7 +513,7 @@
         {
             "name": "Composite Steel {color_name}",
             "material": "PLA",
-            "density": 2.30,
+            "density": 2.3,
             "weights": [
                 {
                     "weight": 500,
@@ -1375,7 +1375,7 @@
         {
             "name": "Opaque {color_name}",
             "material": "PLA",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 1000,
@@ -1417,7 +1417,7 @@
         {
             "name": "Opaque {color_name}",
             "material": "PLA",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 1000,
@@ -1450,7 +1450,7 @@
         {
             "name": "Opaque {color_name}",
             "material": "PLA",
-            "density": 1.20,
+            "density": 1.2,
             "weights": [
                 {
                     "weight": 1000,
@@ -1625,7 +1625,7 @@
         {
             "name": "{color_name} Composite",
             "material": "PLA",
-            "density": 2.30,
+            "density": 2.3,
             "weights": [
                 {
                     "weight": 100,
