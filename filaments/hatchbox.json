@@ -51,8 +51,11 @@
                     "name": "Transparent Red",
                     "hex": "9A232D",
                     "translucent": true
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
                 }
-
             ]
         },
         {
@@ -63,7 +66,7 @@
                 {
                     "weight": 1000,
                     "spool_weight": 251,
-		    "spool_type": "plastic"
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -176,7 +179,7 @@
                     "name": "Yellow",
                     "hex": "ECD018"
                 }
-                ]
+            ]
         },
         {
             "name": "Sparkle {color_name}",
@@ -186,7 +189,7 @@
                 {
                     "weight": 1000,
                     "spool_weight": 251,
-		    "spool_type": "plastic"
+                    "spool_type": "plastic"
                 }
             ],
             "diameters": [
@@ -222,7 +225,7 @@
                 }
             ]
         },
-	{
+        {
             "name": "Transparent {color_name}",
             "material": "PLA",
             "density": 1.27,
@@ -238,7 +241,7 @@
             ],
             "extruder_temp": 210,
             "bed_temp": 60,
-	    "translucent": true,
+            "translucent": true,
             "colors": [
                 {
                     "name": "Red",
