@@ -17,7 +17,7 @@
             "extruder_temp": 260,
             "bed_temp": 110,
             "colors": [
-				{
+                {
                     "name": "Natural",
                     "hex": "F5F5DC"
                 },
