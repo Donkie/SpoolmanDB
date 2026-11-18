@@ -2,7 +2,7 @@
     "manufacturer": "FlashForge",
     "filaments": [
         {
-            "name": "PLA - {color_name}",
+            "name": "{color_name}",
             "material": "PLA",
             "density": 1.25,
             "weights": [
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "name": "Starter PLA - {color_name}",
+            "name": "Starter {color_name}",
             "material": "PLA",
             "density": 1.25,
             "weights": [
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "name": "PLA Pro - {color_name}",
+            "name": "Pro {color_name}",
             "material": "PLA",
             "density": 1.25,
             "weights": [

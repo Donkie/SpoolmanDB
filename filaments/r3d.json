@@ -188,7 +188,7 @@
             ]
         },
         {
-            "name": "PLA BASIC {color_name}",
+            "name": "Basic {color_name}",
             "material": "PLA",
             "density": 1.27,
             "weights": [
