@@ -1,0 +1,34 @@
+{
+    "manufacturer": "Alchemakes",
+    "filaments": [
+        {
+            "name": "HT {color_name}",
+            "material": "PLA",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 216,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                190,
+                240
+            ],
+            "bed_temp_range": [
+                45,
+                65
+            ],
+            "colors": [
+                {
+                    "name": "Dark grey",
+                    "hex": "48474C"
+                }
+            ]
+        }
+    ]
+}
