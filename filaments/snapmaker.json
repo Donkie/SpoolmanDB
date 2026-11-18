@@ -652,8 +652,8 @@
             ]
         },
         {
-            "name": "CF {color_name}",
-            "material": "PETG",
+            "name": "{color_name}",
+            "material": "PETG-CF",
             "density": 1.26,
             "weights": [
                 {
@@ -1179,8 +1179,8 @@
             ]
         },
         {
-            "name": "CF {color_name}",
-            "material": "PLA",
+            "name": "{color_name}",
+            "material": "PLA-CF",
             "density": 1.29,
             "weights": [
                 {
@@ -1260,8 +1260,8 @@
             ]
         },
         {
-            "name": "90A {color_name}",
-            "material": "PEBA",
+            "name": "{color_name}",
+            "material": "PEBA-90A",
             "density": 1.03,
             "weights": [
                 {
