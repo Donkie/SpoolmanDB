@@ -194,7 +194,7 @@ def check_numbers(rep, where, filament):
         net = weight["weight"]
         tare = weight.get("spool_weight")
         if tare is None:
-            rep.error(
+            rep.warn(
                 f"{where} weights[{i}]",
                 "missing spool_weight",
                 "Spoolman subtracts this from a weighed spool to work out how "
@@ -202,7 +202,7 @@ def check_numbers(rep, where, filament):
                 "put an empty spool on a kitchen scale and use what it says. A "
                 "guess makes every estimate made from it wrong, and nobody can "
                 "tell afterwards which values were guessed. If you can't weigh "
-                "one, leave this filament out of the PR rather than estimating.",
+                "one, leave this property blank",
             )
         elif tare >= net:
             rep.warn(
