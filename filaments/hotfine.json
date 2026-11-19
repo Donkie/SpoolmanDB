@@ -1,0 +1,33 @@
+{
+    "manufacturer": "Hotfine",
+    "filaments": [
+        {
+            "name": "Basic {color_name}",
+            "material": "PETG",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000.0,
+                    "spool_weight": 168.0
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp_range": [
+                0,
+                70
+            ],
+            "colors": [
+                {
+                    "name": "Purple",
+                    "hex": "684387"
+                }
+            ]
+        }
+    ]
+}
