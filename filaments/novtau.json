@@ -16,7 +16,15 @@
                 1.75
             ],
             "extruder_temp": 220,
+            "extruder_temp_range": [
+                210,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                45,
+                60
+            ],
             "colors": [
                 {
                     "name": "Jade White",
@@ -252,7 +260,15 @@
                 1.75
             ],
             "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Ivory White",
@@ -359,8 +375,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Gold",
@@ -475,8 +499,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Teal",
@@ -619,7 +651,15 @@
                 1.75
             ],
             "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                30,
+                60
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -727,8 +767,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Dawn Radiance",
@@ -1209,8 +1257,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Pink Citrus",
@@ -1278,8 +1334,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Slate Gray",
@@ -1312,7 +1376,7 @@
             ]
         },
         {
-            "name": "Metallic {color_name}",
+            "name": "Metal {color_name}",
             "material": "PLA",
             "density": 1.24,
             "finish": "glossy",
@@ -1326,8 +1390,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Copper Brown",
@@ -1358,8 +1430,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Red Granite",
@@ -1462,8 +1542,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Green",
@@ -1566,8 +1654,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Brick Red",
@@ -1613,8 +1709,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Pink",
@@ -1652,8 +1756,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "UV Purple-Red",
@@ -1691,8 +1803,16 @@
             "diameters": [
                 1.75
             ],
-            "extruder_temp": 220,
+            "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Orange to Yellow",
@@ -1741,7 +1861,15 @@
                 1.75
             ],
             "extruder_temp": 210,
+            "extruder_temp_range": [
+                190,
+                230
+            ],
             "bed_temp": 55,
+            "bed_temp_range": [
+                25,
+                60
+            ],
             "colors": [
                 {
                     "name": "Dopamine",
@@ -1977,7 +2105,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Orange",
@@ -2261,7 +2397,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Teal",
@@ -2353,7 +2497,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Indigo Blue",
@@ -2393,7 +2545,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Winter Glow",
@@ -2511,7 +2671,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Coffee Gold",
@@ -2543,7 +2711,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Red",
@@ -2575,7 +2751,15 @@
                 1.75
             ],
             "extruder_temp": 255,
+            "extruder_temp_range": [
+                240,
+                270
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                65,
+                75
+            ],
             "colors": [
                 {
                     "name": "Light Gray",
@@ -2598,7 +2782,15 @@
                 1.75
             ],
             "extruder_temp": 255,
-            "bed_temp": 90,
+            "extruder_temp_range": [
+                245,
+                265
+            ],
+            "bed_temp": 95,
+            "bed_temp_range": [
+                90,
+                100
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -2677,7 +2869,15 @@
                 1.75
             ],
             "extruder_temp": 260,
-            "bed_temp": 100,
+            "extruder_temp_range": [
+                230,
+                260
+            ],
+            "bed_temp": 85,
+            "bed_temp_range": [
+                75,
+                95
+            ],
             "colors": [
                 {
                     "name": "White",
@@ -2733,7 +2933,15 @@
                 1.75
             ],
             "extruder_temp": 260,
+            "extruder_temp_range": [
+                240,
+                280
+            ],
             "bed_temp": 90,
+            "bed_temp_range": [
+                80,
+                100
+            ],
             "colors": [
                 {
                     "name": "White",
@@ -2761,7 +2969,15 @@
                 1.75
             ],
             "extruder_temp": 270,
+            "extruder_temp_range": [
+                260,
+                280
+            ],
             "bed_temp": 100,
+            "bed_temp_range": [
+                90,
+                100
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -2771,7 +2987,7 @@
         },
         {
             "name": "Flexible {color_name}",
-            "material": "TPU",
+            "material": "TPU-85A",
             "density": 1.24,
             "weights": [
                 {
@@ -2784,7 +3000,90 @@
                 1.75
             ],
             "extruder_temp": 240,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
             "bed_temp": 35,
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "2A2A2A"
+                },
+                {
+                    "name": "Quicksilver",
+                    "hex": "3D444A"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "ED4526"
+                },
+                {
+                    "name": "Flesh",
+                    "hex": "C4A172"
+                },
+                {
+                    "name": "Translucent Pink",
+                    "hex": "E0479A"
+                },
+                {
+                    "name": "Translucent Yellow",
+                    "hex": "BFD82D"
+                },
+                {
+                    "name": "Translucent Orange",
+                    "hex": "D76028"
+                },
+                {
+                    "name": "Red",
+                    "hex": "A7252D"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0F3F91"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EFD53A"
+                },
+                {
+                    "name": "Translucent Blue",
+                    "hex": "137AAF"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "C4C6C7"
+                }
+            ]
+        },
+        {
+            "name": "Flexible {color_name}",
+            "material": "TPU-90A",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 145,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp": 35,
+            "bed_temp_range": [
+                30,
+                60
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -2851,7 +3150,15 @@
                 1.75
             ],
             "extruder_temp": 215,
+            "extruder_temp_range": [
+                200,
+                230
+            ],
             "bed_temp": 35,
+            "bed_temp_range": [
+                25,
+                50
+            ],
             "colors": [
                 {
                     "name": "White",
@@ -2994,7 +3301,15 @@
                 1.75
             ],
             "extruder_temp": 260,
+            "extruder_temp_range": [
+                250,
+                270
+            ],
             "bed_temp": 100,
+            "bed_temp_range": [
+                90,
+                105
+            ],
             "colors": [
                 {
                     "name": "Transparent",
@@ -3026,7 +3341,15 @@
                 1.75
             ],
             "extruder_temp": 290,
-            "bed_temp": 100,
+            "extruder_temp_range": [
+                280,
+                300
+            ],
+            "bed_temp": 50,
+            "bed_temp_range": [
+                40,
+                50
+            ],
             "colors": [
                 {
                     "name": "Black",
@@ -3050,7 +3373,15 @@
                 1.75
             ],
             "extruder_temp": 285,
+            "extruder_temp_range": [
+                270,
+                300
+            ],
             "bed_temp": 70,
+            "bed_temp_range": [
+                70,
+                80
+            ],
             "colors": [
                 {
                     "name": "Black",
