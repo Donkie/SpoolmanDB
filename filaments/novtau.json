@@ -2987,7 +2987,82 @@
         },
         {
             "name": "Flexible {color_name}",
-            "material": "TPU",
+            "material": "TPU-85A",
+            "density": 1.24,
+            "weights": [
+                {
+                    "weight": 1000,
+                    "spool_weight": 145,
+                    "spool_type": "plastic"
+                }
+            ],
+            "diameters": [
+                1.75
+            ],
+            "extruder_temp": 240,
+            "extruder_temp_range": [
+                220,
+                240
+            ],
+            "bed_temp": 35,
+            "bed_temp_range": [
+                30,
+                60
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "2A2A2A"
+                },
+                {
+                    "name": "Quicksilver",
+                    "hex": "3D444A"
+                },
+                {
+                    "name": "Neon Orange",
+                    "hex": "ED4526"
+                },
+                {
+                    "name": "Flesh",
+                    "hex": "C4A172"
+                },
+                {
+                    "name": "Translucent Pink",
+                    "hex": "E0479A"
+                },
+                {
+                    "name": "Translucent Yellow",
+                    "hex": "BFD82D"
+                },
+                {
+                    "name": "Translucent Orange",
+                    "hex": "D76028"
+                },
+                {
+                    "name": "Red",
+                    "hex": "A7252D"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0F3F91"
+                },
+                {
+                    "name": "Yellow",
+                    "hex": "EFD53A"
+                },
+                {
+                    "name": "Translucent Blue",
+                    "hex": "137AAF"
+                },
+                {
+                    "name": "Clear",
+                    "hex": "C4C6C7"
+                }
+            ]
+        },
+        {
+            "name": "Flexible {color_name}",
+            "material": "TPU-90A",
             "density": 1.24,
             "weights": [
                 {
