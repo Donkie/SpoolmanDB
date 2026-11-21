@@ -2,7 +2,7 @@
     "manufacturer": "Ambrosia",
     "filaments": [
         {
-            "name": "Über ABS {color_name}",
+            "name": "Über {color_name}",
             "material": "ABS",
             "density": 1.09,
             "weights": [
